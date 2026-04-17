@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Divine Comedy / Inferno</title>
+  <style>
+    :root {
+      --bg: #170f0b;
+      --panel: rgba(255, 245, 234, 0.07);
+      --panel-border: rgba(255, 245, 234, 0.13);
+      --text: #fff7f0;
+      --muted: rgba(255, 247, 240, 0.72);
+      --lava: #c94c2d;
+      --coal: #5b1711;
+      --sand: #e4c29e;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Georgia, "Times New Roman", serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top right, rgba(201, 76, 45, 0.18), transparent 30%),
+        radial-gradient(circle at bottom left, rgba(91, 23, 17, 0.34), transparent 28%),
+        linear-gradient(180deg, #21130d 0%, #130c09 100%);
+    }
+
+    main {
+      width: min(1120px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 52px 0 72px;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      margin-bottom: 12px;
+      padding: 8px 12px;
+      border: 1px solid rgba(228, 194, 158, 0.28);
+      border-radius: 999px;
+      color: var(--sand);
+      font-size: 12px;
+      letter-spacing: 0.13em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 0 0 14px;
+      font-size: clamp(42px, 8vw, 78px);
+      line-height: 0.96;
+    }
+
+    .lead {
+      max-width: 780px;
+      margin: 0 0 34px;
+      font-size: clamp(18px, 2.2vw, 24px);
+      line-height: 1.6;
+      color: var(--muted);
+    }
+
+    .episode {
+      padding: 28px;
+      border: 1px solid var(--panel-border);
+      border-radius: 24px;
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+    }
+
+    .episode h2 {
+      margin: 0 0 10px;
+      font-size: 32px;
+    }
+
+    .episode p {
+      margin: 0 0 18px;
+      color: var(--muted);
+      line-height: 1.65;
+    }
+
+    .meta {
+      margin-bottom: 16px;
+      color: #f2caa1;
+      font-size: 13px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 12px 16px;
+      border-radius: 12px;
+      text-decoration: none;
+      font-weight: 700;
+      color: var(--text);
+      background: linear-gradient(135deg, var(--lava), var(--coal));
+    }
+
+    footer {
+      margin-top: 28px;
+    }
+
+    footer a {
+      color: #f3cfaa;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <span class="eyebrow">Divine Comedy / Inferno</span>
+    <h1>Inferno</h1>
+    <p class="lead">
+      Qui puoi raccogliere tutti i canti dell'Inferno come episodi singoli, mantenendo ogni cartella autonoma per testo, immagini e metadati.
+    </p>
+
+    <section class="episode">
+      <div class="meta">episodio modello</div>
+      <h2>Canto 01</h2>
+      <p>
+        Primo episodio creato come template di lavoro. Da qui puoi duplicare la struttura e passare rapidamente a `canto-02`, `canto-03` e cosi via.
+      </p>
+      <div class="actions">
+        <a class="button" href="./canto-01/">Apri episodio</a>
+      </div>
+    </section>
+
+    <footer>
+      <a href="../">Torna a Divine Comedy</a>
+    </footer>
+  </main>
+</body>
+</html>
+
