@@ -1,23 +1,23 @@
 # INFERNO - CANTO I
 
 Versione da palco
-Linea guida: "Senza misura non c'e via"
+Linea guida: "Senza misura non c’è via"
 
 Nota di lavoro:
 - questa versione ripulisce il draft presente in `01.docx`
 - i versi sono riallineati al testo standard del Canto I
-- i cue immagine usano gli asset gia presenti in `images/`
+- i cue immagine restano generici: le tavole le scegli tu
 
 ## Apertura
 
-[Schermo: `IMG_5465 2.JPG` - Doré / selva]
+[Schermo: Doré / selva]
 
 Allora, partiamo da qui.
-Il primo canto della Divina Commedia e quasi uno scandalo.
+Il primo canto della Divina Commedia è quasi uno scandalo.
 
 Pausa.
 
-Perche non c'e ancora l'Inferno.
+Perché non c’è ancora l'Inferno.
 
 Pausa.
 
@@ -27,7 +27,7 @@ Non ci sono demoni.
 
 Pausa lunga.
 
-C'e solo un uomo
+C’è solo un uomo
 che ha perso la via.
 
 ## vv. 1-3 - Terzina iniziale
@@ -41,11 +41,11 @@ Dante non dice dove si trova.
 Non dice da quanto tempo cammina.
 
 Dice una sola cosa:
-la via e sparita.
+la via è sparita.
 
-E per un uomo del Medioevo questo e catastrofico.
-Perche senza via
-salta la verita.
+E per un uomo del Medioevo questo è catastrofico.
+Perché senza via
+salta la verità.
 
 ## vv. 4-6 - La selva
 
@@ -53,13 +53,13 @@ salta la verita.
 > esta selva selvaggia e aspra e forte,  
 > che nel pensier rinova la paura!
 
-La selva non e solo un bosco.
-E uno spazio che non si lascia dire.
+La selva non è solo un bosco.
+È uno spazio che non si lascia dire.
 
 Se non riesci a dirlo,
 non riesci a misurarlo.
 E se non lo misuri,
-sei gia dentro il suo dominio.
+sei già dentro il suo dominio.
 
 ## vv. 7-9 - Il primo ordine
 
@@ -67,14 +67,14 @@ sei gia dentro il suo dominio.
 > ma, per trattar del ben ch'io vi trovai,  
 > diro de l'altre cose ch'io v'ho scorte.
 
-Qui Dante fa gia una cosa enorme.
-Dice: diro.
+Qui Dante fa già una cosa enorme.
+Dice: dirò.
 
 Promette un ordine.
 Promette una sequenza.
 
 Nel caos, la prima salvezza
-e imporre una sequenza.
+è imporre una sequenza.
 
 ## vv. 10-12 - Perdita dell'ingresso
 
@@ -82,15 +82,15 @@ e imporre una sequenza.
 > tant'era pien di sonno a quel punto  
 > che la verace via abbandonai.
 
-Questo e il punto piu inquietante.
-Dante non sa come e entrato.
+Questo è il punto più inquietante.
+Dante non sa com’è entrato.
 
 E se non sai come sei entrato in un luogo,
 non sai nemmeno come uscirne.
 
-Il sonno non e stanchezza.
-E perdita di vigilanza.
-E smarrimento della mente.
+Il sonno non è stanchezza.
+È perdita di vigilanza.
+È smarrimento della mente.
 
 ## vv. 13-18 - Il confine e la direzione
 
@@ -104,14 +104,14 @@ E smarrimento della mente.
 Finalmente succede qualcosa di geometrico:
 la valle termina.
 
-C'e un limite.
+C’è un limite.
 Un bordo.
 Una fine.
 
 Il caos comincia ad avere una forma.
 
 E subito dopo Dante vede la direzione.
-La parola e chiara: mena dritto.
+La parola è chiara: mena dritto.
 
 Il sole non scalda.
 Il sole orienta.
@@ -139,11 +139,11 @@ E poi arriva l'immagine perfetta:
 il naufrago ha due spazi,
 la riva e il mare.
 
-Uno e stabile.
-L'altro e senza forma.
+Uno è stabile.
+L’altro è senza forma.
 
 Dante ricomincia a distinguere.
-E distinguere e il primo atto della conoscenza.
+E distinguere è il primo atto della conoscenza.
 
 ## vv. 25-30 - Verifica e ripresa
 
@@ -156,18 +156,18 @@ E distinguere e il primo atto della conoscenza.
 
 Qui Dante fa un gesto fondamentale:
 si gira indietro.
-Non e nostalgia.
-E verifica.
+Non è nostalgia.
+È verifica.
 
-Quel passo e una soglia.
+Quel passo è una soglia.
 Un punto che, attraversato, ti cambia.
 
 Poi riparte.
-Ma l'immagine e durissima:
-il piede fermo resta piu basso.
+Ma l’immagine è durissima:
+il piede fermo resta più basso.
 
 La salita esiste,
-ma ogni passo e una correzione.
+ma ogni passo è una correzione.
 
 ## vv. 31-36 - La lonza
 
@@ -182,11 +182,11 @@ La lonza arriva all'inizio della salita.
 Non in cima.
 All'inizio.
 
-E veloce, irregolare, sfuggente.
+È veloce, irregolare, sfuggente.
 Non ti abbatte.
 Ti fa deviare.
 
-Qui la geometria e chiarissima:
+Qui la geometria è chiarissima:
 sta davanti.
 Occupa la linea.
 
@@ -210,27 +210,27 @@ La direzione viene negata.
 Qui il poema ti dice:
 le condizioni sono perfette.
 
-E mattino.
+È mattino.
 Il sole sale.
-Il cosmo e allineato.
+Il cosmo è allineato.
 
 Tutto direbbe:
 adesso si sale.
 
-Ma il cosmo puo essere pronto.
+Ma il cosmo può essere pronto.
 Tu no.
 
 Dante non spera a caso.
 Ha motivi.
 Tempo, stagione, luce.
 
-E proprio per questo la caduta pesa di piu.
+E proprio per questo la caduta pesa di più.
 
 Poi entra il leone.
 Non devia.
 Avanza.
 
-La paura cambia qualita:
+La paura cambia qualità:
 dall'elusivo al dominante.
 
 ## vv. 49-57 - La lupa e il crollo
@@ -245,12 +245,12 @@ dall'elusivo al dominante.
 > e giugne 'l tempo che perder lo face,  
 > che 'n tutti suoi pensier piange e s'attrista;
 
-La lupa e il contrario del leone.
-Non e piena:
-e vuota.
+La lupa è il contrario del leone.
+Non è piena:
+è vuota.
 
-E magra perche desidera sempre.
-E l'ostacolo che non finisce mai.
+È magra perché desidera sempre.
+È l’ostacolo che non finisce mai.
 Quello che si nutre del tuo stesso cedimento.
 
 Qui Dante non dice: sono caduto.
@@ -260,7 +260,7 @@ La lupa non colpisce.
 Ti toglie slancio.
 
 E quando il peso supera una soglia,
-la salita non e piu possibile.
+la salita non è più possibile.
 
 Qui Dante perde la cosa peggiore:
 la speranza dell'altezza.
@@ -284,19 +284,19 @@ spingono.
 Ogni volta che Dante prova ad andare verso la luce,
 viene respinto indietro.
 
-E proprio quando Dante non cammina piu
+È proprio quando Dante non cammina più
 appare Virgilio.
 
 Non con clamore.
 Con misura.
 
-[Schermo: `IMG_5466 2.JPG` - Doré / Dante e Virgilio]
+[Schermo: Doré / Dante e Virgilio]
 
 E a questo punto Dante fa la prima cosa giusta:
 chiede aiuto.
 
 Chiede.
-E chiedere e gia ordine.
+E chiedere è già ordine.
 
 ## vv. 67-75 - Virgilio si presenta
 
@@ -318,8 +318,8 @@ opera.
 Dante era senza mappa.
 Virgilio entra come una mappa.
 
-E la ragione che dice:
-si va cosi.
+È la ragione che dice:
+si va così.
 
 ## vv. 76-90 - Riconoscimento e richiesta
 
@@ -342,7 +342,7 @@ si va cosi.
 Virgilio non consola:
 interroga.
 
-La gioia non e un colpo di fortuna.
+La gioia non è un colpo di fortuna.
 Ha una struttura.
 Ha un principio e una causa.
 
@@ -353,7 +353,7 @@ Un maestro.
 E poi smette di essere astratto:
 indica il problema.
 
-La bestia e li.
+La bestia è lì.
 Il corpo trema.
 Da soli non si regge.
 
@@ -381,28 +381,28 @@ Da soli non si regge.
 > fin che l'avra rimessa ne lo 'nferno,  
 > la onde 'nvidia prima dipartilla.
 
-Qui c'e la sentenza:
+Qui c’è la sentenza:
 altro viaggio.
 
 Non un'aggiunta.
-Una necessita.
+Una necessità.
 
 La via retta esiste,
-ma non sempre e percorribile.
+ma non sempre è percorribile.
 
-La lupa non e solo un ostacolo:
-e una legge di insaziabilita.
+La lupa non è solo un ostacolo:
+è una legge di insaziabilità.
 
-Ogni vittoria la rende piu forte.
+Ogni vittoria la rende più forte.
 
-Per questo il veltro non e semplicemente piu forte.
-E una forma piu alta.
+Per questo il veltro non è semplicemente più forte.
+È una forma più alta.
 
 Non si nutre di potere.
 Si nutre di sapienza,
 amore,
 virtute.
-Cioe di forma interiore.
+Cioè di forma interiore.
 
 ## vv. 112-117 - La decisione della guida
 
@@ -434,11 +434,11 @@ Capire.
 
 Questa frase spiazza.
 
-Si puo soffrire
+Si può soffrire
 e avere ancora una direzione.
 
-Non tutto il dolore e inferno.
-E inferno solo il dolore senza uscita.
+Non tutto il dolore è inferno.
+È inferno solo il dolore senza uscita.
 
 ## vv. 121-129 - Il limite di Virgilio e il centro
 
@@ -458,8 +458,8 @@ Non promette tutto.
 Fin qui io.
 Poi serve un'altra guida.
 
-La parola decisiva qui e legge.
-Non tutto e accessibile a chiunque.
+La parola decisiva qui è legge.
+Non tutto è accessibile a chiunque.
 La salita ha ordine.
 
 ## vv. 130-136 - La richiesta finale e il gesto
@@ -472,7 +472,7 @@ La salita ha ordine.
 > e color cui tu fai cotanto mesti".  
 > Allor si mosse, e io li tenni dietro.
 
-Qui Dante non discute piu.
+Qui Dante non discute più.
 Misura.
 E poi chiede.
 
@@ -481,7 +481,7 @@ male e peggio.
 
 La mente ha ricominciato a ordinare.
 
-Il viaggio nasce cosi:
+Il viaggio nasce così:
 prima la guida,
 poi l'obbedienza al passo.
 
@@ -491,11 +491,11 @@ Il primo canto non racconta ancora l'Inferno.
 
 Racconta la condizione per entrarci.
 
-Senza guida non c'e via.
-Senza misura non c'e via.
+Senza guida non c’è via.
+Senza misura non c’è via.
 Senza forma non si sale.
 
 Pausa lunga.
 
-E cosi
+E così
 si mosse.
