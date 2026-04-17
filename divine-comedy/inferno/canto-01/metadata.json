@@ -7,7 +7,9 @@
   "status": "draft",
   "script": {
     "source_txt": "./scripts/Canto_01_source.txt",
-    "docx": "./scripts/01.docx"
+    "docx": "./scripts/01.docx",
+    "talk_finale_md": "./scripts/Canto_01_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_01_cue_immagini.md"
   },
   "images": {
     "thumbnail": "./images/IMG_5465 2.JPG",
