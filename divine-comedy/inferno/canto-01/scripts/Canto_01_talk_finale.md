@@ -265,6 +265,20 @@ la salita non è più possibile.
 Qui Dante perde la cosa peggiore:
 la speranza dell'altezza.
 
+## Le tre fiere - Tre modi di perdere la via
+
+Le tre fiere non sono tre incidenti.
+Sono tre modi diversi di perdere la direzione.
+
+La lonza devia.
+Il leone domina.
+La lupa svuota.
+
+Pausa.
+
+Prima Dante vedeva la strada.
+Adesso non riesce più a sostenerla.
+
 ## vv. 58-66 - L'urto e l'apparizione
 
 > tal mi fece la bestia sanza pace,  
@@ -321,7 +335,7 @@ Virgilio entra come una mappa.
 È la ragione che dice:
 si va così.
 
-## vv. 76-90 - Riconoscimento e richiesta
+## vv. 76-81 - La domanda e la fonte
 
 > Ma tu perche ritorni a tanta noia?  
 > perche non sali il dilettoso monte  
@@ -329,15 +343,6 @@ si va così.
 > "Or se' tu quel Virgilio e quella fonte  
 > che spandi di parlar si largo fiume?",  
 > rispuos'io lui con vergognosa fronte.  
-> "O de li altri poeti onore e lume,  
-> vagliami 'l lungo studio e 'l grande amore  
-> che m'ha fatto cercar lo tuo volume.  
-> Tu se' lo mio maestro e 'l mio autore,  
-> tu se' solo colui da cu' io tolsi  
-> lo bello stilo che m'ha fatto onore.  
-> Vedi la bestia per cu' io mi volsi;  
-> aiutami da lei, famoso saggio,  
-> ch'ella mi fa tremar le vene e i polsi".
 
 Virgilio non consola:
 interroga.
@@ -348,16 +353,50 @@ Ha un principio e una causa.
 
 Dante riconosce una fonte.
 Una parola ordinata.
-Un maestro.
+Un'origine del dire.
 
-E poi smette di essere astratto:
+## vv. 82-87 - Maestro e autore
+
+> "O de li altri poeti onore e lume,  
+> vagliami 'l lungo studio e 'l grande amore  
+> che m'ha fatto cercar lo tuo volume.  
+> Tu se' lo mio maestro e 'l mio autore,  
+> tu se' solo colui da cu' io tolsi  
+> lo bello stilo che m'ha fatto onore.  
+
+Qui bisogna fermarsi.
+
+Pausa.
+
+Dante non sta dicendo solo:
+ti ho letto.
+
+Sta dicendo:
+tu mi hai dato una forma.
+
+Maestro.
+Autore.
+
+Non ispirazione generica.
+Struttura ricevuta.
+Stile imparato.
+Misura della parola.
+
+## vv. 88-90 - Il problema concreto
+
+> Vedi la bestia per cu' io mi volsi;  
+> aiutami da lei, famoso saggio,  
+> ch'ella mi fa tremar le vene e i polsi".
+
+Dopo il riconoscimento,
+Dante smette di essere astratto:
 indica il problema.
 
 La bestia è lì.
 Il corpo trema.
 Da soli non si regge.
 
-## vv. 91-111 - Altro viaggio, lupa, veltro
+## vv. 91-99 - Altro viaggio e natura della lupa
 
 > "A te convien tenere altro vïaggio",  
 > rispuose, poi che lagrimar mi vide,  
@@ -368,18 +407,6 @@ Da soli non si regge.
 > e ha natura si malvagia e ria,  
 > che mai non empie la bramosa voglia,  
 > e dopo 'l pasto ha piu fame che pria.  
-> Molti son li animali a cui s'ammoglia,  
-> e piu saranno ancora, infin che 'l veltro  
-> verra, che la fara morir con doglia.  
-> Questi non cibera terra ne peltro,  
-> ma sapïenza, amore e virtute,  
-> e sua nazion sara tra feltro e feltro.  
-> Di quella umile Italia fia salute  
-> per cui mori la vergine Cammilla,  
-> Eurialo e Turno e Niso di ferute.  
-> Questi la caccera per ogne villa,  
-> fin che l'avra rimessa ne lo 'nferno,  
-> la onde 'nvidia prima dipartilla.
 
 Qui c’è la sentenza:
 altro viaggio.
@@ -395,7 +422,27 @@ La lupa non è solo un ostacolo:
 
 Ogni vittoria la rende più forte.
 
-Per questo il veltro non è semplicemente più forte.
+## vv. 100-111 - Il veltro
+
+> Molti son li animali a cui s'ammoglia,  
+> e piu saranno ancora, infin che 'l veltro  
+> verra, che la fara morir con doglia.  
+> Questi non cibera terra ne peltro,  
+> ma sapïenza, amore e virtute,  
+> e sua nazion sara tra feltro e feltro.  
+> Di quella umile Italia fia salute  
+> per cui mori la vergine Cammilla,  
+> Eurialo e Turno e Niso di ferute.  
+> Questi la caccera per ogne villa,  
+> fin che l'avra rimessa ne lo 'nferno,  
+> la onde 'nvidia prima dipartilla.
+
+Qui il canto si apre in avanti.
+
+Il veltro non è Dante.
+Non è la volontà individuale.
+Non è semplicemente una bestia più forte.
+
 È una forma più alta.
 
 Non si nutre di potere.
