@@ -13,7 +13,7 @@ Nota di lavoro:
 [Schermo: `IMG_5465 2.JPG` - Doré / selva]
 
 Allora, partiamo da qui.
-Il primo canto della Divina Commedia e stranissimo.
+Il primo canto della Divina Commedia e quasi uno scandalo.
 
 Pausa.
 
@@ -27,8 +27,8 @@ Non ci sono demoni.
 
 Pausa lunga.
 
-C'e solo Dante
-che si e perso.
+C'e solo un uomo
+che ha perso la via.
 
 ## vv. 1-3 - Terzina iniziale
 
@@ -41,11 +41,11 @@ Dante non dice dove si trova.
 Non dice da quanto tempo cammina.
 
 Dice una sola cosa:
-la via e smarrita.
+la via e sparita.
 
-E per un uomo del Medioevo questo e gravissimo.
+E per un uomo del Medioevo questo e catastrofico.
 Perche senza via
-non c'e verita.
+salta la verita.
 
 ## vv. 4-6 - La selva
 
@@ -59,7 +59,7 @@ E uno spazio che non si lascia dire.
 Se non riesci a dirlo,
 non riesci a misurarlo.
 E se non lo misuri,
-non lo conosci.
+sei gia dentro il suo dominio.
 
 ## vv. 7-9 - Il primo ordine
 
@@ -74,7 +74,7 @@ Promette un ordine.
 Promette una sequenza.
 
 Nel caos, la prima salvezza
-e decidere di raccontare.
+e imporre una sequenza.
 
 ## vv. 10-12 - Perdita dell'ingresso
 
@@ -117,7 +117,8 @@ Il sole non scalda.
 Il sole orienta.
 
 La via esiste.
-Ma vederla non basta.
+Ma non basta vederla.
+Bisogna reggerla.
 
 ## vv. 19-24 - Paura contenuta e naufrago
 
@@ -141,7 +142,7 @@ la riva e il mare.
 Uno e stabile.
 L'altro e senza forma.
 
-Dante comincia a distinguere.
+Dante ricomincia a distinguere.
 E distinguere e il primo atto della conoscenza.
 
 ## vv. 25-30 - Verifica e ripresa
@@ -182,8 +183,8 @@ Non in cima.
 All'inizio.
 
 E veloce, irregolare, sfuggente.
-Non ti schiaccia.
-Ti fa sbagliare.
+Non ti abbatte.
+Ti fa deviare.
 
 Qui la geometria e chiarissima:
 sta davanti.
@@ -214,9 +215,10 @@ Il sole sale.
 Il cosmo e allineato.
 
 Tutto direbbe:
-ora puoi.
+adesso si sale.
 
-Ma non basta.
+Ma il cosmo puo essere pronto.
+Tu no.
 
 Dante non spera a caso.
 Ha motivi.
@@ -249,12 +251,13 @@ e vuota.
 
 E magra perche desidera sempre.
 E l'ostacolo che non finisce mai.
+Quello che si nutre del tuo stesso cedimento.
 
 Qui Dante non dice: sono caduto.
 Dice: gravezza.
 
 La lupa non colpisce.
-Appesantisce.
+Ti toglie slancio.
 
 E quando il peso supera una soglia,
 la salita non e piu possibile.
@@ -281,7 +284,7 @@ spingono.
 Ogni volta che Dante prova ad andare verso la luce,
 viene respinto indietro.
 
-E proprio nel punto piu basso
+E proprio quando Dante non cammina piu
 appare Virgilio.
 
 Non con clamore.
@@ -313,7 +316,7 @@ tempo,
 opera.
 
 Dante era senza mappa.
-Virgilio e una mappa.
+Virgilio entra come una mappa.
 
 E la ragione che dice:
 si va cosi.
@@ -341,6 +344,7 @@ interroga.
 
 La gioia non e un colpo di fortuna.
 Ha una struttura.
+Ha un principio e una causa.
 
 Dante riconosce una fonte.
 Una parola ordinata.
@@ -381,7 +385,7 @@ Qui c'e la sentenza:
 altro viaggio.
 
 Non un'aggiunta.
-Una deviazione totale.
+Una necessita.
 
 La via retta esiste,
 ma non sempre e percorribile.
@@ -398,6 +402,7 @@ Non si nutre di potere.
 Si nutre di sapienza,
 amore,
 virtute.
+Cioe di forma interiore.
 
 ## vv. 112-117 - La decisione della guida
 
@@ -415,6 +420,7 @@ Io guido.
 
 Virgilio non promette conforto.
 Promette visione.
+Promette struttura.
 
 Udire.
 Vedere.
@@ -467,7 +473,8 @@ La salita ha ordine.
 > Allor si mosse, e io li tenni dietro.
 
 Qui Dante non discute piu.
-Chiede.
+Misura.
+E poi chiede.
 
 E chiede con misura:
 male e peggio.
@@ -476,7 +483,7 @@ La mente ha ricominciato a ordinare.
 
 Il viaggio nasce cosi:
 prima la guida,
-poi il seguito.
+poi l'obbedienza al passo.
 
 ## Chiusura da palco
 
@@ -486,9 +493,9 @@ Racconta la condizione per entrarci.
 
 Senza guida non c'e via.
 Senza misura non c'e via.
+Senza forma non si sale.
 
 Pausa lunga.
 
 E cosi
 si mosse.
-
