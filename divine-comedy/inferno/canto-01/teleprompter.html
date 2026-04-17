@@ -338,11 +338,12 @@
       </div>
 
       <div class="control-group">
-        <label for="speed">Speed</label>
-        <input id="speed" type="range" min="1" max="55" step="0.5" value="14">
-        <button class="preset-button" type="button" data-speed="8">Very slow</button>
-        <button class="preset-button" type="button" data-speed="14">Slow</button>
-        <button class="preset-button" type="button" data-speed="22">Normal</button>
+        <label for="slowness">Lentezza</label>
+        <input id="slowness" type="range" min="1" max="100" step="1" value="72">
+        <button class="preset-button" type="button" data-slowness="94">Quasi fermo</button>
+        <button class="preset-button" type="button" data-slowness="84">Lentissimo</button>
+        <button class="preset-button" type="button" data-slowness="72">Lento</button>
+        <button class="preset-button" type="button" data-slowness="58">Comodo</button>
       </div>
 
       <div class="control-group">
@@ -361,8 +362,8 @@
     </div>
 
     <div class="status">
-      <div><strong id="speed-value">14.0</strong> px/s</div>
-      <div>`Space` play, `[` slower, `]` faster, `0` reset</div>
+      <div>Lentezza <strong id="slowness-value">72</strong>/100 <span id="pace-value">2.0 px/s</span></div>
+      <div>Destra = più lento. `Space` play, `[` più lento, `]` meno lento, `0` reset</div>
     </div>
   </div>
 
@@ -448,25 +449,34 @@
 
     const playToggle = document.getElementById("play-toggle");
     const resetScroll = document.getElementById("reset-scroll");
-    const speedInput = document.getElementById("speed");
+    const slownessInput = document.getElementById("slowness");
     const sizeInput = document.getElementById("size");
     const measureInput = document.getElementById("measure");
     const themeToggle = document.getElementById("theme-toggle");
-    const speedValue = document.getElementById("speed-value");
+    const slownessValue = document.getElementById("slowness-value");
+    const paceValue = document.getElementById("pace-value");
+
+    const DEFAULT_SLOWNESS = 72;
 
     const settings = {
       playing: false,
       lastFrame: 0,
-      speed: Number(speedInput.value),
+      slowness: Number(slownessInput.value),
       fontSize: Number(sizeInput.value),
       measure: Number(measureInput.value),
       lowLight: false
     };
 
+    function getScrollPace() {
+      const release = (101 - settings.slowness) / 100;
+      return 0.35 + Math.pow(release, 2.3) * 28;
+    }
+
     function applySettings() {
       document.documentElement.style.setProperty("--font-size", `${settings.fontSize}px`);
       document.documentElement.style.setProperty("--measure", `${settings.measure}px`);
-      speedValue.textContent = settings.speed.toFixed(1);
+      slownessValue.textContent = String(settings.slowness);
+      paceValue.textContent = `${getScrollPace().toFixed(1)} px/s`;
       document.body.classList.toggle("low-light", settings.lowLight);
       playToggle.textContent = settings.playing ? "Pause" : "Play";
       themeToggle.textContent = settings.lowLight ? "Normal Light" : "Low Light";
@@ -484,7 +494,7 @@
 
       const delta = timestamp - settings.lastFrame;
       settings.lastFrame = timestamp;
-      window.scrollBy(0, (settings.speed * delta) / 1000);
+      window.scrollBy(0, (getScrollPace() * delta) / 1000);
 
       const nearBottom =
         window.innerHeight + window.scrollY >= document.body.scrollHeight - 8;
@@ -514,15 +524,15 @@
       window.scrollTo({ top: 0, behavior: "smooth" });
     });
 
-    speedInput.addEventListener("input", (event) => {
-      settings.speed = Number(event.target.value);
+    slownessInput.addEventListener("input", (event) => {
+      settings.slowness = Number(event.target.value);
       applySettings();
     });
 
-    document.querySelectorAll("[data-speed]").forEach((button) => {
+    document.querySelectorAll("[data-slowness]").forEach((button) => {
       button.addEventListener("click", () => {
-        settings.speed = Number(button.dataset.speed);
-        speedInput.value = String(settings.speed);
+        settings.slowness = Number(button.dataset.slowness);
+        slownessInput.value = String(settings.slowness);
         applySettings();
       });
     });
@@ -551,12 +561,12 @@
         event.preventDefault();
         togglePlay();
       } else if (event.key === "[") {
-        settings.speed = Math.max(1, settings.speed - 1);
-        speedInput.value = String(settings.speed);
+        settings.slowness = Math.min(100, settings.slowness + 2);
+        slownessInput.value = String(settings.slowness);
         applySettings();
       } else if (event.key === "]") {
-        settings.speed = Math.min(55, settings.speed + 1);
-        speedInput.value = String(settings.speed);
+        settings.slowness = Math.max(1, settings.slowness - 2);
+        slownessInput.value = String(settings.slowness);
         applySettings();
       } else if (event.key === "-") {
         settings.fontSize = Math.max(28, settings.fontSize - 2);
@@ -568,11 +578,11 @@
         applySettings();
       } else if (event.key === "0") {
         settings.playing = false;
-        settings.speed = 14;
+        settings.slowness = DEFAULT_SLOWNESS;
         settings.fontSize = 40;
         settings.measure = 860;
         settings.lowLight = false;
-        speedInput.value = "14";
+        slownessInput.value = String(DEFAULT_SLOWNESS);
         sizeInput.value = "40";
         measureInput.value = "860";
         applySettings();
