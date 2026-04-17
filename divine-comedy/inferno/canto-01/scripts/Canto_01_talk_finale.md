@@ -377,6 +377,12 @@ tu mi hai dato una forma.
 Maestro.
 Autore.
 
+Maestro:
+chi ti insegna a pensare.
+
+Autore:
+chi ti dà la voce.
+
 Non ispirazione generica.
 Struttura ricevuta.
 Stile imparato.
@@ -439,17 +445,21 @@ Ogni vittoria la rende più forte.
 
 Qui il canto si apre in avanti.
 
-Il veltro non è Dante.
-Non è la volontà individuale.
-Non è semplicemente una bestia più forte.
+Chi sia il veltro, Dante non lo chiude.
+E forse proprio per questo pesa.
 
-È una forma più alta.
+Ma una cosa la dice:
+non si nutre di terra né di peltro.
 
-Non si nutre di potere.
-Si nutre di sapienza,
-amore,
-virtute.
-Cioè di forma interiore.
+Non potere.
+Non ricchezza.
+
+Sapienza.
+Amore.
+Virtute.
+
+Non una bestia più forte.
+Una forma più alta.
 
 ## vv. 112-117 - La decisione della guida
 
