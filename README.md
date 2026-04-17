@@ -18,6 +18,10 @@ Nel caso di `Divine Comedy`, la struttura scala bene cosi:
 - `divine-comedy/index.html`: overview della playlist
 - `divine-comedy/inferno/`: prima cantica
 - `divine-comedy/inferno/index.html`: elenco canti Inferno
+- `divine-comedy/purgatorio/`: seconda cantica
+- `divine-comedy/purgatorio/index.html`: elenco canti Purgatorio
+- `divine-comedy/paradiso/`: terza cantica
+- `divine-comedy/paradiso/index.html`: elenco canti Paradiso
 - `divine-comedy/inferno/canto-01/`: episodio singolo
 - `divine-comedy/inferno/canto-01/index.html`: landing del canto
 - `divine-comedy/inferno/canto-01/scripts/`: testi, bozze, DOCX, TXT
@@ -34,7 +38,7 @@ In particolare:
 - `images/` contiene solo asset visivi
 - ogni episodio e autosufficiente
 - i link restano facili da mantenere
-- in futuro puoi aggiungere `purgatorio/` e `paradiso/` senza rifare tutto
+- le tre cantiche restano parallele e coerenti tra loro
 
 ## Convenzioni utili
 
@@ -60,4 +64,3 @@ Per pubblicarlo:
 - creare `canto-02/`
 - aggiungere una pagina HTML di lettura per il testo completo
 - automatizzare generazione di `metadata.json` e cartelle episodio
-

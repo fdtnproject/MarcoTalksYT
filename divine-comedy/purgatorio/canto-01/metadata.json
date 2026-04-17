@@ -1,0 +1,19 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Purgatorio",
+  "episode_title": "Canto 01",
+  "slug": "canto-01",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_01_source.txt",
+    "docx": ""
+  },
+  "images": {
+    "thumbnail": "",
+    "cover": "",
+    "vertical": ""
+  },
+  "notes": "Template iniziale del Purgatorio."
+}
+

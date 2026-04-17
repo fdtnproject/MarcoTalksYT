@@ -3,17 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Divine Comedy / Inferno / Canto 01</title>
+  <title>Divine Comedy / Paradiso / Canto 01</title>
   <style>
     :root {
-      --bg: #18100d;
-      --panel: rgba(255, 245, 235, 0.08);
-      --panel-border: rgba(255, 245, 235, 0.13);
-      --text: #fff6ef;
-      --muted: rgba(255, 246, 239, 0.72);
-      --gold: #d9a35d;
-      --brick: #8f2e1f;
-      --stone: #d7b692;
+      --bg: #0f1526;
+      --panel: rgba(246, 248, 255, 0.08);
+      --panel-border: rgba(246, 248, 255, 0.14);
+      --text: #f7f9ff;
+      --muted: rgba(247, 249, 255, 0.72);
+      --star: #c8bcff;
+      --blue: #4a61d0;
+      --glow: #e7e1ff;
     }
 
     * { box-sizing: border-box; }
@@ -24,9 +24,9 @@
       font-family: Georgia, "Times New Roman", serif;
       color: var(--text);
       background:
-        radial-gradient(circle at top left, rgba(217, 163, 93, 0.14), transparent 30%),
-        radial-gradient(circle at bottom right, rgba(143, 46, 31, 0.22), transparent 28%),
-        linear-gradient(180deg, #1f1410 0%, #130d0a 100%);
+        radial-gradient(circle at top left, rgba(200, 188, 255, 0.14), transparent 30%),
+        radial-gradient(circle at bottom right, rgba(74, 97, 208, 0.22), transparent 28%),
+        linear-gradient(180deg, #171f39 0%, #0f1526 100%);
     }
 
     main {
@@ -39,9 +39,9 @@
       display: inline-block;
       margin-bottom: 12px;
       padding: 8px 12px;
-      border: 1px solid rgba(217, 163, 93, 0.3);
+      border: 1px solid rgba(200, 188, 255, 0.3);
       border-radius: 999px;
-      color: var(--stone);
+      color: var(--glow);
       font-size: 12px;
       letter-spacing: 0.13em;
       text-transform: uppercase;
@@ -94,12 +94,12 @@
       text-decoration: none;
       font-weight: 700;
       color: var(--text);
-      background: linear-gradient(135deg, var(--gold), var(--brick));
+      background: linear-gradient(135deg, var(--star), var(--blue));
     }
 
     .button.alt {
       background: transparent;
-      border: 1px solid rgba(255, 245, 235, 0.16);
+      border: 1px solid rgba(246, 248, 255, 0.18);
     }
 
     .note {
@@ -116,32 +116,31 @@
     }
 
     footer a {
-      color: #f0d1aa;
+      color: #eee8ff;
     }
   </style>
 </head>
 <body>
   <main>
-    <span class="eyebrow">Divine Comedy / Inferno / Canto 01</span>
+    <span class="eyebrow">Divine Comedy / Paradiso / Canto 01</span>
     <h1>Canto 01</h1>
     <p class="lead">
-      Episodio base con struttura completa. Qui tieni separati testo declamato, immagini per thumbnail o scena e metadati utili al workflow YouTube.
+      Episodio modello per il Paradiso, con struttura pronta per script, immagini e metadati.
     </p>
 
     <section class="grid">
       <article class="card">
         <h2>Script</h2>
         <p>
-          Cartella dedicata ai testi sorgente, alle versioni lavorate e agli eventuali DOCX.
+          Cartella per testo base, copione finale e future versioni DOCX.
         </p>
-        <a class="button" href="./scripts/01.docx">Apri DOCX</a>
-        <a class="button alt" href="./scripts/Canto_01_source.txt">Apri testo base</a>
+        <a class="button" href="./scripts/Canto_01_source.txt">Apri testo base</a>
       </article>
 
       <article class="card">
         <h2>Immagini</h2>
         <p>
-          Cartella per thumbnail, cover, frame verticali e scansioni Doré da rifinire o reinterpretare a colori.
+          Cartella per immagini di supporto, versioni colorizzate e asset da proiettare durante il talk.
         </p>
         <a class="button alt" href="./images/README.md">Apri note immagini</a>
       </article>
@@ -149,19 +148,20 @@
       <article class="card">
         <h2>Metadati</h2>
         <p>
-          File utile per sapere stato lavorazione, naming, titolo episodio e percorsi degli asset.
+          Stato lavorazione, naming episodio e percorsi degli asset.
         </p>
         <a class="button alt" href="./metadata.json">Apri metadata</a>
       </article>
     </section>
 
     <section class="note">
-      Consiglio pratico: per ogni nuovo canto duplica questa cartella, rinominala con lo slug corretto e aggiorna soltanto `metadata.json`, il file TXT base e gli asset in `images/`.
+      Duplica questa cartella per i canti successivi, mantenendo la stessa struttura.
     </section>
 
     <footer>
-      <a href="../">Torna a Inferno</a>
+      <a href="../">Torna a Paradiso</a>
     </footer>
   </main>
 </body>
 </html>
+

@@ -7,13 +7,12 @@
   "status": "draft",
   "script": {
     "source_txt": "./scripts/Canto_01_source.txt",
-    "docx": ""
+    "docx": "./scripts/01.docx"
   },
   "images": {
-    "thumbnail": "",
-    "cover": "",
-    "vertical": ""
+    "thumbnail": "./images/IMG_5465 2.JPG",
+    "cover": "./images/IMG_5466 2.JPG",
+    "vertical": "./images/IMG_5467.heic"
   },
-  "notes": "Duplica questa cartella per i prossimi canti mantenendo la stessa convenzione."
+  "notes": "Script e immagini reali gia presenti. Duplica questa cartella per i prossimi canti mantenendo la stessa convenzione."
 }
-
