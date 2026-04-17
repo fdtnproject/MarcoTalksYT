@@ -158,6 +158,15 @@
       color: var(--accent);
     }
 
+    .preset-button {
+      min-height: 32px;
+      padding: 0 10px;
+      color: var(--text);
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid var(--panel-border);
+      font-size: 12px;
+    }
+
     .page {
       width: min(var(--measure), calc(100% - 28px));
       margin: 0 auto;
@@ -330,7 +339,10 @@
 
       <div class="control-group">
         <label for="speed">Speed</label>
-        <input id="speed" type="range" min="10" max="140" step="2" value="38">
+        <input id="speed" type="range" min="1" max="55" step="0.5" value="14">
+        <button class="preset-button" type="button" data-speed="8">Very slow</button>
+        <button class="preset-button" type="button" data-speed="14">Slow</button>
+        <button class="preset-button" type="button" data-speed="22">Normal</button>
       </div>
 
       <div class="control-group">
@@ -349,8 +361,8 @@
     </div>
 
     <div class="status">
-      <div><strong id="speed-value">38</strong> px/s</div>
-      <div>`Space` play, `[` slower, `]` faster, `-` smaller, `=` bigger</div>
+      <div><strong id="speed-value">14.0</strong> px/s</div>
+      <div>`Space` play, `[` slower, `]` faster, `0` reset</div>
     </div>
   </div>
 
@@ -454,7 +466,7 @@
     function applySettings() {
       document.documentElement.style.setProperty("--font-size", `${settings.fontSize}px`);
       document.documentElement.style.setProperty("--measure", `${settings.measure}px`);
-      speedValue.textContent = String(settings.speed);
+      speedValue.textContent = settings.speed.toFixed(1);
       document.body.classList.toggle("low-light", settings.lowLight);
       playToggle.textContent = settings.playing ? "Pause" : "Play";
       themeToggle.textContent = settings.lowLight ? "Normal Light" : "Low Light";
@@ -507,6 +519,14 @@
       applySettings();
     });
 
+    document.querySelectorAll("[data-speed]").forEach((button) => {
+      button.addEventListener("click", () => {
+        settings.speed = Number(button.dataset.speed);
+        speedInput.value = String(settings.speed);
+        applySettings();
+      });
+    });
+
     sizeInput.addEventListener("input", (event) => {
       settings.fontSize = Number(event.target.value);
       applySettings();
@@ -531,11 +551,11 @@
         event.preventDefault();
         togglePlay();
       } else if (event.key === "[") {
-        settings.speed = Math.max(10, settings.speed - 4);
+        settings.speed = Math.max(1, settings.speed - 1);
         speedInput.value = String(settings.speed);
         applySettings();
       } else if (event.key === "]") {
-        settings.speed = Math.min(140, settings.speed + 4);
+        settings.speed = Math.min(55, settings.speed + 1);
         speedInput.value = String(settings.speed);
         applySettings();
       } else if (event.key === "-") {
@@ -548,11 +568,11 @@
         applySettings();
       } else if (event.key === "0") {
         settings.playing = false;
-        settings.speed = 38;
+        settings.speed = 14;
         settings.fontSize = 40;
         settings.measure = 860;
         settings.lowLight = false;
-        speedInput.value = "38";
+        speedInput.value = "14";
         sizeInput.value = "40";
         measureInput.value = "860";
         applySettings();
