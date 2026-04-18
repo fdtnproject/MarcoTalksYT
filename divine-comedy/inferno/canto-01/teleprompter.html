@@ -475,6 +475,7 @@
     const settings = {
       playing: false,
       lastFrame: 0,
+      scrollRemainder: 0,
       speed: Number(speedInput.value),
       fontSize: Number(sizeInput.value),
       measure: Number(measureInput.value),
@@ -491,6 +492,7 @@
       if (settings.speed === 0) {
         settings.playing = false;
         settings.lastFrame = 0;
+        settings.scrollRemainder = 0;
       }
       applySettings();
     }
@@ -502,12 +504,14 @@
       if (settings.speed <= 0) {
         settings.playing = false;
         settings.lastFrame = 0;
+        settings.scrollRemainder = 0;
         applySettings();
         return;
       }
 
       settings.playing = true;
       settings.lastFrame = 0;
+      settings.scrollRemainder = 0;
       applySettings();
       window.requestAnimationFrame(step);
     }
@@ -537,7 +541,14 @@
 
       const delta = timestamp - settings.lastFrame;
       settings.lastFrame = timestamp;
-      window.scrollBy(0, (getScrollPace() * delta) / 1000);
+
+      const scrollDistance = settings.scrollRemainder + (getScrollPace() * delta) / 1000;
+      const wholePixels = Math.floor(scrollDistance);
+      settings.scrollRemainder = scrollDistance - wholePixels;
+
+      if (wholePixels > 0) {
+        window.scrollBy(0, wholePixels);
+      }
 
       const nearBottom =
         window.innerHeight + window.scrollY >= document.body.scrollHeight - 8;
@@ -556,6 +567,7 @@
       if (settings.playing) {
         settings.playing = false;
         settings.lastFrame = 0;
+        settings.scrollRemainder = 0;
         applySettings();
         return;
       }
@@ -566,6 +578,8 @@
     playToggle.addEventListener("click", togglePlay);
     resetScroll.addEventListener("click", () => {
       settings.playing = false;
+      settings.lastFrame = 0;
+      settings.scrollRemainder = 0;
       applySettings();
       window.scrollTo({ top: 0, behavior: "smooth" });
     });
@@ -613,6 +627,8 @@
         setSpeed(0);
       } else if (event.key.toLowerCase() === "r") {
         settings.playing = false;
+        settings.lastFrame = 0;
+        settings.scrollRemainder = 0;
         settings.speed = DEFAULT_SPEED;
         settings.fontSize = 40;
         settings.measure = 860;
