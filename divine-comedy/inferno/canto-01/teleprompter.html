@@ -339,11 +339,12 @@
 
       <div class="control-group">
         <label for="speed">Scorrimento</label>
-        <input id="speed" type="range" min="0" max="5" step="0.1" value="1.6">
+        <input id="speed" type="range" min="0" max="5" step="0.1" value="2">
         <button class="preset-button" type="button" data-speed="0">Fermo</button>
-        <button class="preset-button" type="button" data-speed="1.2">Lento</button>
+        <button class="preset-button" type="button" data-speed="1">1 Lento</button>
         <button class="preset-button" type="button" data-speed="2">Comodo</button>
-        <button class="preset-button" type="button" data-speed="3.5">Veloce</button>
+        <button class="preset-button" type="button" data-speed="3">3 Spinto</button>
+        <button class="preset-button" type="button" data-speed="5">5 Veloce</button>
       </div>
 
       <div class="control-group">
@@ -362,7 +363,7 @@
     </div>
 
     <div class="status">
-      <div>Scorrimento <strong id="speed-value">1.6</strong>/5</div>
+      <div>Scorrimento <strong id="speed-value">2.0</strong>/5</div>
       <div>`0` fermo nello slider. `Space` play, `[` più lento, `]` più veloce, `R` reset</div>
     </div>
   </div>
@@ -455,8 +456,8 @@
     const themeToggle = document.getElementById("theme-toggle");
     const speedValue = document.getElementById("speed-value");
 
-    const DEFAULT_SPEED = 1.6;
-    const PACE_PER_POINT = 4;
+    const DEFAULT_SPEED = 2;
+    const PACE_PER_POINT = 14;
 
     const settings = {
       playing: false,
