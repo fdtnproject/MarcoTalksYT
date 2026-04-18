@@ -478,6 +478,24 @@
       applySettings();
     }
 
+    function playAtSpeed(value) {
+      setSpeed(value);
+
+      if (settings.speed === 0) {
+        settings.playing = false;
+        settings.lastFrame = 0;
+        applySettings();
+        return;
+      }
+
+      if (!settings.playing) {
+        settings.playing = true;
+        settings.lastFrame = 0;
+        applySettings();
+        window.requestAnimationFrame(step);
+      }
+    }
+
     function getScrollPace() {
       return settings.speed * PACE_PER_POINT;
     }
@@ -539,7 +557,7 @@
 
     document.querySelectorAll("[data-speed]").forEach((button) => {
       button.addEventListener("click", () => {
-        setSpeed(Number(button.dataset.speed));
+        playAtSpeed(Number(button.dataset.speed));
       });
     });
 
