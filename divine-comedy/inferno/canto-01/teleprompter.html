@@ -377,7 +377,7 @@
 
     <div class="status">
       <div>Scorrimento <strong id="speed-value">2</strong>/5</div>
-      <div>Scegli `0-5`. `Space` play, `[` più lento, `]` più veloce, `R` reset</div>
+      <div>Scegli `0-5`, poi `Play`. `[` più lento, `]` più veloce, `R` reset</div>
     </div>
   </div>
 
@@ -495,22 +495,21 @@
       applySettings();
     }
 
-    function playAtSpeed(value) {
-      setSpeed(value);
+    function startScrolling() {
+      settings.speed = clampSpeed(Number(speedInput.value));
+      speedInput.value = String(settings.speed);
 
-      if (settings.speed === 0) {
+      if (settings.speed <= 0) {
         settings.playing = false;
         settings.lastFrame = 0;
         applySettings();
         return;
       }
 
-      if (!settings.playing) {
-        settings.playing = true;
-        settings.lastFrame = 0;
-        applySettings();
-        window.requestAnimationFrame(step);
-      }
+      settings.playing = true;
+      settings.lastFrame = 0;
+      applySettings();
+      window.requestAnimationFrame(step);
     }
 
     function getScrollPace() {
@@ -554,14 +553,14 @@
     }
 
     function togglePlay() {
-      if (!settings.playing && settings.speed === 0) {
-        setSpeed(DEFAULT_SPEED);
-      }
-      settings.playing = !settings.playing;
-      applySettings();
       if (settings.playing) {
-        window.requestAnimationFrame(step);
+        settings.playing = false;
+        settings.lastFrame = 0;
+        applySettings();
+        return;
       }
+
+      startScrolling();
     }
 
     playToggle.addEventListener("click", togglePlay);
@@ -572,7 +571,7 @@
     });
 
     speedInput.addEventListener("change", (event) => {
-      playAtSpeed(Number(event.target.value));
+      setSpeed(Number(event.target.value));
     });
 
     sizeInput.addEventListener("input", (event) => {
