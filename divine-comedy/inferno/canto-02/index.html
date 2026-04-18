@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Divine Comedy / Inferno / Canto 02</title>
+  <style>
+    :root {
+      --bg: #18100d;
+      --panel: rgba(255, 245, 235, 0.08);
+      --panel-border: rgba(255, 245, 235, 0.13);
+      --text: #fff6ef;
+      --muted: rgba(255, 246, 239, 0.72);
+      --gold: #d9a35d;
+      --brick: #8f2e1f;
+      --stone: #d7b692;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Georgia, "Times New Roman", serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top left, rgba(217, 163, 93, 0.14), transparent 30%),
+        radial-gradient(circle at bottom right, rgba(143, 46, 31, 0.22), transparent 28%),
+        linear-gradient(180deg, #1f1410 0%, #130d0a 100%);
+    }
+
+    main {
+      width: min(1120px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 52px 0 72px;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      margin-bottom: 12px;
+      padding: 8px 12px;
+      border: 1px solid rgba(217, 163, 93, 0.3);
+      border-radius: 999px;
+      color: var(--stone);
+      font-size: 12px;
+      letter-spacing: 0.13em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 0 0 14px;
+      font-size: clamp(40px, 7vw, 72px);
+      line-height: 0.97;
+    }
+
+    .lead {
+      max-width: 780px;
+      margin: 0 0 34px;
+      font-size: clamp(18px, 2.1vw, 23px);
+      line-height: 1.6;
+      color: var(--muted);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+
+    .card {
+      padding: 24px;
+      border: 1px solid var(--panel-border);
+      border-radius: 24px;
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+    }
+
+    .card h2 {
+      margin: 0 0 10px;
+      font-size: 28px;
+    }
+
+    .card p {
+      margin: 0 0 18px;
+      color: var(--muted);
+      line-height: 1.65;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 12px 16px;
+      border-radius: 12px;
+      text-decoration: none;
+      font-weight: 700;
+      color: var(--text);
+      background: linear-gradient(135deg, var(--gold), var(--brick));
+    }
+
+    .button.alt {
+      background: transparent;
+      border: 1px solid rgba(255, 245, 235, 0.16);
+    }
+
+    .note {
+      padding: 22px 24px;
+      border: 1px solid var(--panel-border);
+      border-radius: 22px;
+      background: rgba(255, 255, 255, 0.04);
+      color: var(--muted);
+      line-height: 1.7;
+    }
+
+    footer {
+      margin-top: 28px;
+    }
+
+    footer a {
+      color: #f0d1aa;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <span class="eyebrow">Divine Comedy / Inferno / Canto 02</span>
+    <h1>Canto 02</h1>
+    <p class="lead">
+      Episodio base con struttura completa. Qui tieni separati testo declamato, immagini per thumbnail o scena e metadati utili al workflow YouTube.
+    </p>
+
+    <section class="grid">
+      <article class="card">
+        <h2>Script</h2>
+        <p>
+          Cartella dedicata ai testi sorgente, alle versioni lavorate e agli eventuali DOCX.
+        </p>
+        <a class="button alt" href="./scripts/Canto_02_source.txt">Apri testo base</a>
+        <a class="button alt" href="./scripts/Canto_02_talk_finale.md">Apri talk finale</a>
+        <a class="button alt" href="./talk.html">Apri talk.html</a>
+        <a class="button alt" href="./teleprompter.html">Apri teleprompter</a>
+      </article>
+
+      <article class="card">
+        <h2>Immagini</h2>
+        <p>
+          Cartella per thumbnail, cover, frame verticali e scansioni Doré da rifinire o reinterpretare a colori.
+        </p>
+        <a class="button alt" href="./scripts/Canto_02_cue_immagini.md">Apri cue immagini</a>
+      </article>
+
+      <article class="card">
+        <h2>Metadati</h2>
+        <p>
+          File utile per sapere stato lavorazione, naming, titolo episodio e percorsi degli asset.
+        </p>
+        <a class="button alt" href="./metadata.json">Apri metadata</a>
+      </article>
+    </section>
+
+    <section class="note">
+      Consiglio pratico: per ogni nuovo canto duplica questa cartella, rinominala con lo slug corretto e aggiorna soltanto `metadata.json`, il file TXT base e gli asset in `images/`.
+    </section>
+
+    <footer>
+      <a href="../">Torna a Inferno</a>
+    </footer>
+  </main>
+</body>
+</html>

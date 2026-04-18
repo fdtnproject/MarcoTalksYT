@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 02",
+  "slug": "canto-02",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_02_source.txt",
+    "talk_finale_md": "./scripts/Canto_02_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_02_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto02-content.js"
+  },
+  "images": {
+    "thumbnail": null,
+    "cover": null,
+    "vertical": null
+  },
+  "notes": "Script completo disponibile. Asset visivi da aggiungere in ./images/ (tavole di Dore o foto scena per notte/Beatrice/tre donne/fioretti)."
+}
