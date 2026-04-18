@@ -147,6 +147,17 @@
       cursor: pointer;
     }
 
+    select {
+      min-height: 38px;
+      padding: 0 14px;
+      border-radius: 999px;
+      border: 1px solid var(--panel-border);
+      color: var(--text);
+      background: rgba(255, 255, 255, 0.08);
+      font-weight: 800;
+      cursor: pointer;
+    }
+
     .status {
       text-align: right;
       font-size: 13px;
@@ -339,12 +350,14 @@
 
       <div class="control-group">
         <label for="speed">Scorrimento</label>
-        <input id="speed" type="range" min="0" max="5" step="0.1" value="2">
-        <button class="preset-button" type="button" data-speed="0">Fermo</button>
-        <button class="preset-button" type="button" data-speed="1">1 Lento</button>
-        <button class="preset-button" type="button" data-speed="2">Comodo</button>
-        <button class="preset-button" type="button" data-speed="3">3 Spinto</button>
-        <button class="preset-button" type="button" data-speed="5">5 Veloce</button>
+        <select id="speed">
+          <option value="0">0 - Fermo</option>
+          <option value="1">1 - Lento</option>
+          <option value="2" selected>2 - Comodo</option>
+          <option value="3">3 - Spinto</option>
+          <option value="4">4 - Veloce</option>
+          <option value="5">5 - Molto veloce</option>
+        </select>
       </div>
 
       <div class="control-group">
@@ -363,8 +376,8 @@
     </div>
 
     <div class="status">
-      <div>Scorrimento <strong id="speed-value">2.0</strong>/5</div>
-      <div>`0` fermo nello slider. `Space` play, `[` più lento, `]` più veloce, `R` reset</div>
+      <div>Scorrimento <strong id="speed-value">2</strong>/5</div>
+      <div>Scegli `0-5`. `Space` play, `[` più lento, `]` più veloce, `R` reset</div>
     </div>
   </div>
 
@@ -469,12 +482,16 @@
     };
 
     function clampSpeed(value) {
-      return Math.min(5, Math.max(0, Math.round(value * 10) / 10));
+      return Math.min(5, Math.max(0, Math.round(value)));
     }
 
     function setSpeed(value) {
       settings.speed = clampSpeed(value);
-      speedInput.value = settings.speed.toFixed(1);
+      speedInput.value = String(settings.speed);
+      if (settings.speed === 0) {
+        settings.playing = false;
+        settings.lastFrame = 0;
+      }
       applySettings();
     }
 
@@ -503,7 +520,7 @@
     function applySettings() {
       document.documentElement.style.setProperty("--font-size", `${settings.fontSize}px`);
       document.documentElement.style.setProperty("--measure", `${settings.measure}px`);
-      speedValue.textContent = settings.speed.toFixed(1);
+      speedValue.textContent = String(settings.speed);
       document.body.classList.toggle("low-light", settings.lowLight);
       playToggle.textContent = settings.playing ? "Pause" : "Play";
       themeToggle.textContent = settings.lowLight ? "Normal Light" : "Low Light";
@@ -537,6 +554,9 @@
     }
 
     function togglePlay() {
+      if (!settings.playing && settings.speed === 0) {
+        setSpeed(DEFAULT_SPEED);
+      }
       settings.playing = !settings.playing;
       applySettings();
       if (settings.playing) {
@@ -551,14 +571,8 @@
       window.scrollTo({ top: 0, behavior: "smooth" });
     });
 
-    speedInput.addEventListener("input", (event) => {
-      setSpeed(Number(event.target.value));
-    });
-
-    document.querySelectorAll("[data-speed]").forEach((button) => {
-      button.addEventListener("click", () => {
-        playAtSpeed(Number(button.dataset.speed));
-      });
+    speedInput.addEventListener("change", (event) => {
+      playAtSpeed(Number(event.target.value));
     });
 
     sizeInput.addEventListener("input", (event) => {
@@ -585,9 +599,9 @@
         event.preventDefault();
         togglePlay();
       } else if (event.key === "[") {
-        setSpeed(settings.speed - 0.1);
+        setSpeed(settings.speed - 1);
       } else if (event.key === "]") {
-        setSpeed(settings.speed + 0.1);
+        setSpeed(settings.speed + 1);
       } else if (event.key === "-") {
         settings.fontSize = Math.max(28, settings.fontSize - 2);
         sizeInput.value = String(settings.fontSize);
@@ -604,7 +618,7 @@
         settings.fontSize = 40;
         settings.measure = 860;
         settings.lowLight = false;
-        speedInput.value = DEFAULT_SPEED.toFixed(1);
+        speedInput.value = String(DEFAULT_SPEED);
         sizeInput.value = "40";
         measureInput.value = "860";
         applySettings();
