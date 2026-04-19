@@ -282,8 +282,8 @@ Nemmeno quello cattivo.
 > misericordia e giustizia li sdegna:
 > non ragioniam di lor, ma guarda e passa".
 
-Dante chiede perché urlano così forte.
-Virgilio risponde in tre frasi.
+Dante chiede perché gridano così forte.
+Virgilio risponde in tre colpi.
 
 Pausa.
 
@@ -292,42 +292,31 @@ Non possono nemmeno finire.
 
 "La lor cieca vita è tanto bassa
 che 'nvidïosi son d'ogne altra sorte."
-
-Anche i dannati gli fanno invidia.
-Perché un dannato, almeno,
-è qualcuno.
+Perfino i dannati,
+almeno,
+sono qualcuno.
 
 Pausa.
 
 "Fama di loro il mondo esser non lassa."
-Il mondo li ha dimenticati.
+Il mondo li cancella.
 
 "Misericordia e giustizia li sdegna."
-Nessuna delle due forze
-che reggono l'universo morale
-si abbassa a considerarli.
+Nessuna delle due
+si ferma su di loro.
 
 Pausa lunga.
 
-E poi la chiusura.
+E poi la sentenza.
 
 "Non ragioniam di lor, ma guarda e passa."
 
-Frase-martello.
-
-Pausa.
-
 Virgilio, il poeta della parola,
-il maestro del discorso,
-dice: non ne parliamo.
+dice: non spendere parola.
 
-Il trattamento definitivo della tiepidezza
-è il silenzio.
-Guardali.
-Passa oltre.
-
-Non sono materia
-da occupare il tempo.
+Il contrario della gloria
+non è l'infamia.
+È essere indegni persino del discorso.
 
 ## vv. 52-57 - L'insegna
 
@@ -421,44 +410,25 @@ finisce qui.
 Non perché abbia fatto male.
 Perché non ha fatto.
 
-## Gli ignavi - cosa ci dice questo canto
+## Gli ignavi - Il punto più basso
 
 Pausa lunga.
 
-Fermiamoci un attimo.
+Perché Dante mette gli ignavi qui,
+prima dell'Inferno vero?
 
-Perché Dante mette gli ignavi
-al primo girone,
-prima ancora dell'Inferno vero?
-
-Pausa.
-
-Perché gli ignavi sono la forma zero
-di tutti i peccati che verranno dopo.
-
-I peccatori nel profondo
-hanno fatto qualcosa.
-Hanno scelto male,
-ma hanno scelto.
-C'è un gesto, una passione, una direzione sbagliata.
+Perché i peccatori che verranno dopo
+hanno scelto.
+Male, ma scelto.
 
 Qui no.
-Qui c'è solo rifiuto di scegliere.
+Qui c'è il rifiuto della scelta stessa.
 
 Pausa.
 
-E Dante dice:
-questa è la condizione peggiore.
-
-Perché chi non sceglie
-non entra nemmeno nella propria vita.
-
-È il motto di questo canto.
-
-Pausa.
-
-Anche non scegliere
-è una condanna.
+Per Dante questa è la forma più bassa.
+Non perché faccia più male.
+Perché non entra nemmeno nel gioco della vita morale.
 
 ## vv. 64-69 - Mosche, vespe, vermi
 
@@ -596,18 +566,16 @@ E poi si accorge di Dante.
 Vattene da questi morti.
 
 Caronte riconosce subito
-che Dante non è come gli altri.
+che Dante non appartiene a questa fila.
 
 Pausa lunga.
 
-E dice una frase che Dante si porta dietro:
-tu passerai, ma non qui.
-Tu passerai per un'altra via,
-su una barca più leggera.
+E dice la cosa decisiva:
+tu passerai,
+ma non con questa barca.
 
-Caronte sta dicendo, senza saperlo,
-quello che Dante scoprirà solo alla fine della Commedia:
-non tutti i viaggi finiscono nell'Inferno.
+Questo viaggio passa di qui.
+Ma non finisce qui.
 
 ## vv. 94-99 - Vuolsi così colà dove si puote
 
@@ -630,37 +598,26 @@ ciò che si vuole."
 
 Pausa lunga.
 
-Tre "volere", quattro "potere".
-Detto così sembra un giro di parole.
-Ma non lo è.
+Non è una spiegazione.
+È una formula d'autorità.
 
 Significa:
-lo vuole chi, dove è possibile,
-fa quello che vuole.
-
-In altre parole:
-Dio.
-
-E poi: "più non dimandare".
+questa strada è aperta
+perché lo vuole chi può volerla davvero.
 
 Pausa.
 
-Virgilio non argomenta.
-Non convince.
-Dichiara.
+E poi:
+"più non dimandare."
 
-E basta.
+Basta così.
 
-Pausa.
+Caronte si ferma.
+Le gote tacciono.
+Gli occhi no.
 
-E Caronte si ferma.
-Le "lanose gote" diventano quiete.
-
-Ma gli occhi, dice Dante,
-avevano fiamme come ruote.
-
-La forza si è rassegnata,
-ma il fuoco no.
+La resistenza si placa.
+Il fuoco resta.
 
 ## vv. 100-111 - Le anime nude
 
@@ -677,61 +634,41 @@ ma il fuoco no.
 > loro accennando, tutte le raccoglie;
 > batte col remo qualunque s'adagia.
 
-Le parole di Caronte sono "crude".
-Crudo come una ferita aperta.
-
-E le anime reagiscono.
-Cambiano colore.
-Battono i denti.
+Le parole di Caronte sono crude.
+E le anime reagiscono subito:
+cambiano colore,
+battono i denti.
 
 Pausa.
 
-Poi Dante fa un elenco
-che è una delle cose più forti del canto.
+Poi viene l'elenco.
 
-Bestemmiano.
-Cosa bestemmiano?
+Bestemmiano Dio,
+i parenti,
+la specie umana,
+il luogo,
+il tempo,
+la nascita.
 
-Pausa.
-
-Dio.
-I genitori.
-La specie umana.
-Il luogo.
-Il tempo.
-Il seme.
-La semenza.
-I loro stessi nascimenti.
-
-Tutto quello che li ha fatti essere.
+Bestemmiano tutto ciò che li ha fatti essere.
 
 Pausa lunga.
 
-Odiano la propria esistenza
-dalla radice.
+Non odiano solo la pena.
+Odiano l'origine.
 
-Odiano di esserci.
-Odiano dove sono nati.
-Odiano quando sono nati.
-Odiano chi li ha fatti.
-Odiano la specie a cui appartengono.
-
-E alla fine si muovono da soli,
-verso la riva.
+E poi si raccolgono da sole
+sulla riva.
 Piangendo.
 
-Caronte li raccoglie.
-E se qualcuno tarda,
-colpisce con il remo.
+Caronte le spinge,
+le chiama,
+le colpisce se rallentano.
 
-Pausa.
-
-"Caron dimonio, con occhi di bragia."
-
-Dimonio.
-Non angelo, non uomo.
-
-Il traghettatore è già qualcosa di cattivo.
+"Caron dimonio."
+Qui il traghettatore
+non accompagna.
+Esige.
 
 ## vv. 112-120 - Le foglie d'autunno
 
@@ -745,46 +682,29 @@ Il traghettatore è già qualcosa di cattivo.
 > e avanti che sien di là discese,
 > anche di qua nuova schiera s'auna.
 
-E qui Dante fa una delle similitudini
-più belle di tutta la Commedia.
+E qui arriva una delle immagini
+più memorabili del canto.
 
 Pausa.
 
-"Come d'autunno si levan le foglie
-l'una appresso de l'altra."
+Le foglie d'autunno
+cadono una dopo l'altra
+finché il ramo resta nudo.
+
+Così i dannati si staccano dalla riva.
+Uno.
+Poi un altro.
+Poi un altro ancora.
 
 Pausa.
 
-Guarda un albero d'autunno.
-Le foglie cadono una dopo l'altra.
-Non tutte insieme.
-Non di colpo.
-
-Una.
-Poi un'altra.
-Poi un'altra ancora.
-Finché il ramo è nudo.
-
-Pausa.
-
-"Similemente il mal seme d'Adamo
-gittansi di quel lito ad una ad una."
-
-I dannati si buttano
-ad una ad una.
-
-Come foglie.
-Come un gesto stagionale.
-
-Pausa lunga.
-
-E sono richiamati.
 "Per cenni, come augel per suo richiamo."
 
-Come gli uccelli chiamati dal richiamo del cacciatore.
+Non precipitano nel caos.
+Rispondono a un cenno.
 
-Non si difendono.
-Non fuggono.
+Ed è questo che fa paura:
+non resistono.
 Vanno.
 
 ## vv. 121-129 - La tema si volve in disio
@@ -799,47 +719,32 @@ Vanno.
 > e però, se Caron di te si lagna,
 > ben puoi sapere omai che 'l suo dir suona".
 
-Virgilio spiega.
+Virgilio dice la cosa più dura.
 
-Chi muore nell'ira di Dio
-arriva qui da ogni parte del mondo.
-
-E ha fretta di passare.
-
-Pausa.
-
-Ma senti la riga chiave:
-"la tema si volve in disio."
+"La tema si volve in disio."
 
 Pausa lunga.
 
 La paura
-si trasforma
+si rovescia
 in desiderio.
 
-Pausa.
-
-La giustizia divina li sprona
-così forte
+La giustizia li spinge
+così a fondo
 che quello che dovrebbe essere terrore
-diventa voglia di arrivare.
+diventa voglia di passare.
 
-Vogliono la loro punizione.
-
-E non perché sia dolce.
-Perché è giusta.
-
-La giustizia di Dio li trasforma
-fin dentro il desiderio.
+Non perché la pena sia dolce.
+Perché ormai coincide
+con ciò che sono diventati.
 
 Pausa.
 
 "Quinci non passa mai anima buona."
-Da qui non passa mai un'anima buona.
 
-Virgilio sta anche rispondendo a Caronte:
-se ti lamenti di Dante,
-dovresti già sapere chi è.
+E quindi Dante,
+semplicemente,
+non è dei loro.
 
 ## vv. 130-136 - Svenimento
 
@@ -857,216 +762,100 @@ con una scena fisica.
 Pausa.
 
 La terra trema.
+La terra lagrimosa
+dà vento.
 
-"La terra lagrimosa diede vento."
-
-La terra che piange
-produce un vento.
-
-Pausa.
-
-E dal vento sale un lampo rosso.
-Luce vermiglia.
+Poi lampeggia il rosso.
 
 Pausa.
 
 Dante perde i sensi.
 
 "Mi vinse ciascun sentimento."
-Tutti i sensi, insieme, vinti.
+
+Tutti i sensi,
+insieme,
+vinti.
 
 "E caddi come l'uom cui sonno piglia."
-Cadde come chi si addormenta.
 
 Pausa lunga.
-
-È il primo svenimento della Commedia.
-Non l'ultimo.
 
 Dante non passa l'Acheronte sulle sue gambe.
 Sviene.
-Quando si risveglierà,
-sarà dall'altra parte.
+Si risveglierà dall'altra parte.
 
-Come un sonno.
-Come un parto.
-
-Il confine tra mondo vivo e mondo morto
-non lo si attraversa con le proprie forze.
-
-## Le due condanne - sintesi
-
-Pausa lunga.
-
-Fermiamoci ancora un attimo.
-
-Il Canto III fa una cosa che sembra impossibile:
-distingue due inferni dentro l'Inferno.
-
-Pausa.
-
-Prima della porta: gli ignavi.
-Non hanno scelto.
-Sono puniti perché non si sono schierati.
-
-Dentro la porta: i dannati dell'Acheronte.
-Hanno scelto male,
-ma hanno scelto.
-
-Sono puniti.
-Ma sono dentro.
-E hanno addirittura fretta di essere puniti.
-
-Pausa.
-
-C'è una gerarchia nascosta.
-
-Chi ha scelto,
-anche se ha scelto male,
-partecipa.
-
-Chi non ha scelto,
-non partecipa a niente.
-
-Pausa lunga.
-
-Per Dante,
-la tiepidezza è peggio dell'errore.
-
-Perché nell'errore c'è ancora
-una qualche forma di amore,
-magari storto,
-magari sbagliato.
-
-Nella tiepidezza
-non c'è amore
-per nulla.
+Il confine tra mondo vivo e mondo morto,
+qui,
+non si attraversa per forza.
+Si subisce.
 
 ## Gli ignavi e noi
 
 Pausa.
 
-Questo canto, oggi,
-fa male in un modo particolare.
+Questo canto brucia ancora
+perché la tiepidezza oggi
+somiglia a una virtù.
+
+"Non mi espongo."
+"Non scelgo."
+"Resto fuori."
 
 Pausa.
 
-Perché noi, oggi,
-abbiamo fatto della tiepidezza
-una virtù.
+Dante dice l'opposto.
+Restare fuori
+non ti salva.
 
-"Non so."
-"Un po' sì, un po' no."
-"Non mi interesso di queste cose."
-"Preferisco non prendere posizione."
-
-Pausa.
-
-Dante ti dice una cosa dura.
-Non prendere posizione
-è già una posizione.
-
-E l'ha già pagata.
-La sta pagando
-in questo momento.
-
-Pausa lunga.
-
-Anche non scegliere
-è una condanna.
-
-## Tre rifiuti - sintesi tripartita
-
-Pausa.
-
-Nel canto ci sono tre rifiuti
-che si rincorrono.
-
-Il cielo rifiuta gli ignavi.
-L'inferno profondo rifiuta gli ignavi.
-Gli ignavi hanno rifiutato di vivere.
-
-Pausa.
-
-Il cielo li scaccia.
-L'inferno li respinge.
-Loro stessi hanno rinunciato.
-
-Tre no
-per una non-vita.
+Ti lascia nel vestibolo.
 
 ## Chiusura da palco
 
 Pausa lunga.
 
-Allora:
-il Canto III.
-
-È il canto della porta.
-
-Ed è il canto
-di chi la porta non l'ha nemmeno vista.
+Il Canto III è il canto della porta.
+Ma la scena più umiliante
+non è dentro.
+È prima.
 
 Pausa.
 
-All'inizio del canto
-c'è scritto: "Per me si va".
-La porta ti fa entrare.
-
-Pausa.
-
-Ma prima della porta
-c'è un vestibolo pieno di persone
-che non sono entrate in nulla.
-
-Nemmeno qui.
+Dentro l'Inferno
+ci va chi ha scelto male.
+Fuori dall'Inferno
+resta chi non ha voluto scegliere affatto.
 
 Pausa lunga.
 
-E Dante, all'entrata,
-prende la mano di Virgilio.
-
-Non si scende da soli,
-come ha detto il Canto II.
-Ma ora sappiamo anche un'altra cosa:
-non si scende nemmeno senza aver scelto.
+Gli ignavi non hanno un regno.
+Hanno un inseguimento.
+Un'insegna vuota.
+Mosche.
+Vermi.
+Moto senza direzione.
 
 Pausa.
 
-Chi non decide,
-resta nel vestibolo.
+Dante entra
+perché prende una mano
+e accetta una guida.
 
-Chi decide male,
+Gli ignavi restano fuori
+perché non hanno accettato nulla.
+
+Pausa lunga.
+
+Chi sceglie bene
+passa per un'altra via.
+Chi sceglie male
 entra e paga.
-
-Chi decide bene,
-passa per un'altra via,
-su una barca più leggera.
-
-Pausa lunga.
-
-Ma non scegliere
-non è una via di scampo.
-
-Non scegliere
-è la condanna a inseguire un'insegna vuota.
-A essere punti da mosche.
-A far cadere sangue e lacrime
-in mezzo ai vermi.
-Per sempre.
+Chi non sceglie
+corre in tondo.
 
 Pausa.
 
-Il cielo non ti vuole.
-L'inferno nemmeno.
-
-Tu resti fuori da tutto.
-
-Pausa lunga.
-
-Perché,
-come dice Dante,
-
+Per Dante,
 anche non scegliere
 è una condanna.
 
@@ -1076,6 +865,6 @@ E poi Dante sviene.
 
 [Schermo: nero pieno]
 
-Il canto si chiude con il buio.
-Il prossimo comincerà
+Il canto si chiude nel buio.
+Il prossimo si aprirà
 dall'altra parte dell'Acheronte.
