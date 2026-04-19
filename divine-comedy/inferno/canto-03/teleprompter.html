@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Inferno - Canto III | Teleprompter</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Source+Sans+3:wght@400;600;700&display=swap');
+
+    :root {
+      --bg: #0c0908;
+      --bg-soft: #17110e;
+      --panel: rgba(255, 245, 235, 0.08);
+      --panel-border: rgba(255, 229, 206, 0.14);
+      --text: #fff4ea;
+      --muted: rgba(255, 244, 234, 0.72);
+      --accent: #efc38f;
+      --accent-2: #d56d39;
+      --quote: #fce0bd;
+      --cue: #ffd4ab;
+      --font-size: 40px;
+      --line-height: 1.42;
+      --measure: 860px;
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: auto; }
+
+    body {
+      margin: 0;
+      font-family: "Source Sans 3", sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top left, rgba(213, 109, 57, 0.14), transparent 28%),
+        linear-gradient(180deg, var(--bg-soft), var(--bg));
+    }
+
+    body.low-light {
+      --bg: #060505;
+      --bg-soft: #0b0908;
+      --panel: rgba(255, 255, 255, 0.04);
+      --panel-border: rgba(255, 255, 255, 0.08);
+      --text: #f6efe8;
+      --muted: rgba(246, 239, 232, 0.58);
+      --accent: #edc89f;
+      --accent-2: #b6552d;
+      --quote: #fff1dd;
+      --cue: #f3d8b7;
+    }
+
+    .toolbar {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 12px;
+      align-items: center;
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--panel-border);
+      background: rgba(12, 9, 8, 0.85);
+      backdrop-filter: blur(14px);
+    }
+
+    .toolbar-main {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px 12px;
+      align-items: center;
+    }
+
+    .toolbar-title {
+      min-width: 220px;
+      margin-right: 8px;
+    }
+
+    .toolbar-title strong {
+      display: block;
+      font-family: "Cinzel", serif;
+      font-size: 14px;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+
+    .toolbar-title span {
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    .control-group {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 10px;
+      border-radius: 999px;
+      border: 1px solid var(--panel-border);
+      background: var(--panel);
+    }
+
+    .control-group label {
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    button,
+    input[type="range"] {
+      appearance: none;
+      -webkit-appearance: none;
+    }
+
+    button {
+      min-height: 38px;
+      padding: 0 14px;
+      border: 0;
+      border-radius: 999px;
+      font-weight: 700;
+      color: #140c0b;
+      background: linear-gradient(135deg, var(--accent), var(--accent-2));
+      cursor: pointer;
+    }
+
+    button.secondary {
+      color: var(--text);
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid var(--panel-border);
+    }
+
+    input[type="range"] {
+      width: 112px;
+      height: 4px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.14);
+      outline: none;
+    }
+
+    input[type="range"]::-webkit-slider-thumb {
+      appearance: none;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: var(--accent);
+      cursor: pointer;
+    }
+
+    select {
+      min-height: 38px;
+      padding: 0 14px;
+      border-radius: 999px;
+      border: 1px solid var(--panel-border);
+      color: var(--text);
+      background: rgba(255, 255, 255, 0.08);
+      font-weight: 800;
+      cursor: pointer;
+    }
+
+    .status {
+      text-align: right;
+      font-size: 13px;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+
+    .status strong {
+      color: var(--accent);
+    }
+
+    .preset-button {
+      min-height: 32px;
+      padding: 0 10px;
+      color: var(--text);
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid var(--panel-border);
+      font-size: 12px;
+    }
+
+    .page {
+      width: min(var(--measure), calc(100% - 28px));
+      margin: 0 auto;
+      padding: 28px 0 120px;
+    }
+
+    .hero {
+      margin-bottom: 18px;
+      padding: 22px 22px 18px;
+      border: 1px solid var(--panel-border);
+      border-radius: 24px;
+      background: var(--panel);
+    }
+
+    .hero strong {
+      display: inline-flex;
+      margin-bottom: 10px;
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+    }
+
+    .hero h1 {
+      margin: 0 0 8px;
+      font-family: "Cinzel", serif;
+      font-size: clamp(34px, 5vw, 52px);
+      line-height: 0.98;
+    }
+
+    .hero p {
+      margin: 0;
+      font-size: 16px;
+      line-height: 1.6;
+      color: var(--muted);
+    }
+
+    .tele-section {
+      margin-bottom: 14px;
+      padding: 20px 22px 22px;
+      border: 1px solid var(--panel-border);
+      border-radius: 24px;
+      background: rgba(255, 255, 255, 0.03);
+    }
+
+    .tele-section h2 {
+      margin: 0 0 14px;
+      font-family: "Cinzel", serif;
+      font-size: clamp(20px, 3vw, 30px);
+      line-height: 1.15;
+    }
+
+    .cue {
+      display: inline-flex;
+      margin-bottom: 14px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      border: 1px solid rgba(255, 212, 171, 0.22);
+      color: var(--cue);
+      background: rgba(255, 212, 171, 0.08);
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    .quote {
+      margin-bottom: 16px;
+      padding: 18px;
+      border-radius: 20px;
+      border: 1px solid rgba(255, 245, 235, 0.12);
+      background: rgba(255, 255, 255, 0.03);
+    }
+
+    .quote span,
+    .tele-p span {
+      display: block;
+    }
+
+    .quote span {
+      font-family: "Cinzel", serif;
+      color: var(--quote);
+      font-size: calc(var(--font-size) * 0.64);
+      line-height: 1.56;
+    }
+
+    .tele-p {
+      margin: 0 0 18px;
+      font-size: var(--font-size);
+      line-height: var(--line-height);
+      letter-spacing: 0.01em;
+    }
+
+    .tele-p.pause {
+      color: var(--accent);
+      font-weight: 700;
+      font-size: calc(var(--font-size) * 0.58);
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+
+    .tele-p:last-child {
+      margin-bottom: 0;
+    }
+
+    .floating-links {
+      position: fixed;
+      right: 18px;
+      bottom: 18px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      z-index: 40;
+    }
+
+    .floating-links a {
+      display: inline-flex;
+      min-height: 40px;
+      align-items: center;
+      padding: 0 14px;
+      border-radius: 999px;
+      text-decoration: none;
+      color: var(--text);
+      background: rgba(0, 0, 0, 0.55);
+      border: 1px solid var(--panel-border);
+    }
+
+    @media (max-width: 860px) {
+      .toolbar {
+        grid-template-columns: 1fr;
+      }
+
+      .status {
+        text-align: left;
+      }
+
+      .toolbar-main {
+        align-items: flex-start;
+      }
+
+      .control-group {
+        flex-wrap: wrap;
+      }
+
+      .page {
+        width: min(calc(100% - 18px), var(--measure));
+        padding-bottom: 150px;
+      }
+
+      :root {
+        --font-size: 34px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="toolbar">
+    <div class="toolbar-main">
+      <div class="toolbar-title">
+        <strong>Teleprompter</strong>
+        <span id="toolbar-title">Inferno - Canto III</span>
+      </div>
+
+      <div class="control-group">
+        <button id="play-toggle">Play</button>
+        <button class="secondary" id="reset-scroll">Top</button>
+      </div>
+
+      <div class="control-group">
+        <label for="speed">Scorrimento</label>
+        <select id="speed">
+          <option value="0">0 - Fermo</option>
+          <option value="1">1 - Lento</option>
+          <option value="2" selected>2 - Comodo</option>
+          <option value="3">3 - Spinto</option>
+          <option value="4">4 - Veloce</option>
+          <option value="5">5 - Molto veloce</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label for="size">Text</label>
+        <input id="size" type="range" min="28" max="62" step="1" value="40">
+      </div>
+
+      <div class="control-group">
+        <label for="measure">Width</label>
+        <input id="measure" type="range" min="680" max="980" step="10" value="860">
+      </div>
+
+      <div class="control-group">
+        <button class="secondary" id="theme-toggle">Low Light</button>
+      </div>
+    </div>
+
+    <div class="status">
+      <div>Scorrimento <strong id="speed-value">2</strong>/5</div>
+      <div>Scegli `0-5`, poi `Play`. `[` più lento, `]` più veloce, `R` reset</div>
+    </div>
+  </div>
+
+  <main class="page">
+    <section class="hero">
+      <strong id="hero-kicker"></strong>
+      <h1 id="hero-title"></h1>
+      <p id="hero-description"></p>
+    </section>
+
+    <div id="teleprompter-content"></div>
+  </main>
+
+  <div class="floating-links">
+    <a href="./talk.html">Talk</a>
+    <a href="./scripts/Canto_03_talk_finale.md">Markdown</a>
+  </div>
+
+  <script src="./canto03-content.js"></script>
+  <script src="./canto03-render-utils.js"></script>
+  <script>
+    const content = window.CANTO_THREE;
+    const utils = window.CANTO_RENDER_UTILS;
+    const doc = utils.parseCantoMarkdown(content.markdown);
+
+    document.getElementById("toolbar-title").textContent = content.title;
+    document.getElementById("hero-kicker").textContent = content.kicker;
+    document.getElementById("hero-title").textContent = content.title;
+    document.getElementById("hero-description").textContent = content.description;
+
+    const root = document.getElementById("teleprompter-content");
+
+    doc.sections.forEach((section) => {
+      const sectionEl = document.createElement("section");
+      sectionEl.className = "tele-section";
+
+      const heading = document.createElement("h2");
+      heading.textContent = section.title;
+      sectionEl.appendChild(heading);
+
+      section.items.forEach((item) => {
+        if (item.type === "cue") {
+          const cue = document.createElement("div");
+          cue.className = "cue";
+          cue.textContent = item.text;
+          sectionEl.appendChild(cue);
+          return;
+        }
+
+        if (item.type === "quote") {
+          const quote = document.createElement("div");
+          quote.className = "quote";
+          quote.innerHTML = item.lines
+            .map((line) => `<span>${utils.escapeHtml(line)}</span>`)
+            .join("");
+          sectionEl.appendChild(quote);
+          return;
+        }
+
+        if (item.type === "list") {
+          item.items.forEach((entry) => {
+            const p = document.createElement("p");
+            p.className = "tele-p";
+            p.innerHTML = `<span>${utils.escapeHtml(entry)}</span>`;
+            sectionEl.appendChild(p);
+          });
+          return;
+        }
+
+        if (item.type === "paragraph") {
+          const p = document.createElement("p");
+          p.className = "tele-p";
+          if (/^Pausa/i.test(item.text)) {
+            p.classList.add("pause");
+          }
+          p.innerHTML = utils.renderMultilineText(item.text);
+          sectionEl.appendChild(p);
+        }
+      });
+
+      root.appendChild(sectionEl);
+    });
+
+    const playToggle = document.getElementById("play-toggle");
+    const resetScroll = document.getElementById("reset-scroll");
+    const speedInput = document.getElementById("speed");
+    const sizeInput = document.getElementById("size");
+    const measureInput = document.getElementById("measure");
+    const themeToggle = document.getElementById("theme-toggle");
+    const speedValue = document.getElementById("speed-value");
+
+    const DEFAULT_SPEED = 2;
+    const PACE_PER_POINT = 14;
+
+    const settings = {
+      playing: false,
+      lastFrame: 0,
+      scrollRemainder: 0,
+      speed: Number(speedInput.value),
+      fontSize: Number(sizeInput.value),
+      measure: Number(measureInput.value),
+      lowLight: false
+    };
+
+    function clampSpeed(value) {
+      return Math.min(5, Math.max(0, Math.round(value)));
+    }
+
+    function setSpeed(value) {
+      settings.speed = clampSpeed(value);
+      speedInput.value = String(settings.speed);
+      if (settings.speed === 0) {
+        settings.playing = false;
+        settings.lastFrame = 0;
+        settings.scrollRemainder = 0;
+      }
+      applySettings();
+    }
+
+    function startScrolling() {
+      settings.speed = clampSpeed(Number(speedInput.value));
+      speedInput.value = String(settings.speed);
+
+      if (settings.speed <= 0) {
+        settings.playing = false;
+        settings.lastFrame = 0;
+        settings.scrollRemainder = 0;
+        applySettings();
+        return;
+      }
+
+      settings.playing = true;
+      settings.lastFrame = 0;
+      settings.scrollRemainder = 0;
+      applySettings();
+      window.requestAnimationFrame(step);
+    }
+
+    function getScrollPace() {
+      return settings.speed * PACE_PER_POINT;
+    }
+
+    function applySettings() {
+      document.documentElement.style.setProperty("--font-size", `${settings.fontSize}px`);
+      document.documentElement.style.setProperty("--measure", `${settings.measure}px`);
+      speedValue.textContent = String(settings.speed);
+      document.body.classList.toggle("low-light", settings.lowLight);
+      playToggle.textContent = settings.playing ? "Pause" : "Play";
+      themeToggle.textContent = settings.lowLight ? "Normal Light" : "Low Light";
+    }
+
+    function step(timestamp) {
+      if (!settings.playing) {
+        settings.lastFrame = 0;
+        return;
+      }
+
+      if (!settings.lastFrame) {
+        settings.lastFrame = timestamp;
+      }
+
+      const delta = timestamp - settings.lastFrame;
+      settings.lastFrame = timestamp;
+
+      const scrollDistance = settings.scrollRemainder + (getScrollPace() * delta) / 1000;
+      const wholePixels = Math.floor(scrollDistance);
+      settings.scrollRemainder = scrollDistance - wholePixels;
+
+      if (wholePixels > 0) {
+        window.scrollBy(0, wholePixels);
+      }
+
+      const nearBottom =
+        window.innerHeight + window.scrollY >= document.body.scrollHeight - 8;
+
+      if (nearBottom) {
+        settings.playing = false;
+        applySettings();
+        settings.lastFrame = 0;
+        return;
+      }
+
+      window.requestAnimationFrame(step);
+    }
+
+    function togglePlay() {
+      if (settings.playing) {
+        settings.playing = false;
+        settings.lastFrame = 0;
+        settings.scrollRemainder = 0;
+        applySettings();
+        return;
+      }
+
+      startScrolling();
+    }
+
+    playToggle.addEventListener("click", togglePlay);
+    resetScroll.addEventListener("click", () => {
+      settings.playing = false;
+      settings.lastFrame = 0;
+      settings.scrollRemainder = 0;
+      applySettings();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+
+    speedInput.addEventListener("change", (event) => {
+      setSpeed(Number(event.target.value));
+    });
+
+    sizeInput.addEventListener("input", (event) => {
+      settings.fontSize = Number(event.target.value);
+      applySettings();
+    });
+
+    measureInput.addEventListener("input", (event) => {
+      settings.measure = Number(event.target.value);
+      applySettings();
+    });
+
+    themeToggle.addEventListener("click", () => {
+      settings.lowLight = !settings.lowLight;
+      applySettings();
+    });
+
+    window.addEventListener("keydown", (event) => {
+      if (["INPUT", "TEXTAREA"].includes(document.activeElement.tagName)) {
+        return;
+      }
+
+      if (event.code === "Space") {
+        event.preventDefault();
+        togglePlay();
+      } else if (event.key === "[") {
+        setSpeed(settings.speed - 1);
+      } else if (event.key === "]") {
+        setSpeed(settings.speed + 1);
+      } else if (event.key === "-") {
+        settings.fontSize = Math.max(28, settings.fontSize - 2);
+        sizeInput.value = String(settings.fontSize);
+        applySettings();
+      } else if (event.key === "=" || event.key === "+") {
+        settings.fontSize = Math.min(62, settings.fontSize + 2);
+        sizeInput.value = String(settings.fontSize);
+        applySettings();
+      } else if (event.key === "0") {
+        setSpeed(0);
+      } else if (event.key.toLowerCase() === "r") {
+        settings.playing = false;
+        settings.lastFrame = 0;
+        settings.scrollRemainder = 0;
+        settings.speed = DEFAULT_SPEED;
+        settings.fontSize = 40;
+        settings.measure = 860;
+        settings.lowLight = false;
+        speedInput.value = String(DEFAULT_SPEED);
+        sizeInput.value = "40";
+        measureInput.value = "860";
+        applySettings();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
+    });
+
+    applySettings();
+  </script>
+</body>
+</html>
