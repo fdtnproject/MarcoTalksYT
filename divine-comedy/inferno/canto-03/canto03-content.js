@@ -1,7 +1,7 @@
 (function () {
   window.CANTO_THREE = {
   "title": "Inferno - Canto III",
-  "kicker": "Divine Comedy / MarcoTalksYT",
+  "kicker": "Divine Comedy / Inferno",
   "tagline": "Anche non scegliere è una condanna",
   "description": "Script completo da palco per il Canto III, pulito per prova, teleprompter e proiezione.",
   "images": [],
