@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 03",
+  "slug": "canto-03",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_03_source.txt",
+    "talk_finale_md": "./scripts/Canto_03_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_03_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto03-content.js"
+  },
+  "images": {
+    "thumbnail": null,
+    "cover": null,
+    "vertical": null
+  },
+  "notes": "Script completo disponibile. Asset visivi da aggiungere in ./images/ (tavole di Dore per porta / vestibolo / insegna / Caronte / foglie / svenimento)."
+}
