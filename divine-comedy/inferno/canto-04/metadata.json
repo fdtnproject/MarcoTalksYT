@@ -2,21 +2,21 @@
   "channel": "MarcoTalksYT",
   "playlist": "Divine Comedy",
   "cantica": "Inferno",
-  "episode_title": "Canto 03",
-  "slug": "canto-03",
+  "episode_title": "Canto 04",
+  "slug": "canto-04",
   "status": "draft",
   "script": {
-    "source_txt": "./scripts/Canto_03_source.txt",
-    "talk_finale_md": "./scripts/Canto_03_talk_finale.md",
-    "image_cues_md": "./scripts/Canto_03_cue_immagini.md",
+    "source_txt": "./scripts/Canto_04_source.txt",
+    "talk_finale_md": "./scripts/Canto_04_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_04_cue_immagini.md",
     "talk_html": "./talk.html",
     "teleprompter_html": "./teleprompter.html",
-    "content_js": "./canto03-content.js"
+    "content_js": "./canto04-content.js"
   },
   "images": {
     "thumbnail": null,
     "cover": null,
     "vertical": null
   },
-  "notes": "Script completo disponibile. Asset visivi da aggiungere in ./images/ (tavole di Dore per porta / vestibolo / insegna / Caronte / foglie / svenimento)."
+  "notes": "Script completo disponibile. Asset visivi da aggiungere in ./images/ (tavole di Dore per risveglio / folla del Limbo / Cristo-discesa / quattro poeti / castello / filosofi / uscita buia)."
 }

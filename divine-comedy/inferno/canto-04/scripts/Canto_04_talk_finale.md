@@ -1,870 +1,1084 @@
-# INFERNO - CANTO III
+# INFERNO - CANTO IV
 
 Versione da palco
-Linea guida: "Anche non scegliere è una condanna"
+Linea guida: "Desiderio senza approdo"
 
 Nota di lavoro:
-- pattern e taglio allineati a `Canto_01_talk_finale.md` e `Canto_02_talk_finale.md`
-- i versi sono riallineati al testo standard del Canto III
+- pattern e taglio allineati a `Canto_01_talk_finale.md`, `Canto_02_talk_finale.md`, `Canto_03_talk_finale.md`
+- i versi sono riallineati al testo standard del Canto IV
 - i cue immagine restano generici: le tavole le scegli tu
 
 ## Apertura
 
-[Schermo: Doré / la porta dell'Inferno]
+[Schermo: Doré / Dante che si risveglia sull'orlo dell'abisso]
 
-Allora, il terzo canto.
-
-Pausa.
-
-Se il primo canto era la diagnosi,
-e il secondo era la condizione per partire,
-il terzo è il primo passo vero.
+Allora, il quarto canto.
 
 Pausa.
 
-Dante ha ritrovato la via.
-Ha accettato di non scendere da solo.
-Ora arriva alla porta.
+Se il terzo si era chiuso con Dante che sviene
+sulla riva dell'Acheronte,
+il quarto si apre con un tuono
+che gli rompe il sonno nella testa.
+
+Pausa.
+
+Il viaggio è già successo.
+Il fiume è stato attraversato.
+E non sappiamo come.
 
 Pausa lunga.
 
-E davanti alla porta
-il canto ti mette di fronte a una domanda
-che non ti aspetti:
+Dante si sveglia dall'altra parte.
+E il primo cerchio dell'Inferno
+non è quello che ti aspetti.
 
-chi c'è dentro l'Inferno,
-e chi è rimasto fuori perfino da lì.
+Non ci sono fiamme.
+Non ci sono urla.
+Ci sono sospiri.
 
-Tutto il Canto III ruota intorno a una sola frase:
-anche non scegliere è una condanna.
+Tutto il Canto IV ruota intorno a una sola frase:
+desiderio senza approdo.
 
-## vv. 1-9 - L'iscrizione sulla porta
+## vv. 1-9 - Il tuono e il risveglio
 
-> Per me si va ne la città dolente,
-> per me si va ne l'etterno dolore,
-> per me si va tra la perduta gente.
-> Giustizia mosse il mio alto fattore;
-> fecemi la divina podestate,
-> la somma sapïenza e 'l primo amore.
-> Dinanzi a me non fuor cose create
-> se non etterne, e io etterno duro.
-> Lasciate ogne speranza, voi ch'intrate.
+> Ruppemi l'alto sonno ne la testa
+> un greve truono, sì ch'io mi riscossi
+> come persona ch'è per forza desta;
+> e l'occhio riposato intorno mossi,
+> dritto levato, e fiso riguardai
+> per conoscer lo loco dov' io fossi.
+> Vero è che 'n su la proda mi trovai
+> de la valle d'abisso dolorosa
+> che 'ntrono accoglie d'infiniti guai.
 
-È la porta che parla.
-Non Virgilio. Non Dante.
-La porta.
-
-Pausa.
-
-"Per me si va..."
-Tre volte.
-Città dolente. Etterno dolore. Perduta gente.
+Un tuono pesante
+lo tira fuori dal sonno.
 
 Pausa.
 
-Poi la porta dice chi l'ha fatta.
-Giustizia, Potere, Sapienza, Amore.
-Le tre persone della Trinità,
-più la giustizia che le muove.
+Non un risveglio dolce.
+"Come persona ch'è per forza desta."
+Svegliato a forza.
 
-Capisci cosa sta dicendo?
-Questo posto non è un errore dell'universo.
-È voluto.
-È stato costruito.
-Dall'Amore.
+Pausa.
+
+Apre gli occhi.
+Si alza dritto.
+Guarda.
+
+E si accorge di essere già
+sull'orlo della valle d'abisso.
 
 Pausa lunga.
 
-E poi l'ultima riga.
+Nota il dettaglio:
+Dante non ha camminato fin qui.
+Si trova qui.
 
-"Lasciate ogne speranza, voi ch'intrate."
+Il confine tra mondo vivo e mondo morto
+non l'ha attraversato sulle sue gambe.
+L'ha attraversato nell'inconscienza.
 
-Non è una minaccia.
-È un'istruzione.
-Per poter entrare,
-devi lasciare fuori la speranza.
+## vv. 10-21 - Virgilio pallido
 
-Pausa.
+> Oscura e profonda era e nebulosa
+> tanto che, per ficcar lo viso a fondo,
+> io non vi discernea alcuna cosa.
+> "Or discendiam qua giù nel cieco mondo",
+> cominciò il poeta tutto smorto.
+> "Io sarò primo, e tu sarai secondo".
+> E io, che del color mi fui accorto,
+> dissi: "Come verrò, se tu paventi,
+> che suoli al mio dubbiare esser conforto?".
+> Ed elli a me: "L'angoscia de le genti
+> che son qua giù, nel viso mi dipigne
+> quella pietà che tu per tema senti.
+> Andiam, ché la via lunga ne sospigne".
 
-La speranza qui dentro
-non serve.
-Anzi: fa male.
-
-## vv. 10-21 - Paura e spinta
-
-> Queste parole di colore oscuro
-> vid' ïo scritte al sommo d'una porta;
-> per ch'io: "Maestro, il senso lor m'è duro".
-> Ed elli a me, come persona accorta:
-> "Qui si convien lasciare ogne sospetto;
-> ogne viltà convien che qui sia morta.
-> Noi siam venuti al loco ov' i' t'ho detto
-> che tu vedrai le genti dolorose
-> c'hanno perduto il ben de l'intelletto".
-> E poi che la sua mano a la mia puose
-> con lieto volto, ond' io mi confortai,
-> mi mise dentro a le segrete cose.
-
-Dante legge.
-Dante ha paura.
-
-Dice: "Maestro, il senso lor m'è duro."
-Il senso mi è duro.
-Pesante. Da digerire.
+La valle è oscura,
+profonda,
+nebbiosa.
 
 Pausa.
 
-E Virgilio risponde con una delle frasi
-più importanti di tutta la Commedia.
+Dante guarda giù
+e non distingue niente.
 
-"Qui si convien lasciare ogne sospetto;
-ogne viltà convien che qui sia morta."
+Poi Virgilio parla.
+"Or discendiam qua giù nel cieco mondo."
 
 Pausa lunga.
 
-Viltà.
-La stessa parola del Canto II.
+Ma Virgilio è smorto.
+Bianco in faccia.
 
-Nel Canto II Virgilio aveva diagnosticato la viltà in Dante.
-Qui, sulla soglia, la dichiara morta.
+E Dante lo nota subito.
 
-Se vuoi entrare,
-la viltà la lasci qui.
+"Come verrò, se tu paventi,
+che suoli al mio dubbiare esser conforto?"
 
-Pausa.
-
-Poi fa una cosa piccolissima.
-Gli prende la mano.
-"Con lieto volto."
-
-Una mano e un sorriso
-per entrare nel peggior luogo dell'universo.
-
-Il Canto II era: non si scende da soli.
-Il Canto III comincia con una mano stretta.
-
-## vv. 22-30 - I suoni del buio
-
-> Quivi sospiri, pianti e alti guai
-> risonavan per l'aere sanza stelle,
-> per ch'io al cominciar ne lagrimai.
-> Diverse lingue, orribili favelle,
-> parole di dolore, accenti d'ira,
-> voci alte e fioche, e suon di man con elle
-> facevano un tumulto, il qual s'aggira
-> sempre in quell' aura sanza tempo tinta,
-> come la rena quando turbo spira.
-
-Prima il suono.
-Dante sente prima di vedere.
-
-Sospiri.
-Pianti.
-Alti guai.
+Come faccio a venire
+se hai paura pure tu,
+che mi hai sempre dato coraggio?
 
 Pausa.
 
-Tre gradi di dolore.
-Non lo stesso urlo.
-Una scala.
+Virgilio spiega.
 
-Diverse lingue,
-accenti d'ira,
-suono di mani che battono.
+"L'angoscia de le genti che son qua giù
+nel viso mi dipigne
+quella pietà che tu per tema senti."
 
 Pausa.
 
-E tutto gira.
-Come la sabbia dentro la tempesta.
+Non è paura.
+È pietà.
+Ma la pietà,
+quando è vera,
+fa lo stesso colore della paura.
 
-L'inferno non è un luogo
-con un centro chiaro.
-Qui, al vestibolo,
-è solo un vortice.
-Suono senza forma.
-Aria senza stelle.
-Tempo che non passa.
+Virgilio sta per incontrare
+gente che conosce.
 
-## vv. 31-36 - Che gente è questa
+## vv. 22-30 - Sospiri, non lamenti
 
-> E io ch'avea d'error la testa cinta,
-> dissi: "Maestro, che è quel ch'i' odo?
-> e che gent' è che par nel duol sì vinta?".
-> Ed elli a me: "Questo misero modo
-> tegnon l'anime triste di coloro
-> che visser sanza 'nfamia e sanza lodo.
+> Così si mise e così mi fé intrare
+> nel primo cerchio che l'abisso cigne.
+> Quivi, secondo che per ascoltare,
+> non avea pianto mai che di sospiri
+> che l'aura etterna facevan tremare;
+> ciò avvenia di duol sanza martìri,
+> ch'avean le turbe, ch'eran molte e grandi,
+> d'infanti e di femmine e di viri.
 
-Dante chiede:
-chi sono questi?
+Entrano nel primo cerchio.
 
-Virgilio risponde lentamente.
+Pausa.
 
-"Le anime triste di coloro
-che visser sanza 'nfamia e sanza lodo."
+E il primo cerchio dell'Inferno
+non suona come l'Inferno.
+
+Qui non c'è pianto.
+Ci sono sospiri.
+
+Pausa.
+
+"L'aura etterna facevan tremare."
+L'aria eterna
+trema di sospiri.
+
+Pausa lunga.
+
+Poi Dante mette in chiaro
+cos'è questo cerchio.
+
+"Ciò avvenia di duol sanza martìri."
+
+Duolo senza tormento.
+
+Dolore che non brucia.
+Dolore che non strappa.
+Dolore che sospira e basta.
+
+Pausa.
+
+E dentro questi sospiri
+ci sono turbe grandi.
+Bambini.
+Donne.
+Uomini.
+
+Tutti insieme.
+Senza distinzione di età o di grado.
+
+All'inizio del cerchio,
+il Limbo non distingue.
+
+Tiene tutti
+nella stessa sospensione.
+
+## vv. 31-42 - Sanza speme, in disio
+
+> Lo buon maestro a me: "Tu non dimandi
+> che spiriti son questi che tu vedi?
+> Or vo' che sappi, innanzi che più andi,
+> ch'ei non peccaro; e s'elli hanno mercedi,
+> non basta, perché non ebber battesmo,
+> ch'è porta de la fede che tu credi;
+> e s'e' furon dinanzi al cristianesmo,
+> non adorar debitamente a Dio:
+> e di questi cotai son io medesmo.
+> Per tai difetti, non per altro rio,
+> semo perduti, e sol di tanto offesi,
+> che sanza speme vivemo in disio".
+
+Virgilio prende lui l'iniziativa.
+
+"Tu non dimandi
+che spiriti son questi che tu vedi?"
+
+Pausa.
+
+E poi spiega.
+Ma senti come.
+
+"Ch'ei non peccaro."
+
+Non hanno peccato.
+
+Pausa lunga.
+
+E allora perché sono qui?
+
+Perché non hanno avuto il battesimo.
+O perché sono nati prima di Cristo
+e non hanno adorato Dio come andava adorato.
+
+Pausa.
+
+Non un peccato proprio.
+Un difetto.
+Un "per tai difetti, non per altro rio."
+
+Non perché abbiano scelto il male.
+Perché manca loro
+ciò che apre la via.
+
+Pausa.
+
+E poi Virgilio dice una frase
+che vale tutto il canto.
+
+"Di questi cotai son io medesmo."
+
+Di questi sono io stesso.
+
+Pausa lunga.
+
+La guida di Dante
+abita qui.
+
+Virgilio non passa per il Limbo.
+Virgilio ci vive.
+
+Pausa.
+
+E poi la riga che apre tutto:
+
+"Sanza speme vivemo in disio."
+
+Senza speranza
+viviamo
+nel desiderio.
 
 Pausa lunga.
 
 Fermati qui.
 
-Sanza 'nfamia e sanza lodo.
-Senza infamia e senza lode.
+Non c'è tormento.
+C'è un desiderio
+che non troverà mai un oggetto.
+
+Vuoi Dio
+e sai che non lo avrai.
+Per sempre.
 
 Pausa.
 
-Non i peggiori.
-Non i migliori.
-Niente.
+Questa è la pena del Limbo.
+Non il dolore del fuoco.
+Il desiderio che non approda.
 
-Non hanno fatto abbastanza male da essere maledetti.
-Non hanno fatto abbastanza bene da essere ricordati.
-Sono esistiti.
-Punto.
+## vv. 43-51 - La domanda di Dante
 
-## vv. 37-42 - Il cattivo coro
+> Gran duol mi prese al cor quando lo 'ntesi,
+> però che gente di molto valore
+> conobbi che 'n quel limbo eran sospesi.
+> "Dimmi, maestro mio, dimmi, segnore",
+> comincia' io per voler esser certo
+> di quella fede che vince ogne errore:
+> "uscicci mai alcuno, o per suo merto
+> o per altrui, che poi fosse beato?".
 
-> Mischiate sono a quel cattivo coro
-> de li angeli che non furon ribelli
-> né fur fedeli a Dio, ma per sé fuoro.
-> Caccianli i ciel per non esser men belli,
-> né lo profondo inferno li riceve,
-> ch'alcuna gloria i rei avrebber d'elli".
-
-E qui Dante dà la cornice teologica.
-
-Questi stanno insieme
-a un gruppo ancora più inquietante:
-gli angeli che non hanno scelto.
+A Dante prende un gran dolore.
 
 Pausa.
 
-Nella ribellione di Lucifero
-ci sono stati angeli con Dio
-e angeli contro Dio.
+Perché vede
+persone di valore
+che stanno qui sospese.
 
-E poi un terzo gruppo.
-Quelli che non si sono schierati.
-"Né ribelli né fedeli."
+E allora chiede una cosa,
+ma chiede con cautela.
 
-Sono stati "per sé".
+"Per voler esser certo
+di quella fede che vince ogne errore."
+
+Pausa.
+
+Non sta chiedendo informazione.
+Sta chiedendo conferma.
+
+Della fede.
 
 Pausa lunga.
 
-Ora senti bene cosa succede a chi sta "per sé":
+"Uscicci mai alcuno?"
 
-il cielo non lo vuole,
-perché sporcherebbe la bellezza.
+Qualcuno è mai uscito di qui?
 
-E l'inferno profondo non lo vuole,
-perché darebbe gloria ai dannati
-averselo accanto.
+## vv. 52-63 - La discesa di Cristo
 
-Pausa.
+> E quei, che 'ntese il mio parlar coverto,
+> rispuose: "Io era nuovo in questo stato,
+> quando ci vidi venire un possente,
+> con segno di vittoria coronato.
+> Trasseci l'ombra del primo parente,
+> d'Abèl suo figlio e quella di Noè,
+> di Moïsè legista e ubidente;
+> Abraàm patrïarca e Davìd re,
+> Israèl con lo padre e co' suoi nati
+> e con Rachele, per cui tanto fé,
+> e altri molti, e feceli beati.
+> E vo' che sappi che, dinanzi ad essi,
+> spiriti umani non eran salvati".
 
-Doppio rifiuto.
-Cacciati dal cielo per eccesso di tiepidezza.
-Respinti dall'inferno
-perché nemmeno i dannati vogliono essere confusi con loro.
+Virgilio capisce
+cosa sta chiedendo davvero.
 
-Questa è la condanna degli ignavi.
-
-Non avere un posto.
-Nemmeno quello cattivo.
-
-## vv. 43-51 - Non hanno speranza di morte
-
-> E io: "Maestro, che è tanto greve
-> a lor, che lamentar li fa sì forte?".
-> Rispuose: "Dicerolti molto breve.
-> Questi non hanno speranza di morte
-> e la lor cieca vita è tanto bassa,
-> che 'nvidïosi son d'ogne altra sorte.
-> Fama di loro il mondo esser non lassa;
-> misericordia e giustizia li sdegna:
-> non ragioniam di lor, ma guarda e passa".
-
-Dante chiede perché gridano così forte.
-Virgilio risponde in tre colpi.
+E risponde.
 
 Pausa.
 
-"Questi non hanno speranza di morte."
-Non possono nemmeno finire.
+"Io era nuovo in questo stato
+quando ci vidi venire un possente."
 
-"La lor cieca vita è tanto bassa
-che 'nvidïosi son d'ogne altra sorte."
-Perfino i dannati,
-almeno,
-sono qualcuno.
-
-Pausa.
-
-"Fama di loro il mondo esser non lassa."
-Il mondo li cancella.
-
-"Misericordia e giustizia li sdegna."
-Nessuna delle due
-si ferma su di loro.
+Io ero appena arrivato qui
+quando vidi entrare un potente.
 
 Pausa lunga.
 
-E poi la sentenza.
+Non lo nomina.
+Dice "un possente, con segno di vittoria coronato."
 
-"Non ragioniam di lor, ma guarda e passa."
-
-Virgilio, il poeta della parola,
-dice: non spendere parola.
-
-Il contrario della gloria
-non è l'infamia.
-È essere indegni persino del discorso.
-
-## vv. 52-57 - L'insegna
-
-> E io, che riguardai, vidi una 'nsegna
-> che girando correva tanto ratta,
-> che d'ogne posa mi parea indegna;
-> e dietro le venìa sì lunga tratta
-> di gente, ch'i' non averei creduto
-> che morte tanta n'avesse disfatta.
-
-Dante guarda.
-E vede un'insegna.
+Cristo sceso negli inferi.
 
 Pausa.
 
-Un'insegna vuota.
-Una bandiera senza nulla sopra.
+E poi l'elenco
+di chi portò via.
 
-Che gira.
-Corre.
-Non si ferma mai.
+Adamo.
+Abele.
+Noè.
+Mosè.
+Abramo.
+Davide.
+Giacobbe.
+Rachele.
+
+I nomi dell'antico testamento.
 
 Pausa.
 
-"D'ogne posa mi parea indegna."
-Non merita di fermarsi.
+E poi la frase secca.
+
+"Dinanzi ad essi,
+spiriti umani
+non eran salvati."
+
+Prima di loro,
+nessuno.
+
+Pausa lunga.
+
+Capisci dove siamo?
+
+Siamo in un posto
+dove è passato Cristo.
+Una volta sola.
+
+E dopo, più nessuno.
+
+Virgilio ha visto la salvezza
+attraversare questo cerchio.
+E restare dall'altra parte.
+
+## Il Limbo - Desiderio senza approdo
+
+Pausa lunga.
+
+Questo cerchio non è una punizione
+nel senso normale della parola.
+
+Non ci sono demoni.
+Non ci sono fiamme.
+Non c'è un giudice che grida.
+
+C'è solo
+una mancanza
+che non si colma.
+
+Pausa.
+
+Per Dante
+questo è il punto più doloroso
+in un modo tutto suo.
+
+Perché qui non vedi colpa
+nel modo in cui la vedrai dopo.
+Ma non vedi nemmeno via d'uscita.
+
+Il desiderio sa dove vuole andare.
+Non ci può andare.
 Mai.
 
-E dietro a questo stendardo vuoto,
-una tratta di gente lunghissima.
+## vv. 64-69 - Il fuoco nel buio
+
+> Non lasciavam l'andar perch' ei dicessi,
+> ma passavam la selva tuttavia,
+> la selva, dico, di spiriti spessi.
+> Non era lunga ancor la nostra via
+> di qua dal sonno, quand' io vidi un foco
+> ch'emisperio di tenebre vincia.
+
+Dante e Virgilio non si fermano.
+
+Camminano
+dentro una selva di spiriti.
 
 Pausa.
 
-Nota cosa ha fatto Dante qui,
-come immagine.
+"Di spiriti spessi."
+Fitti.
+Tanti.
 
-Queste persone in vita
-non hanno seguito niente.
-Non si sono schierate.
-
-Come punizione,
-seguono per sempre
-una bandiera senza segno.
-
-La loro non-scelta
-diventa la loro eternità.
-
-## vv. 58-63 - Il gran rifiuto
-
-> Poscia ch'io v'ebbi alcun riconosciuto,
-> vidi e conobbi l'ombra di colui
-> che fece per viltade il gran rifiuto.
-> Incontanente intesi e certo fui
-> che questa era la setta d'i cattivi,
-> a Dio spiacenti e a' nemici sui.
-
-E qui Dante fa una cosa che rimane celebre.
+Non sono pochi, i giusti di prima di Cristo.
+Sono una selva.
 
 Pausa.
 
-Riconosce un'ombra.
-Non la nomina.
-Ma la indica.
+E dopo poco Dante vede
+una cosa inaspettata.
 
-"Colui che fece per viltade il gran rifiuto."
+Un fuoco.
+Che vince un emisfero di tenebre.
 
 Pausa lunga.
 
-Per secoli si è discusso chi fosse.
-Celestino V, il papa che abdicò.
-O altri personaggi della storia di Dante.
+Ricordi che il Limbo è buio?
+"Aura fosca."
 
-Non importa chi è.
-Importa la formula.
+Eppure qui,
+nel punto dove stanno andando,
+c'è luce.
 
-"Per viltade"
-"il gran rifiuto."
+Una luce dentro il buio dell'Inferno.
+
+## vv. 70-78 - Onorata gente
+
+> Di lungi n'eravamo ancora un poco,
+> ma non sì ch'io non discernessi in parte
+> ch'orrevol gente possedea quel loco.
+> "O tu ch'onori scïenzïa e arte,
+> questi chi son c'hanno cotanta onranza,
+> che dal modo de li altri li diparte?".
+> E quelli a me: "L'onrata nominanza
+> che di lor suona sù ne la tua vita,
+> grazia acquista in ciel che sì li avanza".
+
+Si avvicinano.
+Non abbastanza da vedere tutto.
+Abbastanza da capire.
 
 Pausa.
 
-Non un errore.
-Non un peccato.
-Un rifiuto.
+"Orrevol gente possedea quel loco."
+Gente onorevole.
 
-E viltà come motore.
+E Dante si accorge
+che questa gente
+è diversa dagli altri spiriti del Limbo.
 
-Chi non ha accettato
-quando era il suo momento,
-finisce qui.
+Pausa.
 
-Non perché abbia fatto male.
-Perché non ha fatto.
+E chiede.
 
-## Gli ignavi - Il punto più basso
+"Questi chi son c'hanno cotanta onranza,
+che dal modo de li altri li diparte?"
+
+Chi sono questi
+che hanno tanto onore
+da essere separati dagli altri?
 
 Pausa lunga.
 
-Perché Dante mette gli ignavi qui,
-prima dell'Inferno vero?
+E Virgilio risponde
+con una delle idee più belle della Commedia.
 
-Perché i peccatori che verranno dopo
-hanno scelto.
-Male, ma scelto.
-
-Qui no.
-Qui c'è il rifiuto della scelta stessa.
+"L'onrata nominanza
+che di lor suona sù ne la tua vita,
+grazia acquista in ciel
+che sì li avanza."
 
 Pausa.
 
-Per Dante questa è la forma più bassa.
-Non perché faccia più male.
-Perché non entra nemmeno nel gioco della vita morale.
+Traduciamo.
 
-## vv. 64-69 - Mosche, vespe, vermi
-
-> Questi sciaurati, che mai non fur vivi,
-> erano ignudi e stimolati molto
-> da mosconi e da vespe ch'eran ivi.
-> Elle rigavan lor di sangue il volto,
-> che, mischiato di lagrime, a' lor piedi
-> da fastidiosi vermi era ricolto.
-
-"Mai non fur vivi."
+Il nome onorato
+che di loro continua a suonare
+nella vita di chi vive,
+in cielo acquista una grazia.
 
 Pausa.
 
-Non: sono morti.
-Non: non vivranno più.
+La memoria che lasciano sulla terra
+qui sotto diventa una luce in più.
 
-Mai non fur vivi.
+Non salvezza.
+Ma distinzione.
+Dentro la non-salvezza.
 
-Non hanno mai iniziato a essere.
+## vv. 79-93 - Onorate l'altissimo poeta
+
+> Intanto voce fu per me udita:
+> "Onorate l'altissimo poeta;
+> l'ombra sua torna, ch'era dipartita".
+> Poi che la voce fu restata e queta,
+> vidi quattro grand' ombre a noi venire:
+> sembianz' avevan né trista né lieta.
+> Lo buon maestro cominciò a dire:
+> "Mira colui con quella spada in mano,
+> che vien dinanzi ai tre sì come sire:
+> quelli è Omero poeta sovrano;
+> l'altro è Orazio satiro che vene;
+> Ovidio è 'l terzo, e l'ultimo Lucano.
+> Però che ciascun meco si convene
+> nel nome che sonò la voce sola,
+> fannomi onore, e di ciò fanno bene".
+
+E mentre si avvicinano,
+Dante sente una voce.
+
+Pausa.
+
+"Onorate l'altissimo poeta.
+L'ombra sua torna."
+
+Stanno salutando Virgilio
+che rientra.
+
+Pausa.
+
+Poi quattro grandi ombre
+vengono avanti.
+
+Non tristi.
+Non liete.
 
 Pausa lunga.
 
-Poi il contrappasso.
+E Virgilio te le presenta una per una.
 
-Nudi, punti da mosche e vespe.
-Sangue e lacrime che colano a terra.
-Vermi che se le raccolgono.
+Quello con la spada in mano,
+davanti a tutti come un re:
+Omero.
 
-Insetti fastidiosi.
-Non mostri.
-Non demoni.
-Fastidi.
-
-Pausa.
-
-Chi non ha mai deciso nulla di grande
-viene molestato per sempre da cose piccole.
-
-Il sangue che versano
-non è eroico.
-È solo seccatura.
-
-E persino questo sangue
-non serve a nulla:
-lo raccolgono vermi.
-
-## vv. 70-81 - Verso l'Acheronte
-
-> E poi ch'a riguardar oltre mi diedi,
-> vidi genti a la riva d'un gran fiume;
-> per ch'io dissi: "Maestro, or mi concedi
-> ch'i' sappia quali sono, e qual costume
-> le fa di trapassar parer sì pronte,
-> com' i' discerno per lo fioco lume".
-> Ed elli a me: "Le cose ti fier conte
-> quando noi fermerem li nostri passi
-> su la trista riviera d'Acheronte".
-> Allor con li occhi vergognosi e bassi,
-> temendo no 'l mio dir li fosse grave,
-> infino al fiume del parlar mi trassi.
-
-Si lascia l'insegna.
-Si va oltre.
-
-Dante vede gente sulla riva di un fiume.
-Vede che vogliono passare.
+Poi Orazio.
+Poi Ovidio.
+Poi Lucano.
 
 Pausa.
 
-E qui succede una cosa piccola
-ma importante.
+I quattro più grandi poeti dell'antichità.
 
-Virgilio lo zittisce con dolcezza.
-"Le cose ti fier conte
-quando noi fermerem li nostri passi."
+E Virgilio dice:
+siamo tutti chiamati con lo stesso nome,
+la voce mi ha onorato,
+e anche loro mi onorano.
 
-Tradotto:
-non fare domande adesso,
-aspetta di arrivare.
+"E di ciò fanno bene."
 
 Pausa.
 
-E Dante reagisce così:
-"li occhi vergognosi e bassi".
+I giganti della poesia latina e greca
+stanno insieme.
 
-Si sente in colpa
-per aver chiesto troppo presto.
+E stanno qui.
+Nel Limbo.
 
-"Infino al fiume del parlar mi trassi."
-Non parla più, fino al fiume.
+## vv. 94-105 - Sesto tra cotanto senno
 
-Sta imparando.
-Nel Canto III Dante inizia a tacere.
+> Così vid' i' adunar la bella scola
+> di quel segnor de l'altissimo canto
+> che sovra li altri com' aquila vola.
+> Da ch'ebber ragionato insieme alquanto,
+> volsersi a me con salutevol cenno,
+> e 'l mio maestro sorrise di tanto;
+> e più d'onore ancora assai mi fenno,
+> ch'e' sì mi fecer de la loro schiera,
+> sì ch'io fui sesto tra cotanto senno.
+> Così andammo infino a la lumera,
+> parlando cose che 'l tacere è bello,
+> sì com' era 'l parlar colà dov' era.
 
-## vv. 82-93 - Caronte
-
-> Ed ecco verso noi venir per nave
-> un vecchio, bianco per antico pelo,
-> gridando: "Guai a voi, anime prave!
-> Non isperate mai veder lo cielo:
-> i' vegno per menarvi a l'altra riva
-> ne le tenebre etterne, in caldo e 'n gelo.
-> E tu che se' costì, anima viva,
-> pàrtiti da cotesti che son morti".
-> Ma poi che vide ch'io non mi partiva,
-> disse: "Per altra via, per altri porti
-> verrai a piaggia, non qui, per passare:
-> più lieve legno convien che ti porti".
-
-Ecco Caronte.
-
-Vecchio.
-Capelli bianchi.
-Una barca.
-Grida.
+Dante descrive una cosa
+che dal palco devi dire piano.
 
 Pausa.
 
-"Guai a voi, anime prave!"
+"Così vid' i' adunar la bella scola
+di quel segnor de l'altissimo canto."
 
-Non benvenuto.
-Guai.
-
-Poi l'istruzione:
-non sperate più di vedere il cielo.
-Io vi porto nel freddo e nel caldo
-per sempre.
+Si raccoglie la bella scuola
+intorno a Omero.
 
 Pausa.
 
-E poi si accorge di Dante.
+Parlano tra loro.
+Poi si voltano verso Dante.
+Gli fanno un cenno di saluto.
 
-"Tu che se' costì, anima viva."
-Vattene da questi morti.
-
-Caronte riconosce subito
-che Dante non appartiene a questa fila.
+E Virgilio sorride.
 
 Pausa lunga.
 
-E dice la cosa decisiva:
-tu passerai,
-ma non con questa barca.
+E poi succede la cosa decisiva.
 
-Questo viaggio passa di qui.
-Ma non finisce qui.
-
-## vv. 94-99 - Vuolsi così colà dove si puote
-
-> E 'l duca lui: "Caron, non ti crucciare:
-> vuolsi così colà dove si puote
-> ciò che si vuole, e più non dimandare".
-> Quinci fuor quete le lanose gote
-> al nocchier de la livida palude,
-> che 'ntorno a li occhi avea di fiamme rote.
-
-Virgilio risponde con una formula
-che userà ancora dopo,
-quando qualcuno proverà a bloccare il cammino.
+"E più d'onore ancora assai mi fenno,
+ch'e' sì mi fecer de la loro schiera,
+sì ch'io fui sesto tra cotanto senno."
 
 Pausa.
 
-"Vuolsi così colà
-dove si puote
-ciò che si vuole."
+Lo fanno entrare nella loro schiera.
+
+Omero. Orazio. Ovidio. Lucano. Virgilio.
+E Dante.
+
+Sesto.
 
 Pausa lunga.
 
-Non è una spiegazione.
-È una formula d'autorità.
+Dante,
+nel primo cerchio dell'Inferno,
+si elegge
+accanto ai più grandi poeti mai esistiti.
 
-Significa:
-questa strada è aperta
-perché lo vuole chi può volerla davvero.
-
-Pausa.
-
-E poi:
-"più non dimandare."
-
-Basta così.
-
-Caronte si ferma.
-Le gote tacciono.
-Gli occhi no.
-
-La resistenza si placa.
-Il fuoco resta.
-
-## vv. 100-111 - Le anime nude
-
-> Ma quell' anime, ch'eran lasse e nude,
-> cangiar colore e dibattero i denti,
-> ratto che 'nteser le parole crude.
-> Bestemmiavano Dio e lor parenti,
-> l'umana spezie e 'l loco e 'l tempo e 'l seme
-> di lor semenza e di lor nascimenti.
-> Poi si ritrasser tutte quante insieme,
-> forte piangendo, a la riva malvagia
-> ch'attende ciascun uom che Dio non teme.
-> Caron dimonio, con occhi di bragia
-> loro accennando, tutte le raccoglie;
-> batte col remo qualunque s'adagia.
-
-Le parole di Caronte sono crude.
-E le anime reagiscono subito:
-cambiano colore,
-battono i denti.
+Non è timidezza.
+È una dichiarazione.
 
 Pausa.
 
-Poi viene l'elenco.
+E subito dopo la frase più strana del canto.
 
-Bestemmiano Dio,
-i parenti,
-la specie umana,
-il luogo,
-il tempo,
-la nascita.
+"Parlando cose che 'l tacere è bello."
 
-Bestemmiano tutto ciò che li ha fatti essere.
+Parlando di cose
+che è bello tacere.
+
+Non ci dice cosa si sono detti.
+Non perché non possa.
+Perché non deve.
+
+Sta in silenzio
+dentro la propria poesia.
+
+## vv. 106-111 - Il nobile castello
+
+> Venimmo al piè d'un nobile castello,
+> sette volte cerchiato d'alte mura,
+> difeso intorno d'un bel fiumicello.
+> Questo passammo come terra dura;
+> per sette porte intrai con questi savi:
+> giugnemmo in prato di fresca verdura.
+
+E arrivano
+a un castello nobile.
+
+Pausa.
+
+Sette mura.
+Un fiumetto intorno
+che fa da difesa.
 
 Pausa lunga.
 
-Non odiano solo la pena.
-Odiano l'origine.
+Guarda cosa succede con il fiume.
 
-E poi si raccolgono da sole
-sulla riva.
-Piangendo.
+"Questo passammo come terra dura."
 
-Caronte le spinge,
-le chiama,
-le colpisce se rallentano.
-
-"Caron dimonio."
-Qui il traghettatore
-non accompagna.
-Esige.
-
-## vv. 112-120 - Le foglie d'autunno
-
-> Come d'autunno si levan le foglie
-> l'una appresso de l'altra, fin che 'l ramo
-> vede a la terra tutte le sue spoglie,
-> similemente il mal seme d'Adamo
-> gittansi di quel lito ad una ad una,
-> per cenni come augel per suo richiamo.
-> Così sen vanno su per l'onda bruna,
-> e avanti che sien di là discese,
-> anche di qua nuova schiera s'auna.
-
-E qui arriva una delle immagini
-più memorabili del canto.
+Lo attraversano
+come fosse terra solida.
 
 Pausa.
 
-Le foglie d'autunno
-cadono una dopo l'altra
-finché il ramo resta nudo.
+Sette mura.
+Sette porte.
 
-Così i dannati si staccano dalla riva.
-Uno.
-Poi un altro.
-Poi un altro ancora.
+I commentatori hanno letto mille cose.
+Le sette virtù.
+Le sette arti liberali.
+
+Qui basta sapere una cosa.
+
+Il castello è bello.
+È difeso.
+Ma è dentro l'Inferno.
 
 Pausa.
 
-"Per cenni, come augel per suo richiamo."
+Passano le sette porte
+e arrivano
+in un prato.
 
-Non precipitano nel caos.
-Rispondono a un cenno.
+"Fresca verdura."
 
-Ed è questo che fa paura:
-non resistono.
-Vanno.
+Nell'Inferno
+c'è un prato verde.
 
-## vv. 121-129 - La tema si volve in disio
+## vv. 112-129 - Gli spiriti magni
 
-> "Figliuol mio", disse 'l maestro cortese,
-> "quelli che muoion ne l'ira di Dio
-> tutti convegnon qui d'ogne paese:
-> e pronti sono a trapassar lo rio,
-> ché la divina giustizia li sprona,
-> sì che la tema si volve in disio.
-> Quinci non passa mai anima buona;
-> e però, se Caron di te si lagna,
-> ben puoi sapere omai che 'l suo dir suona".
+> Genti v'eran con occhi tardi e gravi,
+> di grande autorità ne' lor sembianti:
+> parlavan rado, con voci soavi.
+> Traemmoci così da l'un de' canti,
+> in loco aperto, luminoso e alto,
+> sì che veder si potien tutti quanti.
+> Colà diritto, sovra 'l verde smalto,
+> mi fuor mostrati li spiriti magni,
+> che del vedere in me stesso m'essalto.
+> I' vidi Eletra con molti compagni,
+> tra ' quai conobbi Ettòr ed Enea,
+> Cesare armato con li occhi grifagni.
+> Vidi Cammilla e la Pantasilea;
+> dall'altra parte vidi 'l re Latino
+> che con Lavina sua figlia sedea.
+> Vidi quel Bruto che cacciò Tarquino,
+> Lucrezia, Iulia, Marzïa e Corniglia;
+> e solo, in parte, vidi 'l Saladino.
 
-Virgilio dice la cosa più dura.
+Sul prato
+c'è gente diversa dagli altri.
 
-"La tema si volve in disio."
+Pausa.
+
+"Occhi tardi e gravi."
+Lenti.
+Pesanti di pensiero.
+
+"Di grande autorità ne' lor sembianti."
+Portano autorità nel viso.
+
+"Parlavan rado, con voci soavi."
+Parlano poco.
+E quando parlano, piano.
 
 Pausa lunga.
 
-La paura
-si rovescia
-in desiderio.
+Poi Virgilio porta Dante
+in un punto aperto, luminoso, alto
+da cui si vede tutto il prato.
 
-La giustizia li spinge
-così a fondo
-che quello che dovrebbe essere terrore
-diventa voglia di passare.
-
-Non perché la pena sia dolce.
-Perché ormai coincide
-con ciò che sono diventati.
+E gli mostra
+gli spiriti magni.
 
 Pausa.
 
-"Quinci non passa mai anima buona."
+E ora Dante fa una cosa
+che al palco devi affrontare diritta.
 
-E quindi Dante,
-semplicemente,
-non è dei loro.
-
-## vv. 130-136 - Svenimento
-
-> Finito questo, la buia campagna
-> tremò sì forte, che de lo spavento
-> la mente di sudore ancor mi bagna.
-> La terra lagrimosa diede vento,
-> che balenò una luce vermiglia
-> la qual mi vinse ciascun sentimento;
-> e caddi come l'uom cui sonno piglia.
-
-E qui si chiude il canto
-con una scena fisica.
+Elenca.
 
 Pausa.
 
-La terra trema.
-La terra lagrimosa
-dà vento.
-
-Poi lampeggia il rosso.
+Elettra.
+Ettore.
+Enea.
+Cesare armato, con gli occhi da rapace.
 
 Pausa.
 
-Dante perde i sensi.
+Camilla.
+Pentesilea.
+Latino re.
+Lavinia, sua figlia.
 
-"Mi vinse ciascun sentimento."
+Pausa.
 
-Tutti i sensi,
-insieme,
-vinti.
+Bruto che cacciò Tarquinio.
+Lucrezia, Giulia, Marzia, Cornelia.
 
-"E caddi come l'uom cui sonno piglia."
+Pausa.
+
+E poi,
+da solo,
+in disparte,
+Saladino.
 
 Pausa lunga.
 
-Dante non passa l'Acheronte sulle sue gambe.
-Sviene.
-Si risveglierà dall'altra parte.
+Saladino.
+Il sultano musulmano.
+In mezzo agli eroi del mondo classico.
 
-Il confine tra mondo vivo e mondo morto,
-qui,
-non si attraversa per forza.
-Si subisce.
-
-## Gli ignavi e noi
+Solo.
+In parte.
 
 Pausa.
 
-Questo canto brucia ancora
-perché la tiepidezza oggi
-somiglia a una virtù.
+Perché Dante lo mette qui?
+Perché Dante gli riconosce
+una nobiltà
+che lo stacca dal mucchio.
 
-"Non mi espongo."
-"Non scelgo."
-"Resto fuori."
+Gli vale il prato dei magni.
+Non il paradiso.
+
+## vv. 130-144 - Il maestro di color che sanno
+
+> Poi ch'innalzai un poco più le ciglia,
+> vidi 'l maestro di color che sanno
+> seder tra filosofica famiglia.
+> Tutti lo miran, tutti onor li fanno:
+> quivi vid' ïo Socrate e Platone,
+> che 'nnanzi a li altri più presso li stanno;
+> Democrito che 'l mondo a caso pone,
+> Dïogenès, Anassagora e Tale,
+> Empedoclès, Eraclito e Zenone;
+> e vidi il buono accoglitor del quale,
+> Diascoride dico; e vidi Orfeo,
+> Tulïo e Lino e Seneca morale;
+> Euclide geomètra e Tolomeo,
+> Ipocràte, Avicenna e Galïeno,
+> Averoìs, che 'l gran comento feo.
+
+E Dante alza gli occhi.
 
 Pausa.
 
-Dante dice l'opposto.
-Restare fuori
-non ti salva.
+E vede
+"il maestro di color che sanno."
 
-Ti lascia nel vestibolo.
+Aristotele.
+
+Pausa lunga.
+
+Non lo nomina subito.
+Usa una perifrasi.
+Perché non gli serve dirlo.
+
+Il maestro di quelli che sanno
+è uno solo.
+
+Pausa.
+
+E intorno a lui,
+la famiglia filosofica.
+
+Socrate.
+Platone.
+I più vicini a lui.
+
+Pausa.
+
+Democrito.
+Diogene.
+Anassagora.
+Talete.
+Empedocle.
+Eraclito.
+Zenone.
+
+Pausa.
+
+Dioscoride.
+Orfeo.
+Tullio.
+Lino.
+Seneca.
+
+Pausa.
+
+Euclide.
+Tolomeo.
+Ippocrate.
+Avicenna.
+Galeno.
+
+E per ultimo
+Averroè,
+"che 'l gran comento feo."
+
+Pausa lunga.
+
+Averroè.
+Un altro musulmano.
+Il grande commentatore di Aristotele.
+
+Dante mette un filosofo islamico
+nell'ultimo nome del catalogo.
+
+Pausa.
+
+Non è una scelta distratta.
+
+Dante lascia entrare
+nel prato dei sapienti
+anche chi viene da un'altra fede.
+
+Ma il sapere, qui,
+non basta a uscire.
+
+## vv. 145-151 - Verso la luce che trema
+
+> Io non posso ritrar di tutti a pieno,
+> però che sì mi caccia il lungo tema,
+> che molte volte al fatto il dir vien meno.
+> La sesta compagnia in due si scema:
+> per altra via mi mena il savio duca,
+> fuor de la queta, ne l'aura che trema.
+> E vegno in parte ove non è che luca.
+
+E qui Dante ammette una cosa.
+
+Pausa.
+
+"Io non posso ritrar di tutti a pieno,
+però che sì mi caccia il lungo tema."
+
+Non posso ritrarli tutti.
+Il tema è troppo lungo.
+
+Pausa lunga.
+
+È la prima volta
+che il poeta ti dice:
+qui mi taglio da solo.
+
+E poi si esce.
+
+Pausa.
+
+"La sesta compagnia in due si scema."
+
+Erano in sei.
+Diventano due.
+
+Virgilio e Dante
+si staccano dagli altri quattro poeti
+e riprendono il cammino.
+
+Pausa.
+
+"Per altra via mi mena il savio duca,
+fuor de la queta, ne l'aura che trema."
+
+Fuori dalla quiete.
+Dentro l'aria che trema.
+
+Pausa lunga.
+
+Fuori dal Limbo
+l'aria trema.
+
+Perché l'Inferno
+da qui in poi
+è movimento.
+Vento.
+Pena attiva.
+
+Pausa.
+
+E l'ultima riga.
+
+"E vegno in parte ove non è che luca."
+
+Vengo in un posto
+dove non c'è più niente che faccia luce.
+
+Pausa.
+
+Il canto che era cominciato
+con un fuoco nel buio,
+finisce con il buio pieno.
 
 ## Chiusura da palco
 
 Pausa lunga.
 
-Il Canto III è il canto della porta.
-Ma la scena più umiliante
-non è dentro.
-È prima.
+Il Canto IV è il canto della luce dentro il buio.
+
+Una luce piccola.
+Una luce che non salva.
 
 Pausa.
 
-Dentro l'Inferno
-ci va chi ha scelto male.
-Fuori dall'Inferno
-resta chi non ha voluto scegliere affatto.
+Qui ci sono i nomi più grandi
+che il mondo classico abbia prodotto.
+Aristotele.
+Omero.
+Enea.
+Cesare.
+Averroè.
+
+Pausa.
+
+E sono tutti qui.
+
+Non puniti.
+Non torturati.
+Sospesi.
 
 Pausa lunga.
 
-Gli ignavi non hanno un regno.
-Hanno un inseguimento.
-Un'insegna vuota.
-Mosche.
-Vermi.
-Moto senza direzione.
+Per Dante non è la pena peggiore,
+se pensi al fuoco.
+
+Ma è la pena
+che mette più in crisi
+la sua poesia.
+
+Perché qui c'è Virgilio.
+C'è la sua guida.
+C'è il maestro
+che lo sta tirando fuori dal peccato
+e che non uscirà mai da qui.
 
 Pausa.
 
-Dante entra
-perché prende una mano
-e accetta una guida.
+E Dante
+si elegge sesto tra i poeti
+dentro una sala
+da cui non si esce.
 
-Gli ignavi restano fuori
-perché non hanno accettato nulla.
+Lui passerà.
+Loro no.
 
 Pausa lunga.
 
-Chi sceglie bene
-passa per un'altra via.
-Chi sceglie male
-entra e paga.
-Chi non sceglie
-corre in tondo.
+Chi è salvato
+vede Dio.
+Chi è dannato
+perde Dio per sempre.
+Chi è nel Limbo
+vuole Dio
+e lo desidera senza fine.
 
 Pausa.
 
-Per Dante,
-anche non scegliere
-è una condanna.
+Per Dante
+la pena più sottile non è il fuoco.
+È il desiderio
+che non trova
+un approdo.
 
 Pausa.
-
-E poi Dante sviene.
 
 [Schermo: nero pieno]
 
 Il canto si chiude nel buio.
 Il prossimo si aprirà
-dall'altra parte dell'Acheronte.
+con Minosse,
+dove cominciano le pene vere.
