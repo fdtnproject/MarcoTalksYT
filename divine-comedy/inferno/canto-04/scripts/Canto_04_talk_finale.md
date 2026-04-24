@@ -192,10 +192,8 @@ Uomini.
 Tutti insieme.
 Senza distinzione di età o di grado.
 
-All'inizio del cerchio,
-il Limbo non distingue.
-
-Tiene tutti
+In questa parte del cerchio,
+il Limbo tiene tutti
 nella stessa sospensione.
 
 ## vv. 31-42 - Sanza speme, in disio
@@ -665,9 +663,6 @@ Dante,
 nel primo cerchio dell'Inferno,
 si elegge
 accanto ai più grandi poeti mai esistiti.
-
-Non è timidezza.
-È una dichiarazione.
 
 Pausa.
 
