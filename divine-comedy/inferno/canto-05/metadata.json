@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 05",
+  "slug": "canto-05",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_05_source.txt",
+    "talk_finale_md": "./scripts/Canto_05_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_05_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto05-content.js"
+  },
+  "images": {
+    "thumbnail": null,
+    "cover": null,
+    "vertical": null
+  },
+  "notes": "Script completo disponibile. Asset visivi da aggiungere in ./images/ (tavole di Dore per Minosse / la bufera / Paolo e Francesca in avvicinamento / Paolo e Francesca col libro / Dante caduto)."
+}
