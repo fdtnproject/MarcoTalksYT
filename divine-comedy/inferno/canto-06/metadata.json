@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 06",
+  "slug": "canto-06",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_06_source.txt",
+    "talk_finale_md": "./scripts/Canto_06_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_06_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto06-content.js"
+  },
+  "images": {
+    "thumbnail": null,
+    "cover": null,
+    "vertical": null
+  },
+  "notes": "Script completo disponibile. Asset visivi da aggiungere in ./images/ (tavole di Dore per Cerbero / pioggia e fango / Ciacco che si tira su / profezia su Firenze / discesa a Pluto)."
+}
