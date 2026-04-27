@@ -441,11 +441,6 @@ non al suo essere ridotto male.
 
 Pausa.
 
-È un'osservazione tenera.
-Ed è anche una spia.
-
-Pausa.
-
 La pena
 ha consumato i tratti di chi era.
 
@@ -666,35 +661,16 @@ Davanti a un dannato che si sta sciogliendo nel fango.
 E gli chiede notizie politiche
 della sua città.
 
-Pausa.
+Pausa lunga.
 
-Perché?
+Ciacco era fiorentino.
+E adesso, da dannato,
+sa cose
+che chi è ancora vivo non sa.
 
 Pausa lunga.
 
-Perché Ciacco era fiorentino.
-Era goloso.
-Stava a tavola con tutti.
-Sentiva tutto.
-
-Pausa.
-
-E adesso, da morto,
-ne sa più di chi è ancora vivo.
-
-Pausa.
-
-La gola aveva fatto di lui
-un osservatore perfetto.
-
-Pausa lunga.
-
-E Ciacco risponde
-con una profezia.
-
-Pausa.
-
-È la prima profezia della Commedia.
+E risponde con una profezia.
 
 Pausa.
 
@@ -729,8 +705,17 @@ Pausa.
 
 E che l'altra risorga
 con la forza
-di chi adesso fa il diplomatico.
-Il riferimento è a Bonifacio VIII.
+di "tal che testé piaggia" —
+qualcuno che adesso, nel 1300,
+fa il diplomatico
+e sta dalla parte di nessuno
+per tornare utile più tardi.
+
+Pausa.
+
+Quasi tutti i commentatori
+leggono qui un riferimento
+a papa Bonifacio VIII.
 
 Pausa lunga.
 
@@ -913,21 +898,18 @@ questo è il punto del canto.
 
 Pausa.
 
-La gola, in Dante,
-non riguarda solo il cibo.
-
-Comprende qualunque appetito
-preso senza misura.
-
-Cibo.
-Potere.
-Soldi.
-Fama.
-Rancore verso un vicino.
+Ciacco è dannato per gola.
+Firenze è malata
+per superbia, invidia, avarizia.
 
 Pausa.
 
-Il principio è lo stesso.
+Cerchi diversi.
+Peccati diversi.
+
+Pausa.
+
+Stesso principio.
 
 Pausa lunga.
 
@@ -1205,8 +1187,6 @@ o saranno cocenti come adesso?
 
 Pausa lunga.
 
-Domanda intelligente.
-
 Quando i corpi torneranno a unirsi alle anime,
 le pene
 cosa faranno?
@@ -1268,15 +1248,6 @@ quando riprenderà il corpo,
 sentirà la pioggia meglio.
 Sentirà Cerbero meglio.
 Sentirà il fango meglio.
-
-Pausa.
-
-Per quanto piccola sia
-la coscienza
-di un'anima senza corpo,
-quella sarà
-ancora il riposo,
-rispetto a quello che la attende.
 
 ## vv. 115-fine - Pluto
 
