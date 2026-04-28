@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 07",
+  "slug": "canto-07",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_07_source.txt",
+    "talk_finale_md": "./scripts/Canto_07_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_07_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto07-content.js"
+  },
+  "images": {
+    "thumbnail": null,
+    "cover": null,
+    "vertical": null
+  },
+  "notes": "Script completo disponibile. Asset visivi da aggiungere in ./images/ (tavole di Dore per Pluto / le due schiere col masso / la Fortuna / la palude Stigia con iracondi / accidiosi sotto la palude / la torre)."
+}
