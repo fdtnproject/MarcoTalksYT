@@ -163,7 +163,7 @@
 </div>
 
 <div id="hud">
-  <div class="keys">
+  <div class="keys" id="keys-hint">
     <code>→</code> avanza
     <code>←</code> indietro
     <code>B</code> nero
@@ -338,6 +338,29 @@
         { type: 'black', label: 'Nero — chiusura' },
         { type: 'text', lines: ['Da qui', 'il male', 'è scelto.'], label: 'Motto — chiusura' }
       ]
+    },
+    '09': {
+      title: 'Inferno — Canto IX',
+      tagline: 'Si apre da fuori',
+      basePath: './inferno/canto-09/images/',
+      slides: [
+        // Assets da aggiungere quando pronti. Placeholders testo + nero:
+        { type: 'black', label: 'Nero — apertura / Virgilio pallido' },
+        { type: 'text', lines: ['Pur a noi converrà', 'vincer la punga,', 'se non…'], label: 'La frase tronca di Virgilio' },
+        { type: 'text', lines: ['Ver è ch’altra fïata', 'qua giù fui.'], label: 'Erichto' },
+        { type: 'text', lines: ['Tre Furie infernal', 'di sangue tinte.'], label: 'Le Furie sulla torre' },
+        { type: 'text', lines: ['Vegna Medusa:', 'sì ’l farem di smalto.'], label: 'La minaccia di Medusa' },
+        { type: 'text', lines: ['Volgiti ’n dietro', 'e tien lo viso chiuso.'], label: 'Gli occhi coperti' },
+        { type: 'black', label: 'Nero — appello al lettore' },
+        { type: 'text', lines: ['O voi ch’avete', 'li ’ntelletti sani,', 'mirate la dottrina.'], label: 'Appello al lettore' },
+        { type: 'black', label: 'Nero — sintesi a metà canto' },
+        { type: 'text', lines: ['Passava Stige', 'con le piante asciutte.'], label: 'L’angelo arriva' },
+        { type: 'text', lines: ['Con una verghetta', 'l’aperse.'], label: 'La porta si apre' },
+        { type: 'text', lines: ['Perché recalcitrate', 'a quella voglia?'], label: 'L’angelo ai diavoli' },
+        { type: 'text', lines: ['Qui son li eresïarche', 'coi lor seguaci.'], label: 'I sepolcri infuocati' },
+        { type: 'black', label: 'Nero — chiusura' },
+        { type: 'text', lines: ['Si apre', 'da fuori.'], label: 'Motto — chiusura' }
+      ]
     }
   };
 
@@ -479,7 +502,15 @@
 
   // Click to advance is handy on stage but makes the audience interactive; keep it behind a URL param.
   if (params.get('click') === '1') {
-    window.addEventListener('click', next);
+    const keysHint = document.getElementById('keys-hint');
+    if (keysHint) {
+      keysHint.insertAdjacentHTML('beforeend', ' <span style="margin-left:10px;"><code>tap sx</code> indietro <code>tap dx</code> avanza</span>');
+    }
+    window.addEventListener('pointerup', (e) => {
+      const half = window.innerWidth / 2;
+      if (e.clientX < half) prev();
+      else next();
+    });
   }
 
   // ---------- Idle cursor / hud ----------
