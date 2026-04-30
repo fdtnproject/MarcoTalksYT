@@ -52,17 +52,17 @@ si diventa ciò che si è ingoiato.
 
 ## vv. 1-12 - Il terzo cerchio
 
-> Al tornar de la mente, che si chiuse
-> dinanzi a la pietà d'i due cognati,
-> che di trestizia tutto mi confuse,
-> novi tormenti e novi tormentati
-> mi veggio intorno, come ch'io mi mova
-> e ch'io mi volga, e come che io guati.
-> Io sono al terzo cerchio, de la piova
-> etterna, maladetta, fredda e greve;
-> regola e qualità mai non l'è nova.
-> Grandine grossa, acqua tinta e neve
-> per l'aere tenebroso si riversa;
+> Al tornar de la mente, che si chiuse  
+> dinanzi a la pietà de’ due cognati,  
+> che di tristizia tutto mi confuse,  
+> novi tormenti e novi tormentati  
+> mi veggio intorno come ch’io mi mova  
+> e ch’io mi volga e come ch’io mi guati.  
+> Io sono al terzo cerchio, de la piova  
+> eterna, maledetta, fredda e greve:  
+> regola e qualità mai non l’è nova.  
+> Grandine grossa, acqua tinta, e neve  
+> per l’aere tenebroso si riversa:  
 > pute la terra che questo riceve.
 
 Quando la mente gli torna,
@@ -134,14 +134,14 @@ in cui Dante segna l'odore.
 
 ## vv. 13-21 - Cerbero
 
-> Cerbero, fiera crudele e diversa,
-> con tre gole caninamente latra
-> sovra la gente che quivi è sommersa.
-> Li occhi ha vermigli, la barba unta e atra,
-> e 'l ventre largo, e unghiate le mani;
-> graffia li spirti ed iscoia ed isquatra.
-> Urlar li fa la pioggia come cani:
-> de l'un de' lati fanno a l'altro schermo;
+> Cerbero, fiera crudele e diversa,  
+> con tre gole caninamente latra  
+> sopra la gente che quivi è sommersa.  
+> Gli occhi ha vermigli, la barba unta e atra,  
+> e ’l ventre largo, e unghiate le mani,  
+> graffia li spiriti, scuoia e disquatra.  
+> Urlar li fa la pioggia come cani;  
+> de l’un dei lati fanno a l’altro schermo:  
 > volgonsi spesso i miseri profani.
 
 E in mezzo a quella pioggia
@@ -222,18 +222,18 @@ Non c'è altro.
 
 ## vv. 22-33 - Il pugno di terra
 
-> Quando ci scorse Cerbero, il gran vermo,
-> le bocche aperse e mostrocci le sanne;
-> non avea membro che tenesse fermo.
-> E 'l duca mio distese le sue spanne,
-> prese la terra, e con piene le pugna
-> la gittò dentro a le bramose canne.
-> Qual è quel cane ch'abbaiando agogna,
-> e si racqueta poi che 'l pasto morde,
-> ché solo a divorarlo intende e pugna,
-> cotai si fecer quelle facce lorde
-> de lo demonio Cerbero, che 'ntrona
-> l'anime sì, ch'esser vorrebber sorde.
+> Quando ci scorse Cerbero, il gran vermo,  
+> le bocche aperse e mostrocci le sanne:  
+> non avea membro che tenesse fermo.  
+> Lo duca mio distese le sue spanne,  
+> prese la terra, e con piene le pugna  
+> la gittò dentro a le bramose canne.  
+> Qual è quel cane che abbaiando agugna,  
+> e si racqueta poi che il pasto morde,  
+> che solo a divorarlo intende e pugna,  
+> cotai si fecer quelle facce lorde  
+> de lo dimonio Cerbero, che introna  
+> l’anime sì, ch’esser vorrebber sorde.
 
 Cerbero vede Dante e Virgilio.
 
@@ -311,12 +311,12 @@ Lo stesso fango.
 
 ## vv. 34-39 - Le anime calpestate
 
-> Noi passavam su per l'ombre che adona
-> la greve pioggia, e ponavam le piante
-> sovra lor vanità che par persona.
-> Elle giacean per terra tutte quante,
-> fuor d'una ch'a seder si levò, ratto
-> ch'ella ci vide passarsi davanti.
+> Noi passavam su per l’ombre che adona  
+> la greve pioggia, e ponevam le piante  
+> sopra lor vanità che par persona.  
+> Elle giacean per terra tutte quante,  
+> fuor ch’una, ch’a seder si levò, ratto  
+> ch’ella ci vide passarsi davante.
 
 Mentre Cerbero mangia,
 Dante e Virgilio camminano.
@@ -360,15 +360,15 @@ li vede passare davanti.
 
 ## vv. 40-48 - Ciacco si presenta
 
-> "O tu che se' per questo 'nferno tratto",
-> mi disse, "riconoscimi, se sai:
-> tu fosti, prima ch'io disfatto, fatto".
-> E io a lui: "L'angoscia che tu hai
-> forse ti tira fuor de la mia mente,
-> sì che non par ch'i' ti vedessi mai.
-> Ma dimmi chi tu se' che 'n sì dolente
-> loco se' messo, e hai sì fatta pena,
-> che, s'altra è maggio, nulla è sì spiacente".
+> «O tu che se’ per questo inferno tratto,»  
+> mi disse, «riconoscimi, se sai:  
+> tu fosti, prima ch’io disfatto, fatto.»  
+> E io a lei: «L’angoscia che tu hai  
+> forse ti tira fuor de la mia mente,  
+> sì che non par ch’i’ ti vedessi mai.  
+> Ma dimmi chi tu se’ che in sì dolente  
+> loco se’ messa, ed a sì fatta pena,  
+> che s’altra è maggio, nulla è sì spiacente.»
 
 E parla per primo.
 
@@ -454,15 +454,15 @@ nessuna è più sgradevole?
 
 ## vv. 49-57 - Il nome perduto
 
-> Ed elli a me: "La tua città, ch'è piena
-> d'invidia sì che già trabocca il sacco,
-> seco mi tenne in la vita serena.
-> Voi cittadini mi chiamaste Ciacco:
-> per la dannosa colpa de la gola,
-> come tu vedi, a la pioggia mi fiacco.
-> E io anima trista non son sola,
-> ché tutte queste a simil pena stanno
-> per simil colpa". E più non fé parola.
+> Ed egli a me: «La tua città, ch’è piena  
+> d’invidia sì che già trabocca il sacco,  
+> seco mi tenne in la vita serena:  
+> voi cittadini mi chiamaste Ciacco.  
+> Per la dannosa colpa de la gola,  
+> come tu vedi, a la pioggia mi fiacco.  
+> E io anima trista non son sola,  
+> ché tutte queste a simil pena stanno  
+> per simil colpa.» E più non fe’ parola.
 
 E lui a Dante.
 
@@ -594,24 +594,24 @@ E più non parla.
 
 ## vv. 58-75 - La profezia su Firenze
 
-> Io li rispuosi: "Ciacco, il tuo affanno
-> mi pesa sì, ch'a lagrimar mi 'nvita;
-> ma dimmi, se tu sai, a che verranno
-> li cittadin de la città partita;
-> s'alcun v'è giusto; e dimmi la cagione
-> per che l'ha tanta discordia assalita".
-> E quelli a me: "Dopo lunga tencione
-> verranno al sangue, e la parte selvaggia
-> caccerà l'altra con molta offensione.
-> Poi appresso convien che questa caggia
-> infra tre soli, e che l'altra sormonti
-> con la forza di tal che testé piaggia.
-> Alte terrà lungo tempo le fronti,
-> tenendo l'altra sotto gravi pesi,
-> come che di ciò pianga o che n'aonti.
-> Giusti son due, e non vi sono intesi;
-> superbia, invidia e avarizia sono
-> le tre faville c'hanno i cuori accesi".
+> Io li rispuosi: «Ciacco, il tuo affanno  
+> mi pesa sì, ch’a lagrimar m’invita;  
+> ma dimmi, se tu sai, a che verranno  
+> li cittadin de la città partita,  
+> s’alcun v’è giusto, e dimmi la cagione  
+> per che l’ha tanta discordia assalita.»  
+> Ed egli a me: «Dopo lunga tencione  
+> verranno al sangue, e la parte selvaggia  
+> caccerà l’altra con molta offensione.  
+> Poi appresso convien che questa caggia  
+> infra tre soli, e che l’altra sormonti  
+> con la forza di tal che testé piaggia.  
+> Alte terrà lungo tempo le fronti,  
+> tenendo l’altra sotto gravi pesi,  
+> come che di ciò pianga e che n’adonti.  
+> Giusti son due, e non vi sono intesi.  
+> Superbia, invidia e avarizia sono  
+> le tre faville c’hanno i cori accesi.»
 
 Dante si commuove.
 
@@ -924,17 +924,18 @@ il fango delle sue fazioni.
 
 ## vv. 76-87 - Gli antichi fiorentini
 
-> E io ancor: "Ancor vo' che mi 'nsegni,
-> e che di più parlar mi facci dono.
-> Farinata e 'l Tegghiaio, che fuor sì degni,
-> Iacopo Rusticucci, Arrigo e 'l Mosca
-> e li altri ch'a ben far puoser li 'ngegni,
-> dimmi ove sono e fa ch'io li conosca;
-> ché gran disio mi stringe di savere
-> se 'l ciel li addolcia o lo 'nferno li attosca".
-> E quelli: "Ei son tra l'anime più nere;
-> diverse colpe giù li grava al fondo:
-> se tanto scendi, là i potrai vedere".
+> Qui pose fine al lacrimabil suono.  
+> E io a lui: «Ancor vo’ che m’insegni  
+> e che di più parlar mi facci dono:  
+> Farinata e ’l Tegghiaio che fur sì degni,  
+> Iacopo Rusticucci, Arrigo, e ’l Mosca,  
+> e gli altri ch’a ben far poser l’ingegni,  
+> dimmi ove sono e fa ch’io li conosca,  
+> ché gran disio mi stringe di sapere  
+> se ’l ciel li addolcia o l’inferno li attosca.»  
+> E quegli: «Ei son tra l’anime più nere;  
+> diverse colpe giù li grava al fondo:  
+> se tanto scendi, là i potrai vedere.
 
 Dante non si ferma alla profezia.
 
@@ -1024,12 +1025,12 @@ sono più in basso.
 
 ## vv. 88-93 - La memoria di chi è vivo
 
-> "Ma quando tu sarai nel dolce mondo,
-> priegoti ch'a la mente altrui mi rechi:
-> più non ti dico e più non ti rispondo".
-> Li diritti occhi torse allora in biechi;
-> guardommi un poco e poi chinò la testa:
-> cadde con essa a par de li altri ciechi.
+> Ma quando tu sarai nel dolce mondo,  
+> priegoti che a la mente altrui mi rechi:  
+> più non ti dico e più non ti rispondo.»  
+> Li diritti occhi torse allora in biechi,  
+> guardommi un poco, poi chinò la testa,  
+> cadde con essa a par de gli altri ciechi.
 
 Poi Ciacco fa una richiesta.
 
@@ -1099,21 +1100,28 @@ fra il fango e sé stessi.
 
 ## vv. 94-115 - La resurrezione dei corpi
 
-> E 'l duca disse a me: "Più non si desta
-> di qua dal suon de l'angelica tromba,
-> quando verrà la nimica podesta:
-> ciascun rivederà la trista tomba,
-> ripiglierà sua carne e sua figura,
-> udirà quel che in etterno rimbomba".
-> Sì trapassammo per sozza mistura
-> de l'ombre e de la pioggia, a passi lenti,
-> toccando un poco la vita futura;
-> per ch'io dissi: "Maestro, esti tormenti
-> cresceranno ei dopo la gran sentenza,
-> o fier minori, o saran sì cocenti?".
-> Ed elli a me: "Ritorna a tua scïenza,
-> che vuol, quanto la cosa è più perfetta,
-> più senta il bene, e così la doglienza".
+> E ’l duca disse a me: «Più non si desta  
+> di qua dal suon de l’angelica tromba,  
+> quando verrà la nimica podèsta:  
+> ciascun rivederà la trista tomba,  
+> ripiglierà sua carne e sua figura,  
+> udirà quel ch’in eterno rimbomba.»  
+> Sì trapassammo per sozza mistura  
+> de l’ombre e de la pioggia, a passi lenti,  
+> toccando un poco la vita futura.  
+> Per ch’io dissi: «Maestro, esti tormenti  
+> crescerann’ei dopo la gran sentenza,  
+> o fier minori, o saran sì cocenti?»  
+> Ed egli a me: «Ritorna a tua scienza,  
+> che vuol, quanto la cosa è più perfetta,  
+> più senta il bene, e così la doglienza.  
+> Tutto che questa gente maledetta  
+> in vera perfezion già mai non vada,  
+> di là più che di qua essere aspetta.»  
+> Noi aggirammo a tondo quella strada,  
+> parlando più assai ch’io non ridico;  
+> venimmo al punto dove si digrada:  
+> quivi trovammo Pluto, il gran nemico.
 
 Virgilio parla.
 
@@ -1250,11 +1258,6 @@ Sentirà Cerbero meglio.
 Sentirà il fango meglio.
 
 ## vv. 115-fine - Pluto
-
-> Noi aggirammo a tondo quella strada,
-> parlando più assai ch'i' non ridico;
-> venimmo al punto dove si digrada:
-> quivi trovammo Pluto, il gran nemico.
 
 Hanno fatto il giro
 di quella strada.

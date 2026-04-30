@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 09",
+  "slug": "canto-09",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_09_source.txt",
+    "talk_finale_md": "./scripts/Canto_09_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_09_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto09-content.js"
+  },
+  "images": {
+    "thumbnail": null,
+    "cover": null,
+    "vertical": null
+  },
+  "notes": "Script completo disponibile. Asset visivi da aggiungere in ./images/ (tavole di Dore per le tre Furie sulla torre / Virgilio che copre gli occhi a Dante / l'angelo che cammina sullo Stige / le porte aperte / i sepolcri infuocati degli eresiarchi)."
+}

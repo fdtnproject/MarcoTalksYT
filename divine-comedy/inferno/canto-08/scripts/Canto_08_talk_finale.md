@@ -53,18 +53,18 @@ da qui il male è scelto.
 
 ## vv. 1-12 - Le due fiamme e Flegiàs
 
-> Io dico, seguitando, ch'assai prima
-> che noi fossimo al piè de l'alta torre,
-> li occhi nostri n'andar suso a la cima
-> per due fiammette che i vedemmo porre,
-> e un'altra da lungi render cenno,
-> tanto ch'a pena il potea l'occhio tòrre.
-> E io mi volsi al mar di tutto 'l senno;
-> dissi: "Questo che dice? e che risponde
-> quell' altro foco? e chi son quei che 'l fenno?".
-> Ed elli a me: "Su per le sucide onde
-> già scorgere puoi quello che s'aspetta,
-> se 'l fummo del pantan nol ti nasconde".
+> Io dico, seguitando, che, assai prima
+> che noi fossimo al piè de l’alta torre,
+> gli occhi nostri n’andar suso a la cima
+> per due fiammette che i’ vedemmo porre,
+> e un’altra da lungi render cenno
+> tanto ch’a pena il potea l’occhio tòrre.
+> E io mi volsi al mar di tutto il senno;
+> dissi: «Questo che dice? e che risponde
+> quell’altro foco? e chi son quei che ’l fenno?»
+> Ed egli a me: «Su per le sucide onde
+> già scorgere puoi quello che s’aspetta,
+> se ’l fummo del pantan nol ti nasconde.
 
 Dante riprende il racconto.
 
@@ -140,17 +140,17 @@ arriva.
 ## vv. 13-24 - Flegiàs sulla barca
 
 > Corda non pinse mai da sé saetta
-> che sì corresse via per l'aere snella,
-> com' io vidi una nave piccioletta
-> venir per l'acqua verso noi in quella,
-> sotto 'l governo d'un sol galeoto,
-> che gridava: "Or se' giunta, anima fella!".
-> "Flegïàs, Flegïàs, tu gridi a vòto",
-> disse lo mio segnore, "a questa volta:
-> più non ci avrai che sol passando il loto".
+> che sì corresse via per l’aere snella
+> com’io vidi una nave piccioletta
+> venir per l’acqua verso noi in quella,
+> sotto il governo d’un sol galeoto
+> che gridava: «Or se’ giunta, anima fella!»
+> «Flegiàs, Flegiàs, tu gridi a voto,»
+> disse lo mio signore, «a questa volta:
+> più non ci avrai che sol passando il loto.»
 > Qual è colui che grande inganno ascolta
 > che li sia fatto, e poi se ne rammarca,
-> fecesi Flegïàs ne l'ira accolta.
+> fecesi Flegiàs ne l’ira accolta.
 
 Una corda d'arco
 non spinge una freccia
@@ -230,13 +230,13 @@ e che non si può tenere.
 
 > Lo duca mio discese ne la barca,
 > e poi mi fece intrare appresso lui;
-> e sol quand' io fui dentro parve carca.
-> Tosto che 'l duca e io nel legno fui,
-> segando se ne va l'antica prora
-> de l'acqua più che non suol con altrui.
+> e sol quand’io fui dentro parve carca.
+> Tosto che ’l duca e io nel legno fui,
+> segando se ne va l’antica prora
+> de l’acqua più che non suol con altrui.
 > Mentre noi corravam la morta gora,
 > dinanzi mi si fece un pien di fango,
-> e disse: "Chi se' tu che vieni anzi ora?".
+> e disse: «Chi se’ tu che vieni anzi ora?»
 
 Virgilio scende nella barca.
 Poi fa entrare Dante.
@@ -306,30 +306,30 @@ Cioè: prima di essere morto.
 
 ## vv. 34-57 - Filippo Argenti
 
-> E io a lui: "S'i' vegno, non rimango;
-> ma tu chi se', che sì se' fatto brutto?".
-> Rispuose: "Vedi che son un che piango".
-> E io a lui: "Con piangere e con lutto,
-> spirito maladetto, ti rimani;
-> ch'i' ti conosco, ancor sie lordo tutto".
-> Allor distese al legno ambo le mani;
-> per che 'l maestro accorto lo sospinse,
-> dicendo: "Via costà con li altri cani!".
-> Lo collo poi con le braccia mi cinse;
-> basciommi 'l volto e disse: "Alma sdegnosa,
-> benedetta colei che 'n te s'incinse!
+> E io a lui: «S’i’ vegno, non rimango;
+> ma tu chi se’, che sì se’ fatto brutto?»
+> Rispuose: «Vedi che son un che piango.»
+> E io a lui: «Con piangere e con lutto,
+> spirito maledetto, ti rimani,
+> ch’io ti conosco, ancor sie lordo tutto.»
+> Allora stese al legno ambo le mani;
+> per che ’l maestro accorto lo sospinse,
+> dicendo: «Via costà con gli altri cani!»
+> Lo collo poi con le braccia mi cinse,
+> baciommi il volto, e disse: «Alma sdegnosa,
+> benedetta colei che in te s’incinse!
 > Quei fu al mondo persona orgogliosa;
 > bontà non è che sua memoria fregi:
-> così s'è l'ombra sua qui furïosa.
-> Quanti si tegnon or là sù gran regi
+> così s’è l’ombra sua qui furiosa.
+> Quanti si tengon or là su gran regi,
 > che qui staranno come porci in brago,
-> di sé lasciando orribili dispregi!".
-> E io: "Maestro, molto sarei vago
+> di sé lasciando orribili dispregi !»
+> E io: «Maestro, molto sarei vago
 > di vederlo attuffare in questa broda
-> prima che noi uscissimo del lago".
-> Ed elli a me: "Avante che la proda
+> prima che noi uscissimo del lago.»
+> Ed egli a me: «Avante che la proda
 > ti si lasci veder, tu sarai sazio:
-> di tal disïo convien che tu goda".
+> di tal disio converrà che tu goda.»
 
 E Dante a lui.
 
@@ -668,18 +668,18 @@ arrivano davanti a una città.
 
 ## vv. 58-69 - Lo sbranamento e Dite
 
-> Dopo ciò poco vid' io quello strazio
+> Dopo ciò poco vid’io quello strazio
 > far di costui a le fangose genti,
 > che Dio ancor ne lodo e ne ringrazio.
-> Tutti gridavano: "A Filippo Argenti!";
-> e 'l fiorentino spirito bizzarro
-> in sé medesmo si volvea co' denti.
-> Quivi il lasciammo, che più non ne narro;
-> ma ne l'orecchie mi percosse un duolo,
-> per ch'io avante l'occhio intento sbarro.
-> Lo buon maestro disse: "Omai, figliuolo,
-> s'appressa la città c'ha nome Dite,
-> coi gravi cittadin, col grande stuolo".
+> Tutti gridavano: «A Filippo Argenti!»;
+> e ’l fiorentino spirito bizzarro
+> in sé medesmo si volvea coi denti.
+> Quivi il lasciammo, che più non ne narro.
+> Ma ne l’orecchie mi percosse un duolo,
+> per ch’io avante l’occhio intento sbarro.
+> Lo buon maestro disse: «Omai, figliuolo,
+> s’appressa la città che ha nome Dite,
+> coi gravi cittadin, col grande stuolo.»
 
 Dante chiude la scena di Argenti
 con una formula
@@ -757,24 +757,24 @@ sono di ferro.
 
 ## vv. 70-87 - I diavoli alla porta
 
-> E io: "Maestro, già le sue meschite
+> E io: «Maestro, già le sue meschite
 > là entro certe ne la valle cerno,
 > vermiglie come se di foco uscite
-> fossero". Ed ei mi disse: "Il foco etterno
-> ch'entro l'affoca le dimostra rosse,
-> come tu vedi in questo basso inferno".
-> Noi pur giugnemmo dentro a l'alte fosse
-> che vallan quella terra sconsolata:
+> fossero.» Ed ei mi disse: «Il foco eterno
+> ch’entro l’affoca le dimostra rosse,
+> come tu vedi, in questo basso Inferno.»
+> Noi pur giugnemmo dentro a l’alte fosse
+> che vallan quella terra sconsolata;
 > le mura mi parean che ferro fosse.
 > Non sanza prima far grande aggirata,
 > venimmo in parte dove il nocchier forte
-> "Usciteci", gridò: "qui è l'intrata".
+> «Usciteci» gridò: «qui è l’entrata.»
 > Io vidi più di mille in su le porte
 > da ciel piovuti, che stizzosamente
-> dicean: "Chi è costui che sanza morte
-> va per lo regno de la morta gente?".
-> E 'l savio mio maestro fece segno
-> di voler lor parlar segretamente.
+> dicean: «Chi è costui che sanza morte
+> va per Io regno de la morta gente?»
+> E ’l savio mio maestro fece segno
+> di voler lor parlar secretamente.
 
 E Dante:
 "Maestro,
@@ -898,23 +898,23 @@ in segreto.
 ## vv. 88-105 - La porta sbarrata
 
 > Allor chiusero un poco il gran disdegno,
-> e disser: "Vien tu solo, e quei sen vada
-> che sì ardito intrò per questo regno.
+> e disser: «Vien tu solo, e quei sen vada,
+> che sì ardito entrò per questo regno.
 > Sol si ritorni per la folle strada:
-> pruovi, se sa; ché tu qui rimarrai
-> che li ha' iscorta sì buia contrada".
+> provi, se sa; ché tu qui rimarrai
+> che gli hai iscorta sì buia contrada.»
 > Pensa, lettor, se io mi sconfortai
-> nel suon de le parole maladette,
-> ché non credetti ritornarci mai.
-> "O caro duca mio, che più di sette
-> volte m'hai sicurtà renduta e tratto
-> d'alto periglio che 'ncontra mi stette,
-> non mi lasciar", diss' io, "così disfatto;
-> e se 'l passar più oltre ci è negato,
-> ritroviam l'orme nostre insieme ratto".
-> E quel segnor che lì m'avea menato,
-> mi disse: "Non temer; ché 'l nostro passo
-> non ci può tòrre alcun: da tal n'è dato".
+> nel suon de le parole maledette,
+> che non credetti ritornarci mai.
+> «O caro duca mio, che più di sette
+> volte m’hai sicurtà renduta, e tratto
+> d’alto periglio che incontra mi stette,
+> non mi lasciar» diss’io «così disfatto;
+> e se ’l passar più oltre ci è negato,
+> ritroviam l’orme nostre insieme ratto.»
+> E quel signor che lì m’avea menato
+> mi disse: «Non temer, ché il nostro passo
+> non ci può tòrre alcun: da tal n’è dato!
 
 I diavoli, allora,
 abbassano un po' il gran disdegno.
@@ -1022,21 +1022,21 @@ di cui non si discute.
 
 ## vv. 106-120 - Virgilio scosso
 
-> Ma qui m'attendi, e lo spirito lasso
+> Ma qui m’attendi, e lo spirito lasso
 > conforta e ciba di speranza buona,
-> ch'i' non ti lascerò nel mondo basso".
-> Così sen va, e quivi m'abbandona
-> lo dolce padre, e io rimagno in forse,
-> che sì e no nel capo mi tenciona.
-> Udir non potti quello ch'a lor porse;
+> ch’io non ti lascerò nel mondo basso.»
+> Così sen va, e quivi m’abbandona
+> lo dolce padre, e io rimango in forse,
+> che no e sì nel capo mi tenciona.
+> Udir non potei quello ch’a lor porse;
 > ma ei non stette là con essi guari,
-> che ciascun dentro a pruova si ricorse.
-> Chiuser le porte que' nostri avversari
-> nel petto al mio segnor, che fuor rimase,
+> che ciascun dentro a prova si ricorse.
+> Chiuser le porte quei nostri avversari
+> nel petto al mio signor, che fuor rimase
 > e rivolsesi a me con passi rari.
-> Li occhi a la terra e le ciglia avea rase
-> d'ogne baldanza, e dicea ne' sospiri:
-> "Chi m'ha negate le dolenti case!".
+> Gli occhi a la terra, e le ciglia avea rase
+> d’ogni baldanza, e dicea ne’ sospiri:
+> «Chi m’ha negate le dolenti case!»
 
 "Ma qui m'attendi."
 
@@ -1177,16 +1177,16 @@ dell'Inferno?
 
 ## vv. 121-130 - La promessa
 
-> E a me disse: "Tu, perch'io m'adiri,
-> non sbigottir, ch'io vincerò la prova,
-> qual ch'a la difension dentro s'aggiri.
-> Questa lor tracotanza non è nova;
-> ché già l'usaro a men segreta porta,
+> E a me disse: «Tu, per ch’io m’adiri,
+> non sbigottir, ch’io vincerò la prova,
+> qual ch’a la difension dentro s’aggiri.
+> Questa lor tracotanza non è nova,
+> ché già l’usaro a men secreta porta,
 > la qual sanza serrame ancor si trova.
-> Sovr' essa vedestù la scritta morta:
-> e già di qua da lei discende l'erta,
+> Sopr’essa vedestù la scritta morta;
+> e già di qua da lei discende l’erta,
 > passando per li cerchi sanza scorta,
-> tal che per lui ne fia la terra aperta".
+> tal che per lui ne fia la terra aperta.»
 
 Virgilio si riprende.
 

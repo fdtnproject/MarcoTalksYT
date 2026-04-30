@@ -42,15 +42,15 @@ desiderio senza approdo.
 
 ## vv. 1-9 - Il tuono e il risveglio
 
-> Ruppemi l'alto sonno ne la testa
-> un greve truono, sì ch'io mi riscossi
-> come persona ch'è per forza desta;
-> e l'occhio riposato intorno mossi,
-> dritto levato, e fiso riguardai
-> per conoscer lo loco dov' io fossi.
-> Vero è che 'n su la proda mi trovai
-> de la valle d'abisso dolorosa
-> che 'ntrono accoglie d'infiniti guai.
+> Ruppemi l’alto sonno ne la testa  
+> un greve truono, sì ch’io mi riscossi  
+> come persona ch’è per forza desta;  
+> e l’occhio riposato intorno mossi  
+> dritto levato, e fiso riguardai  
+> per conoscer lo loco dov’io fossi.  
+> Vero è che in su la proda mi trovai  
+> de la valle d’abisso dolorosa  
+> che truono accoglie d’infiniti guai.
 
 Un tuono pesante
 lo tira fuori dal sonno.
@@ -82,19 +82,18 @@ L'ha attraversato nell'inconscienza.
 
 ## vv. 10-21 - Virgilio pallido
 
-> Oscura e profonda era e nebulosa
-> tanto che, per ficcar lo viso a fondo,
-> io non vi discernea alcuna cosa.
-> "Or discendiam qua giù nel cieco mondo",
-> cominciò il poeta tutto smorto.
-> "Io sarò primo, e tu sarai secondo".
-> E io, che del color mi fui accorto,
-> dissi: "Come verrò, se tu paventi,
-> che suoli al mio dubbiare esser conforto?".
-> Ed elli a me: "L'angoscia de le genti
-> che son qua giù, nel viso mi dipigne
+> Oscura e profonda era e nebulosa,  
+> tanto che, per ficcar lo viso a fondo,  
+> io non vi discernea alcuna cosa.  
+> «Or discendiam qua giù nel cieco mondo»  
+> cominciò il poeta tutto smorto:  
+> «io sarò primo, e tu sarai secondo.»  
+> E io, che del color mi fui accorto,  
+> dissi: «Come verrò, se tu paventi,  
+> che suoli al mio dubbiare esser conforto ?»  
+> Ed egli a me: «L’angoscia de le genti  
+> che son qua giù, nel viso mi dipigne  
 > quella pietà che tu per tema senti.
-> Andiam, ché la via lunga ne sospigne".
 
 La valle è oscura,
 profonda,
@@ -143,14 +142,15 @@ gente che conosce.
 
 ## vv. 22-30 - Sospiri, non lamenti
 
-> Così si mise e così mi fé intrare
-> nel primo cerchio che l'abisso cigne.
-> Quivi, secondo che per ascoltare,
-> non avea pianto mai che di sospiri
-> che l'aura etterna facevan tremare;
-> ciò avvenia di duol sanza martìri,
-> ch'avean le turbe, ch'eran molte e grandi,
-> d'infanti e di femmine e di viri.
+> Andiam, ché la via lunga ne sospigne.»  
+> Così si mise e così mi fe’ intrare  
+> nel primo cerchio che l’abisso cigne.  
+> Quivi, secondo che per ascoltare,  
+> non avea pianto mai che di sospiri  
+> che l’aura eterna facevan tremare.  
+> Ciò avvenia di duol sanza martìri  
+> ch’avean le turbe, ch’eran molte e grandi,  
+> d’infanti e di femmine e di viri.
 
 Entrano nel primo cerchio.
 
@@ -198,18 +198,18 @@ nella stessa sospensione.
 
 ## vv. 31-42 - Sanza speme, in disio
 
-> Lo buon maestro a me: "Tu non dimandi
-> che spiriti son questi che tu vedi?
-> Or vo' che sappi, innanzi che più andi,
-> ch'ei non peccaro; e s'elli hanno mercedi,
-> non basta, perché non ebber battesmo,
-> ch'è porta de la fede che tu credi;
-> e s'e' furon dinanzi al cristianesmo,
-> non adorar debitamente a Dio:
-> e di questi cotai son io medesmo.
-> Per tai difetti, non per altro rio,
-> semo perduti, e sol di tanto offesi,
-> che sanza speme vivemo in disio".
+> Lo buon maestro a me: «Tu non dimandi  
+> che spiriti son questi che tu vedi:  
+> or vo’ che sappi, innanzi che più andi,  
+> ch’ei non peccaro; e s’elli hanno mercedi,  
+> non basta, perché non ebber battesmo,  
+> ch’è porta de la fede che tu credi;  
+> e se furon dinanzi al cristianesmo  
+> non adorar debitamente a Dio:  
+> e di questi cotai son io medesmo.  
+> Per tai difetti, non per altro rio,  
+> semo perduti, e sol di tanto offesi  
+> che sanza speme vivemo in disio.»
 
 Virgilio prende lui l'iniziativa.
 
@@ -290,14 +290,15 @@ Il desiderio che non approda.
 
 ## vv. 43-51 - La domanda di Dante
 
-> Gran duol mi prese al cor quando lo 'ntesi,
-> però che gente di molto valore
-> conobbi che 'n quel limbo eran sospesi.
-> "Dimmi, maestro mio, dimmi, segnore",
-> comincia' io per voler esser certo
-> di quella fede che vince ogne errore:
-> "uscicci mai alcuno, o per suo merto
-> o per altrui, che poi fosse beato?".
+> Gran duol mi prese al cor quando lo intesi,  
+> però che gente di molto valore  
+> conobbi che in quel limbo eran sospesi.  
+> «Dimmi, maestro mio, dimmi, signore,»  
+> comincia’ io, per voler esser certo  
+> di quella fede che vince ogni errore:  
+> «uscicci mai alcuno, o per suo merto  
+> o per altrui, che poi fosse beato?»  
+> E quei, che intese il mio parlar coperto,
 
 A Dante prende un gran dolore.
 
@@ -328,19 +329,18 @@ Qualcuno è mai uscito di qui?
 
 ## vv. 52-63 - La discesa di Cristo
 
-> E quei, che 'ntese il mio parlar coverto,
-> rispuose: "Io era nuovo in questo stato,
-> quando ci vidi venire un possente,
-> con segno di vittoria coronato.
-> Trasseci l'ombra del primo parente,
-> d'Abèl suo figlio e quella di Noè,
-> di Moïsè legista e ubidente;
-> Abraàm patrïarca e Davìd re,
-> Israèl con lo padre e co' suoi nati
-> e con Rachele, per cui tanto fé,
-> e altri molti, e feceli beati.
-> E vo' che sappi che, dinanzi ad essi,
-> spiriti umani non eran salvati".
+> rispuose: «Io era novo in questo stato,  
+> quando ci vidi venire un possente,  
+> con segno di vittoria, coronato.  
+> Trasseci l’ombra del primo parente,  
+> d’Abel suo figlio e quella di Noè,  
+> di Moisè, legista e obediente;  
+> Abraàm patriarca e Davìd re,  
+> Israèl con lo padre e co’ suoi nati  
+> e con Rachele per cui tanto fe’;  
+> e altri molti, e feceli beati;  
+> e vo’ che sappi che dinanzi ad essi  
+> spiriti umani non eran salvati.»
 
 Virgilio capisce
 cosa sta chiedendo davvero.
@@ -434,12 +434,12 @@ Mai.
 
 ## vv. 64-69 - Il fuoco nel buio
 
-> Non lasciavam l'andar perch' ei dicessi,
-> ma passavam la selva tuttavia,
-> la selva, dico, di spiriti spessi.
-> Non era lunga ancor la nostra via
-> di qua dal sonno, quand' io vidi un foco
-> ch'emisperio di tenebre vincia.
+> Non lasciavam l’andar perch’ei dicessi,  
+> ma passavam la selva tuttavia,  
+> la selva, dico, di spiriti spessi.  
+> Non era lunga ancor la nostra via  
+> di qua dal sonno, quando vidi un foco  
+> ch’emisperio di tenebre vincìa.
 
 Dante e Virgilio non si fermano.
 
@@ -476,15 +476,15 @@ Una luce dentro il buio dell'Inferno.
 
 ## vv. 70-78 - Onorata gente
 
-> Di lungi n'eravamo ancora un poco,
-> ma non sì ch'io non discernessi in parte
-> ch'orrevol gente possedea quel loco.
-> "O tu ch'onori scïenzïa e arte,
-> questi chi son c'hanno cotanta onranza,
-> che dal modo de li altri li diparte?".
-> E quelli a me: "L'onrata nominanza
-> che di lor suona sù ne la tua vita,
-> grazia acquista in ciel che sì li avanza".
+> Di lungi n’eravamo ancora un poco,  
+> ma non sì, ch’io non discernessi in parte  
+> ch’orrevol gente possedea quel loco.  
+> «O tu che onori scienza ed arte,  
+> questi chi son, c’hanno cotanta onranza  
+> che dal modo degli altri li diparte?»  
+> E quegli a me: «L’onrata nominanza  
+> che di lor suona su ne la tua vita,  
+> grazia acquista nel ciel, che sì li avanza.»
 
 Si avvicinano.
 Non abbastanza da vedere tutto.
@@ -540,21 +540,21 @@ Dentro la non-salvezza.
 
 ## vv. 79-93 - Onorate l'altissimo poeta
 
-> Intanto voce fu per me udita:
-> "Onorate l'altissimo poeta;
-> l'ombra sua torna, ch'era dipartita".
-> Poi che la voce fu restata e queta,
-> vidi quattro grand' ombre a noi venire:
-> sembianz' avevan né trista né lieta.
-> Lo buon maestro cominciò a dire:
-> "Mira colui con quella spada in mano,
-> che vien dinanzi ai tre sì come sire:
-> quelli è Omero poeta sovrano;
-> l'altro è Orazio satiro che vene;
-> Ovidio è 'l terzo, e l'ultimo Lucano.
-> Però che ciascun meco si convene
-> nel nome che sonò la voce sola,
-> fannomi onore, e di ciò fanno bene".
+> Intanto voce fu per me udita:  
+> «Onorate l’altissimo poeta!:  
+> l’ombra sua torna, ch’era dipartita.»  
+> Poi che la voce fu restata e queta,  
+> vidi quattro grand’ombre a noi venire:  
+> sembianza avean né trista né lieta.  
+> Lo buon maestro cominciò a dire:  
+> «Mira colui con quella spada in mano,  
+> che vien dinanzi ai tre sì come sire.  
+> Quegli è Omero, poeta sovrano;  
+> l’altro è Orazio satiro, che viene;  
+> Ovidio è il terzo, e l’ultimo è Lucano.  
+> Però che ciascun meco si conviene  
+> nel nome che sonò la voce sola,  
+> fannomi onore, e di ciò fanno bene.»
 
 E mentre si avvicinano,
 Dante sente una voce.
@@ -608,18 +608,18 @@ Nel Limbo.
 
 ## vv. 94-105 - Sesto tra cotanto senno
 
-> Così vid' i' adunar la bella scola
-> di quel segnor de l'altissimo canto
-> che sovra li altri com' aquila vola.
-> Da ch'ebber ragionato insieme alquanto,
-> volsersi a me con salutevol cenno,
-> e 'l mio maestro sorrise di tanto;
-> e più d'onore ancora assai mi fenno,
-> ch'e' sì mi fecer de la loro schiera,
-> sì ch'io fui sesto tra cotanto senno.
-> Così andammo infino a la lumera,
-> parlando cose che 'l tacere è bello,
-> sì com' era 'l parlar colà dov' era.
+> Così vidi adunar la bella scola  
+> di quel signor de l’altissimo canto,  
+> che sovra gli altri com’aquila vola.  
+> Da ch’ebber ragionato insieme alquanto,  
+> volsersi a me con salutevol cenno;  
+> e ’l mio maestro sorrise di tanto.  
+> E più d’onore ancora assai mi fenno,  
+> ch’e’ sì mi fecer de la loro schiera,  
+> sì ch’io fui sesto tra cotanto senno.  
+> Così andammo infino a la lumera,  
+> parlando cose che ’l tacere è bello,  
+> sì com’era il parlar colà dov’era.
 
 Dante descrive una cosa
 che dal palco devi dire piano.
@@ -682,12 +682,12 @@ dentro la propria poesia.
 
 ## vv. 106-111 - Il nobile castello
 
-> Venimmo al piè d'un nobile castello,
-> sette volte cerchiato d'alte mura,
-> difeso intorno d'un bel fiumicello.
-> Questo passammo come terra dura;
-> per sette porte intrai con questi savi:
-> giugnemmo in prato di fresca verdura.
+> Giugnemmo al piè d’un nobile castello,  
+> sette volte cerchiato d’alte mura,  
+> difeso intorno d’un bel fiumicello.  
+> Questo passammo come terra dura;  
+> per sette porte intrai con questi savi;  
+> venimmo in prato di fresca verdura.
 
 E arrivano
 a un castello nobile.
@@ -735,24 +735,24 @@ c'è un prato verde.
 
 ## vv. 112-129 - Gli spiriti magni
 
-> Genti v'eran con occhi tardi e gravi,
-> di grande autorità ne' lor sembianti:
-> parlavan rado, con voci soavi.
-> Traemmoci così da l'un de' canti,
-> in loco aperto, luminoso e alto,
-> sì che veder si potien tutti quanti.
-> Colà diritto, sovra 'l verde smalto,
-> mi fuor mostrati li spiriti magni,
-> che del vedere in me stesso m'essalto.
-> I' vidi Eletra con molti compagni,
-> tra ' quai conobbi Ettòr ed Enea,
-> Cesare armato con li occhi grifagni.
-> Vidi Cammilla e la Pantasilea;
-> dall'altra parte vidi 'l re Latino
-> che con Lavina sua figlia sedea.
-> Vidi quel Bruto che cacciò Tarquino,
-> Lucrezia, Iulia, Marzïa e Corniglia;
-> e solo, in parte, vidi 'l Saladino.
+> Genti v’eran con occhi tardi e gravi,  
+> di grande autorità ne’ lor sembianti;  
+> parlavan rado, con voci soavi.  
+> Traemmoci così da l’un de’ canti,  
+> in luogo aperto, luminoso e alto,  
+> sì che veder si potean tutti quanti.  
+> Colà diritto, sopra ’l verde smalto  
+> mi fur mostrati li spiriti magni  
+> che del vedere in me stesso n’esalto.  
+> Io vidi Elettra con molti compagni  
+> tra’ quai conobbi Ettòr ed Enea,  
+> Cesare armato con gli occhi grifagni.  
+> Vidi Camilla e la Pentesilea;  
+> da l’altra parte vidi ’l re Latino,  
+> che con Lavinia sua figlia sedea.  
+> Vidi quel Bruto che cacciò Tarquino,  
+> Lucrezia, Iulia, Marzia e Corniglia,  
+> e solo, in parte, vidi il Saladino.
 
 Sul prato
 c'è gente diversa dagli altri.
@@ -833,21 +833,21 @@ Non il paradiso.
 
 ## vv. 130-144 - Il maestro di color che sanno
 
-> Poi ch'innalzai un poco più le ciglia,
-> vidi 'l maestro di color che sanno
-> seder tra filosofica famiglia.
-> Tutti lo miran, tutti onor li fanno:
-> quivi vid' ïo Socrate e Platone,
-> che 'nnanzi a li altri più presso li stanno;
-> Democrito che 'l mondo a caso pone,
-> Dïogenès, Anassagora e Tale,
-> Empedoclès, Eraclito e Zenone;
-> e vidi il buono accoglitor del quale,
-> Diascoride dico; e vidi Orfeo,
-> Tulïo e Lino e Seneca morale;
-> Euclide geomètra e Tolomeo,
-> Ipocràte, Avicenna e Galïeno,
-> Averoìs, che 'l gran comento feo.
+> Poi ch’innalzai un poco più le ciglia,  
+> vidi ’l maestro di color che sanno  
+> seder tra filosofica famiglia.  
+> Tutti lo miran, tutti onor li fanno:  
+> quivi vid’io Socrate e Platone,  
+> che innanzi a gli altri più presso li stanno;  
+> Democrito che il mondo a caso pone,  
+> Diogenès, Anassagora e Tale,  
+> Empedoclès, Eraclito e Zenone.  
+> E vidi il buono accoglitor del quale,  
+> Dioscoride dico; e vidi Orfeo,  
+> Tullio e Lino e Seneca morale;  
+> Euclide geomètra e Tolomeo,  
+> Ippocrate, Avicenna e Galieno,  
+> Averroìs, che ’l gran comento feo.
 
 E Dante alza gli occhi.
 
@@ -928,13 +928,13 @@ non basta a uscire.
 
 ## vv. 145-151 - Verso la luce che trema
 
-> Io non posso ritrar di tutti a pieno,
-> però che sì mi caccia il lungo tema,
-> che molte volte al fatto il dir vien meno.
-> La sesta compagnia in due si scema:
-> per altra via mi mena il savio duca,
-> fuor de la queta, ne l'aura che trema.
-> E vegno in parte ove non è che luca.
+> Io non posso ritrar di tutti a pieno,  
+> però che sì mi caccia il lungo tema,  
+> che molte volte al fatto il dir vien meno.  
+> La sesta compagnia in due si scema:  
+> per altra via mi mena il savio duca,  
+> fuor de la queta ne l’aura che trema;  
+> e vegno in parte ove non è che luca.
 
 E qui Dante ammette una cosa.
 
