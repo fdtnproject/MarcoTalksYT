@@ -3,12 +3,6 @@
 Versione da palco
 Linea guida: "Si è ancora chi si è stati"
 
-Nota di lavoro:
-- pattern e taglio allineati a `Canto_01_talk_finale.md`, `Canto_02_talk_finale.md`, `Canto_03_talk_finale.md`, `Canto_04_talk_finale.md`, `Canto_05_talk_finale.md`, `Canto_06_talk_finale.md`, `Canto_07_talk_finale.md`, `Canto_08_talk_finale.md`, `Canto_09_talk_finale.md`
-- i versi sono riallineati al testo standard del Canto X
-- una sola sintesi a metà canto, dopo la caduta di Cavalcante
-- chiusura asciutta che atterra una volta sola
-
 ## Apertura
 
 [Schermo: nero pieno]
@@ -178,10 +172,14 @@ l'immortalità dell'anima.
 Pausa.
 
 Dante li mette qui sotto.
-Per Dante
-chi nega che ci sia qualcosa dopo
-ha bruciato la possibilità stessa
-di pensare la propria condizione.
+In tombe di fuoco.
+
+Pausa.
+
+Perché hanno pensato
+il destino dell'uomo
+tutto chiuso
+dentro il corpo.
 
 Pausa.
 
@@ -908,14 +906,11 @@ Pausa lunga.
 
 Cavalcante è crollato accanto a lui.
 Farinata
-non se ne accorge.
-O meglio:
-se ne è accorto,
-ma non lo riguarda.
+non muta aspetto.
 
 Pausa.
 
-Lui stava parlando di altro.
+Non interrompe il discorso.
 
 Pausa lunga.
 
@@ -1551,7 +1546,7 @@ Stessa pena.
 
 Pausa lunga.
 
-E sono ancora due persone diverse.
+Non la stessa persona.
 
 Pausa.
 
@@ -1563,19 +1558,6 @@ e chiede di un figlio.
 
 Pausa.
 
-Quando Cavalcante crolla,
-Farinata non si gira.
-
-Lui stava parlando di altro.
-
-Pausa lunga.
-
-Per Dante
-non si entra nello stesso fuoco
-nello stesso modo.
-
-Pausa.
-
 Ognuno
 porta dentro la pena
 quello che era prima.
@@ -1584,12 +1566,11 @@ Pausa.
 
 Farinata
 rimane il capo ghibellino
-che riconosce un nemico
-solo dall'accento.
+che parla ancora di Firenze.
 
 Cavalcante
 rimane il padre
-che muore una seconda volta
+che crolla
 per un verbo al passato remoto.
 
 Pausa lunga.
