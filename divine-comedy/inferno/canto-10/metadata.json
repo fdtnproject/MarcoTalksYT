@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 10",
+  "slug": "canto-10",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_10_source.txt",
+    "talk_finale_md": "./scripts/Canto_10_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_10_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto10-content.js"
+  },
+  "images": {
+    "thumbnail": null,
+    "cover": null,
+    "vertical": null
+  },
+  "notes": "Script completo disponibile. Asset visivi da aggiungere in ./images/ (tavole di Dore per Farinata che si alza dalla tomba / Cavalcante in ginocchio / lo scontro politico / il commiato)."
+}
