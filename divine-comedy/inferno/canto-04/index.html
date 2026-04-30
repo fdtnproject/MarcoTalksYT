@@ -102,6 +102,38 @@
       border: 1px solid rgba(255, 245, 235, 0.16);
     }
 
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 12px;
+      margin-top: 16px;
+    }
+
+    .thumb {
+      display: block;
+      overflow: hidden;
+      border-radius: 18px;
+      border: 1px solid rgba(255, 245, 235, 0.16);
+      background: rgba(255, 255, 255, 0.03);
+      text-decoration: none;
+      color: var(--text);
+    }
+
+    .thumb img {
+      display: block;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+      background: #0f0a08;
+    }
+
+    .thumb span {
+      display: block;
+      padding: 10px 12px 12px;
+      font-size: 14px;
+      color: var(--muted);
+    }
+
     .note {
       padding: 22px 24px;
       border: 1px solid var(--panel-border);
@@ -145,7 +177,16 @@
         <p>
           Cartella per thumbnail, cover, frame verticali e scansioni Doré da rifinire o reinterpretare a colori.
         </p>
+        <a class="button alt" href="../../stage.html?canto=04">Apri stage</a>
+        <a class="button alt" href="./images/04_CANTO_01.png">Apri immagine 1</a>
         <a class="button alt" href="./scripts/Canto_04_cue_immagini.md">Apri cue immagini</a>
+
+        <div class="gallery">
+          <a class="thumb" href="./images/04_CANTO_01.png">
+            <img src="./images/04_CANTO_01.png" alt="Canto 04 immagine 1">
+            <span>`04_CANTO_01.png`</span>
+          </a>
+        </div>
       </article>
 
       <article class="card">
