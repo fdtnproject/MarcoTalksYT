@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 08",
+  "slug": "canto-08",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_08_source.txt",
+    "talk_finale_md": "./scripts/Canto_08_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_08_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto08-content.js"
+  },
+  "images": {
+    "thumbnail": null,
+    "cover": null,
+    "vertical": null
+  },
+  "notes": "Script completo disponibile. Asset visivi da aggiungere in ./images/ (tavole di Dore per Flegiàs sulla barca / Filippo Argenti che esce dal fango / le mura di Dite incandescenti / i diavoli alla porta / Virgilio scosso)."
+}
