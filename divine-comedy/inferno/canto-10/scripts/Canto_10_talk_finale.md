@@ -51,24 +51,27 @@ si è ancora chi si è stati.
 
 ## vv. 1-21 - Le tombe aperte
 
-> Ora sen va per uno stretto calle
-> tra 'l muro de la terra e li martìri
+> Ora sen va per un secreto calle
+> tra il muro de la terra e li martìri
 > lo mio maestro, e io dopo le spalle.
-> "O virtù somma, che per li empi giri
-> mi volvi", cominciai, "com' a te piace,
-> parlami, e sodisfammi a' miei disiri.
+> «O virtù somma, che per gli empi giri
+> mi volvi» cominciai «com’a te piace,
+> parlami e sodisfammi a’ miei disiri.
 > La gente che per li sepolcri giace
-> potrebbesi veder? già son levati
-> tutt' i coperchi, e nessun guardia face".
-> E quelli a me: "Tutti saran serrati
+> potrebbesi veder? Già son levati
+> tutti i coperchi, e nessun guardia face.»
+> Ed egli a me: «Tutti saran serrati
 > quando di Iosafàt qui torneranno
-> coi corpi che là sù hanno lasciati.
+> coi corpi che là su hanno lasciati.
 > Suo cimitero da questa parte hanno
-> con Epicuro tutti i suoi seguaci,
-> che l'anima col corpo morta fanno.
+> con Epicuro tutt’i suoi seguaci,
+> che l’anima col corpo morta fanno.
 > Però a la dimanda che mi faci
-> quinc' entro satisfatto sarà tosto,
-> e al disio ancor che tu mi taci".
+> quinc’entro satisfatto sarà tosto,
+> e al disio ancor che tu mi taci.»
+> E io: «Buon duca, non tegno riposto
+> a te mio cuor se non per dicer poco,
+> e tu m’hai non pur mo a ciò disposto.»
 
 Camminano per uno stretto sentiero
 fra le mura della città
@@ -195,26 +198,29 @@ Pausa.
 Dante voleva vedere uno.
 Lo vedrà.
 
-## vv. 22-51 - "O Tosco" / Farinata si alza
+## vv. 22-42 - "O Tosco" / Farinata si alza
 
-> "O Tosco che per la città del foco
+> «O Tosco, che per la città del foco
 > vivo ten vai così parlando onesto,
 > piacciati di restare in questo loco.
 > La tua loquela ti fa manifesto
-> di quella nobil patrïa natio,
-> a la qual forse fui troppo molesto".
+> di quella nobil patria natio,
+> a la qual forse fui troppo molesto.»
 > Subitamente questo suono uscìo
-> d'una de l'arche; però m'accostai,
+> d’una de l’arche: però m’accostai,
 > temendo, un poco più al duca mio.
-> Ed el mi disse: "Volgiti! Che fai?
-> Vedi là Farinata che s'è dritto:
-> da la cintola in sù tutto 'l vedrai".
-> Io avea già il mio viso nel suo fitto;
-> ed el s'ergea col petto e con la fronte
-> com' avesse l'inferno a gran dispitto.
-> E l'animose man del duca e pronte
-> mi pinser tra le sepulture a lui,
-> dicendo: "Le parole tue sien conte".
+> Ed el mi disse: «Volgiti: che fai?
+> vedi là Farinata che s’è dritto:
+> da la cintola in su tutto il vedrai.»
+> Io aveva già il mio viso nel suo fitto;
+> ed el s’ergea col petto e con la fronte,
+> come avesse l’Inferno in gran dispitto.
+> E l’animose man del duca e pronte
+> mi pinser tra le sepolture a lui,
+> dicendo: «Le parole tue sien conte.»
+> Com’io al piè de la sua tomba fui,
+> guardommi un poco, e poi, quasi sdegnoso,
+> mi dimandò: «Chi fuor li maggior tui?»
 
 E in quel momento
 una voce sale
@@ -386,29 +392,26 @@ parla scegliendo le parole.
 Davanti a quest'uomo
 non si improvvisa.
 
-## vv. 52-72 - Lo scontro politico
+## vv. 43-60 - Lo scontro politico
 
-> Com' io al piè de la sua tomba fui,
-> guardommi un poco, e poi, quasi sdegnoso,
-> mi dimandò: "Chi fuor li maggior tui?".
-> Io ch'era d'ubidir disideroso,
-> non gliel celai, ma tutto gliel' apersi;
-> ond' ei levò le ciglia un poco in soso;
-> poi disse: "Fieramente furo avversi
-> a me e a' miei primi e a mia parte,
-> sì che per due fïate li dispersi".
-> "S'ei fur cacciati, ei tornar d'ogne parte",
-> rispuos' io lui, "l'una e l'altra fïata;
-> ma i vostri non appreser ben quell'arte".
+> Io, ch’era d’ubidir desideroso,
+> non gliel celai, ma tutto gliel’apersi;
+> ond’ei levò le ciglia un poco in soso,
+> poi disse: «Fieramente furo avversi
+> a me, e a’ miei primi, e a mia parte,
+> sì che per due fiate li dispersi.»
+> «S’ei fur cacciati, ei tornar d’ogni parte»
+> rispuos’io lui «l’una e l’altra fiata;
+> ma i vostri non appreser ben quell’arte.»
 > Allor surse a la vista scoperchiata
-> un'ombra, lungo questa, infino al mento:
-> credo che s'era in ginocchie levata.
+> un’ombra lungo questa infino al mento:
+> credo che s’era in ginocchio levata.
 > Dintorno mi guardò, come talento
-> avesse di veder s'altri era meco;
-> e poi che 'l sospecciar fu tutto spento,
-> piangendo disse: "Se per questo cieco
-> carcere vai per altezza d'ingegno,
-> mio figlio ov' è? e perché non è teco?".
+> avesse di veder s’altri era meco;
+> e poi che il sospecciar fu tutto spento,
+> piangendo disse: «Se per questo cieco
+> carcere vai per altezza d’ingegno,
+> mio figlio ov’è? e perché non è ei teco?»
 
 Quando Dante si avvicina al sepolcro,
 Farinata lo guarda un attimo.
@@ -583,20 +586,20 @@ Stessa eresia.
 
 Due posture diverse.
 
-## vv. 73-93 - Cavalcante e il "ebbe"
+## vv. 61-72 - Cavalcante e il "ebbe"
 
-> E io a lui: "Da me stesso non vegno:
-> colui ch'attende là, per qui mi mena
-> forse cui Guido vostro ebbe a disdegno".
-> Le sue parole e 'l modo de la pena
-> m'avean di costui già letto il nome;
+> E io a lui: «Da me stesso non vegno:
+> colui ch’attende là per qui mi mena,
+> forse, cui Guido vostro ebbe a disdegno.»
+> Le sue parole e ’l modo de la pena
+> m’avean di costui già letto il nome;
 > però fu la risposta così piena.
-> Di sùbito drizzato gridò: "Come?
-> dicesti 'elli ebbe'? non viv' elli ancora?
-> non fiere li occhi suoi lo dolce lume?".
-> Quando s'accorse d'alcuna dimora
-> ch'io facëa dinanzi a la risposta,
-> supin ricadde e più non parve fora.
+> Di subito drizzato gridò: «Come
+> dicesti? egli ebbe? non viv’egli ancora?
+> non fiere gli occhi suoi lo dolce lome?»
+> Quando s’accorse d’alcuna dimora
+> ch’io faceva dinanzi a la risposta,
+> supin ricadde, e più non parve fora.
 
 L'ombra che si è alzata
 guarda intorno.
@@ -877,20 +880,21 @@ Pausa.
 
 Anche dentro la stessa tomba.
 
-## vv. 94-108 - Farinata immutato, la profezia
+## vv. 73-85 - Farinata immutato, la profezia
 
-> Ma quell' altro magnanimo, a cui posta
-> restato m'era, non mutò aspetto,
+> Ma quell’altro magnanimo, a cui posta
+> restato m’era, non mutò aspetto,
 > né mosse collo, né piegò sua costa;
-> e sé continüando al primo detto,
-> "S'elli han quell' arte", disse, "male appresa,
+> e sé continuando al primo detto,
+> «S’elli han quell’arte» disse «male appresa,
 > ciò mi tormenta più che questo letto.
 > Ma non cinquanta volte fia raccesa
 > la faccia de la donna che qui regge,
-> che tu saprai quanto quell' arte pesa.
+> che tu saprai quanto quell’arte pesa.
 > E se tu mai nel dolce mondo regge,
 > dimmi: perché quel popolo è sì empio
-> incontr' a' miei in ciascuna sua legge?".
+> incontr’a’ miei in ciascuna sua legge?»
+> Ond’io a lui: «Lo strazio e ’l grande scempio
 
 E quell'altro,
 "magnanimo,"
@@ -1020,23 +1024,22 @@ Pausa.
 Continua a fare politica
 dal sepolcro infuocato.
 
-## vv. 109-114 - La domanda sul vedere
+## vv. 86-99 - La domanda sul vedere
 
-> Ond' io a lui: "Lo strazio e 'l grande scempio
-> che fece l'Arbia colorata in rosso,
-> tal orazion fa far nel nostro tempio".
-> Poi ch'ebbe sospirando il capo mosso,
-> "A ciò non fu' io sol", disse, "né certo
-> sanza cagion con li altri sarei mosso.
-> Ma fu' io solo, là dove sofferto
+> che fece l’Arbia colorata in rosso
+> tali orazion fa far nel nostro tempio.»
+> Poi ch’ebbe sospirato e ’l capo scosso
+> «A ciò non fu’ io sol,» disse, «né certo
+> sanza cagion con gli altri sarei mosso.
+> Ma fui io solo là dove sofferto
 > fu per ciascun di tòrre via Fiorenza,
-> colui che la difesi a viso aperto".
-> "Deh, se riposi mai vostra semenza",
-> prega' io lui, "solvetemi quel nodo
-> che qui ha 'nviluppata mia sentenza.
+> colui che la difesi a viso aperto.»
+> «Deh, se riposi mai vostra semenza,»
+> pregai io lui «solvetemi quel nodo
+> che qui ha inviluppata mia sentenza.
 > El par che voi veggiate, se ben odo,
-> dinanzi quel che 'l tempo seco adduce,
-> e nel presente tenete altro modo".
+> dinanzi quel che ’l tempo seco adduce,
+> e nel presente tenete altro modo.»
 
 Dante risponde
 con qualcosa che non si aspettava
@@ -1186,23 +1189,23 @@ io sarò esiliato.
 
 Come funziona?
 
-## vv. 115-126 - Il modo della vista
+## vv. 100-114 - Il modo della vista
 
-> "Noi veggiam, come quei c'ha mala luce,
-> le cose", disse, "che ne son lontano;
+> «Noi veggiam come quei c’ha mala luce
+> le cose» disse «che ne son lontano;
 > cotanto ancor ne splende il sommo duce.
-> Quando s'appressano o son, tutto è vano
-> nostro intelletto; e s'altri non ci apporta,
+> Quando s’appressano o son, tutto è vano
+> nostro intelletto, e s’altri non ci apporta,
 > nulla sapem di vostro stato umano.
 > Però comprender puoi che tutta morta
 > fia nostra conoscenza da quel punto
-> che del futuro fia chiusa la porta".
+> che del futuro fia chiusa la porta.»
 > Allor, come di mia colpa compunto,
-> dissi: "Or direte dunque a quel caduto
-> che 'l suo nato è co' vivi ancor congiunto;
-> e s'i' fui, dianzi, a la risposta muto,
-> fate i saper che 'l fei perché pensava
-> già ne l'error che m'avete soluto".
+> dissi: «Or direte dunque a quel caduto
+> che ’l suo nato è coi vivi ancor congiunto;
+> e s’io fui, dianzi, a la risposta muto,
+> fate i saper che ’l feci che pensava
+> già ne l’error che m’avete soluto.»
 
 Farinata risponde.
 
@@ -1343,30 +1346,30 @@ Pausa.
 
 Riparate il mio silenzio.
 
-## vv. 127-136 - Federico II e il commiato
+## vv. 115-136 - Federico II e il commiato
 
-> E già 'l maestro mio mi richiamava;
-> per ch'i' pregai lo spirto più avaccio
-> che mi dicesse chi con lu' istava.
-> Dissemi: "Qui con più di mille giaccio:
-> qua dentro è 'l secondo Federico
-> e 'l Cardinale; e de li altri mi taccio".
-> Indi s'ascose; e io inver' l'antico
+> E già il maestro mio mi richiamava;
+> perch’io pregai lo spirito più avaccio
+> che mi dicesse chi con lui si stava.
+> Dissemi: «Qui con più di mille giaccio:
+> qua dentro è il secondo Federico,
+> e ’l Cardinale; e de gli altri mi taccio.»
+> Indi s’ascose; ed io inver l’antico
 > poeta volsi i passi, ripensando
 > a quel parlar che mi parea nemico.
 > Elli si mosse; e poi, così andando,
-> mi disse: "Perché se' tu sì smarrito?".
+> mi disse: «Perché sei tu sì smarrito?»
 > E io li sodisfeci al suo dimando.
-> "La mente tua conservi quel ch'udito
-> hai contra te", mi comandò quel saggio;
-> "e ora attendi qui", e drizzò 'l dito:
-> "quando sarai dinanzi al dolce raggio
-> di quella il cui bell' occhio tutto vede,
-> da lei saprai di tua vita il vïaggio".
-> Appresso mosse a man sinistra il piede:
-> lasciammo il muro e gimmo inver' lo mezzo
-> per un sentier ch'a una valle fiede,
-> che 'nfin là sù facea spiacer suo lezzo.
+> «La mente tua conservi quel che udito
+> hai contra te» mi comandò quel saggio;
+> «e ora attendi qui» — e drizzò il dito —:
+> «quando sarai dinanzi al dolce raggio
+> di quella il cui bell’occhio tutto vede,
+> da lei saprai di tua vita il viaggio.»
+> Appresso volse a man sinistra il piede;
+> lasciammo il muro, e gimmo inver lo mezzo
+> per un sentier ch’ad una valle fiede,
+> che infin là su facea spiacer suo lezzo.
 
 Virgilio sta richiamando Dante.
 
