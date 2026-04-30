@@ -87,6 +87,38 @@
       line-height: 1.65;
     }
 
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 14px;
+      margin-top: 18px;
+    }
+
+    .thumb {
+      display: block;
+      overflow: hidden;
+      border-radius: 18px;
+      border: 1px solid rgba(255, 245, 235, 0.16);
+      background: rgba(255, 255, 255, 0.03);
+      text-decoration: none;
+      color: var(--text);
+    }
+
+    .thumb img {
+      display: block;
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+      background: #0f0a08;
+    }
+
+    .thumb span {
+      display: block;
+      padding: 10px 12px 12px;
+      font-size: 14px;
+      color: var(--muted);
+    }
+
     .button {
       display: inline-block;
       padding: 12px 16px;
@@ -146,8 +178,22 @@
         <p>
           Cartella per thumbnail, cover, frame verticali e scansioni Doré da rifinire o reinterpretare a colori.
         </p>
+        <a class="button alt" href="./stage.html?canto=01">Apri stage</a>
+        <a class="button alt" href="./images/01_canto_01.png">Apri immagine 1</a>
+        <a class="button alt" href="./images/01_canto_02.png">Apri immagine 2</a>
         <a class="button alt" href="./images/README.md">Apri note immagini</a>
         <a class="button alt" href="./scripts/Canto_01_cue_immagini.md">Apri cue immagini</a>
+
+        <div class="gallery">
+          <a class="thumb" href="./images/01_canto_01.png">
+            <img src="./images/01_canto_01.png" alt="Canto 01 immagine 1">
+            <span>`01_canto_01.png`</span>
+          </a>
+          <a class="thumb" href="./images/01_canto_02.png">
+            <img src="./images/01_canto_02.png" alt="Canto 01 immagine 2">
+            <span>`01_canto_02.png`</span>
+          </a>
+        </div>
       </article>
 
       <article class="card">
