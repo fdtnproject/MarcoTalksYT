@@ -32,8 +32,8 @@ che ha perso la via.
 
 ## vv. 1-3 - Terzina iniziale
 
-> Nel mezzo del cammin di nostra vita  
-> mi ritrovai per una selva oscura,  
+> Nel mezzo del cammin di nostra vita
+> mi ritrovai per una selva oscura,
 > che la diritta via era smarrita.
 
 Qui succede subito una cosa fondamentale.
@@ -49,8 +49,8 @@ salta la verità.
 
 ## vv. 4-6 - La selva
 
-> Ahi quanto a dir qual era e cosa dura  
-> esta selva selvaggia e aspra e forte,  
+> Ahi quanto a dir qual era è cosa dura
+> esta selva selvaggia e aspra e forte,
 > che nel pensier rinova la paura!
 
 La selva non è solo un bosco.
@@ -63,9 +63,9 @@ sei già dentro il suo dominio.
 
 ## vv. 7-9 - Il primo ordine
 
-> Tant'e amara che poco e piu morte;  
-> ma, per trattar del ben ch'io vi trovai,  
-> diro de l'altre cose ch'io v'ho scorte.
+> Tant’è amara che poco è più morte;
+> ma, per trattar del ben ch’io vi trovai,
+> dirò de l’altre cose ch’io v’ho scorte,
 
 Qui Dante fa già una cosa enorme.
 Dice: dirò.
@@ -78,8 +78,8 @@ Nel caos, la prima salvezza
 
 ## vv. 10-12 - Perdita dell'ingresso
 
-> Io non so ben ridir com'io v'intrai,  
-> tant'era pien di sonno a quel punto  
+> Io non so ben ridir com’io v’entrai,
+> tant’era pien di sonno in su quel punto
 > che la verace via abbandonai.
 
 Questo è il punto più inquietante.
@@ -94,12 +94,12 @@ Il sonno non è stanchezza.
 
 ## vv. 13-18 - Il confine e la direzione
 
-> Ma poi ch'io fui al pie d'un colle giunto,  
-> la dove terminava quella valle  
-> che m'avea di paura il cor compunto,  
-> guardai in alto e vidi le sue spalle  
-> vestite gia de' raggi del pianeta  
-> che mena dritto altrui per ogne calle.
+> Ma poi ch’io fui al piè d’un colle giunto,
+> là dove terminava quella valle
+> che m’avea di paura il cor compunto,
+> guardai in alto, e vidi le sue spalle
+> vestite già de’ raggi del pianeta
+> che mena dritto altrui per ogni calle.
 
 Finalmente succede qualcosa di geometrico:
 la valle termina.
@@ -122,12 +122,12 @@ Bisogna reggerla.
 
 ## vv. 19-24 - Paura contenuta e naufrago
 
-> Allor fu la paura un poco queta,  
-> che nel lago del cor m'era durata  
-> la notte ch'io passai con tanta pieta.  
-> E come quei che con lena affannata,  
-> uscito fuor del pelago a la riva,  
-> si volge a l'acqua perigliosa e guata,
+> Allor fu la paura un poco queta
+> che nel lago del cor m’era durata
+> la notte ch’io passai con tanta pièta.
+> E come quei che con lena affannata
+> uscito fuor del pelago a la riva,
+> si volge a l’acqua perigliosa, e guata,
 
 La paura non sparisce.
 Si riduce.
@@ -147,12 +147,12 @@ E distinguere è il primo atto della conoscenza.
 
 ## vv. 25-30 - Verifica e ripresa
 
-> cosi l'animo mio, ch'ancor fuggiva,  
-> si volse a retro a rimirar lo passo  
-> che non lascio gia mai persona viva.  
-> Poi ch'ei posato un poco il corpo lasso,  
-> ripresi via per la piaggia diserta,  
-> si che 'l pie fermo sempre era 'l piu basso.
+> così l’animo mio, ch’ancor fuggiva,
+> si volse a retro a rimirar lo passo
+> che non lasciò già mai persona viva.
+> Poi ch’èi posato un poco il corpo lasso,
+> ripresi via per la piaggia diserta,
+> sì che ’l piè fermo sempre era il più basso.
 
 Qui Dante fa un gesto fondamentale:
 si gira indietro.
@@ -171,12 +171,12 @@ ma ogni passo è una correzione.
 
 ## vv. 31-36 - La lonza
 
-> Ed ecco, quasi al cominciar de l'erta,  
-> una lonza leggera e presta molto,  
-> che di pel macolato era coverta;  
-> e non mi si partia dinanzi al volto,  
-> anzi 'mpediva tanto il mio cammino,  
-> ch'i' fui per ritornar piu volte volto.
+> Ed ecco, quasi al cominciar de l’erta,
+> una lonza leggiera e presta molto,
+> che di pel macolato era coverta;
+> e non mi si partìa d’innanzi al volto,
+> anzi impediva tanto il mio cammino
+> ch’io fui per ritornar più volte volto.
 
 La lonza arriva all'inizio della salita.
 Non in cima.
@@ -194,18 +194,18 @@ La direzione viene negata.
 
 ## vv. 37-48 - Tempo giusto, speranza, leone
 
-> Temp'era dal principio del mattino,  
-> e 'l sol montava 'n su con quelle stelle  
-> ch'eran con lui quando l'amor divino  
-> mosse di prima quelle cose belle;  
-> si ch'a bene sperar m'era cagione  
-> di quella fiera a la gaetta pelle  
-> l'ora del tempo e la dolce stagione;  
-> ma non si che paura non mi desse  
-> la vista che m'apparve d'un leone.  
-> Questi parea che contra me venisse  
-> con la test'alta e con rabbiosa fame,  
-> si che parea che l'aere ne tremesse.
+> Tempo era dal principio del mattino,
+> e ’l sol montava in su con quelle stelle
+> ch’eran con lui quando l’amor divino
+> mosse da prima quelle cose belle;
+> sì ch’a bene sperar m’era cagione
+> di quella fera alla gaetta pelle
+> l’ora del tempo e la dolce stagione;
+> ma non sì che paura non mi desse
+> la vista che m’apparve d’un leone.
+> Questi parea che contra me venesse
+> con la test’alta e con rabbiosa fame,
+> sì che parea che l’aere ne temesse.
 
 Qui il poema ti dice:
 le condizioni sono perfette.
@@ -235,15 +235,15 @@ dall'elusivo al dominante.
 
 ## vv. 49-57 - La lupa e il crollo
 
-> Ed una lupa, che di tutte brame  
-> sembiava carca ne la sua magrezza,  
-> e molte genti fe gia viver grame,  
-> questa mi porse tanto di gravezza  
-> con la paura ch'uscia di sua vista,  
-> ch'io perdei la speranza de l'altezza.  
-> E qual e quei che volontieri acquista,  
-> e giugne 'l tempo che perder lo face,  
-> che 'n tutti suoi pensier piange e s'attrista;
+> Ed una lupa, che di tutte brame
+> sembiava carca ne la sua magrezza,
+> e molte genti fe’ già viver grame,
+> questa mi porse tanto di gravezza
+> con la paura che uscìa di sua vista,
+> ch’io perdei la speranza de l’altezza.
+> E qual è quei che volontieri acquista,
+> e giugne ’l tempo che perder lo face,
+> che in tutti i suoi pensier piange e s’attrista,
 
 La lupa è il contrario del leone.
 Non è piena:
@@ -281,15 +281,15 @@ Adesso non riesce più a sostenerla.
 
 ## vv. 58-66 - L'urto e l'apparizione
 
-> tal mi fece la bestia sanza pace,  
-> che, venendomi 'ncontro, a poco a poco  
-> mi ripigneva la dove 'l sol tace.  
-> Mentre ch'i' rovinava in basso loco,  
-> dinanzi a li occhi mi si fu offerto  
-> chi per lungo silenzio parea fioco.  
-> Quando vidi costui nel gran diserto,  
-> "Miserere di me", gridai a lui,  
-> "qual che tu sii, od ombra od omo certo!".
+> tal mi fece la bestia sanza pace,
+> ché, venendomi incontro, a poco a poco
+> mi ripigneva là dove il sol tace.
+> Mentre ch’io ruvinava in basso loco,
+> dinanzi a gli occhi mi si fu offerto
+> chi per lungo silenzio parea fioco.
+> Quando vidi costui nel gran diserto
+> «Miserere di me» gridai a lui,
+> «qual che tu sii, od ombra od omo certo.»
 
 Qui le fiere fanno una cosa precisissima.
 Non tentano:
@@ -314,15 +314,15 @@ E chiedere è già ordine.
 
 ## vv. 67-75 - Virgilio si presenta
 
-> Rispuosemi: "Non omo, omo gia fui,  
-> e li parenti miei furon lombardi,  
-> mantoani per patrïa ambedui.  
-> Nacqui sub Iulio, ancor che fosse tardi,  
-> e vissi a Roma sotto 'l buono Augusto  
-> nel tempo de li dei falsi e bugiardi.  
-> Poeta fui, e cantai di quel giusto  
-> figliuol d'Anchise che venne di Troia,  
-> poi che 'l superbo Ilion fu combusto.
+> Rispuosemi: «Non omo, omo già fui,
+> e li parenti miei furon lombardi,
+> mantovani per patria ambedui.
+> Nacqui sub Julio, ancor che fosse tardi,
+> e vissi a Roma sotto il buono Augusto,
+> al tempo de li dei falsi e bugiardi.
+> Poeta fui, e cantai di quel giusto
+> figliuol d’Anchise che venne da Troia,
+> poi che ’l superbo Iliòn fu combusto.
 
 Virgilio si presenta con coordinate:
 origine,
@@ -337,12 +337,12 @@ si va così.
 
 ## vv. 76-81 - La domanda e la fonte
 
-> Ma tu perche ritorni a tanta noia?  
-> perche non sali il dilettoso monte  
-> ch'e principio e cagion di tutta gioia?".  
-> "Or se' tu quel Virgilio e quella fonte  
-> che spandi di parlar si largo fiume?",  
-> rispuos'io lui con vergognosa fronte.  
+> Ma tu perché ritorni a tanta noia?
+> perché non sali il dilettoso monte
+> ch’è principio e cagion di tutta gioia?»
+> «Or se’ tu quel Virgilio e quella fonte
+> che spandi di parlar sì largo fiume?»
+> rispuosi lui con vergognosa fronte.
 
 Virgilio non consola:
 interroga.
@@ -357,12 +357,12 @@ Un'origine del dire.
 
 ## vv. 82-87 - Maestro e autore
 
-> "O de li altri poeti onore e lume,  
-> vagliami 'l lungo studio e 'l grande amore  
-> che m'ha fatto cercar lo tuo volume.  
-> Tu se' lo mio maestro e 'l mio autore,  
-> tu se' solo colui da cu' io tolsi  
-> lo bello stilo che m'ha fatto onore.  
+> «O de gli altri poeti onore e lume,
+> vagliami ’l lungo studio e ’l grande amore
+> che m’ha fatto cercar lo tuo volume.
+> Tu se’ lo mio maestro e ’l mio autore;
+> tu se’ solo colui da cui io tolsi
+> lo bello stilo che m’ha fatto onore.
 
 Qui bisogna fermarsi.
 
@@ -390,9 +390,9 @@ Misura della parola.
 
 ## vv. 88-90 - Il problema concreto
 
-> Vedi la bestia per cu' io mi volsi;  
-> aiutami da lei, famoso saggio,  
-> ch'ella mi fa tremar le vene e i polsi".
+> Vedi la bestia per cui io mi volsi:
+> aiutami da lei, famoso saggio,
+> ch’ella mi fa tremar le vene e i polsi.»
 
 Dopo il riconoscimento,
 Dante smette di essere astratto:
@@ -404,15 +404,15 @@ Da soli non si regge.
 
 ## vv. 91-99 - Altro viaggio e natura della lupa
 
-> "A te convien tenere altro vïaggio",  
-> rispuose, poi che lagrimar mi vide,  
-> "se vuo' campar d'esto loco selvaggio;  
-> che questa bestia, per la qual tu gride,  
-> non lascia altrui passar per la sua via,  
-> ma tanto lo 'mpedisce che l'uccide;  
-> e ha natura si malvagia e ria,  
-> che mai non empie la bramosa voglia,  
-> e dopo 'l pasto ha piu fame che pria.  
+> «A te convien tenere altro viaggio,»
+> rispuose poi che lacrimar mi vide,
+> «se vuoi campar d’esto loco selvaggio;
+> ché questa bestia per la qual tu gride,
+> non lascia altrui passar per la sua via,
+> ma tanto l’impedisce che l’uccide;
+> e ha natura sì malvagia e ria,
+> che mai non empie la bramosa voglia,
+> e dopo il pasto ha più fame che pria,
 
 Qui c’è la sentenza:
 altro viaggio.
@@ -430,18 +430,18 @@ Ogni vittoria la rende più forte.
 
 ## vv. 100-111 - Il veltro
 
-> Molti son li animali a cui s'ammoglia,  
-> e piu saranno ancora, infin che 'l veltro  
-> verra, che la fara morir con doglia.  
-> Questi non cibera terra ne peltro,  
-> ma sapïenza, amore e virtute,  
-> e sua nazion sara tra feltro e feltro.  
-> Di quella umile Italia fia salute  
-> per cui mori la vergine Cammilla,  
-> Eurialo e Turno e Niso di ferute.  
-> Questi la caccera per ogne villa,  
-> fin che l'avra rimessa ne lo 'nferno,  
-> la onde 'nvidia prima dipartilla.
+> Molti son gli animali a cui s’ammoglia,
+> e più saranno ancora, infin che ’l Veltro
+> verrà, che la farà morir con doglia.
+> Questi non ciberà terra né peltro,
+> ma sapienza, amore e virtute,
+> e sua nazion sarà tra feltro e feltro.
+> Di quell’umile Italia fia salute
+> per cui morì la vergine Camilla,
+> Eurialo e Turno e Niso, di ferute.
+> Questi la caccerà per ogni villa
+> fin che l’avrà rimessa ne l’Inferno,
+> là onde invidia prima dipartilla.
 
 Qui il canto si apre in avanti.
 
@@ -463,12 +463,12 @@ Una forma più alta.
 
 ## vv. 112-117 - La decisione della guida
 
-> Ond'io per lo tuo me' penso e discerno  
-> che tu mi segui, e io saro tua guida,  
-> e trarrotti di qui per loco etterno;  
-> ove udirai le disperate strida,  
-> vedrai li antichi spiriti dolenti,  
-> ch'a la seconda morte ciascun grida;
+> Ond’io per lo tuo me’ penso e discerno
+> che tu mi segui; ed io sarò tua guida,
+> e trarrotti di qui per loco eterno,
+> ove udirai le disperate strida,
+> vedrai gli antichi spiriti dolenti,
+> che la seconda morte ciascun grida;
 
 Qui nasce la struttura del viaggio.
 
@@ -485,9 +485,9 @@ Capire.
 
 ## vv. 118-120 - Il dolore che ha direzione
 
-> e vederai color che son contenti  
-> nel foco, perche speran di venire  
-> quando che sia a le beate genti.
+> e vederai color che son contenti
+> nel foco, perché speran di venire,
+> quando che sia, a le beate genti.
 
 Questa frase spiazza.
 
@@ -499,15 +499,15 @@ Non tutto il dolore è inferno.
 
 ## vv. 121-129 - Il limite di Virgilio e il centro
 
-> A le quai poi se tu vorrai salire,  
-> anima fia a cio piu di me degna:  
-> con lei ti lascero nel mio partire;  
-> che quello imperador che la su regna,  
-> perch'io fu' ribellante a la sua legge,  
-> non vuol che 'n sua citta per me si vegna.  
-> In tutte parti impera e quivi regge;  
-> quivi e la sua citta e l'alto seggio:  
-> oh felice colui cu' ivi elegge!".
+> A le qua’ poi se tu vorrai salire,
+> anima fia a ciò più di me degna:
+> con lei ti lascerò nel mio partire;
+> ché quello imperador che là su regna,
+> perch’io fui rebellante a la sua legge,
+> non vuol che in sua città per me si vegna.
+> In tutte parti impera e quivi regge;
+> quivi è la sua città e l’alto seggio:
+> oh felice colui cui ivi elegge!»
 
 Virgilio mette un limite netto.
 Non promette tutto.
@@ -521,13 +521,13 @@ La salita ha ordine.
 
 ## vv. 130-136 - La richiesta finale e il gesto
 
-> E io a lui: "Poeta, io ti richeggio  
-> per quello Dio che tu non conoscesti,  
-> accio ch'io fugga questo male e peggio,  
-> che tu mi meni la dov'or dicesti,  
-> si ch'io veggia la porta di san Pietro  
-> e color cui tu fai cotanto mesti".  
-> Allor si mosse, e io li tenni dietro.
+> E io a lui: «Poeta, io ti richieggio
+> per quello Dio che tu non conoscesti,
+> a ciò ch’io fugga questo male e peggio,
+> che tu mi meni là dov’or dicesti,
+> sì ch’io veggia la porta di san Pietro
+> e color cui tu fai cotanto mesti.»
+> Allor si mosse, e io li tenni retro.
 
 Qui Dante non discute più.
 Misura.

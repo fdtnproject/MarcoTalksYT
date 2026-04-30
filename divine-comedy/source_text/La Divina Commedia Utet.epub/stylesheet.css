@@ -1,0 +1,420 @@
+.bookauthor {
+    display: block;
+    font-size: 0.79412em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 1.5em 0 0
+    }
+.booktitle {
+    color: #32864a;
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 3em 0 1em
+    }
+.booktitle1 {
+    color: #32864a;
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 3em 0 1em
+    }
+.calibre {
+    display: block;
+    font-family: "LinLibertine";
+    font-size: 1.41667em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre2 {
+    font-size: 0.52941em
+    }
+.calibre3 {
+    font-style: italic
+    }
+.calibre4 {
+    height: auto;
+    line-height: 1.2;
+    width: auto
+    }
+.calibre5 {
+    text-decoration: none
+    }
+.calibre6 {
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre7 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre8 {
+    font-size: 0.79412em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre9 {
+    font-size: 0.88889em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre10 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre11 {
+    font-size: 0.66667em
+    }
+.calibre12 {
+    font-size: 0.75em
+    }
+.calibre13 {
+    font-size: 1em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.caption {
+    display: block;
+    font-size: 0.79412em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.caption1 {
+    display: block;
+    font-size: 0.70588em;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.3em 0 0
+    }
+.chap {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    margin: 2em 0 4em
+    }
+.chtitle {
+    display: block;
+    font-size: 1.17647em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 5em 0 1em
+    }
+.chtitle1 {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.copy {
+    display: block;
+    font-size: 0.70588em;
+    text-align: justify;
+    text-indent: 0;
+    margin: 3em 0 0
+    }
+.copy1 {
+    display: block;
+    font-size: 0.70588em;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0.7em 0 0
+    }
+.copya {
+    display: block;
+    font-size: 0.70588em;
+    text-align: justify;
+    text-indent: 0;
+    margin: 2.5em 0 0
+    }
+.footnote {
+    display: block;
+    font-size: 0.79412em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 1em;
+    margin: 4em 0 0
+    }
+.footnote1 {
+    display: block;
+    font-size: 0.79412em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 1em;
+    margin: 0.2em 0 0
+    }
+.hang {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: -1.5em;
+    margin: 1em 0 0.5em 1.5em
+    }
+.idx {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 7em 0 1em
+    }
+.image {
+    display: block;
+    line-height: 1.2;
+    text-align: center;
+    margin: 1em 0
+    }
+.img {
+    display: block;
+    line-height: 1.2;
+    text-align: center;
+    margin: 6em 0 0
+    }
+.indent {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.indent1 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin: 1.5em 0 0
+    }
+.indent1a {
+    display: block;
+    font-size: 0.70588em;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin: 1em 0 0
+    }
+.indent2 {
+    display: block;
+    font-size: 0.70588em;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.noindent {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0
+    }
+.noindenta {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 1em 0 0.3em
+    }
+.noindentb {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 0 1.5em
+    }
+.page {
+    display: block;
+    line-height: 1.2;
+    margin: 1em 0
+    }
+.page1 {
+    display: block;
+    line-height: 1.2
+    }
+.poem {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 0 5em
+    }
+.poem-1a {
+    display: block;
+    float: left;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 0 2.5em
+    }
+.poem-2a {
+    display: block;
+    float: left;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 0 3em
+    }
+.poem-2a1 {
+    display: block;
+    float: left;
+    font-size: 100%;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 0 3em
+    }
+.poem1a {
+    display: block;
+    float: left;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 0 2em
+    }
+.poemindent {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 0 6em
+    }
+.space {
+    display: block;
+    line-height: 1.2;
+    margin: 1em 0 0
+    }
+.subhead {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 1.3em 0 0.5em
+    }
+.td {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0.5em 0 0
+    }
+.tit {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.3em 0 0
+    }
+.tit1 {
+    display: block;
+    font-size: 1.17647em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.1em 0 0
+    }
+.tit2 {
+    display: block;
+    font-size: 0.52941em;
+    text-align: center;
+    text-indent: 0;
+    margin: 2em 0 0
+    }
+.tit3 {
+    display: block;
+    font-size: 0.79412em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.2em 0 0
+    }
+.tit4 {
+    display: block;
+    font-size: 0.79412em;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 7em 0 0
+    }
+.toc {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 2.5em 0 0
+    }
+.toc1 {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0.2em 0 0
+    }
+.toc1a {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 1em 0 0.5em
+    }
+.toc2 {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 0 1em
+    }
+.toc3 {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0.2em 0 0 1em
+    }
+.vimg {
+    display: block;
+    line-height: 1.2
+    }

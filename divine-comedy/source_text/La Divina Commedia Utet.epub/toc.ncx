@@ -1,0 +1,687 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ita">
+  <head>
+    <meta content="urn:uuid:9006f39b-b6b4-43cb-b768-e9bb5c7db1c0" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="calibre (3.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>La Divina Commedia (Italian Edition)</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="0">
+      <navLabel>
+        <text>Frontespizio</text>
+      </navLabel>
+      <content src="text/part0000.html#0-f1d5810f361645568fbaee0faa24118f"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="1">
+      <navLabel>
+        <text>Colophon</text>
+      </navLabel>
+      <content src="text/part0002.html#1T140-f1d5810f361645568fbaee0faa24118f"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="2">
+      <navLabel>
+        <text>Indice Del Volume</text>
+      </navLabel>
+      <content src="text/part0003.html#2RHM0-f1d5810f361645568fbaee0faa24118f"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="3">
+      <navLabel>
+        <text>Introduzione</text>
+      </navLabel>
+      <content src="text/part0004_split_000.html#3Q280-f1d5810f361645568fbaee0faa24118f"/>
+      <navPoint class="chapter" id="num_5" playOrder="4">
+        <navLabel>
+          <text>Nota biografica</text>
+        </navLabel>
+        <content src="text/part0005.html#4OIQ0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_6" playOrder="5">
+        <navLabel>
+          <text>Nota bibliografica</text>
+        </navLabel>
+        <content src="text/part0006.html#5N3C0-f1d5810f361645568fbaee0faa24118f"/>
+        <navPoint class="chapter" id="num_7" playOrder="6">
+          <navLabel>
+            <text>Appendice: il testo</text>
+          </navLabel>
+          <content src="text/part0007.html#6LJU0-f1d5810f361645568fbaee0faa24118f"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="7">
+      <navLabel>
+        <text>Inferno</text>
+      </navLabel>
+      <content src="text/part0008.html#7K4G0-f1d5810f361645568fbaee0faa24118f"/>
+      <navPoint class="chapter" id="num_9" playOrder="8">
+        <navLabel>
+          <text>Canto I</text>
+        </navLabel>
+        <content src="text/part0009_split_000.html#8IL20-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_10" playOrder="9">
+        <navLabel>
+          <text>Canto II</text>
+        </navLabel>
+        <content src="text/part0010_split_000.html#9H5K0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_11" playOrder="10">
+        <navLabel>
+          <text>Canto III</text>
+        </navLabel>
+        <content src="text/part0011_split_000.html#AFM60-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_12" playOrder="11">
+        <navLabel>
+          <text>Canto IV</text>
+        </navLabel>
+        <content src="text/part0012_split_000.html#BE6O0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_13" playOrder="12">
+        <navLabel>
+          <text>Canto V</text>
+        </navLabel>
+        <content src="text/part0013_split_000.html#CCNA0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_14" playOrder="13">
+        <navLabel>
+          <text>Canto VI</text>
+        </navLabel>
+        <content src="text/part0014_split_000.html#DB7S0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_15" playOrder="14">
+        <navLabel>
+          <text>Canto VII</text>
+        </navLabel>
+        <content src="text/part0015_split_000.html#E9OE0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_16" playOrder="15">
+        <navLabel>
+          <text>Canto VIII</text>
+        </navLabel>
+        <content src="text/part0016_split_000.html#F8900-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_17" playOrder="16">
+        <navLabel>
+          <text>Canto IX</text>
+        </navLabel>
+        <content src="text/part0017_split_000.html#G6PI0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_18" playOrder="17">
+        <navLabel>
+          <text>Canto X</text>
+        </navLabel>
+        <content src="text/part0018_split_000.html#H5A40-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_19" playOrder="18">
+        <navLabel>
+          <text>Canto XI</text>
+        </navLabel>
+        <content src="text/part0019_split_000.html#I3QM0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_20" playOrder="19">
+        <navLabel>
+          <text>Canto XII</text>
+        </navLabel>
+        <content src="text/part0020_split_000.html#J2B80-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_21" playOrder="20">
+        <navLabel>
+          <text>Canto XIII</text>
+        </navLabel>
+        <content src="text/part0021_split_000.html#K0RQ0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_22" playOrder="21">
+        <navLabel>
+          <text>Canto XIV</text>
+        </navLabel>
+        <content src="text/part0022_split_000.html#KVCC0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_23" playOrder="22">
+        <navLabel>
+          <text>Canto XV</text>
+        </navLabel>
+        <content src="text/part0023_split_000.html#LTSU0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_24" playOrder="23">
+        <navLabel>
+          <text>Canto XVI</text>
+        </navLabel>
+        <content src="text/part0024_split_000.html#MSDG0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_25" playOrder="24">
+        <navLabel>
+          <text>Canto XVII</text>
+        </navLabel>
+        <content src="text/part0025_split_000.html#NQU20-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_26" playOrder="25">
+        <navLabel>
+          <text>Canto XVIII</text>
+        </navLabel>
+        <content src="text/part0026_split_000.html#OPEK0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_27" playOrder="26">
+        <navLabel>
+          <text>Canto XIX</text>
+        </navLabel>
+        <content src="text/part0027_split_000.html#PNV60-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_28" playOrder="27">
+        <navLabel>
+          <text>Canto XX</text>
+        </navLabel>
+        <content src="text/part0028_split_000.html#QMFO0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_29" playOrder="28">
+        <navLabel>
+          <text>Canto XXI</text>
+        </navLabel>
+        <content src="text/part0029_split_000.html#RL0A0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_30" playOrder="29">
+        <navLabel>
+          <text>Canto XXII</text>
+        </navLabel>
+        <content src="text/part0030_split_000.html#SJGS0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_31" playOrder="30">
+        <navLabel>
+          <text>Canto XXIII</text>
+        </navLabel>
+        <content src="text/part0031_split_000.html#TI1E0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_32" playOrder="31">
+        <navLabel>
+          <text>Canto XXIV</text>
+        </navLabel>
+        <content src="text/part0032_split_000.html#UGI00-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_33" playOrder="32">
+        <navLabel>
+          <text>Canto XXV</text>
+        </navLabel>
+        <content src="text/part0033_split_000.html#VF2I0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_34" playOrder="33">
+        <navLabel>
+          <text>Canto XXVI</text>
+        </navLabel>
+        <content src="text/part0034_split_000.html#10DJ40-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_35" playOrder="34">
+        <navLabel>
+          <text>Canto XXVII</text>
+        </navLabel>
+        <content src="text/part0035_split_000.html#11C3M0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_36" playOrder="35">
+        <navLabel>
+          <text>Canto XXVIII</text>
+        </navLabel>
+        <content src="text/part0036_split_000.html#12AK80-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_37" playOrder="36">
+        <navLabel>
+          <text>Canto XXIX</text>
+        </navLabel>
+        <content src="text/part0037_split_000.html#1394Q0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_38" playOrder="37">
+        <navLabel>
+          <text>Canto XXX</text>
+        </navLabel>
+        <content src="text/part0038_split_000.html#147LC0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_39" playOrder="38">
+        <navLabel>
+          <text>Canto XXXI</text>
+        </navLabel>
+        <content src="text/part0039_split_000.html#1565U0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_40" playOrder="39">
+        <navLabel>
+          <text>Canto XXXII</text>
+        </navLabel>
+        <content src="text/part0040_split_000.html#164MG0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_41" playOrder="40">
+        <navLabel>
+          <text>Canto XXXIII</text>
+        </navLabel>
+        <content src="text/part0041_split_000.html#173720-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_42" playOrder="41">
+        <navLabel>
+          <text>Canto XXXIV</text>
+        </navLabel>
+        <content src="text/part0042_split_000.html#181NK0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_43" playOrder="42">
+      <navLabel>
+        <text>Purgatorio</text>
+      </navLabel>
+      <content src="text/part0043.html#190860-f1d5810f361645568fbaee0faa24118f"/>
+      <navPoint class="chapter" id="num_44" playOrder="43">
+        <navLabel>
+          <text>Canto I</text>
+        </navLabel>
+        <content src="text/part0044_split_000.html#19UOO0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_45" playOrder="44">
+        <navLabel>
+          <text>Canto II</text>
+        </navLabel>
+        <content src="text/part0045_split_000.html#1AT9A0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_46" playOrder="45">
+        <navLabel>
+          <text>Canto III</text>
+        </navLabel>
+        <content src="text/part0046_split_000.html#1BRPS0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_47" playOrder="46">
+        <navLabel>
+          <text>Canto IV</text>
+        </navLabel>
+        <content src="text/part0047_split_000.html#1CQAE0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_48" playOrder="47">
+        <navLabel>
+          <text>Canto V</text>
+        </navLabel>
+        <content src="text/part0048_split_000.html#1DOR00-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_49" playOrder="48">
+        <navLabel>
+          <text>Canto VI</text>
+        </navLabel>
+        <content src="text/part0049_split_000.html#1ENBI0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_50" playOrder="49">
+        <navLabel>
+          <text>Canto VII</text>
+        </navLabel>
+        <content src="text/part0050_split_000.html#1FLS40-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_51" playOrder="50">
+        <navLabel>
+          <text>Canto VIII</text>
+        </navLabel>
+        <content src="text/part0051_split_000.html#1GKCM0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_52" playOrder="51">
+        <navLabel>
+          <text>Canto IX</text>
+        </navLabel>
+        <content src="text/part0052_split_000.html#1HIT80-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_53" playOrder="52">
+        <navLabel>
+          <text>Canto X</text>
+        </navLabel>
+        <content src="text/part0053_split_000.html#1IHDQ0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_54" playOrder="53">
+        <navLabel>
+          <text>Canto XI</text>
+        </navLabel>
+        <content src="text/part0054_split_000.html#1JFUC0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_55" playOrder="54">
+        <navLabel>
+          <text>Canto XII</text>
+        </navLabel>
+        <content src="text/part0055_split_000.html#1KEEU0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_56" playOrder="55">
+        <navLabel>
+          <text>Canto XIII</text>
+        </navLabel>
+        <content src="text/part0056_split_000.html#1LCVG0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_57" playOrder="56">
+        <navLabel>
+          <text>Canto XIV</text>
+        </navLabel>
+        <content src="text/part0057_split_000.html#1MBG20-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_58" playOrder="57">
+        <navLabel>
+          <text>Canto XV</text>
+        </navLabel>
+        <content src="text/part0058_split_000.html#1NA0K0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_59" playOrder="58">
+        <navLabel>
+          <text>Canto XVI</text>
+        </navLabel>
+        <content src="text/part0059_split_000.html#1O8H60-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_60" playOrder="59">
+        <navLabel>
+          <text>Canto XVII</text>
+        </navLabel>
+        <content src="text/part0060_split_000.html#1P71O0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_61" playOrder="60">
+        <navLabel>
+          <text>Canto XVIII</text>
+        </navLabel>
+        <content src="text/part0061_split_000.html#1Q5IA0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_62" playOrder="61">
+        <navLabel>
+          <text>Canto XIX</text>
+        </navLabel>
+        <content src="text/part0062_split_000.html#1R42S0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_63" playOrder="62">
+        <navLabel>
+          <text>Canto XX</text>
+        </navLabel>
+        <content src="text/part0063_split_000.html#1S2JE0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_64" playOrder="63">
+        <navLabel>
+          <text>Canto XXI</text>
+        </navLabel>
+        <content src="text/part0064_split_000.html#1T1400-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_65" playOrder="64">
+        <navLabel>
+          <text>Canto XXII</text>
+        </navLabel>
+        <content src="text/part0065_split_000.html#1TVKI0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_66" playOrder="65">
+        <navLabel>
+          <text>Canto XXIII</text>
+        </navLabel>
+        <content src="text/part0066_split_000.html#1UU540-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_67" playOrder="66">
+        <navLabel>
+          <text>Canto XXIV</text>
+        </navLabel>
+        <content src="text/part0067_split_000.html#1VSLM0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_68" playOrder="67">
+        <navLabel>
+          <text>Canto XXV</text>
+        </navLabel>
+        <content src="text/part0068_split_000.html#20R680-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_69" playOrder="68">
+        <navLabel>
+          <text>Canto XXVI</text>
+        </navLabel>
+        <content src="text/part0069_split_000.html#21PMQ0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_70" playOrder="69">
+        <navLabel>
+          <text>Canto XXVII</text>
+        </navLabel>
+        <content src="text/part0070_split_000.html#22O7C0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_71" playOrder="70">
+        <navLabel>
+          <text>Canto XXVIII</text>
+        </navLabel>
+        <content src="text/part0071_split_000.html#23MNU0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_72" playOrder="71">
+        <navLabel>
+          <text>Canto XXIX</text>
+        </navLabel>
+        <content src="text/part0072_split_000.html#24L8G0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_73" playOrder="72">
+        <navLabel>
+          <text>Canto XXX</text>
+        </navLabel>
+        <content src="text/part0073_split_000.html#25JP20-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_74" playOrder="73">
+        <navLabel>
+          <text>Canto XXXI</text>
+        </navLabel>
+        <content src="text/part0074_split_000.html#26I9K0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_75" playOrder="74">
+        <navLabel>
+          <text>Canto XXXII</text>
+        </navLabel>
+        <content src="text/part0075_split_000.html#27GQ60-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_76" playOrder="75">
+        <navLabel>
+          <text>Canto XXXIII</text>
+        </navLabel>
+        <content src="text/part0076_split_000.html#28FAO0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_77" playOrder="76">
+      <navLabel>
+        <text>Paradiso</text>
+      </navLabel>
+      <content src="text/part0077.html#29DRA0-f1d5810f361645568fbaee0faa24118f"/>
+      <navPoint class="chapter" id="num_78" playOrder="77">
+        <navLabel>
+          <text>Canto I</text>
+        </navLabel>
+        <content src="text/part0078_split_000.html#2ACBS0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_79" playOrder="78">
+        <navLabel>
+          <text>Canto II</text>
+        </navLabel>
+        <content src="text/part0079_split_000.html#2BASE0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_80" playOrder="79">
+        <navLabel>
+          <text>Canto III</text>
+        </navLabel>
+        <content src="text/part0080_split_000.html#2C9D00-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_81" playOrder="80">
+        <navLabel>
+          <text>Canto IV</text>
+        </navLabel>
+        <content src="text/part0081_split_000.html#2D7TI0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_82" playOrder="81">
+        <navLabel>
+          <text>Canto V</text>
+        </navLabel>
+        <content src="text/part0082_split_000.html#2E6E40-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_83" playOrder="82">
+        <navLabel>
+          <text>Canto VI</text>
+        </navLabel>
+        <content src="text/part0083_split_000.html#2F4UM0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_84" playOrder="83">
+        <navLabel>
+          <text>Canto VII</text>
+        </navLabel>
+        <content src="text/part0084_split_000.html#2G3F80-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_85" playOrder="84">
+        <navLabel>
+          <text>Canto VIII</text>
+        </navLabel>
+        <content src="text/part0085_split_000.html#2H1VQ0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_86" playOrder="85">
+        <navLabel>
+          <text>Canto IX</text>
+        </navLabel>
+        <content src="text/part0086_split_000.html#2I0GC0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_87" playOrder="86">
+        <navLabel>
+          <text>Canto X</text>
+        </navLabel>
+        <content src="text/part0087_split_000.html#2IV0U0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_88" playOrder="87">
+        <navLabel>
+          <text>Canto XI</text>
+        </navLabel>
+        <content src="text/part0088_split_000.html#2JTHG0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_89" playOrder="88">
+        <navLabel>
+          <text>Canto XII</text>
+        </navLabel>
+        <content src="text/part0089_split_000.html#2KS220-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_90" playOrder="89">
+        <navLabel>
+          <text>Canto XIII</text>
+        </navLabel>
+        <content src="text/part0090_split_000.html#2LQIK0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_91" playOrder="90">
+        <navLabel>
+          <text>Canto XIV</text>
+        </navLabel>
+        <content src="text/part0091_split_000.html#2MP360-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_92" playOrder="91">
+        <navLabel>
+          <text>Canto XV</text>
+        </navLabel>
+        <content src="text/part0092_split_000.html#2NNJO0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_93" playOrder="92">
+        <navLabel>
+          <text>Canto XVI</text>
+        </navLabel>
+        <content src="text/part0093_split_000.html#2OM4A0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_94" playOrder="93">
+        <navLabel>
+          <text>Canto XVII</text>
+        </navLabel>
+        <content src="text/part0094_split_000.html#2PKKS0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_95" playOrder="94">
+        <navLabel>
+          <text>Canto XVIII</text>
+        </navLabel>
+        <content src="text/part0095_split_000.html#2QJ5E0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_96" playOrder="95">
+        <navLabel>
+          <text>Canto XIX</text>
+        </navLabel>
+        <content src="text/part0096_split_000.html#2RHM00-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_97" playOrder="96">
+        <navLabel>
+          <text>Canto XX</text>
+        </navLabel>
+        <content src="text/part0097_split_000.html#2SG6I0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_98" playOrder="97">
+        <navLabel>
+          <text>Canto XXI</text>
+        </navLabel>
+        <content src="text/part0098_split_000.html#2TEN40-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_99" playOrder="98">
+        <navLabel>
+          <text>Canto XXII</text>
+        </navLabel>
+        <content src="text/part0099_split_000.html#2UD7M0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_100" playOrder="99">
+        <navLabel>
+          <text>Canto XXIII</text>
+        </navLabel>
+        <content src="text/part0100_split_000.html#2VBO80-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_101" playOrder="100">
+        <navLabel>
+          <text>Canto XXIV</text>
+        </navLabel>
+        <content src="text/part0101_split_000.html#30A8Q0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_102" playOrder="101">
+        <navLabel>
+          <text>Canto XXV</text>
+        </navLabel>
+        <content src="text/part0102_split_000.html#318PC0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_103" playOrder="102">
+        <navLabel>
+          <text>Canto XXVI</text>
+        </navLabel>
+        <content src="text/part0103_split_000.html#3279U0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_104" playOrder="103">
+        <navLabel>
+          <text>Canto XXVII</text>
+        </navLabel>
+        <content src="text/part0104_split_000.html#335QG0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_105" playOrder="104">
+        <navLabel>
+          <text>Canto XXVIII</text>
+        </navLabel>
+        <content src="text/part0105_split_000.html#344B20-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_106" playOrder="105">
+        <navLabel>
+          <text>Canto XXIX</text>
+        </navLabel>
+        <content src="text/part0106_split_000.html#352RK0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_107" playOrder="106">
+        <navLabel>
+          <text>Canto XXX</text>
+        </navLabel>
+        <content src="text/part0107_split_000.html#361C60-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_108" playOrder="107">
+        <navLabel>
+          <text>Canto XXXI</text>
+        </navLabel>
+        <content src="text/part0108_split_000.html#36VSO0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_109" playOrder="108">
+        <navLabel>
+          <text>Canto XXXII</text>
+        </navLabel>
+        <content src="text/part0109_split_000.html#37UDA0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_110" playOrder="109">
+        <navLabel>
+          <text>Canto XXXIII</text>
+        </navLabel>
+        <content src="text/part0110_split_000.html#38STS0-f1d5810f361645568fbaee0faa24118f"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_111" playOrder="110">
+      <navLabel>
+        <text>Aggiunte e correzioni</text>
+      </navLabel>
+      <content src="text/part0111.html#39REE0-f1d5810f361645568fbaee0faa24118f"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_112" playOrder="111">
+      <navLabel>
+        <text>Indice delle tavole</text>
+      </navLabel>
+      <content src="text/part0113.html#3BOFI0-f1d5810f361645568fbaee0faa24118f"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,28 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "LinLibertine";
+    src: url(fonts/00001.otf);
+    font-style: normal;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "LinLibertine";
+    src: url(fonts/00002.otf);
+    font-style: normal;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "LinLibertine";
+    src: url(fonts/00003.otf);
+    font-style: italic;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "LinLibertine";
+    src: url(fonts/00004.otf);
+    font-style: italic;
+    font-weight: bold
+    }
