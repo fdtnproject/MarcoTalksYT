@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 11",
+  "slug": "canto-11",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_11_source.txt",
+    "talk_finale_md": "./scripts/Canto_11_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_11_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto11-content.js"
+  },
+  "images": {
+    "thumbnail": null,
+    "cover": null,
+    "vertical": null
+  },
+  "notes": "Script completo disponibile. Asset visivi da aggiungere in ./images/ (tavole di Dore per la sosta sull'orlo / la tomba di papa Anastasio / la lezione di topologia morale / la ripartenza verso il VII cerchio)."
+}
