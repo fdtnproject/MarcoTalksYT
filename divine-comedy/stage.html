@@ -89,6 +89,7 @@
     z-index: 10;
   }
   body.idle #hud { opacity: 0; }
+  body.touch-stage #hud { display: none; }
   #hud .keys code {
     padding: 2px 6px;
     margin-right: 6px;
@@ -560,6 +561,7 @@
     window.matchMedia?.('(pointer: coarse)').matches;
 
   if (touchMode) {
+    document.body.classList.add('touch-stage');
     const keysHint = document.getElementById('keys-hint');
     if (keysHint) {
       keysHint.insertAdjacentHTML('beforeend', ' <span style="margin-left:10px;"><code>tap sx</code> indietro <code>tap dx</code> avanza</span>');
