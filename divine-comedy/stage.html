@@ -2,7 +2,7 @@
 <html lang="it">
 <head>
 <meta charset="utf-8" />
-<title>Stage — Divine Comedy</title>
+<title>Stage — La Divina Commedia</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <style>
   :root {
@@ -155,7 +155,7 @@
 <body class="idle">
 
 <div id="titlecard">
-  <div class="kicker" id="tc-kicker">Divine Comedy</div>
+  <div class="kicker" id="tc-kicker">La Divina Commedia</div>
   <h1 id="tc-title">Stage</h1>
   <div class="tagline" id="tc-tagline"></div>
 </div>
@@ -187,6 +187,11 @@
   const params = new URLSearchParams(window.location.search);
   const cantoId = (params.get('canto') || '01').padStart(2, '0');
   const cantiche = params.get('cantica') || 'inferno';
+  const canticaLabels = {
+    inferno: 'Inferno',
+    purgatorio: 'Purgatorio',
+    paradiso: 'Paradiso'
+  };
 
   // A tiny per-canto manifest. Extend as more canti are added.
   // Each entry is a slide: { type: 'image'|'text'|'black', src?, lines?, label? }
@@ -424,7 +429,8 @@
   }
 
   // ---------- Title card ----------
-  document.getElementById('tc-kicker').textContent = 'Divine Comedy \u00b7 ' + cantiche.toUpperCase();
+  document.getElementById('tc-kicker').textContent =
+    'La Divina Commedia \u00b7 ' + (canticaLabels[cantiche] || cantiche);
   document.getElementById('tc-title').textContent = manifest.title;
   document.getElementById('tc-tagline').textContent = manifest.tagline || '';
 
