@@ -310,18 +310,66 @@
     @media (max-width: 860px) {
       .toolbar {
         grid-template-columns: 1fr;
-      }
-
-      .status {
-        text-align: left;
+        gap: 8px;
+        padding: 10px 12px;
       }
 
       .toolbar-main {
-        align-items: flex-start;
+        flex-wrap: nowrap;
+        align-items: center;
+        overflow-x: auto;
+        overscroll-behavior-x: contain;
+        padding-bottom: 2px;
+        scrollbar-width: none;
+      }
+
+      .toolbar-main::-webkit-scrollbar,
+      .status::-webkit-scrollbar {
+        display: none;
+      }
+
+      .toolbar-title,
+      .control-group {
+        flex: 0 0 auto;
+      }
+
+      .toolbar-title {
+        min-width: auto;
+        margin-right: 0;
+      }
+
+      .toolbar-title span {
+        white-space: nowrap;
       }
 
       .control-group {
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
+        gap: 6px;
+        padding: 6px 8px;
+      }
+
+      .control-group label {
+        font-size: 11px;
+      }
+
+      button,
+      select {
+        min-height: 34px;
+      }
+
+      .status {
+        display: flex;
+        gap: 12px;
+        align-items: center;
+        text-align: left;
+        white-space: nowrap;
+        overflow-x: auto;
+        font-size: 12px;
+        scrollbar-width: none;
+      }
+
+      .status > div {
+        flex: 0 0 auto;
       }
 
       .page {
