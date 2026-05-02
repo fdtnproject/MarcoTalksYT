@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <title>Stage — Divine Comedy</title>
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <style>
   :root {
     --bg: #000;
@@ -519,6 +519,13 @@
     else document.exitFullscreen?.();
   }
 
+  let fullscreenAttempted = false;
+  function ensureFullscreen() {
+    if (fullscreenAttempted || document.fullscreenElement) return;
+    fullscreenAttempted = true;
+    document.documentElement.requestFullscreen?.().catch?.(() => {});
+  }
+
   // ---------- Input ----------
   window.addEventListener('keydown', (e) => {
     // Ignore modifier combos so browser shortcuts still work.
@@ -528,16 +535,19 @@
       case ' ':
       case 'PageDown':
       case 'Enter':
+        ensureFullscreen();
         e.preventDefault(); next(); break;
       case 'ArrowLeft':
       case 'PageUp':
       case 'Backspace':
+        ensureFullscreen();
         e.preventDefault(); prev(); break;
       case 'Home':
         e.preventDefault(); jump(0); break;
       case 'End':
         e.preventDefault(); jump(slides.length - 1); break;
       case 'b': case 'B':
+        ensureFullscreen();
         e.preventDefault(); toggleBlack(); break;
       case 'f': case 'F':
         e.preventDefault(); toggleFullscreen(); break;
@@ -564,6 +574,7 @@
 
     let lastTouchTs = 0;
     function handleTapNav(clientX) {
+      ensureFullscreen();
       const half = window.innerWidth / 2;
       if (clientX < half) prev();
       else next();
