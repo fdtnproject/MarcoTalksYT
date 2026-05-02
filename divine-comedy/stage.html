@@ -77,7 +77,7 @@
     position: fixed;
     left: 0; right: 0; bottom: 0;
     padding: 14px 18px;
-    display: flex;
+    display: none;
     justify-content: space-between;
     align-items: center;
     pointer-events: none;
@@ -89,7 +89,6 @@
     z-index: 10;
   }
   body.idle #hud { opacity: 0; }
-  body.touch-stage #hud { display: none; }
   #hud .keys code {
     padding: 2px 6px;
     margin-right: 6px;
@@ -562,10 +561,6 @@
 
   if (touchMode) {
     document.body.classList.add('touch-stage');
-    const keysHint = document.getElementById('keys-hint');
-    if (keysHint) {
-      keysHint.insertAdjacentHTML('beforeend', ' <span style="margin-left:10px;"><code>tap sx</code> indietro <code>tap dx</code> avanza</span>');
-    }
 
     let lastTouchTs = 0;
     function handleTapNav(clientX) {
