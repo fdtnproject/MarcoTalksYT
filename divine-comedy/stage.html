@@ -483,12 +483,15 @@
   // ---------- State ----------
   let index = -1;         // -1 = title card
   let blackOverride = false;
+  let isTransitioning = false;
+  let transitionTimer = null;
+  const IMAGE_LEAD_IN_MS = 220;
 
   function render() {
     const hidden = index < 0;
     titlecard.classList.toggle('hidden', !hidden);
     slideEls.forEach((el, i) => {
-      const isActive = !hidden && !blackOverride && i === index;
+      const isActive = !hidden && !blackOverride && !isTransitioning && i === index;
       el.classList.toggle('active', isActive);
     });
     if (hidden) {
@@ -504,22 +507,54 @@
     }
   }
 
-  function next() {
+  function clearTransitionTimer() {
+    if (transitionTimer) {
+      clearTimeout(transitionTimer);
+      transitionTimer = null;
+    }
+    isTransitioning = false;
+  }
+
+  function setIndex(nextIndex) {
+    clearTransitionTimer();
     blackOverride = false;
-    if (index < slides.length - 1) index++;
-    else index = slides.length - 1;
+    index = nextIndex;
+
+    const needsLeadIn =
+      nextIndex >= 0 &&
+      nextIndex < slides.length &&
+      slides[nextIndex].type === 'image';
+
+    if (!needsLeadIn) {
+      render();
+      return;
+    }
+
+    isTransitioning = true;
     render();
+    transitionTimer = setTimeout(() => {
+      isTransitioning = false;
+      transitionTimer = null;
+      render();
+    }, IMAGE_LEAD_IN_MS);
+  }
+
+  function next() {
+    const nextIndex = index < slides.length - 1 ? index + 1 : slides.length - 1;
+    setIndex(nextIndex);
   }
   function prev() {
-    blackOverride = false;
-    if (index > -1) index--;
-    render();
+    const prevIndex = index > -1 ? index - 1 : -1;
+    setIndex(prevIndex);
   }
   function jump(n) {
-    blackOverride = false;
-    if (n >= 0 && n < slides.length) { index = n; render(); }
+    if (n >= 0 && n < slides.length) setIndex(n);
   }
-  function toggleBlack() { blackOverride = !blackOverride; render(); }
+  function toggleBlack() {
+    clearTransitionTimer();
+    blackOverride = !blackOverride;
+    render();
+  }
   function toggleFullscreen() {
     if (!document.fullscreenElement) document.documentElement.requestFullscreen?.();
     else document.exitFullscreen?.();
@@ -578,6 +613,7 @@
       case 'f': case 'F':
         e.preventDefault(); toggleFullscreen(); break;
       case 'Escape':
+        clearTransitionTimer();
         e.preventDefault(); index = -1; blackOverride = false; render(); break;
       default:
         if (/^[0-9]$/.test(e.key)) {
