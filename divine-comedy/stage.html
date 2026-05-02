@@ -526,6 +526,23 @@
     document.documentElement.requestFullscreen?.().catch?.(() => {});
   }
 
+  function advance() {
+    ensureFullscreen();
+    next();
+  }
+
+  function goBack() {
+    ensureFullscreen();
+    prev();
+  }
+
+  function handleScreenNav(clientX) {
+    ensureFullscreen();
+    const half = window.innerWidth / 2;
+    if (clientX < half) prev();
+    else next();
+  }
+
   // ---------- Input ----------
   window.addEventListener('keydown', (e) => {
     // Ignore modifier combos so browser shortcuts still work.
@@ -535,13 +552,16 @@
       case ' ':
       case 'PageDown':
       case 'Enter':
-        ensureFullscreen();
-        e.preventDefault(); next(); break;
+      case 'NumpadEnter':
+      case 'Select':
+      case 'Accept':
+      case 'OK':
+      case 'Center':
+        e.preventDefault(); advance(); break;
       case 'ArrowLeft':
       case 'PageUp':
       case 'Backspace':
-        ensureFullscreen();
-        e.preventDefault(); prev(); break;
+        e.preventDefault(); goBack(); break;
       case 'Home':
         e.preventDefault(); jump(0); break;
       case 'End':
@@ -569,30 +589,24 @@
     navigator.maxTouchPoints > 0 ||
     window.matchMedia?.('(pointer: coarse)').matches;
 
+  let lastTouchTs = 0;
+
+  window.addEventListener('click', (e) => {
+    // Ignore the synthetic click that often follows a touch on iPad/iPhone.
+    if (Date.now() - lastTouchTs < 700) return;
+    handleScreenNav(typeof e.clientX === 'number' ? e.clientX : window.innerWidth);
+  });
+
   if (touchMode) {
     document.body.classList.add('touch-stage');
-
-    let lastTouchTs = 0;
-    function handleTapNav(clientX) {
-      ensureFullscreen();
-      const half = window.innerWidth / 2;
-      if (clientX < half) prev();
-      else next();
-    }
 
     window.addEventListener('touchend', (e) => {
       const touch = e.changedTouches?.[0];
       if (!touch) return;
       lastTouchTs = Date.now();
       e.preventDefault();
-      handleTapNav(touch.clientX);
+      handleScreenNav(touch.clientX);
     }, { passive: false });
-
-    window.addEventListener('click', (e) => {
-      // Ignore the synthetic click that often follows a touch on iPad/iPhone.
-      if (Date.now() - lastTouchTs < 700) return;
-      handleTapNav(e.clientX);
-    });
   }
 
   // ---------- Idle cursor / hud ----------
