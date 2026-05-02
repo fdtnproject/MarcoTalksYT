@@ -307,69 +307,73 @@
       border: 1px solid var(--panel-border);
     }
 
+    body.tv-bro .toolbar {
+      grid-template-columns: 1fr;
+      gap: 0;
+      padding: 8px 10px;
+    }
+
+    body.tv-bro .toolbar-main {
+      flex-wrap: nowrap;
+      align-items: center;
+      gap: 8px;
+      overflow-x: auto;
+      overscroll-behavior-x: contain;
+      padding-bottom: 2px;
+      scrollbar-width: none;
+    }
+
+    body.tv-bro .toolbar-main::-webkit-scrollbar {
+      display: none;
+    }
+
+    body.tv-bro .toolbar-title,
+    body.tv-bro .status {
+      display: none;
+    }
+
+    body.tv-bro .control-group {
+      flex: 0 0 auto;
+      flex-wrap: nowrap;
+      gap: 6px;
+      padding: 6px 8px;
+    }
+
+    body.tv-bro .control-group label {
+      font-size: 10px;
+      letter-spacing: 0.04em;
+    }
+
+    body.tv-bro button,
+    body.tv-bro select {
+      min-height: 32px;
+      padding: 0 10px;
+      font-size: 12px;
+    }
+
+    body.tv-bro select {
+      max-width: 134px;
+    }
+
+    body.tv-bro input[type="range"] {
+      width: 72px;
+    }
+
     @media (max-width: 860px) {
       .toolbar {
         grid-template-columns: 1fr;
-        gap: 8px;
-        padding: 10px 12px;
-      }
-
-      .toolbar-main {
-        flex-wrap: nowrap;
-        align-items: center;
-        overflow-x: auto;
-        overscroll-behavior-x: contain;
-        padding-bottom: 2px;
-        scrollbar-width: none;
-      }
-
-      .toolbar-main::-webkit-scrollbar,
-      .status::-webkit-scrollbar {
-        display: none;
-      }
-
-      .toolbar-title,
-      .control-group {
-        flex: 0 0 auto;
-      }
-
-      .toolbar-title {
-        min-width: auto;
-        margin-right: 0;
-      }
-
-      .toolbar-title span {
-        white-space: nowrap;
-      }
-
-      .control-group {
-        flex-wrap: nowrap;
-        gap: 6px;
-        padding: 6px 8px;
-      }
-
-      .control-group label {
-        font-size: 11px;
-      }
-
-      button,
-      select {
-        min-height: 34px;
       }
 
       .status {
-        display: flex;
-        gap: 12px;
-        align-items: center;
         text-align: left;
-        white-space: nowrap;
-        overflow-x: auto;
-        font-size: 12px;
-        scrollbar-width: none;
       }
 
-      .status > div {
-        flex: 0 0 auto;
+      .toolbar-main {
+        align-items: flex-start;
+      }
+
+      .control-group {
+        flex-wrap: wrap;
       }
 
       .page {
@@ -450,6 +454,21 @@
     const content = window.CANTO_TWO;
     const utils = window.CANTO_RENDER_UTILS;
     const doc = utils.parseCantoMarkdown(content.markdown);
+    const qs = new URLSearchParams(window.location.search);
+    const isTvBro = /tv\s?bro/i.test(navigator.userAgent) || qs.get("tvbro") === "1";
+    const themeLabels = isTvBro
+      ? { off: "Low", on: "Norm" }
+      : { off: "Low Light", on: "Normal Light" };
+
+    if (isTvBro) {
+      document.body.classList.add("tv-bro");
+      const speedLabel = document.querySelector('label[for="speed"]');
+      const sizeLabel = document.querySelector('label[for="size"]');
+      const measureLabel = document.querySelector('label[for="measure"]');
+      if (speedLabel) speedLabel.textContent = "Scroll";
+      if (sizeLabel) sizeLabel.textContent = "Text";
+      if (measureLabel) measureLabel.textContent = "Width";
+    }
 
     document.getElementById("toolbar-title").textContent = content.title;
     document.getElementById("hero-kicker").textContent = content.kicker;
@@ -574,7 +593,7 @@
       speedValue.textContent = String(settings.speed);
       document.body.classList.toggle("low-light", settings.lowLight);
       playToggle.textContent = settings.playing ? "Pause" : "Play";
-      themeToggle.textContent = settings.lowLight ? "Normal Light" : "Low Light";
+      themeToggle.textContent = settings.lowLight ? themeLabels.on : themeLabels.off;
     }
 
     function step(timestamp) {
