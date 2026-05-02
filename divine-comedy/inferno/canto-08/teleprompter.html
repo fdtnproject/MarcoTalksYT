@@ -314,7 +314,7 @@
     }
 
     body.tv-bro .toolbar-main {
-      flex-wrap: nowrap;
+      flex-wrap: nowrap !important;
       align-items: center;
       gap: 8px;
       overflow-x: auto;
@@ -334,7 +334,7 @@
 
     body.tv-bro .control-group {
       flex: 0 0 auto;
-      flex-wrap: nowrap;
+      flex-wrap: nowrap !important;
       gap: 6px;
       padding: 6px 8px;
     }
@@ -455,12 +455,20 @@
     const utils = window.CANTO_RENDER_UTILS;
     const doc = utils.parseCantoMarkdown(content.markdown);
     const qs = new URLSearchParams(window.location.search);
-    const isTvBro = /tv\s?bro/i.test(navigator.userAgent) || qs.get("tvbro") === "1";
-    const themeLabels = isTvBro
+    const ua = navigator.userAgent || "";
+    const tvHints = /bravia|googletv|smarttv|hbbtv|aft|mibox|shield|android tv|google tv/i;
+    const forcedTvBro = qs.get("tvbro") === "1";
+    const isTvBroUa = /tv\s?bro/i.test(ua);
+    const isTvLikeDevice = /android/i.test(ua) && (
+      tvHints.test(ua) ||
+      (/\bwv\b/i.test(ua) && window.matchMedia?.("(pointer: coarse)")?.matches && !/mobile/i.test(ua))
+    );
+    const useCompactTvLayout = forcedTvBro || isTvBroUa || isTvLikeDevice;
+    const themeLabels = useCompactTvLayout
       ? { off: "Low", on: "Norm" }
       : { off: "Low Light", on: "Normal Light" };
 
-    if (isTvBro) {
+    if (useCompactTvLayout) {
       document.body.classList.add("tv-bro");
       const speedLabel = document.querySelector('label[for="speed"]');
       const sizeLabel = document.querySelector('label[for="size"]');
