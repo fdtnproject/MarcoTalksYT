@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 12",
+  "slug": "canto-12",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_12_source.txt",
+    "talk_finale_md": "./scripts/Canto_12_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_12_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto12-content.js"
+  },
+  "images": {
+    "thumbnail": null,
+    "cover": null,
+    "vertical": null
+  },
+  "notes": "Script completo disponibile. Asset visivi da aggiungere in ./images/ (tavole di Dore per il Minotauro / la ruina / il Flegetonte / i Centauri arcieri / Chirone e Nesso / i tiranni nel sangue)."
+}
