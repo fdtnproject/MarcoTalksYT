@@ -10,11 +10,16 @@ Convenzione: 4-5 immagini totali, 3 passaggi a nero deliberati. Il Canto XII è 
 Marco apre a nero. Nessuna immagine.
 Motivo: il canto si apre con la discesa nel basso Inferno. Il nero serve la sospensione prima della prima irruzione visiva (il Minotauro).
 
-### vv. 1-30 — Il Minotauro
+### vv. 1-15 — La ruina e il Minotauro
 [Schermo: Doré — il Minotauro sull'orlo della scarpata]
 Tavola del Minotauro: figura mezzo uomo mezzo toro che si dimena, dettaglio del morso a sé stesso.
 Asset suggerito: `12_minotauro.jpg` (Doré, "Le Minotaure" — la classica immagine sulla cima della frana).
-Tenere accesa per tutto il blocco del Minotauro e per la scena del passaggio.
+Tenere accesa per tutto il blocco della ruina e del Minotauro.
+
+### vv. 16-30 — Virgilio lo ferma
+[Schermo: Doré — il Minotauro sull'orlo della scarpata]
+Stessa tavola del Minotauro.
+Motivo: la scena non cambia davvero immagine; cambia funzione. Virgilio lo stuzzica, il Minotauro si rende inutile, e loro passano.
 
 ### vv. 31-48 — Il crollo e la morte di Cristo
 [Schermo: nero pieno]

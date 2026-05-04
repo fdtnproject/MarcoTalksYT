@@ -72,7 +72,7 @@ Tutto il Canto XII ruota intorno a una verità
 che il Flegetonte mette in scena:
 si annega nel sangue versato.
 
-## vv. 1-30 - Il Minotauro
+## vv. 1-15 - La ruina e il Minotauro
 
 > Era lo loco, ove a scender la riva
 > venimmo, alpestro, e, per quel ch’ivi er’anco,
@@ -89,21 +89,6 @@ si annega nel sangue versato.
 > che fu concetta ne la falsa vacca;
 > e quando vide noi se stesso morse
 > sì come quei cui l’ira dentro fiacca.
-> Lo savio mio inver lui gridò: «Forse
-> tu credi che qui sia il duca d’Atene,
-> che su nel mondo la morte ti porse?
-> Pàrtiti, bestia, ché questi non vene
-> ammaestrato da la tua sorella,
-> ma vassi per veder le vostre pene.»
-> Qual è quel toro che si slaccia in quella
-> c’ha ricevuto già il colpo mortale,
-> che gir non sa, ma qua e là saltella,
-> vid’io lo Minotauro far cotale;
-> e quello accorto gridò: «Corri al varco:
-> mentre ch’è in furia, è buon che tu ti cale.»
-> Così prendemmo via giù per lo scarco
-> di quelle pietre, che spesso moviènsi
-> sotto i miei piedi per lo novo carco.
 
 Il posto in cui si scende
 è alpestro.
@@ -190,6 +175,24 @@ che la rabbia interna
 sta facendo a pezzi.
 
 Pausa.
+
+## vv. 16-30 - Virgilio lo ferma
+
+> Lo savio mio inver lui gridò: «Forse
+> tu credi che qui sia il duca d’Atene,
+> che su nel mondo la morte ti porse?
+> Pàrtiti, bestia, ché questi non vene
+> ammaestrato da la tua sorella,
+> ma vassi per veder le vostre pene.»
+> Qual è quel toro che si slaccia in quella
+> c’ha ricevuto già il colpo mortale,
+> che gir non sa, ma qua e là saltella,
+> vid’io lo Minotauro far cotale;
+> e quello accorto gridò: «Corri al varco:
+> mentre ch’è in furia, è buon che tu ti cale.»
+> Così prendemmo via giù per lo scarco
+> di quelle pietre, che spesso moviènsi
+> sotto i miei piedi per lo novo carco.
 
 E Virgilio gli grida.
 
