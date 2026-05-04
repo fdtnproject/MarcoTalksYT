@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 13",
+  "slug": "canto-13",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_13_source.txt",
+    "talk_finale_md": "./scripts/Canto_13_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_13_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto13-content.js"
+  },
+  "images": {
+    "thumbnail": null,
+    "cover": null,
+    "vertical": null
+  },
+  "notes": "Seconda bozza del Canto XIII disponibile. `Canto_13_source.txt` contiene il testo UTET; `Canto_13_talk_finale.md` e `Canto_13_cue_immagini.md` sono riallineati al canto. Asset visivi da aggiungere in ./images/ (selva dei suicidi / Arpie sui rami / ramo spezzato di Pier della Vigna / scialacquatori inseguiti dalle cagne / cespuglio del fiorentino anonimo)."
+}
