@@ -345,7 +345,7 @@ Le cagne raggiungono Giacomo.
 Lo dilacerano pezzo per pezzo.
 Portano via i resti.
 
-Lano si ferma al cespuglio.
+Giacomo si raggomitola contro un cespuglio.
 Si nasconde.
 
 E il cespuglio dice:
