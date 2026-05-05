@@ -288,8 +288,7 @@ usurai.
 
 Pausa.
 
-Non è un catalogo
-fatto per amore del catalogo.
+Non è un catalogo.
 
 È una mappa
 che stringe il male
