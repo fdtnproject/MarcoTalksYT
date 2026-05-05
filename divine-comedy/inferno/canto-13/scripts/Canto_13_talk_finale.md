@@ -366,7 +366,8 @@ per le rotture sanguinanti.
 Parla.
 
 > *Io fui de la città che nel Battista*
-> *mutò il primo padrone...*
+> *mutò il primo padrone; ond’ei per questo*
+> *sempre con l’arte sua la farà trista;*
 
 Firenze.
 Un fiorentino.

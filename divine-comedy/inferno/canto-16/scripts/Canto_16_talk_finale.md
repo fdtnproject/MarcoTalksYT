@@ -2,9 +2,6 @@
 
 Versione da palco
 Linea guida: "Anche dall'Inferno si ama ancora la propria città"
-Stato: prima bozza
-
----
 
 ## Apertura
 
@@ -16,572 +13,569 @@ Allora, il sedicesimo canto.
 
 Pausa.
 
-Dante è ancora
-con la testa piena di Brunetto.
-Il maestro che corre come chi vince.
-Il libro che è la sua unica vita rimasta.
+Brunetto è appena sparito
+nel fuoco.
+
+Dante cammina ancora
+con addosso
+quella voce.
 
 Pausa.
 
-E mentre camminano
-comincia a sentire qualcosa.
+E intanto sente un altro suono.
+
+Non lo vede ancora.
+
+Lo sente.
+
+Pausa lunga.
+
+Il rombo dell'acqua
+che cade più sotto.
+
+Il precipizio
+sta arrivando.
+
+## vv. 1-12 - Il rombo e l'argine
+
+> Già era in loco onde s’udia ’l rimbombo
+> de l’acqua che cadea ne l’altro giro,
+> simile a quel che l’arnie fanno rombo,
+> quando tre ombre insieme si partiro,
+> correndo, d’una torma che passava
+> sotto la pioggia de l’aspro martiro.
+> Venian ver noi, e ciascuna gridava:
+> «Sòstati tu ch’a l’abito ne sembri
+> esser alcun di nostra terra prava.»
+> Ahimè, che piaghe vidi ne’ loro membri,
+> recenti e vecchie, da le fiamme incese!
+> Ancor men duol pur ch’io me ne rimembri.
+
+Pausa.
+
+Il canto apre con un suono.
+
+Non una figura.
+Non una porta.
 
 Un rombo.
 
-Pausa lunga.
-
-Come l'acqua
-che scende verso il basso.
-
-Non ancora visibile.
-Già udibile.
-
 Pausa.
 
-Il precipizio si avvicina.
+E subito dentro quel rombo
+tre ombre
+si staccano dalla schiera.
 
----
-
-## vv. 1-27 - Le tre ombre
-
-Dante sente il rumore.
-E nello stesso momento
-vede arrivare tre ombre.
-
-Pausa.
-
-Corrono.
-Lasciano la loro schiera.
-
-> «Fèrmati tu che a l'abito ne sembri
-> essere alcun di nostra terra prava!»
-
-Fermati.
-Dall'abito sembri uno di noi.
-Uno della nostra terra perversa.
+Corrono verso Dante
+e lo chiamano.
 
 Pausa lunga.
 
-Fermati.
+Sòstati.
+
+Dall'abito
+sembri uno
+della nostra terra prava.
 
 Pausa.
 
-Sono loro
-che chiedono a Dante di aspettare.
+Prima ancora del nome
+arriva la città.
 
-Pausa.
+## vv. 13-27 - Le tre ombre girano
 
-Si avvicinano.
-E invece di fermarsi davanti a lui
-continuano a girare.
+> A le lor grida il mio dottor s’attese;
+> volse ’l viso ver me, e disse: «Aspetta;
+> a costor si vuol essere cortese.
+> E se non fosse il foco che saetta
+> la natura del loco, io dicerei
+> che meglio stesse a te che a lor la fretta.»
+> Ricominciar, come noi restammo, ei
+> l’antico verso; e quando a noi fur giunti,
+> fenno una rota di sé tutti e trei,
+> qual sogliono i campion far nudi e unti,
+> avvisando lor presa e lor vantaggio,
+> prima che sien tra lor battuti e punti.
+> E sì rotando, ciascuno il visaggio
+> drizzava a me, sì che ’n contraro il collo
+> facea a’ piè continuo viaggio.
+
+[Schermo: Doré — le tre ombre che girano]
 
 Pausa lunga.
 
-[Schermo: Doré — le tre ombre che girano in cerchio]
+Virgilio dice una cosa semplice:
 
-> come i campion fan nudi e unti,
-> avvisando lor presa e lor vantaggio
-> prima che sien tra lor battuti e punti:
-> così rotando, ciascuno il visaggio
-> drizzava a me, sì che 'n contrario il collo
-> faceva ai piè continuo viaggio.
+Aspetta.
+
+A costoro
+si vuol essere cortese.
 
 Pausa.
 
-Come i lottatori nudi e unti
-che si studiano prima di agganciarsi —
+Sono dannati.
 
-così girano
-tenendo il viso verso Dante
-mentre i piedi vanno nell'altro senso.
+Ma meritano riguardo.
 
 Pausa lunga.
 
-Non possono fermarsi.
-Se si fermano
-la pioggia li brucia peggio.
+E quando arrivano,
+non si fermano.
+
+Fanno una rota.
+
+Girano
+come i campioni
+prima di afferrarsi.
 
 Pausa.
 
-Ma non possono nemmeno
-voltare le spalle a Dante.
+Non possono smettere di correre.
+Non possono voltarsi.
 
-Pausa.
-
-Allora girano.
-In cerchio.
-Senza smettere.
-Alzando la faccia verso di lui.
+Allora tengono il viso verso Dante
+e i piedi
+vanno nell'altro senso.
 
 Pausa lunga.
 
-Fermati su questa immagine.
+Tre uomini
+che continuano a bruciare
+senza smettere di guardare.
+
+## vv. 28-45 - Guido, Tegghiaio, Iacopo
+
+> E «Se miseria d’esto loco sollo
+> rende in dispetto noi e i nostri prieghi,»
+> cominciò l’uno, «e ’l tinto aspetto e brollo,
+> la fama nostra l’animo tuo pieghi
+> a dirne chi tu se’, che i vivi piedi
+> così sicuro per lo Inferno freghi.
+> Questi, l’orme di cui pestar mi vedi,
+> tutto che nudo e dipelato vada,
+> fu di grado maggior che tu non credi:
+> nepote fu de la buona Gualdrada;
+> Guido Guerra ebbe nome, ed in sua vita
+> fece col senno assai e con la spada.
+> L’altro, ch’appresso me la rena trita,
+> è Tegghiaio Aldobrandi, la cui voce
+> nel mondo su dovria esser gradita.
+> E io, che posto son con loro in croce,
+> Iacopo Rusticucci fui; e certo
+> la fiera moglie più ch’altro mi nuoce.»
 
 Pausa.
 
-Tre uomini che corrono in cerchio
-per non smettere di guardare
-quello che vogliono vedere.
+Non dicono:
+abbi pietà.
 
----
-
-## vv. 28-72 - Chi sono
-
-Il primo parla.
-
-Pausa.
-
-> «Se miseria d'esto loco sollo
-> rende in dispetto noi e nostri prieghi»,
-> cominciò l'uno, «e 'l tinto aspetto e brollo,
-> la fama nostra il tuo animo pieghi
-> a dirne chi tu se': che 'n viva pelle
-> così sicuro per lo 'nferno il treghi.
-
-Se la miseria di questo posto
-ci rende spregevoli,
-che almeno la nostra fama
+Dicono:
+se questo posto ci rende spregevoli,
+almeno la nostra fama
 ti pieghi ad ascoltarci.
 
 Pausa lunga.
 
-Poi si presenta.
-
-> «Questi di cui mi vedi il collo pestare
-> fu maestro e sire:
-> Guido Guerra ebbe nome, e in sua vita
-> fece col senno assai e con la spada.
-> L'altro ch'appresso me la rena trita
-> è Tegghiaio Aldobrandi, la cui voce
-> dovria esser di sù gradita.
-> E io che posto son con loro in croce,
-> Iacopo Rusticucci fui; e certo
-> la fiera moglie più ch'altro mi nuoce.»
-
-Pausa.
+E allora i nomi.
 
 [Schermo: testo — "Guido Guerra — Tegghiaio Aldobrandi — Iacopo Rusticucci"]
-
-Pausa lunga.
-
-Tre nomi.
 
 Pausa.
 
 Guido Guerra.
-Guerriero e statista.
-Figlio di una donna illustre.
-Fedele alla parte guelfa.
-
-Pausa.
 
 Tegghiaio Aldobrandi.
-Capo militare.
-Aveva sconsigliato la campagna di Montaperti
-che poi i Guelfi persero.
-Aveva ragione.
-Non lo ascoltarono.
-
-Pausa.
 
 Iacopo Rusticucci.
-Nobile fiorentino.
-E poi quella frase.
+
+Pausa.
+
+Tre nomi
+che per Dante
+non sono qualunque.
+
+Erano già emersi
+nel sesto canto,
+nella Firenze di Ciacco.
 
 Pausa lunga.
 
-> «la fiera moglie più ch'altro mi nuoce.»
+Adesso hanno un volto.
 
-La fiera moglie
-più che altro
-mi ha fatto del male.
+O meglio:
+tre corpi feriti
+che girano nel fuoco
+senza perdere il nome.
 
-Pausa.
+## vv. 46-63 - Dante risponde da sopra
 
-Non spiega oltre.
-Non nomina il peccato.
-Attribuisce la causa
-a qualcosa
-di fuori da sé.
-
-Pausa lunga.
-
-Questi tre nomi
-li avevamo già sentiti.
-
-Pausa.
-
-Nel sesto canto.
-Dante aveva chiesto a Ciacco:
-dove sono Farinata,
-Tegghiaio,
-Iacopo Rusticucci,
-Arrigo,
-Mosca?
-
-Pausa lunga.
-
-E Ciacco aveva risposto:
-sono tra le anime più nere.
-Se scendi abbastanza, li vedrai.
-
-Pausa.
-
-Adesso Dante
-è sceso abbastanza.
-
----
-
-## vv. 58-75 - Dante non scende
-
-Dante non risponde subito.
-
-Pausa.
-
-Sente dentro di sé
-qualcosa che stringe.
-
-> Non dispetto ma doglia
-> la vostra condizion dentro mi fisse.
-
-Non disprezzo.
-Dolore.
+> S’i’ fossi stato dal foco coperto,
+> gittato mi sarei tra lor di sotto,
+> e credo che ’l dottor l’avria sofferto;
+> ma perch’io mi sarei bruciato e cotto,
+> vinse paura la mia buona voglia
+> che di loro abbracciar mi facea ghiotto.
+> Poi cominciai: «Non dispetto, ma doglia
+> la vostra condizion dentro mi fisse,
+> tanta che tardi tutta si dispoglia,
+> tosto che questo mio signor mi disse
+> parole per le quali i’ mi pensai
+> che, qual voi siete, tal gente venisse.
+> Di vostra terra sono, e sempre mai
+> l’ovra di voi e li onorati nomi
+> con affezion ritrassi ed ascoltai.
+> Lascio lo fele e vo per dolci pomi
+> promessi a me per lo verace duca;
+> ma infino al centro pria convien ch’io tomi.»
 
 Pausa lunga.
 
-Avrebbe voluto scendere.
-Stare con loro.
+Dante vorrebbe scendere.
 
-> ma s'io mi fossi da cotesti fuochi
-> di scender mosso, credo che 'l mio duca
-> non l'avria permesso.
+Abbracciarli.
 
-Ma il fuoco non lo permette.
-E Virgilio non lo permetterebbe.
+Lo dice.
+
+Se non ci fosse il fuoco,
+mi sarei buttato giù da loro.
 
 Pausa.
 
-Poi gli dice chi è.
-Dove va.
+Ma resta sopra.
+
+Sull'argine.
+
+Pausa.
+
+E risponde con la parola giusta:
+
+non dispetto.
+
+Doglia.
 
 Pausa lunga.
 
-E loro lo ascoltano
-girando in cerchio.
+Sono della vostra terra.
 
----
-
-## vv. 76-90 - La domanda su Firenze
-
-Poi la domanda.
+I vostri nomi
+li ho ascoltati
+con affezione.
 
 Pausa.
 
-> «Se lungamente l'anima conduca
-> le membra tue», rispuose quelli ancora,
+È una risposta
+di appartenenza.
+
+E insieme
+di distanza:
+
+io vado ancora giù.
+
+Voi no.
+
+## vv. 64-75 - La domanda su Firenze
+
+> «Se lungamente l’anima conduca
+> le membra tue,» rispuose quegli allora,
 > «e se la fama tua dopo te luca,
-> cortesia e valor dì se dimora
-> ne la nostra città sì come suole,
-> o se del tutto se n'è gita fora.»
-
-Pausa lunga.
+> cortesia e valor di’ se dimora
+> ne la nostra città, sì come suole,
+> o se del tutto se n’è gita fora;
+> ché Guiglielmo Borsiere, il qual si duole
+> con noi per poco, e va là coi compagni,
+> assai ne cruccia con le sue parole.»
 
 [Schermo: nero pieno]
+
+Pausa lunga.
+
+Ed eccola,
+la vera domanda del canto.
 
 Cortesia e valor
-dimora nella nostra città
-come è solita?
+dimorano ancora
+nella nostra città?
 
-O se ne è andata del tutto?
+Oppure se ne sono andati del tutto?
 
 Pausa lunga.
-
-Fermati qui.
-
-Pausa.
 
 Questi tre uomini
-corrono sulla sabbia ardente
-dell'Inferno.
+corrono nell'Inferno.
 
-Pausa.
+Bruciano.
 
 E la prima cosa
-che chiedono a qualcuno
-del mondo dei vivi
-è se Firenze
-è ancora Firenze.
+che vogliono sapere
+non è delle loro case,
+non è dei loro figli,
+non è del loro nome.
 
-Pausa lunga.
-
-Non chiedono dei loro figli.
-Non chiedono della loro casa.
-Non chiedono di essere ricordati.
-
-Chiedono della città.
+È di Firenze.
 
 Pausa.
 
----
+Anche dall'Inferno
+guardano ancora
+verso la città.
 
-## vv. 91-99 - Dante risponde
+## vv. 76-90 - Dante risponde e loro capiscono
 
-Dante risponde.
-
-E mentre risponde
-quasi piange.
-
-Pausa.
-
-> «I novi venuti e i subiti guadagni
+> «La gente nova e i sùbiti guadagni
 > orgoglio e dismisura han generata,
 > Fiorenza, in te, sì che tu già ten piagni.»
+> Così gridai con la faccia levata;
+> e i tre, che ciò inteser per risposta,
+> guardar l’un l’altro com’al ver si guata.
+> «Se l’altre volte sì poco ti costa»
+> rispuoser tutti «il satisfare altrui,
+> felice te se sì parli a tua posta!
+> Però, se campi d’esti lochi bui
+> e torni a riveder le belle stelle,
+> quando ti gioverà dicere ‘I’ fui
+> fa che di noi a la gente favelle.»
+> Indi rupper la rota, ed a fuggirsi
+> ali sembiar le gambe loro snelle.
+> Un amen non saria potuto dirsi
+> tosto così com’e’ furo spariti;
+> per che al maestro parve di partirsi.
 
 Pausa lunga.
 
-I nuovi venuti
-e i guadagni improvvisi
-hanno generato orgoglio e dismisura
-in te, Firenze,
-tanto che già piangi.
+Dante non addolcisce nulla.
+
+La gente nova.
+I sùbiti guadagni.
+
+Orgoglio.
+Dismisura.
 
 Pausa.
 
-Nuova gente.
-Soldi nuovi.
-Arroganza nuova.
+Firenze è già dentro
+la propria ferita.
 
 Pausa lunga.
 
-Dante non mente.
-Anche se fa male.
+I tre si guardano
+tra loro
+come si guarda il vero
+quando fa male.
 
 Pausa.
 
-Cortesia e valor non ci sono più.
-O ci sono poco.
-O ci sono in chi non viene ascoltato.
+Poi chiedono solo questo:
+
+se torni fra le stelle,
+parla di noi.
+
+Pausa.
+
+E spariscono.
+
+Veloci.
+
+Più veloci
+di un amen.
+
+## vv. 91-105 - Il salto d’acqua
+
+> Io lo seguiva, e poco eravam iti,
+> che ’l suon de l’acqua n’era sì vicino,
+> che per parlar saremmo a pena uditi.
+> Come quel fiume c’ha proprio cammino
+> prima da monte Veso inver levante,
+> da la sinistra costa d’Apennino,
+> che si chiama Acquacheta suso, avante
+> che si divalli giù nel basso letto,
+> e a Forlì di quel nome è vacante,
+> rimbomba là sovra San Benedetto
+> de l’Alpe, per cadere ad una scesa
+> ove dovria per mille esser recetto;
+> così giù d’una ripa discoscesa
+> trovammo risonar quell’acqua tinta,
+> sì che in poc’ora avria l’orecchia offesa.
+
+Pausa.
+
+Adesso il canto cambia.
+
+I tre sono spariti.
+
+Resta il rombo.
 
 Pausa lunga.
 
-I tre sentono la risposta.
+L'acqua è così vicina
+che non si riesce quasi più a parlare.
 
-Si fermano.
-O almeno si raccolgono.
+E Dante trova un'altra similitudine
+geografica,
+precisa,
+terrestre.
 
-> Poi presero congedo e i due compagni
-> mi dieder loco.
-
-Poi prendono congedo.
-
-Pausa.
-
-Non commentano.
-Non protestano.
-Non si disperano.
+L'Acquacheta.
 
 Pausa.
 
-Solo questo.
-Poi corrono.
+Il salto
+che stanno per raggiungere
+non è più solo immaginato.
 
----
+Adesso
+si sente tutto.
 
-## vv. 100-123 - La corda e il precipizio
+## vv. 106-123 - La corda
+
+> Io avea una corda intorno cinta;
+> e con essa pensai alcuna volta
+> prender la lonza a la pelle dipinta.
+> Poscia che l’ebbi tutta da me sciolta,
+> sì come ’l duca m’avea comandato,
+> porsila a lui aggroppata e ravvolta.
+> Ond’ei si volse inver lo destro lato,
+> e alquanto di lungi da la sponda
+> la gittò giuso in quell’alto burrato.
+> «E’ pur convien che novità risponda»
+> dicea tra me medesmo «al novo cenno
+> che ’l maestro con l’occhio sì seconda.»
+> Ahi quanto cauti gli uomini esser denno
+> presso a color che non veggion pur l’ovra,
+> ma per entro i pensier miran col senno!
+> El disse a me: «Tosto verrà di sovra
+> ciò ch’io attendo; e che il tuo pensier sogna
+> tosto convien ch’al tuo viso si scovra.»
 
 [Schermo: nero pieno]
 
 Pausa lunga.
 
-Dante e Virgilio
-si avvicinano al bordo.
-
-Il rombo è sempre più forte.
-
-Pausa.
-
-Come il rumore di un alveare.
-Come il rumore di qualcosa
-che scende
-e non si ferma.
-
-Pausa lunga.
-
-E qui Virgilio
-chiede a Dante qualcosa di strano.
+E qui,
+improvvisamente,
+la corda.
 
 Pausa.
 
-> «Or convien che tu così ti spoltre,»
-> disse 'l maestro, «ché, seggendo in piuma
-> in fama non si vien, né sotto coltre;
-> sanza la qual chi sua vita consuma
-> cotal vestigio in terra di sé lascia,
-> qual fummo in aere e in acqua la schiuma.
+Dante l'aveva intorno.
 
-Dammi la corda.
+E dice anche perché
+l'aveva pensata:
 
-Pausa.
-
-Dante portava una corda
-attorno alla vita.
-
-Pausa.
-
-Non sappiamo da quando.
-Non sappiamo perché.
-
-Dante solo scrive
-che l'aveva pensato per qualcosa —
-forse per prendere la lonza
+una volta
+per prendere la lonza
 all'inizio del viaggio.
 
 Pausa lunga.
 
-Virgilio la prende.
-La avvolge.
-E la butta nel precipizio.
+Virgilio gliela chiede.
+
+La prende.
+La getta giù.
+
+Nel burrato.
 
 Pausa.
 
-In un lungo arco.
-Dentro il buio.
+Dante capisce
+che quel gesto
+è un segnale.
 
-Pausa lunga.
-
-E Dante guarda l'abisso.
-E aspetta.
-
----
+Una novità
+deve rispondere
+a un cenno nuovo.
 
 ## vv. 124-136 - Sale qualcosa
 
-> Ahi quanto cauta conviene esser con quei
-> che non vede pur l'ovra,
-> ma dentro a' pensier mira con la sua pruga!
-
-Pausa.
-
-Con chi non vede solo quello che fai
-ma entra nei pensieri con la sua sonda.
-
-Pausa lunga.
-
-Virgilio sa.
-Sa quello che Dante sta pensando.
-Sa quello che Dante si aspetta.
-
-Pausa.
-
-E poi Dante si rivolge al lettore.
-
-Pausa lunga.
-
-> Per quella verità che par menzogna
-> dee l'uom serrare le labbra quanto può,
-> però che sanza colpa fa vergogna;
-> ma qui tacer nol posso, e per le note
+> Sempre a quel ver c’ha faccia di menzogna
+> de’ l’uom chiuder le labbra fin ch’el pote,
+> però che sanza colpa fa vergogna.
+> Ma qui tacer nol posso; e per le note
 > di questa comedìa, lettor, ti giuro,
-> s'elle non sien di lunga grazia vote,
-> ch'i' vidi per quell'aere grosso e scuro
-> venir notando una figura in suso.
+> s’elle non sien di lunga grazia vote,
+> ch’io vidi per quell’aere grosso e scuro
+> venir notando una figura in suso,
+> maravigliosa ad ogni cor sicuro,
+> sì come torna colui che va giuso
+> talora a solver l’àncora, ch’aggrappa
+> o scoglio o altro che nel mare è chiuso,
+> che in su si stende, e da piè si rattrappa.
 
 Pausa lunga.
 
-Giuro sulla mia Commedia
-che è vero.
-
-Pausa.
+Qui Dante fa una cosa rara.
 
 Giura.
 
 Pausa.
 
-Perché quello che sta per dire
-sembra impossibile.
+Giura al lettore
+che quello che sta per dire
+è vero.
+
+Perché ha faccia di menzogna.
 
 Pausa lunga.
 
-Dal buio dell'abisso
-sale qualcosa.
+Dal buio grosso e scuro
+sale una figura.
 
-Pausa.
+Viene nuotando in su.
 
-Una figura.
-Che nuota verso l'alto.
+Come chi torna dall'acqua
+tirando su
+qualcosa
+che era rimasto agganciato in fondo.
 
 Pausa lunga.
 
----
+E il canto si ferma qui.
+
+Non su ciò che la figura è.
+
+Ma su ciò che fa:
+
+sale.
 
 ## Chiusura
+
+[Schermo: nero pieno]
 
 Pausa lunga.
 
 Il sedicesimo canto
-ha due metà
-che non sembrano stare insieme.
+sta fra due attrazioni.
+
+Da una parte
+la città.
+
+Dall'altra
+l'abisso.
 
 Pausa.
 
-La prima:
-tre uomini che girano in cerchio
-sulla sabbia ardente
-e chiedono di Firenze.
+Tre uomini dannati
+vogliono sapere
+se Firenze
+ha ancora dentro di sé
+cortesia e valor.
 
-La seconda:
-una corda buttata nel buio
-e una figura che sale.
+E mentre Dante risponde,
+più sotto,
+qualcosa
+si prepara a salire.
 
 Pausa lunga.
 
-Sembrano due canti.
-Sono uno solo.
+È un canto
+che tiene insieme
+fedeltà civile
+e vertigine.
+
+Amore di città
+e ingresso nel nuovo mostro.
 
 Pausa.
 
-Perché il canto parla
-di quello che non si riesce a lasciare andare.
-
-Pausa.
-
-I tre nobili
-non riescono a lasciare Firenze
-nemmeno bruciando.
-
-Dante
-non riesce a rispondere
-senza quasi piangere.
-
-Pausa lunga.
-
-Sono passati canti e cerchi
-da quando Ciacco li aveva nominati.
-E adesso che li ha trovati
-Dante non riesce
-a dargli la risposta che vorrebbero.
-
-Pausa.
-
-Cortesia e valor.
-Non ci sono più.
-
-Pausa lunga.
-
-E loro corrono
-senza smettere di girare
-verso di lui.
-
-Pausa.
-
-Anche dall'Inferno si ama ancora la propria città.
-
-Pausa.
-
-[Schermo: nero pieno]
-
-Il canto si chiude
-con una figura che sale dal buio.
-Il prossimo si aprirà
-su quella figura
-e su quello che è.
+Anche dall'Inferno
+si ama ancora
+la propria città.
