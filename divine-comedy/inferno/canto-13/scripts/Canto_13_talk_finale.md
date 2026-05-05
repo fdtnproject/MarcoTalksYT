@@ -1,432 +1,443 @@
 # INFERNO - CANTO XIII
 
 Versione da palco
-Motto: "Ci si tradisce credendo di salvarsi"
-Stato: seconda bozza
+Linea guida: "Ci si tradisce credendo di salvarsi"
 
----
-
-## vv. 1-15 - Apertura — La selva
+## Apertura
 
 [Schermo: nero pieno]
 
 Pausa lunga.
 
-Non era ancora arrivato Nesso dall'altra riva
-quando ci immergiamo in un bosco.
+Allora, il tredicesimo canto.
 
 Pausa.
 
-Un bosco senza sentieri.
+Lasciato il sangue del Flegetonte,
+entriamo in un bosco.
 
-[Schermo: Doré — La selva dei suicidi]
+Ma non è un bosco vivo.
+
+Pausa lunga.
+
+È un bosco
+senza strada,
+senza frutto,
+senza riparo.
+
+E qui,
+per la prima volta,
+l'anima non ha più nemmeno
+una forma umana.
+
+## vv. 1-15 - La selva dei suicidi
+
+> Non era ancor di là Nesso arrivato,
+> quando noi ci mettemmo per un bosco
+> che da nessun sentiero era segnato.
+> Non fronda verde, ma di color fosco;
+> non rami schietti, ma nodosi e involti;
+> non pomi v’eran, ma stecchi con tosco:
+> non han sì aspri sterpi né sì folti
+> quelle fiere selvagge che in odio hanno
+> tra Cecina e Corneto i luoghi colti.
+> Quivi le brutte Arpie lor nidi fanno,
+> che cacciar de le Strofade i Troiani
+> con tristo annunzio di futuro danno.
+> Ali hanno late, e colli e visi umani,
+> piè con artigli, e pennuto il gran ventre;
+> fanno lamenti in su gli alberi strani.
+
+[Schermo: Doré — la selva dei suicidi]
+
+Pausa lunga.
+
+Dante insiste
+su quello che manca.
 
 Non fronde verdi.
-Fronde di color fosco.
-
 Non rami dritti.
-Rami nodosi. Contorti. Aggrovigliati.
-
 Non frutti.
-Stecchi con tosco.
 
 Pausa.
 
-E in cima agli alberi: le Arpie.
+Solo sterpi.
+Solo tosco.
 
-Non sono decorazione mitologica.
-Le Arpie annunciano disastro.
-Le Arpie cacciano.
-Le Arpie divorano.
-
-Qui nidificano.
-Qui sono di casa.
+E sopra:
+le Arpie.
 
 Pausa lunga.
 
----
+Questa selva
+non ospita la vita.
 
-## vv. 16-44 - Blocco 1 — La voce nel legno
+La divora.
 
-Virgilio avverte Dante.
+## vv. 16-46 - La voce nel legno
 
-> *però riguarda ben; sì vederai*
-> *cose che torrìen fede al mio sermone.»*
-
-*Cose che non crederesti neanche se te lo dicessi.*
-
-Pausa.
-
-Dante sente voci da ogni parte.
-Non vede nessuno.
-Si ferma.
-Smarrito.
-
-E qui Dante fa una cosa strana.
-
-> *Cred’io ch’ei credette ch’io credesse*
-> *che tante voci uscisser tra quei bronchi*
-> *da gente che per noi si nascondesse.*
-
-Pausa.
-
-Leggete questa terzina con attenzione.
-
-Io credo che lui credette che io credessi.
-
-Tre credere annidati uno nell'altro.
-È quasi comico.
-È quasi vertiginoso.
-
-Pausa.
-
-Dante non sa cosa stanno sentendo.
-Virgilio non sa cosa Dante stia pensando.
-Nessuno dei due dice niente.
-
-Poi Virgilio dice: spezza un ramo.
-
-Pausa.
-
-Dante allunga la mano.
-Stacca un ramoscello da un pruno.
-
-E il tronco urla.
+> E ’l buon maestro: «Prima che più entre
+> sappi che se’ nel secondo girone»
+> mi cominciò a dire, «e sarai mentre
+> che tu verrai ne l’orribil sabbione:
+> però riguarda ben; sì vederai
+> cose che torrìen fede al mio sermone.»
+> Io sentia d’ogni parte trarre guai,
+> e non vedea persona che ’l facesse;
+> per ch’io tutto smarrito m’arrestai.
+> Cred’io ch’ei credette ch’io credesse
+> che tante voci uscisser tra quei bronchi
+> da gente che per noi si nascondesse.
+> Però disse ’l maestro: «Se tu tronchi
+> qualche fraschetta d’una d’este piante,
+> li pensier c’hai si faran tutti monchi.»
+> Allor porsi la mano un poco avante,
+> e colsi un ramicel da un gran pruno;
+> e ’l tronco suo gridò: «Perché mi schiante?»
+> Da che fatto fu poi di sangue bruno,
+> ricominciò a gridar: «Perché mi scerpi?
+> Non hai tu spirto di pietate alcuno?
+> Uomini fummo, e or siam fatti sterpi:
+> ben dovrebb’esser la tua man più pia,
+> se state fossimo anime di serpi.»
+> Come d’un stizzo verde ch’arso sia
+> da l’un de’ capi, che da l’altro geme
+> e cigola per vento che va via,
+> sì de la scheggia rotta usciva insieme
+> parole e sangue; ond’io lasciai la cima
+> cadere, e stetti come l’uom che teme.
 
 Pausa lunga.
 
-[Schermo: Doré — Pier della Vigna, il ramo spezzato]
+Qui il canto cambia natura.
 
-«Perché mi schiante?»
-
-Da quel punto: sangue scuro.
-E insieme al sangue: parole.
-
-Come un ramo verde che brucia da un'estremità
-e dall'altra geme, cigola, sibila —
-
-così da quella scheggia rotta
-escono insieme parole e sangue.
+Prima senti le voci.
+Poi capisci da dove vengono.
 
 Pausa.
 
-L'anima è nell'albero.
-Il corpo non c'è.
-Ma il dolore c'è.
+Cred’io ch’ei credette ch’io credesse.
 
 Pausa lunga.
 
----
+Tre credere
+uno dentro l'altro.
 
-## vv. 46-54 - Blocco 2 — Virgilio si scusa
+È una vertigine della mente
+prima ancora che del corpo.
 
-Virgilio interviene subito.
+Poi Dante spezza un ramo.
 
-> *«S’egli avesse potuto creder prima»*
-> *rispuose ’l savio mio, «anima lesa,*
-> *ciò c’ha veduto pur con la mia rima,*
-> *non averebbe in te la man distesa;*
-> *ma la cosa incredibile mi fece*
-> *indurlo ad opra ch’a me stesso pesa.*
-> *Ma dilli chi tu fosti, sì che, in vece*
-> *d’alcun’ammenda, tua fama rinfreschi*
-> *nel mondo su, dove tornar li lece.»*
+E il ramo urla.
 
 Pausa.
 
-Fermatevi qui un momento.
+Da quel momento
+parole e sangue
+escono insieme.
+
+La voce esiste
+solo nella ferita.
+
+## vv. 47-55 - Virgilio si scusa
+
+> «S’egli avesse potuto creder prima»
+> rispuose ’l savio mio, «anima lesa,
+> ciò c’ha veduto pur con la mia rima,
+> non averebbe in te la man distesa;
+> ma la cosa incredibile mi fece
+> indurlo ad opra ch’a me stesso pesa.
+> Ma dilli chi tu fosti, sì che, in vece
+> d’alcun’ammenda, tua fama rinfreschi
+> nel mondo su, dove tornar li lece.»
+
+Pausa.
 
 Virgilio si scusa.
 
-Dice: se avesse potuto credere prima —
-se avessi potuto convincerlo prima —
-non avrebbe allungato la mano.
-
-"Mi pesa."
-
-Pausa.
-
-Virgilio, guida infallibile, ammette di aver sbagliato.
-Ammette che la sua strategia didattica ha ferito qualcuno.
+Mi pesa.
 
 Pausa lunga.
 
-Questo non succede quasi mai.
+È raro
+che la guida ammetta
+così apertamente
+il prezzo del proprio gesto.
 
-Pausa.
+## vv. 56-79 - Pier della Vigna
 
----
-
-## vv. 55-78 - Blocco 3 — Pier della Vigna
-
-Chi è quest'anima?
+> E ’l tronco: «Sì col dolce dir m’adeschi,
+> ch’io non posso tacere, e voi non gravi
+> perch’io un poco a ragionar m’inveschi.
+> Io son colui che tenni ambo le chiavi
+> del cor di Federigo, e che le volsi,
+> serrando e diserrando, sì soavi
+> che dal secreto suo quasi ogn’uom tolsi:
+> fede portai al glorioso offizio
+> tanto ch’io ne perdei li sonni e’ polsi.
+> La meretrice che mai da l’ospizio
+> di Cesare non torse gli occhi putti,
+> morte comune e de le corti vizio,
+> infiammò contra me gli animi tutti;
+> e gl’infiammati infiammar sì Augusto
+> che i lieti onor tornaro in tristi lutti.
+> L’animo mio, per disdegnoso gusto,
+> credendo col morir fuggir disdegno,
+> ingiusto fece me contra me giusto.
+> Per le nove radici d’esto legno
+> vi giuro che già mai non ruppi fede
+> al mio signor, che fu d’onor sì degno.
+> E se di voi alcun nel mondo riede,
+> conforti la memoria mia, che giace
+> ancor del colpo che invidia le diede.»
 
 [Schermo: testo — "Pier della Vigna"]
 
+Pausa lunga.
+
+Ed eccolo.
+
 Pier della Vigna.
-Cancelliere di Federico II.
-L'uomo più potente d'Italia dopo l'imperatore.
+
+Il cancelliere di Federico.
+L'uomo delle chiavi.
 
 Pausa.
 
-Ascoltate come si presenta.
-
-> *Io son colui che tenni ambo le chiavi*
-> *del cor di Federigo, e che le volsi,*
-> *serrando e diserrando, sì soavi*
-> *che dal secreto suo quasi ogn’uom tolsi:*
-
-Tenevo le chiavi del cuore dell'imperatore.
-Aprivo. Chiudevo. Filtravo.
-
-Ero io il confine tra Federico e il mondo.
-
-Pausa.
-
-E poi: la caduta.
-
-La meretrice dell'invidia.
-I cortigiani che lo accusano.
-Federico che ci crede.
-
-La prigione.
-La cecità inflitta come punizione.
+Apriva.
+Chiudeva.
+Faceva passare
+o escludeva.
 
 Pausa lunga.
 
-E Pier fa una cosa sola.
+Poi l'invidia.
+La corte.
+La caduta.
 
-> *L’animo mio, per disdegnoso gusto,*
-> *credendo col morir fuggir disdegno,*
-> *ingiusto fece me contra me giusto.*
+E la terzina
+che tiene in piedi tutto il canto:
 
-Pausa.
-
-Credeva che la morte fosse una via d'uscita.
-
-Pausa lunga.
-
-E invece
-si è fatto ingiustizia
-da solo.
-
-Dante non replica.
-Non commenta.
-Non giudica.
-
-Lascia la terzina stare da sola.
-
-Pausa.
-
----
-
-## vv. 79-84 - Blocco 4 — Tanta pietà m'accora
-
-Virgilio chiede a Pier di continuare.
-Di spiegare come funziona questa pena.
-Di dire se c'è mai una liberazione.
-
-Pausa.
-
-Ma prima: Dante.
-
-> *Ond’io a lui: «Dimanda tu ancora*
-> *di quel che credi ch’a me satisfaccia,*
-> *ch’io non potrei, tanta pietà m’accora.»*
-
-Pausa.
-
-Dante non riesce a parlare.
-
-Chiede a Virgilio di fare le domande al posto suo.
+L’animo mio,
+credendo col morir fuggir disdegno,
+ingiusto fece me contra me giusto.
 
 Pausa lunga.
 
-Nel Canto V, davanti a Paolo e Francesca, Dante sviene.
-Qui non sviene, ma perde la voce.
+Non è solo un suicidio.
 
-La compassione lo paralizza.
+È un tradimento
+contro di sé.
 
-Pier non è un mostro.
-Pier è un uomo che ha sbagliato difendendosi.
+## vv. 80-109 - Tanta pietà e il meccanismo
 
-E Dante lo sente.
+> Un poco attese, e poi: «Da ch’el si tace»
+> disse ’l poeta a me, «non perder l’ora;
+> ma parla, e chiedi a lui, se più ti piace.»
+> Ond’io a lui: «Dimanda tu ancora
+> di quel che credi ch’a me satisfaccia,
+> ch’io non potrei, tanta pietà m’accora.»
+> Però ricominciò: «Se l’uom ti faccia
+> liberamente ciò che ’l tuo dir priega,
+> spirito incarcerato, ancor ti piaccia
+> di dirne come l’anima si lega
+> in questi nocchi; e dinne, se tu puoi,
+> s’alcuna mai di tai membra si spiega.»
+> Allor soffiò lo tronco forte, e poi
+> si convertì quel vento in cotal voce:
+> «Brievemente sarà risposto a voi.
+> Quando si parte l’anima feroce
+> dal corpo ond’ella stessa s’è disvelta,
+> Minòs la manda a la settima foce.
+> Cade in la selva e non l’è parte scelta;
+> ma là dove fortuna la balestra,
+> quivi germoglia come gran di spelta.
+> Surge in vermena ed in pianta silvestra;
+> l’Arpìe, pascendo poi de le sue foglie,
+> fanno dolore ed al dolor fenestra.
+> Come l’altre verrem per nostre spoglie;
+> ma non però ch’alcuna sen rivesta,
+> ché non è giusto aver ciò ch’om si toglie.
+> Qui le strascineremo, e per la mesta
+> selva saranno i nostri corpi appesi,
+> ciascuno al prun de l’ombra sua molesta.»
 
 Pausa lunga.
 
----
+Dante qui non riesce a parlare.
 
-## vv. 85-108 - Blocco 5 — Il meccanismo
+Tanta pietà
+m'accora.
 
-Pier spiega.
+Pausa.
 
-Quando l'anima si stacca dal corpo —
-il corpo che *lei stessa* ha abbandonato —
-Minosse la manda al settimo cerchio.
-Cade nella selva.
+Allora domanda Virgilio.
+
+E Pier spiega il meccanismo.
+
+Pausa lunga.
+
+L'anima cade.
 Germoglia.
-Cresce.
-Diventa albero.
+Diventa pianta.
 
-[Schermo: terzina — "Surge in vermena ed in pianta silvestra;"]
+Le Arpie feriscono.
 
-Le Arpie mangiano le foglie.
-Il dolore apre la ferita.
-La ferita fa uscire la voce.
+E dalla ferita
+esce la voce.
 
 Pausa.
 
-E al Giudizio Universale?
+Al Giudizio
+gli altri riavranno il corpo.
 
-Gli altri morti riprenderanno i loro corpi.
-I suicidi no.
+Loro no.
 
-> *ma non però ch’alcuna sen rivesta,*
-> *ché non è giusto aver ciò ch’om si toglie.*
+Perché non è giusto
+avere ciò che uno
+si è tolto.
 
-Pausa.
+## vv. 110-136 - Gli scialacquatori
 
-I corpi verranno trascinati qui.
-Appesi ai rami.
-Ciascuno al suo albero.
-
-Per sempre accanto a sé.
-Per sempre separati da sé.
-
-Pausa lunga.
-
----
-
-## vv. 109-135 - Blocco 6 — Gli scialacquatori
-
-Cambia scena.
-
-Due figure nude. Graffiati. In fuga.
+> Noi eravamo ancora al tronco attesi,
+> credendo ch’altro ne volesse dire,
+> quando noi fummo d’un romor sorpresi,
+> similemente a colui che venire
+> sente il porco e la caccia a la sua posta,
+> ch’ode le bestie e le frasche stormire.
+> Ed ecco due da la sinistra costa
+> nudi e graffiati, fuggendo sì forte
+> che de la selva rompìeno ogni rosta.
+> Quel dinanzi: «Or accorri, accorri, morte!»
+> E l’altro, cui pareva tardar troppo,
+> gridava: «Lano, sì non furo accorte
+> le gambe tue a le giostre del Toppo!»
+> E poi che forse li fallia la lena,
+> di sé e d’un cespuglio fece un groppo.
+> Di retro a loro era la selva piena
+> di nere cagne, bramose e correnti
+> come veltri ch’uscisser di catena.
+> In quel che s’appiattò miser li denti,
+> e quel dilaceraro a brano a brano;
+> poi sen portar quelle membra dolenti.
+> Présemi allor la mia scorta per mano,
+> e menommi al cespuglio che piangea
+> per le rotture sanguinenti invano.
+> «O Giacomo» dicea «da Sant’Andrea,
+> che t’è giovato di me fare schermo?
+> Che colpa ho io de la tua vita rea ?»
 
 [Schermo: Doré — gli scialacquatori inseguiti dalle cagne]
 
-Urlano mentre corrono.
+Pausa lunga.
 
-«Or accorri, accorri, morte!»
+Poi il canto scatta.
 
-Dietro di loro: cagne nere.
-Bramose. Veloci. Come levrieri sciolti.
-
-Pausa.
-
-Chi sono?
-
-Lano da Siena. Giacomo da Sant'Andrea.
-
-Nomi reali.
-Personaggi noti a Dante e alla cronaca del tempo.
-
-Lano: dissipò tutto il patrimonio di famiglia.
-Giacomo: così prodigo che si dice avesse bruciato una sua villa
-solo per vedere com'era il fuoco di notte.
+Due corpi nudi.
+Graffiati.
+In fuga.
 
 Pausa.
 
 Non sono suicidi.
+
 Sono scialacquatori.
 
 Stesso girone.
-Pena diversa.
-
-Pausa.
-
-Le cagne raggiungono Giacomo.
-Lo dilacerano pezzo per pezzo.
-Portano via i resti.
-
-Giacomo si raggomitola contro un cespuglio.
-Si nasconde.
-
-E il cespuglio dice:
-
-> *«O Giacomo» dicea «da Sant’Andrea,*
-> *che t’è giovato di me fare schermo?*
-> *Che colpa ho io de la tua vita rea ?»*
+Altra forma
+distruttiva
+del rapporto con sé.
 
 Pausa lunga.
 
-Anche il cespuglio è un'anima.
-Anche lui viene preso in mezzo.
-Anche lui adesso è straziato per una colpa non sua.
+Le cagne prendono Giacomo.
 
-Pausa.
+Lo fanno a pezzi.
 
----
+E anche il cespuglio
+contro cui si ripara
+si mette a parlare.
 
-## vv. 136-151 - Blocco 7 — Il fiorentino anonimo
+Qui persino il riparo
+è un'altra ferita.
 
-Virgilio porta Dante al cespuglio che piange
-per le rotture sanguinanti.
+## vv. 137-151 - Il fiorentino anonimo
 
-Parla.
-
-> *Io fui de la città che nel Battista*
-> *mutò il primo padrone; ond’ei per questo*
-> *sempre con l’arte sua la farà trista;*
-
-Firenze.
-Un fiorentino.
-
-Anonimo.
-
-Pausa.
-
-Pier della Vigna aveva un nome, una storia, una difesa elaborata.
-Questo non ha nulla.
-
-Solo l'ultima riga:
-
-> *Io fei giubbetto a me de le mie case.»*
-
-**Ho fatto della mia casa una forca.**
+> Quando il maestro fu sovr’esso fermo,
+> disse: «Chi fosti, che per tante punte
+> soffi col sangue doloroso sermo?»
+> Ed egli a noi: «O anime che giunte
+> siete a veder lo strazio disonesto
+> c’ha le mie fronde sì da me disgiunte,
+> raccoglietele al piè del tristo cesto.
+> Io fui de la città che nel Battista
+> mutò il primo padrone; ond’ei per questo
+> sempre con l’arte sua la farà trista;
+> e se non fosse che ’n sul passo d’Arno
+> rimane ancor di lui alcuna vista,
+> quei cittadin che poi la rifondarno
+> sovra ’l cener che d’Attila rimase,
+> avrebber fatto lavorare indarno.
+> Io fei giubbetto a me de le mie case.»
 
 Pausa lunga.
 
-Non c'è spiegazione.
-Non c'è disdegno aristocratico.
-Non c'è paradosso filosofico.
+L'ultimo
+non ha quasi più nulla.
 
-Solo questo.
+Non un grande nome.
+Non una difesa.
+Non una teoria.
+
+Pausa.
+
+Solo Firenze.
+
+E poi l'ultima riga.
+
+Io fei giubbetto
+a me
+de le mie case.
 
 Pausa lunga.
 
----
+Ho fatto della mia casa
+la mia forca.
+
+Più nudo di così
+il canto non poteva chiudersi.
 
 ## Chiusura
 
-Tre figure in questo canto.
-
-Pier della Vigna. Si uccide per fuggire l'onta.
-Gli scialacquatori. Si distruggono senza nemmeno morire.
-Il fiorentino anonimo. Non sappiamo perché.
-
-Pausa.
-
-Pier potrebbe anche aver detto la verità.
-Dante non lo smentisce.
-Lo lascia parlare.
-Lo lascia difendersi.
-Lo lascia giurare sulla propria innocenza.
-
-Pausa.
-
-Ma questo non cambia la pena.
-
-Pausa lunga.
-
-Perché il canto non parla di colpa.
-Parla di quello che succede quando si crede
-che da se stessi si possa scappare.
-
-Pausa lunga.
-
-**Ci si tradisce credendo di salvarsi.**
-
-Pausa.
-
 [Schermo: nero pieno]
+
+Pausa lunga.
+
+Pier della Vigna.
+
+Gli scialacquatori.
+
+Il fiorentino anonimo.
+
+Pausa.
+
+Tre modi
+di rivolgersi contro di sé.
+
+Pausa lunga.
+
+Il canto non dice
+che questi uomini
+non abbiano sofferto.
+
+Dice qualcosa di più duro:
+
+che cercando salvezza
+da sé stessi
+hanno finito
+per tradirsi.
+
+Pausa lunga.
+
+Ci si tradisce
+credendo di salvarsi.

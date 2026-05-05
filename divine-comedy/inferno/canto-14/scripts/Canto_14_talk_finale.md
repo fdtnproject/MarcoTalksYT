@@ -210,7 +210,7 @@ Fulminato da Giove.
 E ancora qui
 intatto nel suo disprezzo.
 
-## vv. 61-72 - Virgilio lo inchioda
+## vv. 61-75 - Virgilio lo inchioda
 
 > Allora il duca mio parlò di forza
 > tanto, ch’i’ non l’avea sì forte udito:
@@ -224,6 +224,9 @@ intatto nel suo disprezzo.
 > Dio in disdegno, e poco par che il pregi;
 > ma, com’io dissi lui, li suoi dispetti
 > sono al suo petto assai debiti fregi.
+> Or mi vien dietro, e guarda che non metti
+> ancor li piedi ne la rena arsiccia,
+> ma sempre al bosco li ritieni stretti.»
 
 Pausa.
 
@@ -256,7 +259,7 @@ Ma non è vittoria.
 di restare inchiodato
 alla propria forma.
 
-## vv. 73-93 - Il rio rosso
+## vv. 76-93 - Il rio rosso
 
 > Tacendo divenimmo là ’ve spiccia
 > fuor de la selva un picciol fiumicello,

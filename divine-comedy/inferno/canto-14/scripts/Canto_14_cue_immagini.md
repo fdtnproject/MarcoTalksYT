@@ -32,12 +32,12 @@ Prima tavola: la landa, la rena arida, la pioggia di fuoco che cade lenta.
 Seconda tavola: il bestemmiatore disteso che continua a sfidare il cielo.
 Tenere accesa fino alla fine di `Qual io fui vivo, tal son morto`.
 
-### vv. 61-72 — Virgilio lo inchioda
+### vv. 61-75 — Virgilio lo inchioda
 [Schermo: nero pieno]
 Nero pieno.
 Qui deve lavorare la voce di Virgilio, non l'immagine.
 
-### vv. 73-93 — Il rio rosso
+### vv. 76-93 — Il rio rosso
 [Schermo: Doré — il rio rosso sul margine del sabbione]
 Terza tavola: il piccolo fiume rossastro che spegne sopra di sé le fiamme.
 Serve a cambiare il respiro del canto.
