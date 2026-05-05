@@ -315,7 +315,7 @@ mio figlio.
 > m’avean di costui già letto il nome;
 > però fu la risposta così piena.
 > Di subito drizzato gridò: «Come
-> dicesti? egli ebbe? non viv’egli ancora?
+> dicesti? egli ebbe ? non viv’egli ancora?
 > non fiere gli occhi suoi lo dolce lome?»
 > Quando s’accorse d’alcuna dimora
 > ch’io faceva dinanzi a la risposta,
