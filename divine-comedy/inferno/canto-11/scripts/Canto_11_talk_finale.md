@@ -7,59 +7,31 @@ Linea guida: "Più si scende, più si sceglie"
 
 [Schermo: nero pieno]
 
-Allora, l'undicesimo canto.
-
-Pausa.
-
-Il decimo si era chiuso
-con Dante e Virgilio
-che camminano in mezzo ai sepolcri infuocati
-verso il bordo
-del basso Inferno.
-
-L'undicesimo si apre
-con loro
-che si fermano
-sull'orlo.
-
 Pausa lunga.
+
+Qui non scendono.
 
 Si fermano
-perché dal basso
+sull'orlo.
+
+Pausa.
+
+Dal basso
 sale un fetore.
 
-E devono lasciare che il naso si abitui
-prima di scendere.
-
-Pausa.
-
-E in quel tempo
-che sarebbe sosta,
-Virgilio
-fa una cosa
-che non fa quasi mai.
-
-Pausa.
-
-Spiega.
+Prima di continuare,
+devono lasciare
+che il corpo regga.
 
 Pausa lunga.
 
-Tutto il Canto XI è una lezione di topografia morale.
-Il pellegrinaggio si ferma.
-La voce di Virgilio
-diventa la voce di un maestro
-che dice all'allievo
-come è fatto
-il posto in cui sta entrando.
+E proprio qui,
+sopra il puzzo,
+Virgilio trasforma
+la sosta
+in lezione.
 
-Pausa.
-
-Tutto il Canto XI ruota intorno a una verità
-che la mappa fa vedere:
-più si scende, più si sceglie.
-
-## vv. 1-9 - Sull'orlo
+## Sull'orlo
 
 > In su l’estremità d’un’alta ripa,
 > che facevan gran pietre rotte in cerchio,
@@ -71,53 +43,41 @@ più si scende, più si sceglie.
 > che dicea: «Anastasio papa guardo
 > lo qual trasse Fotin de la via dritta.»
 
-Sono in cima a una scarpata alta.
+Non una porta.
+
+Un bordo.
 
 Pausa.
 
-Il bordo
-di un dirupo
-fatto di grandi pietre rotte,
-disposte in cerchio.
+Pietre rotte
+in cerchio.
+
+Sotto:
+"più crudele stipa."
+
+Un ammasso
+più crudele
+di tutto quello
+che hanno visto fin qui.
 
 Pausa lunga.
 
-Sotto di loro
-c'è la "più crudele stipa."
+Ma la prima cosa
+che arriva
+non è una voce.
+Non è un mostro.
+
+È un puzzo.
+
+Un puzzo
+così forte
+che li ricaccia indietro
+contro un grande sepolcro.
 
 Pausa.
 
-Stipa.
-Ammasso.
-Folla compressa di dannati.
-
-Pausa.
-
-E da quel basso
-sale un puzzo.
-
-Pausa.
-
-"Per l'orribile soperchio
-del puzzo
-che 'l profondo abisso gitta."
-
-Pausa lunga.
-
-Il puzzo
-è talmente forte
-che Dante e Virgilio
-si tirano indietro.
-
-E si appoggiano
-al coperchio di un sepolcro grande.
-
-Pausa.
-
-Sopra il coperchio
-Dante vede una scritta.
-
-Pausa.
+E su quel coperchio
+Dante legge:
 
 "Anastasio papa guardo,
 lo qual trasse Fotin
@@ -125,34 +85,19 @@ de la via dritta."
 
 Pausa.
 
-Custodisco papa Anastasio,
-che fu portato fuori dalla via diritta
-da Fotino.
+Un papa.
+Già sul limite dell'eresia.
 
-Pausa lunga.
+Importa questo,
+prima ancora
+del dettaglio storico.
 
-Anastasio II, papa nel V secolo.
-Fotino di Tessalonica
-era un diacono
-che negava la divinità di Cristo.
+Il canto si apre
+appoggiato
+alla tomba
+di uno che ha deviato.
 
-Pausa.
-
-La tradizione medievale,
-che Dante segue,
-diceva che Anastasio
-si fosse lasciato convincere.
-
-Oggi quasi nessuno storico lo crede.
-Ma Dante segue
-quella tradizione.
-
-Pausa.
-
-Importa che è un papa.
-Sopra una tomba di eretici.
-
-## vv. 10-15 - "Lascia un po' che 'l senso al puzzo s'ausi"
+## Il naso si abitua
 
 > «Lo nostro scender convien esser tardo,
 > sì che s’aùsi in prima un poco il senso
@@ -161,79 +106,52 @@ Sopra una tomba di eretici.
 > dissi lui «trova, che ’l tempo non passi
 > perduto.» Ed elli: «Vedi ch’a ciò penso.»
 
-Virgilio parla.
-
-Pausa.
+Virgilio parla
+con una calma
+quasi domestica.
 
 "Lo nostro scender
-conviene esser tardo."
+convien esser tardo."
 
-La nostra discesa
-deve essere lenta.
-
-Pausa.
-
-"Sì che s'ausi un poco in prima
-il senso
-al tristo fiato."
-
-Così che il senso
-— il naso —
-si abitui prima
-all'aria triste.
+La discesa
+deve aspettare.
 
 Pausa.
 
-"E poi no i fia riguardo."
+Prima bisogna
+abituare il senso
+al tristo fiato.
 
-E poi non ci farà più caso.
+Il naso.
+Il respiro.
+Il corpo.
 
 Pausa lunga.
 
-Ferma su questo dettaglio.
+È un dettaglio
+piccolo
+e decisivo.
 
-Pausa.
+In questo Inferno
+non entri solo con la mente.
 
-Il naso si abitua
-al puzzo dell'Inferno.
-
-Pausa.
-
-Un dettaglio fisico,
-piccolo,
-che dice una cosa più grande:
-si entra in un posto
-nuovo
-attraverso il corpo.
+Entri con il fiato.
 
 Pausa.
 
 E Dante,
 sentendo la sosta,
-chiede a Virgilio:
-
-"Trova qualcosa
-perché il tempo non passi inutile."
-
-Trova un modo
-per non perdere questo tempo.
-
-Pausa lunga.
-
-E Virgilio:
-
-"Vedi ch'a ciò penso."
-
-Sto già pensando a quello.
+chiede a Virgilio
+di non lasciar passare
+quel tempo inutilmente.
 
 Pausa.
 
-E parte
-con la lezione
-più strutturata
-di tutto il primo Inferno.
+La lezione nasce così.
 
-## vv. 16-27 - La mappa del basso Inferno
+Da un'attesa obbligata.
+
+## Tre cerchi sotto
 
 > «Figliuol mio, dentro da cotesti sassi»
 > cominciò poi a dir «son tre cerchietti
@@ -252,179 +170,69 @@ di tutto il primo Inferno.
 
 Pausa.
 
-Qui,
-Virgilio chiama Dante "figliuol mio."
+Qui Virgilio
+cambia voce.
+
+Chiama Dante figlio.
+E comincia a ordinare
+l'abisso.
 
 Pausa lunga.
 
-Quando ti faccio la lezione,
-sei mio figlio.
+Tre cerchi sotto.
 
-Pausa.
+Settimo.
+Ottavo.
+Nono.
 
-E comincia.
+Di grado in grado.
 
-"Dentro da cotesti sassi
-son tre cerchietti
-di grado in grado,
-come que' che lassi."
-
-Pausa.
-
-Dentro queste rocce
-ci sono tre piccoli cerchi,
-uno sotto l'altro,
-come quelli che ti stai lasciando alle spalle.
-
-Pausa lunga.
-
-Tre cerchi.
-Settimo, ottavo, nono.
-
-Più stretti dei precedenti.
 Più giù.
-Più dolorosi.
+Più stretti.
+Più feroci.
 
 Pausa.
 
-E poi
-dà la regola
-che spiega tutto.
+Poi dà la regola.
 
-Pausa.
-
-"D'ogne malizia,
-ch'odio in cielo acquista,
+"D'ogne malizia...
 ingiuria è 'l fine."
 
-Pausa.
+Ogni male voluto
+finisce
+nel fare ingiuria.
 
-Per ogni malizia
-— cioè per ogni male voluto —
-il fine è l'ingiuria.
+E l'ingiuria
+si compie
+in due modi:
 
-Pausa.
-
-L'ingiuria
-è fare male a qualcuno.
-
-Pausa lunga.
-
-E un fine così
-"o con forza
-o con frode
-altrui contrista."
-
-Pausa.
-
-Si raggiunge
-o con la forza
-o con la frode.
-
-Pausa.
-
-Due strumenti.
-Un solo obiettivo:
-fare del male.
+con forza
+o con frode.
 
 Pausa lunga.
 
-E poi
-la frase che spiega
-perché la frode è peggio della forza.
+Ma la frode
+è peggio.
 
-Pausa.
+Perché la forza
+la condividi
+con le bestie.
 
-"Ma perché frode
-è de l'uom proprio male,
-più spiace a Dio."
-
-Pausa.
-
-Ma siccome la frode
-è il male proprio dell'uomo,
-spiace di più a Dio.
-
-Pausa lunga.
-
-Ferma su questo.
-
-Pausa.
-
-La forza
-ce l'hanno anche le bestie.
-Una bestia che attacca
-sta usando la forza.
-
-La frode
-no.
-
-Pausa.
+La frode no.
 
 Per ingannare
 serve la ragione.
-E la ragione
-è quello che separa l'uomo dalla bestia.
 
-Pausa.
+E allora il male
+non esplode soltanto.
 
-Quindi
-quando un uomo usa la frode,
-sta usando contro Dio
-quello stesso strumento
-— la ragione —
-che Dio gli ha dato
-per distinguerlo dagli animali.
+Si organizza.
 
-Pausa lunga.
+Per questo
+i frodolenti
+stanno più sotto.
 
-Per questo i frodolenti
-"stan di sotto."
-
-Più giù.
-Più al fondo.
-
-E "più dolor li assale."
-
-Pausa.
-
-Poi Virgilio entra nel dettaglio.
-
-"Di violenti il primo cerchio è tutto."
-
-Pausa.
-
-Il primo dei tre cerchi
-— il settimo dell'Inferno totale —
-è tutto dei violenti.
-
-Pausa.
-
-Ma siccome la violenza
-si può fare contro tre persone diverse,
-quel cerchio
-è diviso in tre gironi.
-
-Pausa lunga.
-
-"A Dio, a sé, al prossimo
-si pòne far forza."
-
-Pausa.
-
-A Dio.
-A sé stessi.
-Al prossimo.
-
-Tre direzioni.
-Tre gironi.
-
-Pausa.
-
-E poi Virgilio scende nei dettagli
-di ognuno.
-
-## vv. 28-51 - I tre gironi della violenza
+## A Dio, a sé, al prossimo
 
 > Di violenti il primo cerchio è tutto;
 > ma perché si fa forza a tre persone,
@@ -451,120 +259,43 @@ di ognuno.
 > del segno suo e Sodoma e Caorsa
 > e chi, spregiando Dio col cor, favella.
 
-"Nel prossimo
-si dà
-morte per forza
-e ferite dolorose."
+La violenza
+si divide
+in tre direzioni.
 
 Pausa.
 
-E sui beni del prossimo
-"ruine, incendi
-e tollette dannose."
-
-Pausa.
-
-Distruzione.
-Incendio.
-Furto violento.
+Contro il prossimo.
+Contro sé stessi.
+Contro Dio.
 
 Pausa lunga.
 
-Quindi nel primo girone
-ci sono:
-gli omicidi,
-i feritori,
-i guastatori,
-i predoni.
+Contro il prossimo:
+omicidi,
+feritori,
+guastatori,
+predoni.
+
+Contro sé stessi:
+suicidi
+e scialacquatori.
+
+Contro Dio:
+bestemmiatori,
+sodomiti,
+usurai.
 
 Pausa.
 
-Tutti quelli
-che hanno fatto violenza
-contro un'altra persona.
+Non è un catalogo
+fatto per amore del catalogo.
 
-Pausa lunga.
+È una mappa
+che stringe il male
+in tre direzioni precise.
 
-Poi il secondo girone.
-
-"Puote omo
-avere in sé
-man vïolenta."
-
-Pausa.
-
-L'uomo può fare violenza
-contro sé stesso.
-
-Pausa.
-
-In due modi:
-contro il proprio corpo,
-o contro i propri beni.
-
-Pausa lunga.
-
-Contro il proprio corpo:
-i suicidi.
-
-Contro i propri beni:
-gli scialacquatori
-— diversi dai prodighi del quarto cerchio,
-perché qui hanno distrutto sé stessi
-distruggendo la propria roba.
-
-Pausa.
-
-E poi il terzo girone.
-
-"Puossi far forza
-ne la deïtade,
-col cor negando
-e bestemmiando quella,
-e spregiando natura
-e sua bontade."
-
-Pausa.
-
-Si può fare violenza contro Dio
-in tre modi.
-
-Pausa.
-
-Negandolo nel cuore
-e bestemmiandolo:
-i bestemmiatori.
-
-Pausa.
-
-Disprezzando la natura,
-che è opera di Dio:
-i sodomiti.
-
-Pausa.
-
-Disprezzando l'opera della natura
-— il lavoro umano —
-con l'usura:
-gli usurai.
-
-Pausa lunga.
-
-"Sodoma e Caorsa."
-
-Pausa.
-
-Sodoma per i sodomiti.
-Caorsa, città francese,
-era nota nel medioevo
-per essere piena di usurai.
-
-Pausa.
-
-E poi Virgilio passa
-dall'ottavo cerchio in giù.
-
-## vv. 52-66 - La frode
+## Il fondo
 
 > La frode, ond’ogni coscienza è morsa,
 > può l’uomo usare in colui ch’in lui fida
@@ -582,238 +313,89 @@ dall'ottavo cerchio in giù.
 > de l’universo in su che Dite siede,
 > qualunque trade in eterno è consunto.»
 
-"La frode."
+Poi Virgilio
+stringe ancora.
 
 Pausa.
 
-"Ond' ogne coscïenza è morsa."
+Anche la frode
+si divide.
 
-Per la quale
-ogni coscienza
-è morsa.
-
-Pausa.
-
-Cioè:
-la frode
-è il tipo di male
-che morde la coscienza.
+Contro chi non si fida.
+Contro chi si fida.
 
 Pausa lunga.
 
-E si può usare
-in due modi.
-
-Pausa.
-
-"Può l'omo usare
-in colui che 'n lui fida
-e in quel che fidanza
-non imborsa."
-
-Pausa.
-
-Si può fare contro chi si fida di te
-o contro chi non si fida.
-
-Pausa.
-
-E qui Dante distingue
-in modo durissimo.
-
-Pausa lunga.
-
-Ingannare uno che non si fida
-"par ch'incida
-pur lo vinco d'amor
-che fa natura."
-
-Pausa.
-
-Sembra che spezzi
-solo il legame d'amore
+Nel primo caso
+si spezza
+il vinco d'amore
 che la natura mette
-fra tutti gli uomini.
+tra gli uomini.
+
+Nel secondo
+si spezza anche di più.
+
+La fiducia data.
+
+La fede speciale.
 
 Pausa.
 
-E nel cerchio successivo
-— l'ottavo —
-ci stanno:
+E allora si arriva
+al fondo.
 
-ipocriti.
-Lusingatori.
-Maghi.
-Falsari.
-Ladri.
-Simoniaci.
-Ruffiani.
-Barattieri.
-E "simile lordura."
-
-Pausa lunga.
-
-Dieci tipi di frodolenti
-in dieci bolge diverse
-nel solo ottavo cerchio.
-
-Pausa.
-
-E poi
-chi inganna chi si fida.
-
-Pausa.
-
-"Per l'altro modo
-quell' amor s'oblia
-che fa natura,
-e quel ch'è poi aggiunto,
-di che la fede spezïal si cria."
-
-Pausa.
-
-In questo secondo modo
-si dimentica
-sia l'amore della natura
-sia quello aggiunto
-con cui si crea
-la fiducia speciale.
-
-Pausa lunga.
-
-Cioè:
-si tradisce sia il legame umano in generale
-sia il rapporto specifico di fiducia.
-
-Pausa.
-
-E per questo
-si finisce
-nel cerchio più piccolo.
-
-"Ov' è 'l punto
+"Ov'è 'l punto
 de l'universo
 in su che Dite siede."
 
-Dove è il punto dell'universo
-sul quale è seduto Lucifero.
+Il punto più basso.
 
-Pausa.
+Lì
+chi tradisce
+è consumato
+in eterno.
 
-Il fondo dell'Inferno.
-
-Pausa.
-
-E lì,
-"qualunque trade in etterno è consunto."
-
-Chi tradisce
-è consumato in eterno.
-
-## Più si scende, più si sceglie
+## La mappa si stringe
 
 [Schermo: nero pieno]
 
 Pausa lunga.
 
-Fermati qui.
+Adesso il disegno
+si vede.
+
+Violenza.
+Frode.
+Tradimento.
 
 Pausa.
 
-Quello che Virgilio ha appena fatto
-è una mappa.
+E il criterio
+non è soltanto
+quanto male fai.
 
-Pausa.
-
-Settimo cerchio:
-violenza in tre gironi.
-
-Ottavo cerchio:
-frode contro chi non si fida,
-in dieci bolge.
-
-Nono cerchio:
-tradimento,
-contro chi si fida.
+È quanto
+quel male
+passa dalla passione
+alla decisione.
 
 Pausa lunga.
-
-E la mappa
-ha un principio.
-
-Pausa.
 
 Più si scende,
-più si è scelto il male
-con la ragione.
+meno basta dire:
+sono stato trascinato.
 
-Pausa.
-
-Per Dante
-questo è il punto del canto.
-
-Pausa.
-
-I peccati
-non pesano tutti uguale.
-
-Pausa.
-
-L'incontinenza
-— lussuria, gola, avarizia, ira —
-è cedere a una passione.
-
-La passione tira,
-e tu cedi.
-La ragione c'è,
-ma è stata sopraffatta.
-
-Pausa lunga.
-
-La malizia
-— violenza, frode, tradimento —
-è altro.
-
-Pausa.
-
-Qui la ragione
-non viene sopraffatta.
-Viene messa al servizio del male.
-
-Pausa.
-
-E più si scende,
+Più si scende,
 più la ragione
-è messa al servizio di un male
-specifico,
-ragionato,
-mirato.
-
-Pausa lunga.
-
-Il violento usa la forza.
-Il frodolento usa la ragione contro chi non si fida.
-Il traditore usa la ragione contro chi si fida.
+entra nel male.
 
 Pausa.
 
-Più si scende,
-più la fiducia altrui
-diventa lo strumento
-con cui fai male.
+Ed è proprio qui
+che Dante
+fa la domanda giusta.
 
-Pausa.
-
-Più si scende,
-più si sceglie.
-
-Pausa lunga.
-
-E adesso Dante,
-che ha capito,
-fa una domanda.
-
-## vv. 67-90 - Dove sono gli incontinenti?
+## Perché tanto delira
 
 > E io: «Maestro, assai chiara procede
 > la tua ragione, ed assai ben distingue
@@ -840,145 +422,75 @@ fa una domanda.
 > sien dipartiti, e perché men crucciata
 > la divina vendetta li martelli.»
 
-E Dante.
+Dante ha ascoltato.
+Ha capito.
 
-"Maestro,
-la tua spiegazione è chiara,
-e fa bene a distinguere
-questo abisso
-e la gente che lo abita."
+E poi inciampa
+nel punto decisivo.
 
 Pausa.
 
-"Ma dimmi:
-quelli della palude grassa,
-che il vento porta,
-che la pioggia batte,
-che si incontrano con lingue aspre,
+Se Dio odia anche
+lussuriosi,
+golosi,
+avari,
+iracondi,
 
-perché non dentro la città rossa
-sono puniti,
-se Dio li ha in ira?"
+perché stanno fuori
+dalle mura di Dite?
 
 Pausa lunga.
 
-Dante sta chiedendo:
-gli iracondi nello Stige,
-gli avari e i prodighi,
-i lussuriosi nella bufera,
-i golosi sotto la pioggia,
-
-perché non sono qua dentro,
-dentro le mura di Dite?
-
-Sono dannati,
-quindi Dio non li approva.
-Eppure stanno fuori.
-
-Pausa.
-
-E Virgilio.
+E qui Virgilio
+ha il suo momento
+più vivo.
 
 "Perché tanto delira
-lo 'ngegno tuo
-da quel che sòle?"
+lo 'ngegno tuo?"
+
+Perché vaghi
+da quello che sai?
 
 Pausa.
 
-Perché il tuo ingegno
-sta vagando
-così lontano dal solito?
+Non te lo ricordi più
+Aristotele?
+
+Incontinenza.
+Malizia.
+Matta bestialità.
 
 Pausa lunga.
-
-E poi gli ricorda
-una cosa che Dante ha studiato.
-
-Pausa.
-
-"Non ti rimembra
-di quelle parole
-con le quai la tua Etica pertratta
-le tre disposizion
-che 'l ciel non vole,
-incontenenza, malizia
-e la matta bestialitade?"
-
-Pausa.
-
-Non ti ricordi
-di quelle parole
-con cui la tua Etica
-— l'Etica Nicomachea di Aristotele —
-tratta le tre disposizioni
-che il cielo non vuole?
-
-Tre disposizioni:
-incontinenza,
-malizia,
-matta bestialità.
-
-Pausa lunga.
-
-"E come incontenenza
-men Dio offende
-e men biasimo accatta?"
-
-E che l'incontinenza
-offende meno Dio
-e merita meno biasimo?
-
-Pausa.
-
-Cioè:
-Aristotele,
-e Dante che lo segue,
-fa una distinzione netta.
-
-Pausa.
 
 L'incontinenza
-è un peccato di passione.
-La passione vince la ragione.
+offende meno.
+
+Perché lì
+la ragione
+non decide il male.
+
+Cede.
+
+Pausa.
 
 La malizia
-è un peccato di ragione.
-La ragione decide il male.
+è un'altra cosa.
 
-Pausa lunga.
+La ragione
+si mette al lavoro
+per ferire.
 
-L'incontinenza è grave,
-ma è meno grave della malizia.
+Per questo
+gli incontinenti
+stanno fuori.
 
-Per questo gli incontinenti
-stanno fuori delle mura di Dite
-— non sono salvi,
-ma neanche sono dentro la città del male voluto.
+Non sono assolti.
 
-Pausa.
+Ma non sono ancora
+dentro la città
+del male voluto.
 
-I malvagi sono dentro.
-Più giù di loro
-ci sono le matte bestialità —
-i violenti che agiscono come bestie,
-ma con la coscienza umana intatta.
-
-Pausa.
-
-E sotto ancora
-i fraudolenti.
-E sotto ancora
-i traditori.
-
-Pausa lunga.
-
-Più si scende,
-più si è scelto.
-
-E meno si può dire
-"non sapevo cosa stavo facendo."
-
-## vv. 91-111 - Natura, arte, e l'usura
+## Dio, natura, lavoro
 
 > «O sol che sani ogni vista turbata,
 > tu mi contenti sì, quando tu solvi,
@@ -1002,290 +514,137 @@ E meno si può dire
 > per sé natura e per la sua seguace
 > dispregia, poi ch’in altro pon la spene.
 
-E Dante,
-che ne sa già tanta,
-chiede ancora una cosa.
+Dante ne vuole ancora una.
 
-Pausa.
+L'usura.
 
-"Ma dimmi:
-quei de l'usura,
-perché Dio offenda
-e di natura il corso prenda,
-dichiaramelo."
-
-Pausa.
-
-Spiegami perché
-gli usurai
-offendono Dio
-e prendono in giro il corso della natura.
-
-Pausa.
-
-"E solvi 'l nodo a me."
-
-Sciogli il nodo a me.
+Perché offende Dio?
 
 Pausa lunga.
 
 E Virgilio
-fa un piccolo trattato
-di filosofia.
+costruisce
+una scala semplice.
 
-Pausa.
+Dio.
 
-"Filosofia,
-a chi la 'ntende,
-nota,
-non pure in una sola parte,
-come natura
-lo suo corso prende
-dal divino 'ntelletto
-e da sua arte."
+La natura,
+che prende corso
+dal divino intelletto.
 
-Pausa.
-
-La filosofia,
-a chi sa leggerla,
-in più di un punto
-fa notare
-che la natura
-prende il proprio corso
-dall'intelletto di Dio
-e dalla sua arte.
-
-Pausa lunga.
-
-Cioè:
-Dio ha pensato la natura.
-La natura
-è la prima opera
-dell'intelletto divino.
-
-Pausa.
-
-E poi un secondo passaggio.
-
-"L'arte vostra
-quella,
-quanto pote,
-segue,
-come 'l maestro fa 'l discente."
-
-Pausa.
-
-L'arte vostra
-— il lavoro umano —
-imita la natura
-per quanto può,
+Il lavoro umano,
+che segue la natura
 come il discepolo
-imita il maestro.
+segue il maestro.
 
 Pausa.
 
-"Sì che vostr' arte
+"Sì che vostr'arte
 a Dio quasi è nepote."
 
-L'arte vostra
+Il lavoro umano
 è quasi nipote di Dio.
 
 Pausa lunga.
 
-Ferma su questa scaletta.
+Da qui
+si dovrebbe vivere.
 
-Pausa.
-
-Dio.
-Padre.
-
-La natura.
-Figlia di Dio.
-
-Il lavoro umano.
-Nipote di Dio,
-attraverso la natura.
-
-Pausa.
-
-E da queste due
-— la natura e l'arte —
-"convene
-prender sua vita
-e avanzar la gente."
-
-L'umanità
-deve trarre la propria vita
-da queste due.
-
-Pausa lunga.
-
-E qui arriva
-il caso dell'usuraio.
-
-Pausa.
+Natura
+e lavoro.
 
 L'usuraio
-"altra via tene."
+sceglie altra via.
 
-Tiene un'altra strada.
+Non aspetta
+né la terra
+né l'opera.
 
-Pausa.
+Vuole che il denaro
+generi denaro.
 
-"Per sé natura
-e per la sua seguace
-dispregia."
-
-Disprezza la natura in sé
-e la sua seguace —
-il lavoro.
-
-Pausa.
-
-"Poi ch'in altro
-pon la spene."
-
-Perché ripone la propria speranza
-in qualcos'altro.
-
-Pausa lunga.
-
-Cioè:
-l'usuraio
-fa fruttare il denaro
-attraverso il denaro stesso,
-senza lavoro,
-senza natura.
-
-Lascia che il tempo
-faccia il lavoro al posto suo.
+E così
+disprezza insieme
+la natura
+e la sua seguace.
 
 Pausa.
 
-Per Dante,
-questo è una violenza
+Per questo
+sta tra i violenti
 contro Dio.
 
-Perché taglia fuori
-sia la natura
-sia il lavoro,
-che sono i due modi
-con cui Dio ha messo l'uomo
-nel mondo.
-
-Pausa lunga.
-
-E per questo
-gli usurai
-stanno nel girone dei violenti contro Dio.
-
-Pausa.
-
-Insieme ai bestemmiatori
-e ai sodomiti.
-
-## vv. 112-115 - Si riparte
+## Si riparte
 
 > Ma seguimi oramai, ché ’l gir mi piace;
 > ché i Pesci guizzan su per l’orizzonta,
 > e ’l Carro tutto sovra il Coro giace,
 > e ’l balzo via là oltra si dismonta.»
 
-Virgilio chiude la lezione.
+Poi basta.
+
+La lezione
+si chiude
+come si chiudono
+le cose necessarie.
+
+"Ma seguimi oramai."
 
 Pausa.
 
-"Ma seguimi oramai,
-che 'l gir mi piace."
+I Pesci salgono.
+Il Carro è alto.
 
-Adesso seguimi,
-ho voglia di andare.
+Sta per venire
+il mattino.
 
-Pausa.
-
-E aggiunge una nota di tempo
-con il cielo.
-
-Pausa.
-
-"Ché i Pesci guizzan
-su per l'orizzonta,
-e 'l Carro tutto
-sovra 'l Coro giace."
-
-Pausa.
-
-Perché i Pesci
-guizzano sull'orizzonte,
-e il Carro
-sta tutto sopra il vento di nord-ovest.
-
-Pausa.
-
-Cioè:
-sta per albeggiare.
+E più in là
+la scarpata
+si può scendere.
 
 Pausa lunga.
 
-E "'l balzo via là oltra
-si dismonta."
+Il pensiero
+ha fatto il suo.
 
-E lì oltre
-la scarpata si scende.
-
-Pausa.
-
-Il canto si chiude
-qui.
-
-Si rimettono in cammino.
-Verso il primo girone del settimo cerchio.
+Adesso
+tocca di nuovo
+al cammino.
 
 ## Chiusura da palco
 
 Pausa lunga.
 
-Il Canto XI è il canto
-in cui Dante e Virgilio si fermano
-e l'Inferno
-diventa una mappa.
+Il Canto XI
+non mostra un volto.
+
+Mostra una struttura.
+
+Sopra il fetore
+del basso Inferno,
+Virgilio
+disegna la mappa
+del male che viene.
 
 Pausa.
 
-Sopra il fetore del basso Inferno
-Virgilio fa la lezione più strutturata
-di tutto il viaggio finora.
+Fuori delle mura
+la passione trascina.
 
-Pausa.
-
-Tre cerchi sotto i piedi di Dante.
-Settimo, ottavo, nono.
-
-In ognuno
-una forma diversa
-di male voluto.
+Dentro le mura
+la ragione
+comincia a scegliere
+contro qualcuno.
 
 Pausa lunga.
 
-E la regola che li ordina
-è una sola:
+E più va a fondo,
+più quel male
+si fa preciso.
 
-più si scende,
-più la ragione
-è stata messa al servizio del male.
-
-Pausa.
-
-L'incontinenza è fuori dalle mura.
-Cedere a una passione
-non è la stessa cosa
-che usare la ragione contro qualcuno.
-
-Pausa.
-
-Dentro le mura
-comincia il male
-che la ragione decide.
+Violenza.
+Frode.
+Tradimento.
 
 Pausa lunga.
 
@@ -1295,10 +654,3 @@ più si sceglie.
 Pausa.
 
 [Schermo: nero pieno]
-
-Il canto si chiude
-con la lezione finita
-e il cammino che riparte.
-Il prossimo si aprirà
-nel primo girone della violenza,
-con il fiume di sangue.
