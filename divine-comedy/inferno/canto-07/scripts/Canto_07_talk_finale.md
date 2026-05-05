@@ -494,14 +494,6 @@ Pausa.
 Per il vizio
 di voler avere troppo.
 
-Pausa lunga.
-
-È il primo punto del canto
-in cui si sente
-il Dante politico
-e il Dante morale
-parlare insieme.
-
 ## vv. 49-66 - Il passaggio alla Fortuna
 
 > E io: «Maestro, tra questi cotali
@@ -522,6 +514,43 @@ parlare insieme.
 > ché tutto l’oro ch’è sotto la luna
 > e che già fu, di quest’anime stanche
 > non poterebbe farne posar una.»
+
+Dante chiede
+se fra loro
+si possa riconoscere qualcuno.
+
+Virgilio risponde di no.
+
+La vita sconoscente
+che li ha fatti sozzi
+adesso li ha fatti bruni.
+Irreconoscibili.
+
+Pausa lunga.
+
+E poi stringe
+il nodo del cerchio.
+
+"Mal dare
+e mal tener
+lo mondo pulcro
+ha tolto loro
+e posti a questa zuffa."
+
+Pausa.
+
+Non è solo
+una pena di soldi.
+
+È una guerra
+nata da un rapporto falso
+con i beni del mondo.
+
+Pausa lunga.
+
+E da qui
+Virgilio passa
+alla Fortuna.
 
 ## vv. 67-96 - La Fortuna
 
@@ -747,11 +776,6 @@ che gira sotto le tue mani.
 Pausa lunga.
 
 Fermati qui.
-
-Pausa.
-
-Per Dante
-questo è il punto del canto.
 
 Pausa.
 
