@@ -306,7 +306,7 @@ da sapere
 che il talento
 lì si paga.
 
-## vv. 79-99 - Cara e buona imagine paterna
+## vv. 79-102 - Cara e buona imagine paterna
 
 > «Se fosse tutto pieno il mio dimando,»
 > rispuosi lui, «voi non sareste ancora
@@ -323,6 +323,9 @@ lì si paga.
 > Tanto vogl’io che vi sia manifesto,
 > pur che mia coscienza non mi garra,
 > ch’a la Fortuna, come vuol, son presto.
+> Non è nuova a gli orecchi miei tal arra:
+> però giri Fortuna la sua rota
+> come le piace, e ’l villan la sua marra.»
 > Lo mio maestro allora in su la gota
 > destra si volse in dietro, e riguardommi;
 > poi disse: «Bene ascolta chi la nota!»
@@ -387,7 +390,7 @@ in Dante,
 quell'insegnamento
 è ancora intatto.
 
-## vv. 100-114 - Gli altri nomi
+## vv. 103-114 - Gli altri nomi
 
 > Né per tanto di men parlando vommi
 > con ser Brunetto, e dimando chi sono

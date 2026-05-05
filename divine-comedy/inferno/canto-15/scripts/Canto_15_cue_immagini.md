@@ -42,12 +42,12 @@ Qui conta il corpo della scena: Dante sopra, Brunetto sotto, il capo chino.
 Si può restare sulla tavola di Brunetto.
 Il centro è la profezia detta da chi ha già visto Firenze e Dante abbastanza a fondo.
 
-### vv. 79-99 — Cara e buona imagine paterna
+### vv. 79-102 — Cara e buona imagine paterna
 [Schermo: nero pieno]
 Tutto a nero.
 `La cara e buona imagine paterna` e `m'insegnavate come l'uom s'eterna` devono atterrare senza immagine.
 
-### vv. 100-114 — Gli altri nomi
+### vv. 103-114 — Gli altri nomi
 [Schermo: nero pieno]
 Nero anche qui.
 Non è una sezione da riempire con visuali.
