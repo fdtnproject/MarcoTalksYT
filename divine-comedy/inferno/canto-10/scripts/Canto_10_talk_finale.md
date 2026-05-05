@@ -216,15 +216,6 @@ non si improvvisa.
 > «S’ei fur cacciati, ei tornar d’ogni parte»
 > rispuos’io lui «l’una e l’altra fiata;
 > ma i vostri non appreser ben quell’arte.»
-> Allor surse a la vista scoperchiata
-> un’ombra lungo questa infino al mento:
-> credo che s’era in ginocchio levata.
-> Dintorno mi guardò, come talento
-> avesse di veder s’altri era meco;
-> e poi che il sospecciar fu tutto spento,
-> piangendo disse: «Se per questo cieco
-> carcere vai per altezza d’ingegno,
-> mio figlio ov’è? e perché non è ei teco?»
 
 Farinata
 non chiede il nome di Dante.
