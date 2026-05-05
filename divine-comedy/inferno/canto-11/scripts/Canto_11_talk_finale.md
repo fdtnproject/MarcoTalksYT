@@ -56,9 +56,6 @@ Pausa.
 Pietre rotte
 in cerchio.
 
-Sotto:
-"più crudele stipa."
-
 Un ammasso
 più crudele
 di tutto quello
@@ -81,11 +78,8 @@ contro un grande sepolcro.
 Pausa.
 
 E su quel coperchio
-Dante legge:
-
-"Anastasio papa guardo,
-lo qual trasse Fotin
-de la via dritta."
+Dante legge
+una scritta.
 
 Pausa.
 
@@ -113,9 +107,6 @@ di uno che ha deviato.
 Virgilio parla
 con una calma
 quasi domestica.
-
-"Lo nostro scender
-convien esser tardo."
 
 La discesa
 deve aspettare.
@@ -170,14 +161,10 @@ Da un'attesa obbligata.
 > più spiace a Dio; e però stan di sutto
 > li frodolenti e più dolor li assale.
 
-"Figliuol mio."
-
-Pausa.
-
 Qui Virgilio
 cambia voce.
 
-Chiama Dante figlio.
+Lo chiama figlio.
 E comincia a ordinare
 l'abisso.
 
@@ -198,9 +185,6 @@ Più feroci.
 Pausa.
 
 Poi dà la regola.
-
-"D'ogne malizia...
-ingiuria è 'l fine."
 
 Ogni male voluto
 finisce
@@ -346,10 +330,6 @@ Pausa.
 
 E allora si arriva
 al fondo.
-
-"Ov'è 'l punto
-de l'universo
-in su che Dite siede."
 
 Il punto più basso.
 
@@ -590,8 +570,6 @@ La lezione
 si chiude
 come si chiudono
 le cose necessarie.
-
-"Ma seguimi oramai."
 
 Pausa.
 

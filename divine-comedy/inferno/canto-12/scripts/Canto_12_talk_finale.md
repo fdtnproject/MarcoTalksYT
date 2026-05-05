@@ -80,11 +80,6 @@ Un crollo.
 
 Pausa lunga.
 
-E sopra quel crollo:
-"l'infamïa di Creti."
-
-Pausa.
-
 [Schermo: Doré — il Minotauro sull'orlo]
 
 Il Minotauro.
@@ -138,9 +133,6 @@ che si divora.
 > sotto i miei piedi per lo novo carco.
 
 Virgilio lo punge subito.
-
-"Tu credi
-che qui sia 'l duca d'Atene?"
 
 Credi che sia tornato Teseo?
 
@@ -228,12 +220,7 @@ questa ruina non c'era.
 Pausa.
 
 È crollata poco prima
-che venisse
-"colui che la gran preda
-levò a Dite
-del cerchio superno."
-
-Cristo.
+che scendesse Cristo.
 
 Pausa.
 
@@ -259,8 +246,6 @@ Pausa lunga.
 
 E Virgilio tronca subito
 la spiegazione.
-
-"Ficca gli occhi a valle."
 
 Perché adesso
 arriva il sangue.
@@ -303,9 +288,6 @@ Pausa.
 
 Dante lancia una delle sue apostrofi
 più secche:
-
-"Oh cieca cupidigia,
-o ira folle..."
 
 Nella vita breve
 spronano.
@@ -373,12 +355,6 @@ Pausa lunga.
 Virgilio risponde:
 la risposta la daremo
 a Chirone.
-
-E poi,
-quasi tra i denti:
-
-"Mal fu la voglia tua
-sempre sì tosta."
 
 Pausa.
 
@@ -498,7 +474,7 @@ Nesso.
 Pausa lunga.
 
 Ed eccoli
-lungo il "bollor vermiglio."
+lungo il sangue che bolle.
 
 Dante vede
 i livelli del sangue.
@@ -506,14 +482,6 @@ i livelli del sangue.
 Fino agli occhi.
 Fino alla gola.
 Fino ai piedi.
-
-Pausa.
-
-Nesso dice:
-
-"Ei son tiranni
-che dier nel sangue
-e ne l'aver di piglio."
 
 E poi
 li nomina.
@@ -537,11 +505,6 @@ Pausa lunga.
 
 Poi una terzina sola
 chiude un delitto intero:
-
-"Colui fesse in grembo a Dio
-lo cor
-che 'n sul Tamigi
-ancor si cola."
 
 Un omicidio in chiesa.
 Un cuore portato
@@ -648,11 +611,3 @@ Si annega nel sangue versato.
 Pausa.
 
 [Schermo: nero pieno]
-
-Il canto si chiude
-appena oltre il guado.
-
-Il prossimo
-si aprirà in un bosco
-dove le voci
-escono dai rami.

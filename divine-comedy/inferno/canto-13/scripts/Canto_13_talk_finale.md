@@ -202,17 +202,13 @@ E Pier fa una cosa sola.
 
 Pausa.
 
-**Credendo col morir fuggir disdegno.**
-
-Pausa.
-
 Credeva che la morte fosse una via d'uscita.
 
-E invece:
-
-**Ingiusto fece me contra me giusto.**
-
 Pausa lunga.
+
+E invece
+si è fatto ingiustizia
+da solo.
 
 Dante non replica.
 Non commenta.
@@ -243,8 +239,6 @@ Pausa.
 Dante non riesce a parlare.
 
 Chiede a Virgilio di fare le domande al posto suo.
-
-*Tanta pietà m’accora.*
 
 Pausa lunga.
 

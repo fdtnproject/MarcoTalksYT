@@ -142,11 +142,6 @@ stanno in tombe di fuoco.
 
 Poi una voce.
 
-"O Tosco
-che per la città del foco
-vivo ten vai
-così parlando onesto."
-
 Pausa lunga.
 
 Ha riconosciuto Dante
@@ -186,10 +181,6 @@ non è la biografia.
 
 È la postura.
 
-"S'ergea col petto e con la fronte,
-com'avesse l'Inferno
-a gran dispitto."
-
 Pausa.
 
 Come se l'Inferno
@@ -200,11 +191,8 @@ dentro la dannazione.
 
 Pausa.
 
-E Virgilio avverte Dante:
-
-"Le parole tue sien conte."
-
-Pesale.
+Virgilio lo avverte
+di pesare ogni parola.
 
 Davanti a quest'uomo
 non si improvvisa.
@@ -226,8 +214,6 @@ non chiede il nome di Dante.
 
 Chiede la famiglia.
 
-"Chi fuor li maggior tui?"
-
 Pausa lunga.
 
 Per lui
@@ -243,15 +229,6 @@ le sopracciglia.
 
 Pausa.
 
-"Fieramente furo avversi
-a me
-e a' miei primi
-e a mia parte,
-sì che per due fiate
-li dispersi."
-
-Pausa.
-
 Siamo stati nemici feroci.
 Li ho dispersi due volte.
 
@@ -261,12 +238,6 @@ E Dante,
 giovane guelfo,
 risponde con una stoccata
 perfetta.
-
-"S'ei fur cacciati,
-ei tornar d'ogne parte,
-l'una e l'altra fïata;
-ma i vostri
-non appreser ben quell'arte."
 
 Pausa lunga.
 
@@ -318,9 +289,6 @@ E altra domanda.
 Non la famiglia.
 Non la parte politica.
 
-"Mio figlio ov'è?
-e perché non è teco?"
-
 Pausa lunga.
 
 Questo padre
@@ -355,12 +323,6 @@ mio figlio.
 
 Dante risponde.
 
-"Da me stesso non vegno:
-colui ch'attende là,
-per qui mi mena,
-forse cui Guido vostro
-ebbe a disdegno."
-
 Pausa lunga.
 
 Tre cose in una.
@@ -387,12 +349,6 @@ Passato remoto.
 Cavalcante lo sente
 e si raddrizza.
 
-"Come?
-Dicesti: elli ebbe?
-Non viv' elli ancora?
-Non fiere li occhi suoi
-lo dolce lume?"
-
 Pausa.
 
 Da un solo verbo
@@ -409,12 +365,6 @@ prima di rispondere.
 
 E quell'esitazione
 diventa risposta.
-
-"Quando s'accorse
-d'alcuna dimora
-ch'io facëa dinanzi a la risposta,
-supin ricadde
-e più non parve fora."
 
 Pausa.
 
@@ -514,11 +464,6 @@ accanto a lui.
 Farinata continua
 da dove era stato interrotto.
 
-"S'elli han quell'arte
-male appresa,
-ciò mi tormenta
-più che questo letto."
-
 Pausa.
 
 Mi tormenta di più
@@ -530,12 +475,6 @@ in cui giaccio.
 Pausa lunga.
 
 Poi la profezia.
-
-"Ma non cinquanta volte
-fia raccesa
-la faccia de la donna che qui regge,
-che tu saprai
-quanto quell'arte pesa."
 
 Pausa.
 
@@ -594,8 +533,6 @@ E Farinata
 concede una cosa
 che pesa.
 
-"A ciò non fu' io sol."
-
 Non c'ero solo io.
 
 Ma fui io solo,
@@ -650,11 +587,6 @@ Come funziona?
 > già ne l’error che m’avete soluto.»
 
 Farinata risponde.
-
-"Noi veggiam
-come quei c'ha mala luce
-le cose
-che ne son lontano."
 
 Pausa.
 
@@ -747,8 +679,6 @@ Pausa.
 Prima di sparire,
 Farinata aggiunge solo questo:
 
-"Qui con più di mille giaccio."
-
 Con me
 ci sono più di mille altri.
 
@@ -765,10 +695,6 @@ Dante torna da Virgilio
 con la profezia addosso.
 
 Virgilio lo vede smarrito.
-
-"La mente tua
-conservi
-quel ch'udito hai contra te."
 
 Ricordatelo.
 
