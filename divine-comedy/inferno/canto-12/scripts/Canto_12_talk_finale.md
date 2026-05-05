@@ -9,6 +9,10 @@ Linea guida: "Si annega nel sangue versato"
 
 Pausa lunga.
 
+Allora sì: il dodicesimo canto.
+
+Pausa.
+
 Qui si scende davvero.
 
 Pausa.

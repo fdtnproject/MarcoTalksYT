@@ -9,6 +9,10 @@ Linea guida: "Si è ancora chi si è stati"
 
 Pausa lunga.
 
+Allora, il decimo canto.
+
+Pausa.
+
 Dentro Dite
 non trovano un palazzo.
 

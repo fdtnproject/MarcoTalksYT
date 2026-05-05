@@ -9,6 +9,10 @@ Linea guida: "Più si scende, più si sceglie"
 
 Pausa lunga.
 
+Allora: l'undicesimo.
+
+Pausa.
+
 Qui non scendono.
 
 Si fermano
