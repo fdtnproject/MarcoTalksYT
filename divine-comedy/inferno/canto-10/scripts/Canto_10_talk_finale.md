@@ -35,7 +35,7 @@ Pausa lunga.
 Uno parla come un capo politico.
 L'altro come un padre.
 
-## Le tombe aperte
+## vv. 1-21 - Le tombe aperte
 
 > Ora sen va per un secreto calle
 > tra il muro de la terra e li martìri
@@ -116,7 +116,7 @@ nel corpo.
 E per questo
 stanno in tombe di fuoco.
 
-## Farinata si alza
+## vv. 22-42 - Farinata si alza
 
 > «O Tosco, che per la città del foco
 > vivo ten vai così parlando onesto,
@@ -209,7 +209,7 @@ Pesale.
 Davanti a quest'uomo
 non si improvvisa.
 
-## Lo scontro
+## vv. 43-51 - Lo scontro
 
 > Io, ch’era d’ubidir desideroso,
 > non gliel celai, ma tutto gliel’apersi;
@@ -280,7 +280,7 @@ E proprio lì,
 accanto a Farinata,
 si alza un'altra ombra.
 
-## Cavalcante
+## vv. 52-60 - Cavalcante
 
 > Allor surse a la vista scoperchiata
 > un’ombra lungo questa infino al mento:
@@ -338,7 +338,7 @@ Non dice Guido.
 Dice:
 mio figlio.
 
-## L'"ebbe"
+## vv. 61-72 - L'"ebbe"
 
 > E io a lui: «Da me stesso non vegno:
 > colui ch’attende là per qui mi mena,
@@ -485,7 +485,7 @@ Pausa lunga.
 Il fuoco
 non li appiattisce.
 
-## Farinata immutato
+## vv. 73-85 - Farinata immutato
 
 > Ma quell’altro magnanimo, a cui posta
 > restato m’era, non mutò aspetto,
@@ -562,7 +562,7 @@ Anche da dannato
 Farinata
 fa ancora politica.
 
-## La domanda sul vedere
+## vv. 86-99 - La domanda sul vedere
 
 > Ond’io a lui: «Lo strazio e ’l grande scempio
 > che fece l’Arbia colorata in rosso
@@ -631,7 +631,7 @@ che Dante sarà esiliato.
 
 Come funziona?
 
-## Il modo della vista
+## vv. 100-114 - Il modo della vista
 
 > «Noi veggiam come quei c’ha mala luce
 > le cose» disse «che ne son lontano;
@@ -713,7 +713,7 @@ Che il suo silenzio
 era nato dall'errore,
 non dalla crudeltà.
 
-## Il commiato
+## vv. 115-136 - Il commiato
 
 > E già il maestro mio mi richiamava;
 > perch’io pregai lo spirito più avaccio

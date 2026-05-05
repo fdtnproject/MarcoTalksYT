@@ -10,17 +10,17 @@ Convenzione: 2-3 immagini totali, 4-5 passaggi a nero deliberati. Il Canto XI è
 Marco apre a nero. Nessuna immagine.
 Motivo: il canto si apre con una sosta sull'orlo. Il nero serve la sospensione.
 
-### Sull'orlo
+### vv. 1-9 — Sull'orlo
 [Schermo: Doré — l'orlo dell'alta ripa, il sepolcro di Anastasio]
 Tavola del bordo: cerchio di pietre rotte, sotto il vuoto del basso Inferno, sepolcro grande con scritta.
 Asset suggerito: `11_orlo_anastasio.jpg` (Doré, "Le bord du gouffre" o tavola con la sosta sul bordo + sepolcro).
 Tenere accesa per il blocco descrittivo.
 
-### Il naso si abitua
+### vv. 10-15 — Il naso si abitua
 Mantenere la tavola dell'orlo.
 Motivo: il blocco è dialogo Virgilio-Dante sulla sosta. Stessa scena.
 
-### Tre cerchi sotto / A Dio, a sé, al prossimo / Il fondo
+### vv. 16-66 — Tre cerchi sotto / A Dio, a sé, al prossimo / Il fondo
 [Schermo: nero pieno]
 Nero per tutta la lezione di Virgilio.
 Motivo: la mappa è interamente parlata. Nessuna tavola può servire una topologia astratta. Il nero lascia che la voce di Virgilio costruisca lo schema. È un canto-trattato: tienilo a voce sola.
@@ -40,11 +40,11 @@ Motivo: la prima volta che il canto nomina il fondo (il IX cerchio dei traditori
 Nero per tutta la sintesi.
 Motivo: qui non deve atterrare ancora il motto. Deve atterrare il passaggio dalla passione alla scelta.
 
-### Perché tanto delira
+### vv. 67-90 — Perché tanto delira
 Restare a nero.
 Motivo: ancora dottrina (Aristotele, le tre disposizioni). Stessa logica del blocco precedente — voce sola, nessuna immagine.
 
-### Dio, natura, lavoro
+### vv. 91-111 — Dio, natura, lavoro
 Restare a nero.
 Motivo: il blocco filosofico più astratto del canto. Dio padre, natura figlia, arte nipote. Solo voce.
 
@@ -53,7 +53,7 @@ Motivo: il blocco filosofico più astratto del canto. Dio padre, natura figlia, 
 Restare a nero.
 Motivo: la frase-cardine sul lavoro umano come "nipote di Dio". Tenere il nero che la accompagna.
 
-### Si riparte
+### vv. 112-115 — Si riparte
 [Schermo: Doré — l'orlo del dirupo, Dante e Virgilio che riprendono il cammino]
 Tornare alla tavola del bordo (la stessa di apertura), oppure introdurre una piccola tavola di passaggio.
 Asset suggerito: `11_si_riparte.jpg` (può essere la stessa di apertura, ripresa con angolo diverso).

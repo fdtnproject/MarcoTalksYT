@@ -35,7 +35,7 @@ Virgilio trasforma
 la sosta
 in lezione.
 
-## Sull'orlo
+## vv. 1-9 - Sull'orlo
 
 > In su l’estremità d’un’alta ripa,
 > che facevan gran pietre rotte in cerchio,
@@ -101,7 +101,7 @@ appoggiato
 alla tomba
 di uno che ha deviato.
 
-## Il naso si abitua
+## vv. 10-15 - Il naso si abitua
 
 > «Lo nostro scender convien esser tardo,
 > sì che s’aùsi in prima un poco il senso
@@ -155,7 +155,7 @@ La lezione nasce così.
 
 Da un'attesa obbligata.
 
-## Tre cerchi sotto
+## vv. 16-27 - Tre cerchi sotto
 
 > «Figliuol mio, dentro da cotesti sassi»
 > cominciò poi a dir «son tre cerchietti
@@ -236,7 +236,7 @@ Per questo
 i frodolenti
 stanno più sotto.
 
-## A Dio, a sé, al prossimo
+## vv. 28-51 - A Dio, a sé, al prossimo
 
 > Di violenti il primo cerchio è tutto;
 > ma perché si fa forza a tre persone,
@@ -298,7 +298,7 @@ Non è un catalogo.
 che stringe il male
 in tre direzioni precise.
 
-## Il fondo
+## vv. 52-66 - Il fondo
 
 > La frode, ond’ogni coscienza è morsa,
 > può l’uomo usare in colui ch’in lui fida
@@ -398,7 +398,7 @@ Ed è proprio qui
 che Dante
 fa la domanda giusta.
 
-## Perché tanto delira
+## vv. 67-90 - Perché tanto delira
 
 > E io: «Maestro, assai chiara procede
 > la tua ragione, ed assai ben distingue
@@ -493,7 +493,7 @@ Ma non sono ancora
 dentro la città
 del male voluto.
 
-## Dio, natura, lavoro
+## vv. 91-111 - Dio, natura, lavoro
 
 > «O sol che sani ogni vista turbata,
 > tu mi contenti sì, quando tu solvi,
@@ -577,7 +577,7 @@ Per questo
 sta tra i violenti
 contro Dio.
 
-## Si riparte
+## vv. 112-115 - Si riparte
 
 > Ma seguimi oramai, ché ’l gir mi piace;
 > ché i Pesci guizzan su per l’orizzonta,

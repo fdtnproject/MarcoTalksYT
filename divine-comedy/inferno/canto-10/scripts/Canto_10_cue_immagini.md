@@ -10,19 +10,19 @@ Convenzione: 4 immagini totali, 3 passaggi a nero deliberati sulle frasi-cardine
 Marco apre a nero. Nessuna immagine.
 Motivo: il canto si apre con un cammino fra le mura e i sepolcri. Il nero tiene lo spettatore sulla voce prima del visivo.
 
-### Le tombe aperte
+### vv. 1-21 — Le tombe aperte
 [Schermo: Doré — il cimitero degli eretici, sepolcri sparsi sulla pianura]
 Tavola del sesto cerchio: pianura con tombe aperte, fiamme tra i coperchi sospesi.
 Asset suggerito: `10_cimitero_eretici.jpg` (Doré, "Le cimetière des hérétiques" — la pianura coi sepolcri infuocati).
 Tenere accesa per tutto il dialogo Dante-Virgilio sulla natura del cerchio.
 
-### Farinata si alza
+### vv. 22-42 — Farinata si alza
 [Schermo: Doré — Farinata che si alza dalla tomba "dalla cintola in su"]
 Tavola di Farinata: figura imponente che emerge dal sepolcro infuocato, busto dritto, fronte alta.
 Asset suggerito: `10_farinata.jpg` (Doré, "Farinata degli Uberti" — la tavola classica di Farinata che si erge dal fuoco).
 Tenere accesa per tutto il blocco, fino alla fine dello scontro politico.
 
-### Lo scontro
+### vv. 43-51 — Lo scontro
 Mantenere la tavola di Farinata.
 Motivo: tutto il blocco è dialogo Dante-Farinata sopra la stessa scena. Niente cambio.
 
@@ -31,7 +31,7 @@ Motivo: tutto il blocco è dialogo Dante-Farinata sopra la stessa scena. Niente 
 Nero brevissimo solo per pesare il verso che descrive Farinata.
 Motivo: è la frase-cardine sulla magnanimità del dannato. Se lo si fa, restare a nero pochi secondi e poi tornare alla tavola.
 
-### Cavalcante
+### vv. 52-60 — Cavalcante
 [Schermo: Doré — Cavalcante in ginocchio dentro lo stesso sepolcro di Farinata]
 Tavola di Cavalcante: secondo dannato che spunta nel sepolcro, fino al mento, in posizione inginocchiata.
 Asset suggerito: `10_cavalcante.jpg` (Doré, "Cavalcante de' Cavalcanti" — la scena dell'apparizione di Cavalcante accanto a Farinata).
@@ -42,7 +42,7 @@ Tenere accesa per tutto il dialogo Cavalcante-Dante, fino alla caduta.
 Nero sulla domanda di Cavalcante.
 Motivo: è una delle frasi più toccanti del canto. Va detta su nero, senza tavola a distrarre. Il padre che cerca il figlio non chiede in faccia a un'immagine — chiede al buio.
 
-### L'"ebbe"
+### vv. 61-72 — L'"ebbe"
 [Schermo: Doré — Cavalcante in ginocchio dentro lo stesso sepolcro di Farinata]
 Restare sulla tavola di Cavalcante fino alla caduta.
 Motivo: il malinteso vive nella voce, ma nasce ancora dentro quella stessa postura di padre che cerca il figlio.
@@ -57,7 +57,7 @@ Motivo: il momento in cui un padre crolla dentro la tomba per un verbo al passat
 Nero per tutta la sintesi.
 Motivo: qui non deve atterrare ancora il motto. Deve atterrare il contrasto fra Farinata e Cavalcante.
 
-### Farinata immutato
+### vv. 73-85 — Farinata immutato
 [Schermo: Doré — Farinata che riprende, immutato, accanto al sepolcro vuoto]
 Tornare alla tavola di Farinata (la stessa di prima).
 Motivo: la stessa figura, ma in un altro momento — Cavalcante è caduto, Farinata non si è girato. La continuità della tavola è la continuità di Farinata.
@@ -67,16 +67,16 @@ Motivo: la stessa figura, ma in un altro momento — Cavalcante è caduto, Farin
 Nero brevissimo solo per pesare la profezia dell'esilio.
 Motivo: è il punto in cui Dante riceve in faccia la propria storia futura. Se lo si fa, restare a nero pochi secondi.
 
-### La domanda sul vedere
+### vv. 86-99 — La domanda sul vedere
 Mantenere la tavola di Farinata.
 Motivo: Dante chiede a Farinata come funziona la loro vista. La domanda nasce sulla scena, la tavola serve.
 
-### Il modo della vista
+### vv. 100-114 — Il modo della vista
 [Schermo: nero pieno]
 Nero per la spiegazione di Farinata sulla vista degli eretici.
 Motivo: il blocco è teologico-temporale. La spiegazione del "vedere lontano e non il presente" lavora meglio sul nero. Niente immagine può servire questa fenomenologia della temporalità.
 
-### Il commiato
+### vv. 115-136 — Il commiato
 [Schermo: Doré — Farinata che si nasconde nella tomba, Dante che si allontana]
 Tornare alla tavola della pianura coi sepolcri (la prima del canto).
 Motivo: il commiato chiude il cerchio iniziato all'apertura. Stessa tavola, momento opposto: si arriva, si parte.

@@ -6,7 +6,7 @@ Stato: seconda bozza
 
 ---
 
-## Apertura — La selva
+## vv. 1-15 - Apertura — La selva
 
 [Schermo: nero pieno]
 
@@ -46,7 +46,7 @@ Pausa lunga.
 
 ---
 
-## Blocco 1 — La voce nel legno
+## vv. 16-44 - Blocco 1 — La voce nel legno
 
 Virgilio avverte Dante.
 
@@ -118,7 +118,7 @@ Pausa lunga.
 
 ---
 
-## Blocco 2 — Virgilio si scusa
+## vv. 46-54 - Blocco 2 — Virgilio si scusa
 
 Virgilio interviene subito.
 
@@ -157,7 +157,7 @@ Pausa.
 
 ---
 
-## Blocco 3 — Pier della Vigna
+## vv. 55-78 - Blocco 3 — Pier della Vigna
 
 Chi è quest'anima?
 
@@ -224,7 +224,7 @@ Pausa.
 
 ---
 
-## Blocco 4 — Tanta pietà m'accora
+## vv. 79-84 - Blocco 4 — Tanta pietà m'accora
 
 Virgilio chiede a Pier di continuare.
 Di spiegare come funziona questa pena.
@@ -262,7 +262,7 @@ Pausa lunga.
 
 ---
 
-## Blocco 5 — Il meccanismo
+## vv. 85-108 - Blocco 5 — Il meccanismo
 
 Pier spiega.
 
@@ -303,7 +303,7 @@ Pausa lunga.
 
 ---
 
-## Blocco 6 — Gli scialacquatori
+## vv. 109-135 - Blocco 6 — Gli scialacquatori
 
 Cambia scena.
 
@@ -364,7 +364,7 @@ Pausa.
 
 ---
 
-## Blocco 7 — Il fiorentino anonimo
+## vv. 136-151 - Blocco 7 — Il fiorentino anonimo
 
 Virgilio porta Dante al cespuglio che piange
 per le rotture sanguinanti.

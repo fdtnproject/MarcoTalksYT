@@ -3,59 +3,38 @@
 Versione da palco
 Linea guida: "Si apre da fuori"
 
-Nota di lavoro:
-- pattern e taglio allineati a `Canto_01_talk_finale.md`, `Canto_02_talk_finale.md`, `Canto_03_talk_finale.md`, `Canto_04_talk_finale.md`, `Canto_05_talk_finale.md`, `Canto_06_talk_finale.md`, `Canto_07_talk_finale.md`, `Canto_08_talk_finale.md`
-- i versi sono riallineati al testo standard del Canto IX
-- una sola sintesi a metà canto, fra l'appello al lettore e l'arrivo dell'angelo
-- chiusura asciutta che atterra una volta sola
-
 ## Apertura
 
 [Schermo: nero pieno]
+
+Pausa lunga.
 
 Allora, il nono canto.
 
 Pausa.
 
-L'ottavo si era chiuso
-con Virgilio
-che torna scosso
-dalla porta di Dite
-e dice a Dante:
-qualcuno sta scendendo,
-quando arriva
-le porte si apriranno.
+Virgilio ha promesso
+che qualcuno arriverà.
+
+Fino ad allora,
+tutto resta fermo.
 
 Pausa lunga.
 
-Il nono canto
-è l'attesa
-di quell'arrivo.
+Le Furie
+sulla torre.
 
-Pausa.
+Medusa
+che può pietrificare.
 
-Ma fra la promessa e l'arrivo
-ci sono tre cose
-che non si dimenticano.
-
-Pausa.
-
-Le tre Furie sulla torre
-che minacciano di chiamare Medusa.
-
-Virgilio
+La guida
 che copre gli occhi a Dante
 con le proprie mani.
 
-E un appello al lettore
-che è uno dei punti più diretti
-di tutto il poema.
-
-Pausa lunga.
-
-Tutto il Canto IX ruota intorno a una verità
-che il canto mette in scena:
-si apre da fuori.
+E il poeta
+che a un certo punto
+si gira
+verso il lettore.
 
 ## vv. 1-15 - Virgilio pallido
 
@@ -75,90 +54,62 @@ si apre da fuori.
 > perch’io traeva la parola tronca
 > forse a peggior sentenza che non tenne.
 
-Quel colore
-che la paura mi aveva dipinto in faccia
-quando ho visto il mio maestro tornare indietro,
+Dante vede
+che il colore della paura
+gli era salito in faccia.
 
-lui lo ha richiuso più in fretta
-dentro il suo colore nuovo.
-
-Pausa lunga.
-
-Virgilio
-sta cercando di non far vedere a Dante
-che è ancora sconcertato.
-
-Pausa.
-
-Si ferma attento.
-Come uno che ascolta.
-
-Pausa.
-
-L'occhio non riesce a vedere lontano
-per via dell'aria nera
-e della nebbia fitta.
+E vede anche
+che Virgilio,
+tornando indietro,
+lo richiude in fretta
+dentro il proprio volto.
 
 Pausa lunga.
 
-E poi parla.
+La guida
+non vuole farsi vedere scossa.
+
+Ma Dante lo sente.
 
 Pausa.
 
-"Pur a noi converrà vincer la punga."
+Virgilio si ferma
+come uno che ascolta.
 
-Pure a noi
-converrà vincere
-questa battaglia.
+L'occhio
+non porta lontano.
+
+Aria nera.
+Nebbia fitta.
 
 Pausa.
 
-E poi una sospensione.
+Poi parla.
+
+"Pur a noi converrà
+vincer la punga..."
+
+E si interrompe.
 
 "Se non..."
 
-Pausa.
-
-Si interrompe.
-
-E rimedia.
-
-"Tal ne s'offerse."
-
-Tale persona ci si è offerta.
-
 Pausa lunga.
 
-Ferma su questo.
+La frase si spezza.
 
-Pausa.
+Subito dopo
+lui prova a ricoprirla.
 
-Virgilio lascia
-la frase sospesa.
-
-E prova subito
-a ricoprirla.
-
-Pausa.
-
-Dante lo nota.
+Ma Dante ormai l'ha sentita.
 
 E si spaventa di più.
 
 Pausa.
 
-"Forse a peggior sentenzia
-che non tenne."
-
-Forse traevo dalla frase tronca
-un significato peggiore
-di quello che lui voleva dirmi.
-
-Pausa lunga.
-
 Anche Virgilio,
 che è la guida,
-adesso parla per frasi rotte.
+adesso parla
+per frasi rotte.
 
 ## vv. 16-33 - Erichto
 
@@ -181,156 +132,63 @@ adesso parla per frasi rotte.
 > cinge d’intorno la città dolente,
 > u’ non potemo intrare omai sanz’ira.»
 
-Dante, allora,
-prova a chiedere
-una cosa
-per essere sicuro.
+Dante prova
+a farsi rassicurare.
 
-Pausa.
-
-"In questo fondo
-discende mai alcun
-del primo grado?"
-
-In questo posto
-è mai sceso qualcuno
-del primo cerchio?
-
-Pausa.
-
-Cioè:
-qualcuno del Limbo,
-come Virgilio,
-è mai stato qui sotto?
+Un'anima del Limbo
+è mai scesa
+fin qui?
 
 Pausa lunga.
 
-E Virgilio risponde.
+Virgilio risponde:
+di rado.
 
-"Di rado
-incontra
-che di noi faccia il cammino alcun
-per qual io vado."
+Ma sì,
+una volta ci sono stato.
 
-Pausa.
-
-Capita raramente
-che uno di noi
-faccia questo viaggio.
+"Ver è
+ch'altra fïata
+qua giù fui."
 
 Pausa.
 
-Ma poi
-aggiunge una cosa
-che Dante non si aspettava.
+E racconta Erichto.
 
-Pausa.
-
-"Ver è ch'altra fïata qua giù fui."
-
-È vero
-che un'altra volta
-sono già stato qui sotto.
-
-Pausa lunga.
-
-Ferma su questo.
-
-Pausa.
-
-Virgilio,
-poeta latino,
-morto da più di mille anni,
-dice a Dante
-che è già stato in fondo all'Inferno.
-
-Pausa.
-
-E gli dice come.
-
-Pausa.
-
-"Congiurato
-da quella Eritón cruda
-che richiamava l'ombre a' corpi sui."
-
-Pausa.
-
-Costretto da quella Erichto crudele
-che richiamava le anime nei corpi.
-
-Pausa lunga.
-
-Erichto.
-
-Pausa.
-
-Una maga della tradizione classica
-che faceva tornare i morti.
-
-Aveva costretto Virgilio,
-poco dopo che era morto,
-a scendere
-dentro questo muro
-— le mura di Dite —
-per portarle un'anima
+Una maga crudele
+che lo costrinse,
+da poco morto,
+a entrare dentro Dite
+per trarre un'anima
 dal cerchio di Giuda.
 
-Pausa.
-
-Cioè dalla zona più bassa dell'Inferno.
-
 Pausa lunga.
 
-"Quell' è 'l più basso loco
-e 'l più oscuro,
-e 'l più lontan dal ciel
-che tutto gira."
+È un racconto strano.
+Quasi imbarazzante.
 
-Pausa.
+Ma il punto
+non è l'esoterismo.
 
-È il posto più basso
-e più scuro
-e più lontano
-dal cielo che muove tutto.
-
-Pausa.
-
-E Virgilio chiude:
-
-"Ben so 'l cammin;
-però ti fa sicuro."
-
-Pausa.
-
-Conosco la strada.
-Quindi sta' tranquillo.
-
-Pausa lunga.
+Il punto è questo:
 
 Virgilio
-ha appena raccontato a Dante
-una storia strana,
-forse imbarazzante,
-di una maga che lo ha costretto
-a scendere in Inferno
-da poco morto,
-per dirgli:
-non ti preoccupare,
-io so dove andiamo.
+sta dicendo a Dante
+io qui
+ci sono già stato.
 
 Pausa.
 
-Vuole rassicurarlo
-con la propria esperienza.
+Vuole rassicurarlo.
 
-Ma il fatto che debba dirlo,
-in quel momento,
-dice anche
-che lui stesso
-ha bisogno di rassicurarsi.
+E il fatto stesso
+che ne abbia bisogno
+dice che anche lui,
+in questo momento,
+ha bisogno
+di rassicurarsi.
 
-## vv. 34-48 - Le tre Furie
+## vv. 34-48 - Le Furie
 
 > E altro disse, ma non l’ho a mente;
 > però che l’occhio m’avea tutto tratto
@@ -348,95 +206,36 @@ ha bisogno di rassicurarsi.
 > quella che piange dal destro è Aletto;
 > Tesifone è nel mezzo.» E tacque a tanto.
 
-Dante non risponde a Virgilio.
+Dante smette
+di ascoltare Virgilio.
 
-Pausa.
-
-Gli sembra una cosa indegna,
-da dirgli.
-
-E intanto guarda
-la cima della torre.
+Gli occhi
+sono tirati
+verso la torre.
 
 Pausa.
 
 [Schermo: Doré — le tre Furie sulla torre di Dite]
 
-E vede tre figure.
+Tre Furie.
 
-Pausa.
+Sporche di sangue.
 
-"Tre furïe infernal di sangue tinte,
-che membra feminine avieno e atto."
-
-Pausa.
-
-Tre Furie infernali,
-sporche di sangue,
-con membra di donna
-e gesti di donna.
-
-Pausa.
-
-E "con idre verdissime
-eran cinte."
-
-Pausa.
-
-Cinte di idre verdissime.
-
-Idre.
-Mostri d'acqua.
+Con membra di donna
+e serpenti
+per capelli.
 
 Pausa lunga.
 
-E poi un dettaglio
-che si fissa.
+Virgilio le riconosce subito.
 
-"Serpentelli e ceraste
-avien per crine."
+Megera.
+Aletto.
+Tesifone.
 
-Pausa.
+Le nomina.
 
-Per capelli avevano
-serpentelli e ceraste.
-
-Pausa.
-
-Le ceraste sono vipere cornute.
-
-Le Furie
-hanno per capelli
-serpenti vivi.
-
-Pausa lunga.
-
-E Virgilio le riconosce.
-
-"Guarda le feroci Erine."
-
-Pausa.
-
-Erine.
-Erinni.
-È un altro nome delle Furie.
-
-Pausa.
-
-"Quest' è Megera
-dal sinistro canto;
-quella che piange dal destro è Aletto;
-Tesifón è nel mezzo."
-
-Pausa.
-
-Megera a sinistra.
-Aletto a destra.
-Tesifone in mezzo.
-
-Pausa lunga.
-
-E poi Virgilio tace.
+E poi tace.
 
 ## vv. 49-60 - Medusa
 
@@ -453,224 +252,98 @@ E poi Virgilio tace.
 > mi volse, e non si tenne alle mie mani,
 > che con le sue ancor non mi chiudessi.
 
-Le Furie iniziano
-a farsi del male da sole.
+Le Furie
+si feriscono da sole.
 
-Pausa.
+Si battono il petto.
+Gridano.
 
-Si fendono il petto
-con le unghie.
-Si battono con i palmi.
-E gridano forte.
-
-Pausa.
-
-Tanto forte
-che Dante
-si stringe a Virgilio
-per la paura.
+Dante si stringe
+al poeta.
 
 Pausa lunga.
 
-E poi gridano una cosa precisa.
-
-Pausa.
+E gridano:
 
 "Vegna Medusa:
 sì 'l farem di smalto."
 
-Pausa.
-
 Venga Medusa.
-Così lo facciamo di smalto.
+Lo faremo di pietra.
 
 Pausa.
 
-Cioè:
-così lo trasformiamo in pietra.
+Qui Virgilio
+non spiega.
 
-Pausa lunga.
-
-Medusa,
-nella mitologia,
-è la Gorgone
-che pietrifica
-chi la guarda negli occhi.
-
-Pausa.
-
-E aggiungono:
-
-"Mal non vengiammo
-in Tëseo l'assalto."
-
-Pausa.
-
-Male facemmo
-a non vendicarci
-quando Teseo provò ad assalirci.
-
-Pausa.
-
-Stanno dicendo:
-una volta abbiamo sbagliato a non punire
-chi è entrato qui da vivo.
-Stavolta non sbagliamo.
-
-Pausa lunga.
-
-E qui Virgilio
-fa una cosa
-che nel poema
-ha pochi paralleli.
-
-Pausa.
+Ordina.
 
 "Volgiti 'n dietro
 e tien lo viso chiuso."
 
 Pausa.
 
-Girati indietro
-e tieni gli occhi chiusi.
+Girati.
+Chiudi gli occhi.
 
-Pausa.
-
-"Ché se 'l Gorgón si mostra
-e tu 'l vedessi,
-nulla sarebbe
-di tornar mai suso."
-
-Pausa.
-
-Perché se la Gorgone si mostra
-e tu la vedessi,
-niente potrebbe più
-farti tornare su.
+Perché se la Gorgone
+si mostra
+e tu la guardi,
+non torni più su.
 
 Pausa lunga.
 
-Un solo sguardo
-sarebbe la fine.
+E non si fida
+nemmeno che Dante
+si copra da solo.
 
-Pausa.
-
-E poi.
-
-Pausa.
-
-"Ed elli stessi
-mi volse,
-e non si tenne a le mie mani,
-che con le sue ancor non mi chiudessi."
-
-Pausa.
-
-E lui stesso
-mi girò.
-E non si fidò delle mie mani.
-Ci mise sopra
-anche le sue.
-
-Pausa lunga.
-
-Ferma su questo.
-
-Pausa.
-
-Virgilio
-non lascia che Dante
-si copra gli occhi da solo.
-
-Pausa.
-
-Glieli copre lui
-con le sue mani sopra le sue.
+Gli gira lui il volto.
+Gli chiude gli occhi
+con le mani sue
+sopra le sue.
 
 Pausa.
 
 Davanti a Medusa
 la ragione
-non si fida nemmeno della propria pupilla.
+non si fida nemmeno
+della propria pupilla.
 
-## vv. 61-63 - L'appello al lettore
+## vv. 61-63 - L'appello
 
 > O voi ch’avete gl’intelletti sani,
 > mirate la dottrina che s’asconde
 > sotto il velame de li versi strani.
 
-E qui
-Dante
-interrompe il racconto.
+E qui Dante
+interrompe tutto.
 
 Pausa.
 
-E parla al lettore.
+Non parla più
+a Virgilio.
 
-Pausa.
+Non parla più
+alle Furie.
 
-"O voi ch'avete li 'ntelletti sani."
+Parla a noi.
 
-Pausa.
+"O voi
+ch'avete gl'intelletti sani..."
 
-O voi
-che avete intelletti sani.
-
-Pausa.
-
-"Mirate la dottrina
-che s'asconde
-sotto 'l velame
-de li versi strani."
-
-Pausa.
+Pausa lunga.
 
 Guardate la dottrina
 che si nasconde
 sotto il velo
 di questi versi strani.
 
-Pausa lunga.
-
-Ferma su questo.
-
-Pausa.
-
-Dante interrompe la scena.
-Si gira fuori dal poema.
-E ci dice:
-qui c'è qualcosa sotto.
-
-Pausa.
-
-C'è una dottrina.
-È nascosta.
-Ed è dietro
-quello che state leggendo.
-
-Pausa lunga.
-
-È uno dei pochissimi momenti del primo Inferno
-in cui Dante si rivolge a noi
-per dirci
-che la lettura letterale
+Il racconto
 non basta.
 
-Pausa.
+C'è qualcosa sotto.
 
-E lo fa
-proprio mentre
-sta raccontando
-di una scena di paralisi.
-
-Pausa.
-
-Forse perché
-qui il senso
-non sta tutto
-davanti agli occhi.
-
-## Si apre da fuori
+## Qui da dentro non si passa
 
 [Schermo: nero pieno]
 
@@ -680,74 +353,33 @@ Fermati qui.
 
 Pausa.
 
-Tutta la prima metà del canto
-è un blocco.
+Virgilio vacilla.
 
-Pausa.
+Le Furie chiamano Medusa.
 
-Virgilio è scosso.
-Le Furie minacciano Medusa.
-Dante deve chiudere gli occhi
-con due paia di mani sopra.
+Gli occhi
+devono essere chiusi
+con due paia di mani.
 
-Pausa.
-
-E il poema stesso
-si ferma
-per chiedere al lettore
-di leggere più a fondo.
+E il poeta
+ci chiede di guardare
+sotto le parole.
 
 Pausa lunga.
 
-Il punto è:
-da qui dentro
-non si esce.
+Da dentro,
+qui,
+non si passa.
+
+Non basta la guida.
+Non basta lo sguardo.
+Non basta la lettura letterale.
 
 Pausa.
 
-Né la guida
-sa cosa fare.
-Né lo sguardo
-può sostenere
-quello che minaccia di mostrarsi.
-
-Né le parole letterali
-bastano
-a portare il senso.
-
-Pausa lunga.
-
-Per Dante
-questo è il punto del canto.
-
-Pausa.
-
-Davanti a una certa qualità di male
-— quella che paralizza,
-che pietrifica,
-che chiude le porte —
-non basta volerlo affrontare.
-
-Pausa.
-
-Bisogna che qualcuno
-arrivi
-a aprirla.
-
-Pausa.
-
-E quel qualcuno
-non viene da dentro l'Inferno.
-Viene da fuori.
-
-Pausa lunga.
-
-Si apre da fuori.
-
-Pausa.
-
-E adesso
-sta arrivando.
+Adesso
+deve arrivare
+qualcuno.
 
 ## vv. 64-78 - Il rumore
 
@@ -767,90 +399,32 @@ sta arrivando.
 > biscia per l’acqua si dileguan tutte,
 > fin ch’a la terra ciascuna s’abbica,
 
-Adesso arriva,
-sopra le onde torbide,
-un rumore.
+Poi,
+sulle onde torbide,
+sale un rumore.
 
-Pausa.
+Un fracasso
+pieno di spavento.
 
-"Un fracasso d'un suon,
-pien di spavento."
-
-Pausa.
-
-Un fracasso pieno di paura.
-
-Pausa.
-
-Tanto forte
-che tremano
-le due sponde.
+Tremano
+entrambe le sponde.
 
 Pausa lunga.
 
-Dante lo paragona
-a un vento impetuoso.
-
-Pausa.
-
-Un vento
-fatto da correnti opposte di calore
-che schianta i rami della foresta,
-li abbatte,
-li porta via.
-
-Pausa.
-
-E davanti
-gli va un polverone superbo
-che fa fuggire le bestie e i pastori.
-
-Pausa lunga.
-
-E Virgilio
+Virgilio
 gli scioglie gli occhi.
 
-Pausa.
+Adesso guarda.
 
-"Or drizza il nerbo del viso
-su per quella schiuma antica."
+E Dante vede
+le anime fuggire
+come rane
+davanti alla biscia.
 
-Pausa.
-
-Adesso punta lo sguardo
-sopra quella schiuma antica.
-
-Pausa.
-
-Cioè:
-guarda lo Stige.
-
-Pausa lunga.
-
-E Dante guarda.
-
-Pausa.
-
-[Schermo: Doré — le anime che fuggono come rane davanti alla biscia]
-
-E vede una cosa.
-
-Pausa.
-
-"Come le rane
-innanzi a la nimica biscia
-per l'acqua si dileguan tutte."
-
-Pausa.
-
-Come le rane
-davanti alla biscia nemica
-si nascondono tutte sott'acqua.
-
-Pausa.
-
-Così le anime dei dannati
-stanno scappando.
+Qualcosa
+sta arrivando
+e tutti
+gli fanno posto.
 
 ## vv. 79-99 - L'angelo
 
@@ -877,132 +451,56 @@ stanno scappando.
 > ne porta ancor pelato il mento e ’l gozzo.»
 
 Dante vede
-più di mille anime distrutte
-scappare.
-
-Pausa.
-
-Davanti a uno
-che sta attraversando lo Stige
-"con le piante asciutte."
+più di mille anime
+scappare
+davanti a uno
+che attraversa lo Stige
+con le piante asciutte.
 
 Pausa lunga.
 
-Con i piedi asciutti.
+[Schermo: Doré — l'angelo che cammina sullo Stige]
+
+Si scaccia dal volto
+l'aria grassa
+con la mano.
+
+Come se l'unico fastidio
+fosse quello.
 
 Pausa.
 
-Cammina sopra il fango
-e i piedi non si bagnano.
+Virgilio fa segno
+di stare fermo
+e inchinarsi.
 
 Pausa.
 
-[Schermo: Doré — l'angelo che cammina sullo Stige con i piedi asciutti]
-
-E con la mano sinistra
-scaccia l'aria grassa
-davanti al volto.
-
-Come uno che si toglie
-una mosca
-o un odore.
-
-Pausa.
-
-E sembra stanco
-solo per quel disturbo.
-Per nient'altro.
+Perfino Virgilio
+si mette da parte.
 
 Pausa lunga.
 
-"Ben m'accorsi
-ch'elli era da ciel messo."
-
-Pausa.
-
-Capii subito
-che era un messo del cielo.
-
-Pausa.
-
-E si gira a guardare Virgilio.
-
-E Virgilio gli fa segno
-di stare zitto
-e di chinarsi
-davanti a lui.
-
-Pausa lunga.
-
-Ferma su questo.
-
-Pausa.
-
-Per la prima volta
-nel poema
-qualcuno scende
-dall'alto
-direttamente
-e Virgilio si inchina.
-
-Pausa.
-
-La ragione
-si toglie il cappello
-davanti a chi
-arriva.
-
-Pausa lunga.
-
-E l'angelo arriva alla porta.
-
-Pausa.
+L'angelo arriva alla porta.
 
 E con una verghetta
-— una piccola bacchetta —
-la apre.
+l'apre.
+
+Senza resistenza.
 
 Pausa.
-
-"Che non v'ebbe alcun ritegno."
-
-Senza nessuna resistenza.
-
-Pausa lunga.
 
 I diavoli
-che avevano sbattuto la porta
-in faccia a Virgilio
+che avevano chiuso Dite
+in faccia alla guida
 adesso non oppongono niente.
 
-Pausa.
-
 Una bacchetta basta.
-
-Pausa.
-
-E l'angelo parla.
-
-Pausa.
-
-"O cacciati del ciel,
-gente dispetta,
-ond' esta oltracotanza
-in voi s'alletta?"
-
-Pausa.
-
-O cacciati dal cielo,
-gente vile,
-da dove vi viene
-questa arroganza?
 
 Pausa lunga.
 
 E poi la frase
 che è il cuore del canto.
-
-Pausa.
 
 "Perché recalcitrate
 a quella voglia
@@ -1012,31 +510,18 @@ il fin mai esser mozzo?"
 Pausa.
 
 Perché vi opponete
-a quella volontà
+a una volontà
 il cui fine
-non può mai essere troncato?
-
-Pausa lunga.
-
-Quella volontà.
+non può essere troncato?
 
 Pausa.
 
-La volontà di Dio
-non si interrompe.
-Voi resistete.
-Ma non fermate niente.
-Ottenete solo
-più dolore.
+State resistendo
+a qualcosa
+che non fermate.
 
-Pausa.
-
-"Che giova
-ne le fata dar di cozzo?"
-
-A che serve
-sbattere la testa
-contro il destino?
+Vi fate solo
+più male.
 
 ## vv. 100-115 - Dentro Dite
 
@@ -1057,82 +542,46 @@ contro il destino?
 > ch’Italia chiude e suoi termini bagna,
 > fanno i sepolcri tutto il loco varo,
 
-E poi
-si gira
-e se ne va
-per la strada sporca.
+Poi si gira
+e se ne va.
 
-Pausa.
+Non saluta.
 
-E non saluta Dante.
-Non saluta Virgilio.
+Non si ferma.
 
-Pausa.
-
-"Fé sembiante
-d'omo cui altra cura
-stringa e morda
-che quella di colui
-che li è davante."
-
-Pausa.
-
-Sembrava
-un uomo
-che ha un'altra preoccupazione
-più urgente
-di quella di chi gli sta davanti.
+Ha altro da fare.
 
 Pausa lunga.
 
-L'angelo
-non è venuto per Dante.
+Non è venuto per Dante.
 
-È passato di lì.
-Ha aperto la porta.
-E adesso
-ha altro da fare.
+È venuto
+ad aprire
+quella porta.
 
-Pausa.
-
-E loro,
-"sicuri appresso le parole sante,"
-entrano.
+E basta.
 
 Pausa.
 
-Senza nessuna lotta.
+E loro entrano.
+
+Senza guerra.
+
+Senza sforzo.
+
+Perché ormai
+la porta è aperta.
 
 Pausa lunga.
 
-Dante,
-appena dentro,
-gira gli occhi intorno.
+Dante guarda dentro.
 
-E vede.
+E vede
+una grande campagna
+piena di dolore
+e di tormento.
 
-Pausa.
-
-[Schermo: Doré — i sepolcri infuocati degli eresiarchi]
-
-"Grande campagna,
-piena di duolo
-e di tormento rio."
-
-Pausa.
-
-Una grande pianura.
-Piena di dolore
-e di tormento crudele.
-
-Pausa.
-
-E in questa pianura
-ci sono sepolcri.
-
-Tanti.
-
-## vv. 116-133 - I sepolcri infuocati
+## vv. 116-133 - I sepolcri
 
 > così facevan quivi d’ogni parte,
 > salvo che ’l modo v’era più amaro;
@@ -1156,180 +605,88 @@ Tanti.
 Tra gli avelli
 ci sono fiamme sparse.
 
-Pausa.
-
-E le fiamme
-li accendono talmente
-che il ferro,
-per nessun mestiere,
-ha bisogno di essere più caldo di così.
+Le tombe
+bruciano
+più del ferro
+portato all'estremo.
 
 Pausa lunga.
-
-Sepolcri infuocati.
-
-Pausa.
 
 I coperchi
-sono tutti aperti.
+sono sollevati.
 
-E da dentro
-escono lamenti
-"sì duri,"
-così duri,
-"che ben parean
-di miseri e d'offesi."
+Da dentro
+escono lamenti duri.
 
-Pausa.
+Dante chiede chi siano.
 
-Lamenti
-di gente sofferente
-e offesa.
+Virgilio risponde:
 
-Pausa lunga.
+gli eresiarchi.
 
-E Dante chiede.
-
-"Maestro,
-chi è questa gente
-seppellita dentro quelle arche
-che si fa sentire
-con sospiri dolenti?"
-
-Pausa.
-
-E Virgilio risponde.
-
-"Qui son li eresïarche
-coi lor seguaci,
-d'ogne setta,
-e molto
-più che non credi
-son le tombe carche."
-
-Pausa lunga.
-
-Eresiarchi.
-
-Pausa.
-
-I capi delle eresie.
 Con i loro seguaci.
-Di ogni setta.
 
 Pausa.
 
-E le tombe
-sono più piene
-di quanto Dante creda.
+Simile con simile
+è sepolto.
 
-Pausa lunga.
+Le tombe
+sono più o meno calde.
 
-"Simile qui con simile è sepolto,
-e i monimenti son più e men caldi."
+Il canto
+si chiude qui.
 
-Pausa.
+Dentro Dite.
 
-Simile con simile è sepolto.
-E i sepolcri sono più o meno caldi.
-
-Pausa.
-
-Cioè:
-ognuno è seppellito
-con quelli
-della sua stessa setta.
-E le tombe
-non bruciano tutte
-allo stesso modo.
-
-Pausa lunga.
-
-E poi Virgilio
-si gira a destra.
-
-E camminano
-tra i martiri
-e gli alti bastioni.
-
-Pausa.
-
-Il canto si chiude
-qui.
-Dentro la città di Dite.
+Fra i sepolcri
+di chi ha pensato male
+l'anima.
 
 ## Chiusura da palco
 
 Pausa lunga.
 
-Il Canto IX è il canto
-in cui qualcuno arriva
-ad aprire una porta
-che non si apriva.
+Il Canto IX
+è il canto
+in cui una porta chiusa
+si apre.
 
 Pausa.
 
-Prima dell'arrivo,
-tutto è bloccato.
-
-Pausa.
-
-Virgilio non sa cosa fare.
-Le Furie minacciano
-una creatura
-che pietrifica
-chi la guarda.
-E il poeta
-gira la testa fuori dal poema
-per dire al lettore:
-guardate sotto le parole.
+Ma non per coraggio.
+Non per ingegno.
+Non per ostinazione.
 
 Pausa lunga.
 
-Poi
-arriva.
+Virgilio vacilla.
+
+Gli occhi
+vanno coperti.
+
+Il lettore
+viene chiamato
+a guardare più a fondo.
 
 Pausa.
 
-Cammina sull'acqua sporca
-con i piedi asciutti.
-Tocca la porta
-con una bacchetta.
-La porta si apre.
+E poi arriva
+chi apre.
 
-Pausa.
+Cammina sul fango
+senza bagnarsi.
 
-Sgrida i diavoli.
-E se ne va
-senza salutare.
+Tocca la porta.
+
+La apre.
+
+Se ne va.
 
 Pausa lunga.
-
-Per Dante
-è la prima volta nel poema
-che il movimento
-non viene da Virgilio,
-non viene da Dante,
-non viene da nessuno
-che sia sceso fin qui.
-
-Viene
-da chi è sceso adesso,
-per questo,
-per questa porta.
-
-Pausa.
 
 Si apre da fuori.
 
 Pausa.
 
 [Schermo: nero pieno]
-
-Il canto si chiude
-dentro le mura
-in mezzo a un campo
-di sepolcri infuocati.
-Il prossimo si aprirà
-con il primo
-di chi è dentro.

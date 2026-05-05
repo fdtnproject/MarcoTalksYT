@@ -45,7 +45,7 @@ Predoni fino alle ginocchia.
 
 Pausa lunga.
 
-## La ruina e il Minotauro
+## vv. 1-15 - La ruina e il Minotauro
 
 > Era lo loco, ove a scender la riva
 > venimmo, alpestro, e, per quel ch’ivi er’anco,
@@ -119,7 +119,7 @@ Non c'è grandezza qui.
 Solo violenza
 che si divora.
 
-## Virgilio lo ferma
+## vv. 16-30 - Virgilio lo ferma
 
 > Lo savio mio inver lui gridò: «Forse
 > tu credi che qui sia il duca d’Atene,
@@ -183,7 +183,7 @@ Pausa.
 
 E allora si passa.
 
-## Il crollo
+## vv. 31-48 - Il crollo
 
 > Io già pensando; e quei disse: «Tu pensi
 > forse in questa ruina ch’è guardata
@@ -265,7 +265,7 @@ la spiegazione.
 Perché adesso
 arriva il sangue.
 
-## Il Flegetonte
+## vv. 49-75 - Il Flegetonte
 
 > Oh cieca cupidigia, o ira folle,
 > che sì ci sproni ne la vita corta,
@@ -332,7 +332,7 @@ Qui non cacciano bestie.
 
 Misurano il sangue.
 
-## Chirone, Nesso, Folo
+## vv. 76-99 - Chirone, Nesso, Folo
 
 > Noi ci appressammo a quelle fiere snelle:
 > Chiron prese uno strale, e con la cocca
@@ -445,7 +445,7 @@ non è generica.
 
 È precisa.
 
-## Il guado e i tiranni
+## vv. 100-126 - Il guado e i tiranni
 
 > Or ci movemmo con la scorta fida
 > lungo la proda del bollor vermiglio,
@@ -561,7 +561,7 @@ Fino ai piedi.
 
 Lì si passa.
 
-## Il guado
+## vv. 127-139 - Il guado
 
 > «Sì come tu da questa parte vedi
 > lo bulicame che sempre si scema»

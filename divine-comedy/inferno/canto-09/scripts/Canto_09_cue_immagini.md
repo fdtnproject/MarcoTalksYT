@@ -38,10 +38,10 @@ Motivo: è il punto in cui la guida ammette che ci sono cose che non si possono 
 Nero per tutto l'appello.
 Motivo: Dante esce dal poema e parla al lettore. È il momento meta-letterario per eccellenza del primo Inferno. Va detto su nero, senza nessuna immagine che ricordi al pubblico la scena precedente. La voce parla da fuori.
 
-### Sintesi a metà canto — "Si apre da fuori"
+### Sintesi a metà canto — Qui da dentro non si passa
 [Schermo: nero pieno]
 Nero per tutta la sintesi.
-Motivo: la sintesi atterra il motto del canto. Va detta su nero. Lasciare il nero almeno fino a "Si apre da fuori" e qualche secondo dopo.
+Motivo: qui non deve atterrare ancora il motto. Deve atterrare il blocco della paralisi e dell'attesa.
 
 ### vv. 64-78 — Il rumore e la fuga
 [Schermo: Doré — le anime che fuggono come rane davanti alla biscia]
@@ -90,12 +90,11 @@ La prima metà va tenuta su nero il più possibile. È il punto del poema in cui
 Nero-cardine da rispettare in modo spietato:
 1. Tutta la prima metà del canto (Virgilio pallido, Erichto)
 2. L'appello al lettore ("O voi ch'avete li 'ntelletti sani")
-3. Sintesi "Si apre da fuori"
+3. La sintesi centrale della paralisi e dell'attesa
 4. La frase dell'angelo ai diavoli ("Perché recalcitrate a quella voglia")
 5. Chiusura
 
-Il motto "Si apre da fuori" ha due punti di rientro:
-- nella sintesi a metà canto (unica sintesi prima della chiusura)
+Il motto "Si apre da fuori" ha un punto di rientro vero:
 - nella chiusura da palco
 
 Note di lettura:
