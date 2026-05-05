@@ -51,10 +51,10 @@ Nero per tutto il blocco della profezia.
 Motivo: la profezia è verbale, politica, e va detta su nero. Le immagini di Cerbero o di Ciacco distrarrebbero. La profezia deve sembrare detta dall'aria stessa.
 Importante: lasciare il nero anche durante "Giusti son due, e non vi sono intesi" e "Superbia, invidia e avarizia".
 
-### Sintesi a metà canto — "Si diventa ciò che si è ingoiato"
+### Sintesi a metà canto — Il fango entra dentro
 [Schermo: nero pieno]
 Nero per tutta la sintesi.
-Motivo: la sintesi è la prima e unica messa-a-fuoco esplicita del motto. Il nero la libera dall'immagine. Lasciare il nero almeno fino a "Si diventa ciò che si è ingoiato" e poi qualche secondo dopo.
+Motivo: la sintesi lega Ciacco e Firenze senza bruciare ancora il motto finale. Il nero la libera dall'immagine.
 
 ### vv. 76-87 — Gli antichi fiorentini
 Restare a nero.
@@ -92,12 +92,10 @@ Tutto il resto va su nero. Il sesto canto vive di voce in due momenti chiave: la
 
 Nero-cardine da rispettare in modo spietato:
 1. Tutta la profezia di Ciacco su Firenze ("Dopo lunga tencione…", "Giusti son due", "Superbia, invidia e avarizia")
-2. Sintesi "Si diventa ciò che si è ingoiato"
+2. Sintesi "Il fango entra dentro"
 3. Chiusura da palco
 
-Il motto "Si diventa ciò che si è ingoiato" ha due punti di rientro:
-- nella sintesi a metà canto (unica sintesi prima della chiusura)
-- nella chiusura da palco
+Il motto "Si diventa ciò che si è ingoiato" deve atterrare solo in chiusura.
 
 Una nota sulla lettura: il distico
 > "Voi cittadini

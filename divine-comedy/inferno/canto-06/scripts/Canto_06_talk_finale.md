@@ -46,10 +46,6 @@ maledetta.
 
 Pausa lunga.
 
-Tutto il Canto VI ruota intorno a una verità
-che il fango racconta:
-si diventa ciò che si è ingoiato.
-
 ## vv. 1-12 - Il terzo cerchio
 
 > Al tornar de la mente, che si chiuse  
@@ -740,9 +736,6 @@ il proprio esilio.
 
 Pausa lunga.
 
-E poi la frase
-che è il cuore della profezia.
-
 "Giusti son due,
 e non vi sono intesi."
 
@@ -804,7 +797,7 @@ Sono i vizi
 di chi non sa stare in pace
 con il vicino.
 
-## Si diventa ciò che si è ingoiato
+## Il fango entra dentro
 
 [Schermo: nero pieno]
 
@@ -893,11 +886,6 @@ ciò che ingoia.
 
 Pausa lunga.
 
-Per Dante
-questo è il punto del canto.
-
-Pausa.
-
 Ciacco è dannato per gola.
 Firenze è malata
 per superbia, invidia, avarizia.
@@ -909,11 +897,7 @@ Peccati diversi.
 
 Pausa.
 
-Stesso principio.
-
-Pausa lunga.
-
-Si diventa ciò che si è ingoiato.
+Stesso meccanismo.
 
 Pausa.
 
