@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 18",
+  "slug": "canto-18",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_18_source.txt",
+    "talk_finale_md": "./scripts/Canto_18_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_18_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto18-content.js"
+  },
+  "images": {
+    "thumbnail": null,
+    "cover": null,
+    "vertical": null
+  },
+  "notes": "Script completo del Canto XVIII disponibile. `Canto_18_source.txt` contiene il testo UTET; `Canto_18_talk_finale.md` e `Canto_18_cue_immagini.md` sono pronti. Asset visivi da aggiungere in ./images/ (Malebolge dall'alto / prima bolgia con ferze / Giasone / seconda bolgia con Alessio e Taide)."
+}

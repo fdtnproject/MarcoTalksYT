@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 19",
+  "slug": "canto-19",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_19_source.txt",
+    "talk_finale_md": "./scripts/Canto_19_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_19_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto19-content.js"
+  },
+  "images": {
+    "thumbnail": null,
+    "cover": null,
+    "vertical": null
+  },
+  "notes": "Script completo del Canto XIX disponibile. `Canto_19_source.txt` contiene il testo UTET; `Canto_19_talk_finale.md` e `Canto_19_cue_immagini.md` sono pronti. Asset visivi da aggiungere in ./images/ (fori dei simoniaci / piedi in fiamme / Niccolò III / invettiva / Virgilio che riporta Dante su)."
+}

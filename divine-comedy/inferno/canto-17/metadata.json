@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 17",
+  "slug": "canto-17",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_17_source.txt",
+    "talk_finale_md": "./scripts/Canto_17_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_17_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto17-content.js"
+  },
+  "images": {
+    "thumbnail": null,
+    "cover": null,
+    "vertical": null
+  },
+  "notes": "Script completo del Canto XVII disponibile. `Canto_17_source.txt` contiene il testo UTET; `Canto_17_talk_finale.md` e `Canto_17_cue_immagini.md` sono pronti. Asset visivi da aggiungere in ./images/ (Gerione sull'orlo / usurai con tasche araldiche / salita sulla bestia / discesa verso Malebolge)."
+}
