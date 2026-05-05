@@ -649,10 +649,7 @@ Come funziona?
 > fate i saper che ’l feci che pensava
 > già ne l’error che m’avete soluto.»
 
-Farinata risponde
-con una delle formule
-più strane e belle
-dell'Inferno.
+Farinata risponde.
 
 "Noi veggiam
 come quei c'ha mala luce
