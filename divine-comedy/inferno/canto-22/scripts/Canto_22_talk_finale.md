@@ -3,8 +3,6 @@
 Versione da palco
 Linea guida: "La frode si difende con la frode"
 
----
-
 ## Apertura
 
 [Schermo: nero pieno]
@@ -16,415 +14,507 @@ Allora, il ventiduesimo canto.
 Pausa.
 
 Il ventunesimo
-si è chiuso con una trombetta
-e una squadra in marcia.
+si era chiuso
+con una trombetta.
 
-Pausa.
+Con una squadra in marcia.
+
+Pausa lunga.
 
 Il ventiduesimo
 parte da lì.
 
 E non rallenta.
 
-Pausa lunga.
+Pausa.
 
----
+La pece è sempre la stessa.
+
+Ma adesso
+la frode
+non viene più solo punita.
+
+Si muove.
+Parla.
+Contratta.
+Scappa.
 
 ## vv. 1-30 - La marcia e la pece
 
-Dante ha visto eserciti.
-
-Pausa.
-
-Lo dice.
-
-> I' vidi già cavalier muover campo,
-> e cominciare stormo, e far lor mostra,
+> Io vidi già cavalier muover campo,
+> e cominciare stormo e far lor mostra,
 > e talvolta partir per loro scampo;
 > corridor vidi per la terra vostra,
 > o Aretini, e vidi gir gualdane,
-> ferir torneamenti e correr giostra;
+> fedir torneamenti e correr giostra,
+> quando con trombe e quando con campane,
+> con tamburi e con cenni di castella,
+> e con cose nostrali e con istrane;
+> né già con sì diversa cennamella
+> cavalier vidi mover, né pedoni,
+> né nave a segno di terra o di stella.
+> Noi andavam con li diece demoni:
+> ahi fiera compagnia! ma ne la chiesa
+> coi santi, ed in taverna co’ ghiottoni!
+> Pur a la pegola era la mia intesa,
+> per veder de la bolgia ogni contegno
+> e de la gente ch’entro v’era incesa.
+> Come i delfìni quando fanno segno
+> ai marinar, con l’arco de la schiena,
+> che s’argomentin di campar lor legno,
+> talor così, ad alleggiar la pena,
+> mostrav’alcun de’ peccatori il dosso
+> e nascondea, in men che non balena.
+> E come a l’orlo de l’acqua d’un fosso
+> stanno i ranocchi pur col muso fuori,
+> sì che celano i piedi e l’altro grosso,
+> sì stavan d’ogni parte i peccatori;
+> ma come s’appressava Barbariccia,
+> così si ritraean sotto i bollori.
 
 Pausa lunga.
 
-Cavalieri.
-Tornei.
-Segnali di partenza.
+Dante comincia
+con un catalogo di guerra.
+
+Campi mossi.
+Stormi.
+Trombe.
+Campane.
+Tamburi.
 
 Pausa.
 
-Ha visto tutto questo.
+Ha visto eserciti.
 
-E niente era aperto
-da un culo che suona.
+Ha visto segnali
+di partenza
+e di ritirata.
 
 Pausa lunga.
 
-Cammina con i Malebranche.
+Ma mai
+una marcia così.
+
+Dieci demoni.
+
+Ahi fiera compagnia.
 
 Pausa.
 
-[Schermo: Doré — la scorta nella quinta bolgia]
-
-I diavoli ai lati.
-Barbariccia davanti.
-La pece nera sotto.
-
-Pausa.
-
-E dentro la pece
-le anime
-affiorano e scompaiono.
+E poi torna
+con gli occhi
+alla pece.
 
 Pausa lunga.
 
-> Come i delfin, quando fanno segno
-> ai marinar con l'arco de la schiena,
-> che s'argomentin di campar lor legno:
+I barattieri
+fanno due cose.
 
-Delfini.
+Come i delfini:
+affiorano
+un attimo
+per salvarsi.
 
-Pausa.
+Come le rane:
+spariscono
+al minimo avvicinarsi del potere.
 
-Il peccatore che riemerge un istante
-per prendere aria
-somiglia ai delfini
-che avvertono la tempesta.
+## vv. 31-54 - Il Navarrese
 
-Pausa.
+> Io vidi, e anco il cor me n’accapriccia,
+> uno aspettar così com’egl’incontra
+> ch’una rana rimane ed altra spiccia.
+> E Graffiacan, che gli era più di contra,
+> gli arruncigliò le ’mpegolate chiome,
+> e trassel su, che mi parve una lontra.
+> Io sapea già di tutti quanti il nome,
+> sì li notai quando furono eletti,
+> e poi che si chiamaro, attesi come.
+> «O Rubicante, fa che tu li metti
+> gli unghioni a dosso sì che tu lo scuoi!»
+> gridavan tutti insieme i maledetti.
+> E io: «Maestro mio, fa, se tu puoi,
+> che tu sappi chi è lo sciagurato
+> venuto a man de gli avversari suoi.»
+> Lo duca mio li s’accostò a lato;
+> domandollo ond’ei fosse, ed ei rispuose:
+> «Io fui del regno di Navarra nato.
+> Mia madre a servo d’un signor mi pose,
+> che m’avea generato d’un ribaldo
+> distruggitor di sé e di sue cose.
+> Poi fui famiglia del buon re Tebaldo:
+> quivi mi misi a far baratteria,
+> di ch’io rendo ragione in questo caldo.»
 
-> così, a volte, per alleggiar la pena,
-> mostrava alcun de' peccatori il dosso,
-> e nascondeva in men che non balena.
-
-Pausa lunga.
-
-Un attimo di superficie.
-Poi di nuovo sotto.
-
-Pausa.
-
-Come rane sull'orlo di un fosso
-che spariscono al minimo rumore.
-
----
-
-## vv. 31-54 - Ciampolo
-
-[Schermo: nero pieno]
-
-Pausa lunga.
-
-Uno resta un secondo
-di troppo.
-
-Pausa.
-
-Graffiacane
-lo incastra con il gancio.
-Lo tira su.
+[Schermo: Doré — il Navarrese tirato su dalla pece]
 
 Pausa lunga.
 
-Come si pesca.
+Uno resta fuori
+un istante di troppo.
+
+E Graffiacane
+lo pesca.
 
 Pausa.
 
-Virgilio si avvicina.
-Chiede chi è.
+Una lontra.
 
-Pausa.
+Non un uomo.
 
-Risponde:
-
-> «Io fui di là, ma gli occhi mi abbeverò
-> poco;
-> Navarra fu mia patria.»
+Un animale tirato fuori
+dal suo elemento.
 
 Pausa lunga.
+
+I diavoli gridano tutti insieme.
+
+Scuoiarlo.
+Strapparlo.
+Prenderlo.
+
+Pausa.
+
+E Dante,
+nel mezzo di questo casino,
+vuole sapere chi è.
+
+Pausa lunga.
+
+Il dannato risponde
+non con un nome,
+ma con una provenienza.
 
 Navarra.
 
-Un servo del re di Navarra.
-Un barattiere al servizio di un re.
+Poi Tebaldo.
+
+Poi il reato.
 
 Pausa.
 
-Non ha un nome nell'Inferno.
-
-Pausa.
-
-I commentatori lo chiamano Ciampolo.
-Ma Dante non lo chiama.
-
-Pausa lunga.
-
-È uno di quegli anonimi
-che ci tengono a dire dove sono stati
-prima di dire chi sono.
-
-Pausa.
-
-Come se il posto
-valesse più del nome.
-
-Pausa lunga.
-
-I diavoli lo tormentano
-mentre parla.
-
-Barbariccia li blocca.
-
-Lasciatelo stare.
-Parli.
-
-Pausa lunga.
-
-Anche nell'Inferno
-c'è il gesto
-di chi dice:
-aspettate.
-
----
-
-## vv. 55-75 - Frate Gomita e Michel Zanche
-
-Dante chiede
-dei compagni.
-
-Pausa.
-
-Chi altro c'è qui?
-
-Pausa.
-
-> «Io vidi, poc'anzi, un che di là
-> fu suggellato;
-> Oh me! vedessi come
-> 'l signor fa onor a tal sergeante.»
-
-No.
-
-Pausa lunga.
-
-Ciampolo ride.
-
-Poi risponde davvero.
-
-Pausa.
-
-Frate Gomita.
-
-Pausa.
-
-Sardo.
-Al servizio del giudice di Gallura.
-
-Pausa.
-
-Aveva in mano i prigionieri del padrone.
-Li lasciava andare.
-A pagamento.
-
-Pausa lunga.
-
-> «Frate Gomita,
-> quel di Gallura,
-> vasel d'ogne frode.»
-
-Vaso di ogni frode.
-
-Pausa.
-
-Non di qualche frode.
-Di ogni frode.
-
-Pausa lunga.
-
-E poi Michel Zanche.
-
-Un altro sardo.
-Un altro ufficiale
-che ha usato il potere
-per sé.
-
-Pausa.
-
-Li nomina
-come si nomina
-la compagnia familiare.
-
-Pausa lunga.
-
-Queste persone
-si conoscono.
-
-Si riconoscono.
-
-Condividono
-la stessa pece.
-
----
-
-## vv. 76-96 - La trappola
-
-Pausa lunga.
-
-Uno dei Malebranche
-si agita.
-
-Vuole agganciarlo.
-
-Barbariccia lo trattiene.
-
-Pausa.
-
-E Ciampolo
-vede lo spiraglio.
-
-Pausa lunga.
-
-> «Se volete veder o udir Toschi
-> o Lombardi, io ne farò venir;
-> ma stien le Malebranche un poco in colle.»
-
-Pausa.
-
-Fermatevi un poco.
-Arretrate.
-
-Pausa lunga.
-
-E io chiamerò
-i miei compagni.
-
-Pausa.
-
-Uno per uno
-usciranno dalla pece.
-
-Voi ne prendete quanti volete.
-
-Pausa lunga.
-
-Alichino
-fa cenno agli altri.
-Si allontanano.
-
-Pausa.
-
-Il Navarrese
-li guarda andare.
-
-Pausa.
-
-> E quei, come occasion fece, i piedi
-> raccolse sotto, e in un punto si pose
-> e del proposto lor si fe' lo scudo.
+Baratteria.
+
+E adesso
+ne rendo ragione
+in questo caldo.
+
+## vv. 55-75 - Tra male gatte
+
+> E Ciriatto, a cui di bocca uscìa
+> d’ogni parte una sanna come a porco,
+> li fe’ sentir come l’una sdrucìa.
+> Tra male gatte era venuto il sorco;
+> ma Barbariccia il chiuse con le braccia,
+> e disse: «State in là, mentr’io lo ’nforco.»
+> Ed al maestro mio volse la faccia:
+> «Domanda» disse «ancor, se più disii
+> saper da lui, prima ch’altri ’l disfaccia.»
+> Lo duca dunque: «Or di’: de gli altri rii
+> conosci tu alcun che sia latino
+> sotto la pece?» E quegli: «Io mi partii
+> poco è, da un che fu di là vicino:
+> così foss’io ancor con lui coperto,
+> ch’io non temerei unghia né uncino!»
+> E Libicocco: «Troppo avem sofferto»
+> disse; e preseli ’l braccio col ronciglio,
+> sì che, stracciando, ne portò un lacerto.
+> Draghignazzo anche i volle dar di piglio
+> giuso a le gambe; onde ’l decurio loro
+> si volse intorno intorno con mal piglio.
 
 [Schermo: nero pieno]
 
 Pausa lunga.
 
-Raccoglie i piedi.
+Ciriatto
+lo marca subito.
+
+Con una sanna.
 
 Pausa.
 
-Un gesto preciso.
-Controllato.
-
-Come uno che si butta.
-
-Pausa.
-
-E torna nella pece.
-
----
-
-## vv. 97-123 - Il caos
+Tra male gatte
+era venuto il sorco.
 
 Pausa lunga.
 
-Alichino
-si lancia.
+È una delle formule
+più basse
+e più perfette
+di questa bolgia.
+
+Il topo.
+Le gatte.
+Gli artigli.
 
 Pausa.
 
-Troppo tardi.
+Barbariccia
+rimette ordine.
 
-Pausa.
+Non per pietà.
 
-L'ala battuta
-non raggiunge più niente.
+Per metodo.
+
+Prima si interroga.
+Poi si lacera.
 
 Pausa lunga.
 
-Calcabrina
-non ci sta.
+E appena il Navarrese
+lascia intendere
+che conosce altri dannati,
 
-Pausa.
+Libicocco e Draghignazzo
+gli sono già addosso.
 
-Non alla beffa.
-Non ad Alichino
-che ha lasciato scappare il prigioniero.
+La parola
+qui
+non sospende la violenza.
+
+Le strappa solo
+qualche secondo.
+
+## vv. 76-96 - Frate Gomita e Michel Zanche
+
+> Quand’elli un poco rappaciati foro,
+> a lui, ch’ancor mirava sua ferita,
+> domandò ’l duca mio sanza dimoro:
+> «Chi fu colui da cui mala partita
+> di’ che facesti per venire a proda?»
+> Ed ei rispuose: «Fu frate Gomita,
+> quel di Gallura, vasel d’ogni froda,
+> ch’ebbe i nemici di suo donno in mano,
+> e fe’ sì lor che ciascun se ne loda.
+> Danar si tolse e lasciolli di piano,
+> sì com’e’ dice; e ne gli altri offici anche
+> barattier fu non picciol, ma sovrano.
+> Usa con esso donno Michel Zanche
+> di Logodoro; e a dir di Sardigna
+> le lingue lor non si sentono stanche.
+> Ohmè, vedete l’altro che digrigna:
+> io direi anche, ma io temo ch’ello
+> non s’apparecchi a grattarmi la tigna.»
+> E ’l gran proposto, volto a Farfarello
+> che stralunava gli occhi per fedire,
+> disse: «Fatti ’n costà, malvagio uccello!»
 
 Pausa lunga.
 
-Si avventa su Alichino
-sopra la pece.
+Adesso arrivano i nomi.
+
+Frate Gomita.
+
+Michel Zanche.
 
 Pausa.
 
-> Ed el si mosse; e gridò: «Tu non scampi.»
-
-Pausa.
-
-Volano insieme.
+Sardegna.
+Gallura.
+Logodoro.
 
 Pausa lunga.
 
-Battono le ali
-per tornare su.
+Non sono nomi messi lì
+per colore locale.
 
-Fanno a pugni nell'aria
-sopra la bolgia.
+Sono esempi precisi
+di potere venduto.
+
+Prigionieri in mano.
+Denaro preso.
+Uscite concesse.
 
 Pausa.
 
-E cadono dentro.
+Vasel d’ogne froda.
+
+Non una crepa.
+
+Un recipiente pieno.
 
 Pausa lunga.
+
+E intorno
+mentre parla,
+
+Farfarello
+già digrigna.
+
+La confessione
+qui
+si fa sempre
+sotto minaccia.
+
+## vv. 97-123 - La proposta
+
+> «Se voi volete vedere o udire,»
+> ricominciò lo spaurato appresso,
+> «Toschi o Lombardi, io ne farò venire;
+> ma stieno i Malebranche un poco in cesso,
+> sì ch’ei non teman de le lor vendette;
+> e io, seggendo in questo loco stesso,
+> per un ch’io son, ne farò venir sette,
+> quand’io suffolerò, com’è nostr’uso
+> di fare allor ch’alcun fuori si mette.»
+> Cagnazzo a cotal motto levò ’l muso,
+> crollando il capo, e disse: «Odi malizia
+> ch’egli ha pensata per gittarsi giuso!»
+> Ond’ei ch’avea lacciuoli a gran divizia,
+> rispuose: «Malizioso son io troppo,
+> quand’io procuro a’ miei maggior tristizia!»
+> Alichin non si tenne, e, di rintoppo
+> a gli altri, disse a lui: «Se tu ti cali,
+> io non ti verrò dietro di galoppo,
+> ma batterò sovra la pece l’ali!
+> Lascisi ’l collo, e sia la ripa scudo,
+> a veder se tu sol più di noi vali.»
+
+Pausa lunga.
+
+E qui
+la frode
+comincia a lavorare.
+
+Pausa.
+
+Toschi.
+Lombardi.
+
+Ve ne faccio venire.
+
+Pausa lunga.
+
+Il Navarrese
+non chiede perdono.
+
+Costruisce un affare.
+
+Arretrate un poco.
+Lasciatemi qui.
+Io vi procuro altra merce.
+
+Pausa.
+
+Cagnazzo capisce subito.
+
+Odi malizia.
+
+Pausa lunga.
+
+Ma Alichino
+vuole giocare.
+
+E quando un diavolo
+si crede più furbo
+di un barattiere,
+
+il canto
+ha già deciso
+come andrà a finire.
+
+## vv. 124-151 - La zuffa
+
+> O tu che leggi, udirai novo ludo.
+> Ciascun da l’altra costa gli occhi volse,
+> quel prima ch’a ciò fare era più crudo.
+> Lo Navarrese ben suo tempo colse:
+> fermò le piante a terra, ed in un punto
+> saltò e dal proposto lor si sciolse.
+> Di che ciascun di colpa fu compunto,
+> ma quei più che cagion fu del difetto;
+> però si mosse e gridò: «Tu se’ giunto!»
+> Ma poco i valse, ché l’ali al sospetto
+> non potero avanzar; quegli andò sotto
+> e quei drizzò, volando, suso il petto:
+> non altrimenti l’anitra di botto,
+> quando il falcon s’appressa, giù s’attuffa,
+> ed ei ritorna su crucciato e rotto.
+> Irato Calcabrina de la buffa,
+> volando dietro li tenne, invaghito
+> che quei campasse per aver la zuffa;
+> e come ’l barattier fu disparito,
+> così volse gli artigli al suo compagno,
+> e fu con lui sopra ’l fosso ghermito.
+> Ma l’altro fu bene sparvier grifagno
+> ad artigliar ben lui, ed amendue
+> cadder nel mezzo del bogliente stagno.
+> Lo caldo sghermitor subito fue;
+> ma però del levarsi era neente,
+> sì avìeno inviscate l’ali sue.
+> Barbariccia, con gli altri suoi dolente,
+> quattro ne fe’ volar da l’altra costa
+> con tutt’i raffi, ed assai prestamente
+> di qua di là discesero a la posta;
+> porser gli uncini verso gl’impaniati
+> ch’eran già cotti dentro da la crosta;
+> e noi lasciammo lor così impacciati.
 
 [Schermo: Doré — Alichino e Calcabrina nella pece]
 
-La pece li inchioda subito.
+Pausa lunga.
 
-I diavoli non bruciano.
-
-Ma nella pece
-non volano più.
+O tu che leggi,
+udirai novo ludo.
 
 Pausa.
 
-Gli altri Malebranche
-sporgono i ganci.
+Dante
+qui
+si diverte.
 
-Cercano di trarli fuori.
+E non nasconde
+che il canto
+sta cambiando tono.
 
 Pausa lunga.
 
-È una scena comica.
-È una scena feroce.
+Il Navarrese
+coglie il suo tempo.
 
-Sono la stessa cosa.
+Salta.
+
+Sparisce.
+
+Pausa.
+
+Alichino fallisce.
+
+Calcabrina
+si infuria della beffa.
+
+Non perché ami la giustizia.
+
+Perché vuole la zuffa.
+
+Pausa lunga.
+
+E allora succede il meglio.
+
+I due diavoli
+si azzuffano tra loro
+e cadono nella pece.
 
 Pausa.
 
 I punitori
-che devono essere salvati
-da chi li punisce.
+diventano impaniati.
 
----
+Sono loro, adesso,
+da tirare fuori coi raffi.
+
+Pausa lunga.
+
+E mentre i Malebranche
+sono occupati
+a salvare sé stessi,
+
+Dante e Virgilio
+li lasciano lì.
+
+Così impacciati.
 
 ## Chiusura
 
@@ -432,66 +522,44 @@ da chi li punisce.
 
 Pausa lunga.
 
-Dante e Virgilio
-guardano il caos.
-
-Pausa.
-
-E se ne vanno.
-
-Pausa lunga.
-
-Nessun addio.
-Nessuna battuta finale.
-
-Pausa.
-
-Il momento è quello:
-i Malebranche sono occupati
-a tirarsi fuori.
-
-E i due viaggiatori
-spariscono.
-
-Pausa lunga.
-
 Il ventiduesimo canto
-è il canto del barattiere furbo.
+mostra una cosa semplice.
 
 Pausa.
 
-Non furbo abbastanza
-da non essere qui.
+La baratteria
+non è soltanto
+vendere il proprio ufficio.
 
-Pausa.
-
-Ma abbastanza
-da ingannare
-chi doveva punirlo.
+È fare di ogni rapporto
+un affare.
 
 Pausa lunga.
 
-Ciampolo ha venduto
-la fiducia del suo re.
+Promettere.
+
+Farsi credere.
+
+Comprare tempo.
+
+Aprirsi un varco
+proprio dentro
+la fiducia dell’altro.
 
 Pausa.
 
-E nell'Inferno
-usa la stessa tecnica:
-
-Promette.
-Si fa credere.
-Sparisce.
+Il Navarrese
+fa all’Inferno
+quello che faceva da vivo.
 
 Pausa lunga.
 
-Non si è redento.
+Si salva per un attimo
+con la stessa tecnica
+per cui è dannato.
 
 Pausa.
 
-Ha solo fatto
-quello che sapeva fare.
-
-Pausa.
-
-La frode si difende con la frode.
+La frode
+si difende
+con la frode.
