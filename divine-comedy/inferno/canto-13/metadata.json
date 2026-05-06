@@ -14,9 +14,9 @@
     "content_js": "./canto13-content.js"
   },
   "images": {
-    "thumbnail": null,
-    "cover": null,
+    "thumbnail": "./images/13_canto_01.png",
+    "cover": "./images/13_canto_01.png",
     "vertical": null
   },
-  "notes": "Seconda bozza del Canto XIII disponibile. `Canto_13_source.txt` contiene il testo UTET; `Canto_13_talk_finale.md` e `Canto_13_cue_immagini.md` sono riallineati al canto. Asset visivi da aggiungere in ./images/ (selva dei suicidi / Arpie sui rami / ramo spezzato di Pier della Vigna / scialacquatori inseguiti dalle cagne / cespuglio del fiorentino anonimo)."
+  "notes": "Canto XIII riallineato a UTET. In ./images/ è presente 13_canto_01.png, già agganciata allo stage. Altri asset utili: Arpie sui rami, ramo spezzato di Pier della Vigna, scialacquatori inseguiti dalle cagne, cespuglio del fiorentino anonimo."
 }

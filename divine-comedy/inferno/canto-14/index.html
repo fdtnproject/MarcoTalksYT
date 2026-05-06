@@ -102,6 +102,37 @@
       border: 1px solid rgba(255, 245, 235, 0.16);
     }
 
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+      gap: 14px;
+      margin-top: 18px;
+    }
+
+    .thumb {
+      display: block;
+      overflow: hidden;
+      border-radius: 18px;
+      border: 1px solid var(--panel-border);
+      background: rgba(255, 255, 255, 0.03);
+      text-decoration: none;
+    }
+
+    .thumb img {
+      display: block;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+      background: #0f0a08;
+    }
+
+    .thumb span {
+      display: block;
+      padding: 10px 12px 12px;
+      font-size: 14px;
+      color: var(--muted);
+    }
+
     .note {
       padding: 22px 24px;
       border: 1px solid var(--panel-border);
@@ -125,7 +156,7 @@
     <span class="eyebrow">Divine Comedy / Inferno / Canto 14</span>
     <h1>Canto 14</h1>
     <p class="lead">
-      La landa di sabbia ardente, la pioggia di fuoco, Capaneus, il rio rosso e il Veglio di Creta. Il testo UTET è pronto, il talk da palco c'è, e il pacchetto è riallineato in attesa delle immagini.
+      La landa di sabbia ardente, la pioggia di fuoco, Capaneus, il rio rosso e il Veglio di Creta. Il testo UTET è pronto, il talk da palco c'è, e adesso c'è anche una prima tavola agganciata allo stage.
     </p>
 
     <section class="grid">
@@ -134,7 +165,7 @@
         <p>
           Cartella dedicata ai testi sorgente, alle versioni lavorate e agli eventuali DOCX.
         </p>
-        <a class="button alt" href="../stage.html?canto=14">Apri stage</a>
+        <a class="button alt" href="../../stage.html?canto=14">Apri stage</a>
         <a class="button alt" href="./scripts/Canto_14_source.txt">Apri testo base</a>
         <a class="button alt" href="./scripts/Canto_14_talk_finale.md">Apri talk finale</a>
         <a class="button alt" href="./talk.html">Apri talk.html</a>
@@ -146,10 +177,16 @@
         <p>
           Cartella per thumbnail, cover, frame verticali e scansioni Doré da rifinire o reinterpretare a colori.
         </p>
-        <p>
-          Al momento non ci sono ancora immagini caricate in <code>./images/</code>, quindi lo stage del Canto XIV usa una sequenza testo/nero fino a quando non metti gli asset.
-        </p>
+        <a class="button alt" href="../../stage.html?canto=14">Apri stage</a>
+        <a class="button alt" href="./images/14_canto_01.png">Apri immagine 1</a>
         <a class="button alt" href="./scripts/Canto_14_cue_immagini.md">Apri cue immagini</a>
+
+        <div class="gallery">
+          <a class="thumb" href="./images/14_canto_01.png">
+            <img src="./images/14_canto_01.png" alt="Canto 14 immagine 1">
+            <span>`14_canto_01.png`</span>
+          </a>
+        </div>
       </article>
 
       <article class="card">
@@ -162,7 +199,7 @@
     </section>
 
     <section class="note">
-      Consiglio pratico: il Canto XIV adesso ha base UTET, talk finale e cue immagini. Il prossimo passo utile è aggiungere gli asset in `images/` e rifinire lo stage sulle tavole giuste.
+      Consiglio pratico: il Canto XIV adesso ha base UTET, talk finale, cue immagini e una tavola già agganciata allo stage. Se aggiungi altri asset, rifiniamo anche la sequenza dello stage.
     </section>
 
     <footer>
