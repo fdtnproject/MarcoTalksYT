@@ -14,8 +14,8 @@
     "content_js": "./canto15-content.js"
   },
   "images": {
-    "thumbnail": null,
-    "cover": null,
+    "thumbnail": "./images/15_canto_01.png",
+    "cover": "./images/15_canto_01.png",
     "vertical": null
   },
   "notes": "Script completo del Canto XV disponibile. `Canto_15_source.txt` contiene il testo UTET; `Canto_15_talk_finale.md` e `Canto_15_cue_immagini.md` sono pronti. Asset visivi da aggiungere in ./images/ (argine del Flegetonte / Brunetto che riconosce Dante / corsa finale di Brunetto)."
