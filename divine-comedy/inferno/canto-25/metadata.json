@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 25",
+  "slug": "canto-25",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_25_source.txt",
+    "talk_finale_md": "./scripts/Canto_25_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_25_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto25-content.js"
+  },
+  "images": {
+    "thumbnail": "./images/25_canto_01.png",
+    "cover": "./images/25_canto_01.png",
+    "vertical": null
+  },
+  "notes": "Script completo del Canto XXV disponibile. `Canto_25_source.txt` contiene il testo UTET; `Canto_25_talk_finale.md` e `Canto_25_cue_immagini.md` sono pronti. La tavola `25_canto_01.png` e' gia agganciata; altri asset utili: Vanni Fucci, Caco, la fusione di Agnello, lo scambio di Buoso, nero finale sul confine perduto."
+}
