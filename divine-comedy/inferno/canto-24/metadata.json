@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 24",
+  "slug": "canto-24",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_24_source.txt",
+    "talk_finale_md": "./scripts/Canto_24_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_24_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto24-content.js"
+  },
+  "images": {
+    "thumbnail": "./images/24_canto_01.png",
+    "cover": "./images/24_canto_01.png",
+    "vertical": null
+  },
+  "notes": "Script completo del Canto XXIV disponibile. `Canto_24_source.txt` contiene il testo UTET; `Canto_24_talk_finale.md` e `Canto_24_cue_immagini.md` sono pronti. La tavola `24_canto_01.png` e' gia agganciata; altri asset utili: salita sulla ruina, morso e cenere, Vanni Fucci, nero finale sulla fatica."
+}

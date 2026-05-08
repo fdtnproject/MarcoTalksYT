@@ -3,8 +3,6 @@
 Versione da palco
 Linea guida: "Senza fatica non rimane niente"
 
----
-
 ## Apertura
 
 [Schermo: nero pieno]
@@ -16,7 +14,8 @@ Allora, il ventiquattresimo canto.
 Pausa.
 
 Il ventitreesimo
-si era chiuso in fretta.
+si era chiuso
+in fretta.
 
 Virgilio arrabbiato.
 I due che si allontanano.
@@ -24,464 +23,454 @@ I due che si allontanano.
 Pausa lunga.
 
 Il ventiquattresimo
-apre con una cosa inaspettata.
-
-Pausa.
+apre con una cosa
+imprevista.
 
 Una campagna.
 Un contadino.
 La brina.
 
----
-
-## vv. 1-21 - Il contadino e la brina
+## vv. 1-21 - Il villanello e il sorriso
 
 > In quella parte del giovanetto anno
-> che 'l sole i crin sotto l'Aquario tempra
+> che ’l Sole i crin sotto l’Aquario tempra,
 > e già le notti al mezzo dì sen vanno,
 > quando la brina in su la terra assempra
-> l'imagine di sua sorella bianca,
-> ma poco dura a la sua penna tempra,
-> lo villanello a cui la roba manca,
+> l’imagine di sua sorella bianca,
+> ma poco dura a la sua penna tempra;
+> lo villanello a cui la roba manca
 > si leva, e guarda, e vede la campagna
-> bianchegiar tutta; ond'ei si batte l'anca,
+> biancheggiar tutta, ond’ei si batte l’anca;
 > ritorna in casa, e qua e là si lagna,
-> come 'l tapin che non sa che si faccia;
+> come ’l tapin che non sa che si faccia;
 > poi riede, e la speranza ringavagna,
 > veggendo il mondo aver cangiata faccia
-> in poco d'ora, e prende il suo vincastro
+> in poco d’ora, e prende suo vincastro,
 > e fuor le pecorelle a pascer caccia.
+> Così mi fece sbigottir lo mastro
+> quand’io li vidi sì turbar la fronte,
+> e così tosto al mal giunse l’impiastro;
+> ché, come noi venimmo al guasto ponte,
+> lo duca a me si volse con quel piglio
+> dolce ch’io vidi prima a piè del monte:
 
 Pausa lunga.
 
-Un contadino.
-
-Si sveglia.
-Vede la campagna bianca.
+Il contadino si sveglia.
+Vede bianco.
 Pensa:
-è tornato l'inverno.
+è tornato l’inverno.
 
 Pausa.
 
-Si batte il fianco.
-Torna in casa.
 Si dispera.
-
-Pausa lunga.
 
 Poi esce di nuovo.
 
-Pausa.
-
-La brina è sciolta.
-Il mondo ha cambiato faccia.
-
-Prende il bastone
-e porta fuori le pecore.
-
-Pausa lunga.
-
-[Schermo: nero pieno]
+La brina
+si è sciolta.
 
 Pausa lunga.
 
 Dante usa questa immagine
-per dire una cosa semplice.
+per dire una cosa precisa.
+
+Anche la paura
+può essere scambiata
+per una stagione intera.
 
 Pausa.
 
-Virgilio lo ha guardato.
-Ha visto la sua faccia preoccupata.
-E ha sorriso.
+Poi Virgilio si volta.
 
-Pausa lunga.
-
-Come la brina
-che sembra inverno
-e poi scompare.
-
-Pausa.
-
-Il timore di Dante
-davanti al sorriso del maestro
-si scioglie.
-
----
+E basta quel piglio dolce
+per scioglierla.
 
 ## vv. 22-57 - La salita
 
-Ma non c'è sollievo.
-
-Pausa.
-
-Adesso bisogna salire.
-
-Pausa lunga.
-
-Il ponte è rotto.
-I macigni sono enormi.
-La roccia è scoscesa.
-
-Pausa.
-
-> E qual è quei che adopera ed estima,
-> che sempre par che 'nnanzi si proveggia,
-> così faceva il duca mio, com'io ver' lui guardava.
-
-Virgilio non si ferma mai.
-
-Pausa.
-
-Studia il percorso.
-Indica il passo successivo.
-Sale.
-
-Pausa lunga.
-
-Dante arranca.
-
-> e se non fosse che da quel precinto
-> più che da l'altro era la costa corta,
+> le braccia aperse, dopo alcun consiglio
+> eletto seco, riguardando prima
+> ben la ruina, e diedemi di piglio;
+> e come quei ch’adopera ed estima,
+> che sempre par che innanzi si proveggia,
+> così, levando me su ver la cima
+> d’un ronchione, avvisava un’altra scheggia,
+> dicendo: «Sovra quella poi t’aggrappa,
+> ma tenta pria s’è tal ch’ella ti reggia.»
+> Non era via da vestito di cappa,
+> ché noi a pena, ei lieve ed io sospinto,
+> potevam su montar di chiappa in chiappa.
+> E se non fosse che da quel precinto
+> più che da l’altro era la costa corta,
 > non so di lui, ma io sarei ben vinto.
-
-Pausa.
-
-Non sa se ce la farebbe.
-Lo ammette.
-
-Pausa lunga.
-
-Virgilio lo trascina.
-
-Lo tiene.
-Lo spinge.
-
-Pausa.
-
-E quando arrivano in cima
-e Dante crolla ansimante,
-
-Virgilio si volta.
-
-Pausa lunga.
-
-> «Più non si può;
-> fa che tu ti spoltre:
-> ché seggendo in piuma,
+> Ma perché Malebolge in ver la porta
+> del bassissimo pozzo tutta pende,
+> lo sito di ciascuna valle porta
+> che l’una costa surge e l’altra scende:
+> noi pur venimmo alfine in su la punta
+> onde l’ultima pietra si scoscende.
+> La lena m’era del polmon sì munta
+> quand’io fui su, ch’io non potea più oltre;
+> anzi, m’assisi ne la prima giunta.
+> «Omai convien che tu così ti spoltre,»
+> disse ’l maestro, «ché, seggendo in piuma,
 > in fama non si vien, né sotto coltre;
-> sanza la qual chi sua vita consuma,
-> cotal vestigio in terra di sé lascia,
-> qual fummo in aere od in acqua la schiuma.»
+> sanza la qual chi sua vita consuma
+> cotal vestigio in terra di sé lascia
+> qual fummo in aere ed in acqua la schiuma.
+> E però leva su: vinci l’ambascia
+> con l’animo che vince ogni battaglia,
+> se col suo grave corpo non s’accascia.
+> Più lunga scala convien che si saglia;
+> non basta da costoro esser partito:
+> se tu m’intendi, or fa sì che ti vaglia.»
 
 Pausa lunga.
 
-Non si può restare seduti.
-Non si può stare sotto le coperte.
+Qui il canto
+si fa fatica pura.
+
+Roccia.
+Schegge.
+Appigli.
 
 Pausa.
 
-Chi consuma la vita senza gloria
-lascia di sé nel mondo
-quello che lascia il fumo nell'aria.
+Virgilio sale
+come uno che misura
+e decide
+mentre agisce.
 
 Pausa lunga.
 
-La schiuma nell'acqua.
+Dante
+invece
+arranca.
+
+Si siede.
+Resta senza fiato.
 
 Pausa.
 
-Niente.
+E allora arriva
+una delle frasi
+più dure
+di tutta la Commedia.
 
----
-
-## vv. 58-75 - La settima bolgia
-
-[Schermo: Doré — la bolgia dei serpenti]
-
-Scendono dall'altro lato.
-
-Pausa.
-
-E guardano giù.
+Seggendo in piuma,
+in fama non si vien.
 
 Pausa lunga.
 
-> Era lo fondo cupo sì e cieco,
-> che non ci valse niuna sua virtù
-> di rimirarlo dal cammino beco.
+È più di un incoraggiamento.
 
-Troppo buio per vedere.
+È una legge.
 
-Pausa.
+Senza fatica
+non resta niente.
 
-Poi gli occhi si adattano.
+## vv. 58-75 - La voce dal fosso
 
-Pausa lunga.
-
-E quello che vedono
-è la cosa più brutta
-che Dante abbia descritto finora.
-
-Pausa.
-
-Serpenti.
-
-Pausa lunga.
-
-Non uno.
-Non pochi.
-
-Una bolgia piena.
-
-Pausa.
-
-> In essa eran serpenti, e di tal guisa,
-> che la memoria il sangue ancor mi agghiaccia.
-
-Il sangue gli si ghiaccia
-ancora
-mentre scrive.
-
-Non mentre guarda.
-
-Mentre scrive.
-
----
-
-## vv. 76-96 - Le mani legate
-
-Le anime
-hanno le mani legate
-dietro la schiena.
-
-Pausa.
-
-Non da catene.
+> Leva’mi allor, mostrandomi fornito
+> meglio di lena ch’i’ non mi sentia,
+> e dissi: «Va, ch’i’ son forte e ardito.»
+> Su per lo scoglio prendemmo la via,
+> ch’era ronchioso, stretto, e malagevole,
+> ed erto più assai che quel di pria.
+> Parlando andava per non parer fievole;
+> onde una voce uscì de l’altro fosso,
+> a parole formar disconvenevole.
+> Non so che disse, ancor che sovra ’l dosso
+> fossi de l’arco già che varca quivi;
+> ma chi parlava ad ire parea mosso.
+> Io era volto in giù, ma gli occhi vivi
+> non poteano ire al fondo per lo scuro;
+> per ch’io: «Maestro, fa che tu arrivi
+> da l’altro cinghio e dismontiam lo muro;
+> ché, com’io odo quinci e non intendo,
+> così giù veggio e neente affiguro.»
+> «Altra risposta» disse «non ti rendo
+> se non lo far; ché la dimanda onesta
+> si dee seguir con l’opera tacendo.»
 
 Pausa lunga.
 
-Da serpenti.
+Dante si rialza.
+
+Fa la voce forte.
+
+Parla
+per non sembrare
+fievole.
 
 Pausa.
 
-I rettili
-si infilano attraverso i fianchi
-e si annodano sul petto.
+Ma dal fosso
+sale un’altra voce.
+
+Incomprensibile.
+Irritata.
 
 Pausa lunga.
 
-> Ed ecco a un ch'era da nostra proda,
-> si avventò un serpente che 'l trafisse
-> là dove 'l collo a le spalle s'annoda.
+E allora Dante chiede
+di scendere.
 
-[Schermo: nero pieno]
+Qui non basta più
+sentire da lontano.
 
-Pausa lunga.
-
-Un morso.
+Vuole vedere.
 
 Pausa.
 
-Al collo.
+Virgilio risponde
+come deve.
+
+Non con una spiegazione.
+
+Con il gesto.
+
+La dimanda onesta
+si segue
+facendola.
+
+## vv. 76-96 - La settima bolgia
+
+[Schermo: Doré — la bolgia dei ladri]
+
+> Noi discendemmo il ponte da la testa
+> dove s’aggiugne con l’ottava ripa;
+> e poi mi fu la bolgia manifesta:
+> e vidivi entro terribile stipa
+> di serpenti, e di sì diversa mena
+> che la memoria il sangue ancor mi scipa.
+> Più non si vanti Libia con sua rena,
+> ché se chelidri, iaculi e faree
+> produce, e cencri con anfisibena,
+> né tante pestilenzie né sì ree
+> mostrò giammai con tutta l’Etiopia,
+> né con ciò che di sopra ’l Mar Rosso èe.
+> Tra questa cruda e tristissima copia
+> correvan genti nude e spaventate,
+> sanza sperar pertugio o elitropia;
+> con serpi le man dietro avean legate;
+> quelle ficcavan per le ren la coda
+> e ’l capo, ed eran dinanzi aggroppate.
 
 Pausa lunga.
 
-E in un istante:
+La settima bolgia
+non è solo piena
+di serpenti.
 
-> Né O sì tosto mai né I si scrisse,
-> com'el s'accese e arse, e cener tutto
-> convenne che cascando divenisse.
+È una stipa.
 
-Pausa lunga.
-
-Più veloce
-di quanto si scriva O.
-Più veloce
-di quanto si scriva I.
+Una massa.
 
 Pausa.
+
+Libia.
+Etiopia.
+Mar Rosso.
+
+Dante convoca
+mezzo mondo
+per dire:
+mai vista una cosa così.
+
+Pausa lunga.
+
+E i dannati
+non sono solo
+circondati.
+
+Sono legati
+dai serpenti stessi.
+
+Mani dietro.
+Nodo davanti.
+
+Pausa.
+
+Qui perfino il corpo
+non è più tuo.
+
+## vv. 97-120 - Il morso e la cenere
+
+> Ed ecco a un ch’era da nostra proda
+> s’avventò un serpente che ’l trafisse
+> là dove il collo a le spalle s’annoda.
+> Né o sì tosto mai né i si scrisse,
+> com’el s’accese e arse, e cener tutto
+> convenne che cascando divenisse;
+> e poi che fu a terra sì distrutto,
+> la polver si raccolse per se stessa,
+> e in quel medesmo ritornò di butto.
+> Così per li gran savi si confessa
+> che la fenice more e poi rinasce,
+> quando al cinquecentesimo anno appressa:
+> erba né biada in sua vita non pasce,
+> ma sol d’incenso lacrime e d’amomo,
+> e nardo e mirra son l’ultime fasce.
+> E qual è quei che cade, e non sa como,
+> per forza di demon ch’a terra il tira
+> o d’altra oppilazion che lega l’omo,
+> quando si leva, che intorno si mira
+> tutto smarrito de la grande angoscia
+> ch’egli ha sofferta, e guardando sospira;
+> tal era il peccator levato poscia.
+> Oh potenza di Dio, quant’è severa,
+> che cotai colpi per vendetta croscia!
+
+Pausa lunga.
+
+Un serpente
+colpisce al collo.
+
+E il dannato
+non cade soltanto.
 
 Brucia.
-Cade.
-Diventa cenere.
-
-Pausa lunga.
-
-E poi.
 
 Pausa.
 
-La cenere
+Si fa cenere.
+
+Poi la cenere
 si raccoglie.
 
-Si riforma.
-
-Pausa.
-
-L'uomo ritorna.
+E torna uomo.
 
 Pausa lunga.
 
-Come la fenice.
+La fenice.
 
-Pausa.
+Sì.
 
-Ma senza nessuna gloria.
+Ma qui
+senza gloria.
+
+Senza eccezione.
+Senza rinascita nobile.
 
 Solo per essere
 di nuovo
-morso.
-
----
-
-## vv. 97-120 - Vanni Fucci
-
-Dante chiede chi è.
+distrutto.
 
 Pausa.
 
-L'anima
-torna appena a sé
-e risponde.
+È la forma stessa
+che non tiene.
+
+## vv. 121-139 - Vanni Fucci
+
+> Lo duca il domandò poi chi ello era;
+> per ch’ei rispuose: «Io piovvi di Toscana,
+> poco tempo è, in questa gola fera.
+> Vita bestial mi piacque e non umana,
+> sì come a mul ch’i’ fui; son Vanni Fucci
+> bestia, e Pistoia mi fu degna tana.»
+> E io al duca: «Dilli che non mucci,
+> e domanda che colpa qua giù ’l pinse;
+> ch’io il vidi uomo di sangue e di crucci.»
+> E ’l peccator, che intese, non s’infinse,
+> ma drizzò verso me l’animo e il volto,
+> e di trista vergogna si dipinse.
+> Poi disse: «Più mi duol che tu m’hai colto
+> ne la miseria dove tu mi vedi,
+> che quando fui de l’altra vita tolto.
+> Io non posso negar quel che tu chiedi:
+> in giù son messo tanto, perch’io fui
+> ladro a la sagrestia de’ belli arredi,
+> e falsamente già fu apposto altrui.
 
 Pausa lunga.
 
-> Piovvemi Bonturo;
-> e per le bugie sono qui Vanni Fucci
-> bestia, e Pistoia mi fu degna tana.
-
-Pausa.
+Qui arriva il nome.
 
 Vanni Fucci.
 
-Pausa lunga.
+Bestia.
 
-Un uomo di Pistoia.
-
-Violento.
-Orgoglioso.
-Che si definisce bestia
-da solo.
+È lui stesso
+a dirlo.
 
 Pausa.
 
-Dante lo conosce.
+Ma la cosa più feroce
+non è l’insulto.
 
-Pausa lunga.
+È la vergogna.
 
-Si ricorda di lui
-per la rabbia,
-non per il furto.
-
-Pausa.
-
-Gli chiede
-cosa ci fa qui.
-
-Pausa lunga.
-
-Vanni Fucci
-è costretto a rispondere.
-
-E la risposta
-lo brucia più del serpente.
-
-Pausa.
-
-> «Più mi duol che tu m'hai colto
-> ne la miseria dove tu mi vedi,
-> che quando fui de l'altra vita tolto.»
-
-Mi fa più male
-essere visto da te
-che essere qui.
+Più gli duole
+essere visto da Dante
+che essere dannato.
 
 Pausa lunga.
 
 Poi confessa.
 
-Pausa.
+Ha rubato
+la sagrestia.
 
-Ha rubato il tesoro
-della sagrestia di San Zeno a Pistoia.
+E il colpo basso
+è questo:
 
-Pausa.
+falsamente
+fu apposto altrui.
 
-Un sacrilegio.
-Un furto sacro.
-E ha lasciato accusare un altro.
+Non solo ladro.
+
+Anche vile.
+
+## vv. 140-151 - La vendetta
+
+> Ma perché di tal vista tu non godi,
+> se mai sarai di fuor da’ luoghi bui,
+> apri gli orecchi al mio annunzio, e odi:
+> Pistoia in pria de’ Neri si dimagra;
+> poi Fiorenza rinova genti e modi.
+> Tragge Marte vapor di Val di Magra
+> ch’è di torbidi nuvoli involuto;
+> e con tempesta impetuosa ed agra
+> sovra Campo Picen fia combattuto;
+> ond’ei repente, spezzerà la nebbia,
+> sì ch’ogni Bianco ne sarà feruto.
+> E detto l’ho perché doler ti debbia.»
 
 Pausa lunga.
-
-Ladro e vigliacco.
-
-Pausa.
-
-Ma non umile.
-
----
-
-## vv. 121-150 - La profezia
 
 Vanni Fucci
-non si ferma alla confessione.
+ha finito di confessare.
+
+Potrebbe fermarsi.
+
+Non si ferma.
 
 Pausa.
 
-> «Perché non goda, se tu mai torni,
-> parlo: ascolta bene.»
+Vuole ferire.
+
+Per questo
+parla.
 
 Pausa lunga.
 
-Non vuole che Dante si goda
-quello che ha sentito.
+La profezia qui
+non è un aiuto.
+
+Non è una luce.
+
+È un’arma.
+
+Ti dico il futuro
+perché ti faccia male
+adesso.
 
 Pausa.
 
-Allora lo colpisce.
-
-Pausa lunga.
-
-Una profezia.
-
-I Neri cacciano i Bianchi da Pistoia.
-Poi i Neri entrano a Firenze.
-Poi Moroello Malaspina
-scende dalla Val di Magra
-come un fulmine.
-
-Pausa.
-
-> e fien cacciati lor con grande offesa;
-> di ciò ti faccia il mio annuncio lieto.
-
-Pausa lunga.
-
-Ti ho detto questo
-perché ti faccia dispiacere.
-
-Pausa.
-
-Non una profezia data per aiutare.
-
-Una profezia data per ferire.
-
-Pausa lunga.
-
-[Schermo: nero pieno]
-
-Pausa lunga.
-
-Anche nell'Inferno
-si può ancora fare del male.
-
-Pausa.
-
-Anche qui
-la cattiveria
-trova la sua forma.
-
----
+E detto l’ho
+perché doler ti debbia.
 
 ## Chiusura
 
@@ -490,65 +479,38 @@ trova la sua forma.
 Pausa lunga.
 
 Il ventiquattresimo canto
-comincia con un contadino
-e la brina.
+comincia con la brina.
+
+Una cosa
+che sembra dura
+e poi si scioglie.
 
 Pausa.
 
 Finisce con un uomo
-che brucia in cenere
-e vuole fare del male.
+che si fa cenere
+e torna.
 
 Pausa lunga.
 
-In mezzo:
-la salita.
+In mezzo
+c’è la salita.
+
+La fatica.
+La voce di Virgilio.
+La frase sulla fama.
 
 Pausa.
 
-Virgilio che spinge.
-Dante che arranca.
-E la frase
-sulla gloria.
-
-Pausa lunga.
-
-Chi consuma la vita
-senza faticare
-lascia di sé
-quello che lascia il fumo.
-
-Pausa.
-
-I ladri
-non hanno faticato.
-
-Hanno preso
-quello degli altri.
-
-Pausa lunga.
-
-E adesso
-non riescono a tenere nemmeno se stessi.
-
-Bruciano.
-Cadono in cenere.
-Tornano.
-
-Pausa.
-
-Solo per ricominciare.
-
-Pausa lunga.
+Qui tutto
+dipende da questo.
 
 La gloria richiede fatica.
-
 La forma richiede fatica.
 
-Anche l'identità
+Anche l’identità
 richiede fatica.
 
-Pausa.
+Pausa lunga.
 
-Senza fatica
-non rimane niente.
+Senza fatica non rimane niente.

@@ -3,8 +3,6 @@
 Versione da palco
 Linea guida: "La mantella d'oro pesa come piombo"
 
----
-
 ## Apertura
 
 [Schermo: nero pieno]
@@ -16,26 +14,39 @@ Allora, il ventitreesimo canto.
 Pausa.
 
 Il ventiduesimo
-si era chiuso nel caos.
+si era chiuso
+nel caos.
 
 I diavoli nella pece.
-Dante e Virgilio che scappano.
+La fuga.
+La beffa.
 
-Pausa.
+Pausa lunga.
 
 Il ventitreesimo
 apre nel silenzio.
-
-Pausa lunga.
 
 Solo i piedi.
 Solo il cammino.
 
 E Dante che pensa.
 
----
+## vv. 1-30 - Il pensiero e la paura
 
-## vv. 1-30 - Il pensiero e la fuga
+> Taciti, soli, sanza compagnia
+> n’andavam, l’un dinanzi e l’altro dopo,
+> come i frati minor vanno per via.
+> Volt’era in su la favola d’Isopo
+> lo mio pensier, per la presente rissa,
+> dov’ei parlò de la rana e del topo;
+> ché più non si pareggia ‘mo’ e ‘issa ’
+> che l’un con l’altro fa, se ben s’accoppia
+> principio e fine con la mente fissa.
+> E come l’un pensier de l’altro scoppia,
+> così nacque di quello un altro poi,
+> che la prima paura mi fe’ doppia.
+
+Pausa lunga.
 
 Dante cammina
 e nella testa
@@ -43,125 +54,178 @@ costruisce una favola.
 
 Pausa.
 
-> Io mi pensava così: 'Questi per noi
+La rana.
+Il topo.
+
+La rissa appena vista
+diventa subito
+pensiero.
+
+Pausa lunga.
+
+> Io pensava così: «Questi per noi
 > sono scherniti con danno e con beffa
-> sì fatta, ch'assai credo che lor nòi.
+> sì fatta, ch’assai credo che lor nòi.
+> Se l’ira sovra ’l mal voler fa gueffa,
+> ei ne verranno dietro più crudeli
+> che ’l cane a quella lievre ch’egli acceffa.»
+> Già mi sentia tutti arricciar li peli
+> de la paura, e stava indietro intento,
+> quand’io dissi: «Maestro, se non celi
+> te e me tostamente, i’ ho pavento
+> de’ Malebranche: noi li avem già dietro:
+> io l’imagino sì, che già li sento.»
+> E quei:«S’io fossi di piombato vetro,
+> l’imagine di fuor tua non trarrei
+> più tosto a me, che quella d’entro impetro.
+> Pur mo venìeno i tuoi pensier tra i miei
+> con simile atto e con simile faccia,
+> sì che d’intrambi un sol consiglio fei.
 
 Pausa lunga.
 
 I Malebranche
 sono stati frodati.
 
-Pausa.
-
 E i Malebranche
-lo sapranno.
+torneranno.
 
 Pausa.
 
-E torneranno.
+Virgilio
+non aspetta
+che Dante dica tutto.
+
+Ha già letto.
 
 Pausa lunga.
 
-Virgilio
-non aspetta che lui dica niente.
+La paura di Dante
+è giusta.
 
-Legge il pensiero.
+Ma ormai
+è già diventata
+decisione.
 
-Pausa.
+## vv. 31-57 - La fuga
 
-> Già mi teneva ambeduo distesi,
-> e poi giù per la ripa dura ed erta,
-> che l'un de' lati a l'altra bolgia destra.
+> S’egli è che sì la destra costa giaccia
+> che noi possiam ne l’altra bolgia scendere,
+> noi fuggirem l’imaginata caccia.»
+> Già non compié di tal consiglio rendere,
+> ch’io li vidi venir con l’ali tese,
+> non molto lungi, per volerne prendere.
+> Lo duca mio di subito mi prese,
+> come la madre ch’al romore è desta
+> e vede presso a sé le fiamme accese,
+> che prende il figlio, e fugge, e non s’arresta,
+> avendo più di lui che di sé cura,
+> tanto che solo una camicia vesta;
+> e giù dal collo de la ripa dura
+> supin si diede a la pendente roccia,
+> che l’un dei lati a l’altra bolgia tura.
+> Non corse mai sì tosto acqua per doccia
+> a volger rota di molin terragno,
+> quand’ella più verso le pale approccia,
+> come ’l maestro mio per quel vivagno,
+> portandosene me sovra ’l suo petto,
+> come suo figlio, non come compagno.
+> A pena foro i piè suoi giunti al letto
+> del fondo giù, ch’e’ furono in sul colle
+> sovr’esso noi; ma non gli era sospetto,
+> ché l’alta providenza, che lor volle
+> porre ministri de la fossa quinta,
+> poder di partirs’indi a tutti tolle.
 
-Non è una discesa controllata.
+Pausa lunga.
 
-Pausa.
+Qui il canto
+diventa corpo.
 
 Virgilio lo prende.
 Lo stringe al petto.
-E scivola.
-
-Pausa lunga.
-
-> Come la madre ch'al romore è desta
-> e vede presso a sé le fiamme accese,
-> che prende il figlio e fugge e non s'arresta
+E si butta.
 
 Pausa.
 
-La madre
-che sente il fuoco
-e non guarda se stessa
-ma prende il figlio
-e corre.
+Supino.
+
+Scivola giù
+come acqua per doccia.
 
 Pausa lunga.
 
-Qui Virgilio
+Ma il colpo vero
+non è la velocità.
+
+È la similitudine.
+
+Come la madre.
+
+Pausa.
+
+Virgilio
+qui
 è la madre.
 
 Dante
 è il figlio.
 
-Pausa.
+Un’immagine tenera
+nel mezzo dell’Inferno.
 
-Un'immagine tenera
-al centro dell'Inferno.
-
----
-
-## vv. 31-57 - La sesta bolgia
-
-Scivolano giù.
-
-Pausa.
-
-I Malebranche
-si fermano al bordo del fossato.
-
-Non possono seguirli
-in questa bolgia.
-
-Pausa lunga.
-
-E quando Dante
-rialza gli occhi,
-
-vede.
-
-Pausa.
+## vv. 58-90 - Gli ipocriti
 
 [Schermo: Doré — la processione degli ipocriti]
 
-> Gente che giva intorno assai lenta,
-> piangendo e nel sembiante stanca e vinta,
-> con manti al dosso con cappucci bassi
-> dinanzi a li occhi, fatti de la taglia
+> Là giù trovammo una gente dipinta
+> che giva intorno assai con lenti passi
+> piangendo, e nel sembiante stanca e vinta.
+> Elli avean cappe con cappucci bassi
+> dinanzi a gli occhi, fatte de la taglia
 > che in Clugnì per li monaci fassi.
+> Di fuor dorate son, sì ch’egli abbaglia;
+> ma dentro tutte piombo, e gravi tanto
+> che Federico le mettea di paglia.
+> Oh in eterno faticoso manto!
+> Noi ci volgemmo ancor pur a man manca
+> con loro insieme, intenti al tristo pianto;
+> ma per lo peso quella gente stanca
+> venìa sì pian, che noi eravam novi
+> di compagnia ad ogni mover d’anca.
+> Per ch’io al duca mio: «Fa che tu trovi
+> alcun ch’al fatto o al nome si conosca,
+> e gli occhi, sì andando, intorno movi.»
+> E un che intese la parola tosca,
+> di retro a noi gridò: «Tenete i piedi,
+> voi che correte sì per l’aura fosca!
+> Forse ch’avrai da me quel che tu chiedi.»
+> Onde ’l duca si volse e disse: «Aspetta,
+> e poi secondo il suo passo procedi.»
+> Ristetti, e vidi due mostrar gran fretta
+> de l’animo, col viso, d’esser meco;
+> ma tardavali ’l carco e la via stretta.
+> Quando fur giunti, assai con l’occhio bieco
+> mi rimiraron sanza far parola;
+> poi si volsero in sé, e dicean seco:
+> «Costui par vivo a l’atto de la gola;
+> e se son morti, per qual privilegio
+> vanno scoperti de la grave stola?»
 
 Pausa lunga.
 
-Una processione.
+La sesta bolgia
+non grida.
+
+Striscia.
+
+Pausa.
 
 Lenta.
 Pesante.
 Silenziosa.
 
-Pausa.
-
-Come i monaci di Cluny
-con i cappucci calati.
-
 Pausa lunga.
-
-Ma il mantello non è lana.
-
-Pausa.
-
-> Di fuor dorate son, sì ch'egli abbaglia;
-> ma dentro tutte piombo, e gravi tanto,
-> che Federigo le mettea di paglia.
 
 Fuori:
 oro.
@@ -169,306 +233,210 @@ oro.
 Dentro:
 piombo.
 
-Pausa lunga.
-
-Le mantelle di Federico —
-con cui puniva i traditori —
-erano di paglia
-a confronto.
-
 Pausa.
 
-Questo è il peso
-dell'ipocrisia.
-
-Pausa lunga.
+È una delle invenzioni
+più feroci
+di tutto l’Inferno.
 
 Non il fuoco.
-Non la sabbia.
 Non la pece.
 
 Un peso
-che non si vede
-ma non si toglie mai.
-
----
-
-## vv. 58-90 - I Frati Gaudenti
-
-Due figure
-più veloci delle altre.
-
-Pausa.
-
-Si avvicinano.
-Guardano Dante.
+che luccica.
 
 Pausa lunga.
 
-> «O frate, questi ch'io non nomo
-> per non esser villano, fu il tuo compar?»
+E i due che si avvicinano
+fanno fatica
+anche solo
+a raggiungerlo.
 
-No.
+## vv. 91-108 - Catalano e Loderingo
 
-Pausa.
-
-Parlano
-come se si conoscessero.
+> Poi disser me: «O tosco, ch’al collegio
+> de gl’ipocriti tristi se’ venuto,
+> dir chi tu se’ non avere in dispregio.»
+> E io a loro: «I’ fui nato e cresciuto
+> sovra il bel fiume d’Arno, a la gran villa,
+> e son col corpo ch’i’ ho sempre avuto.
+> Ma voi chi siete, a cui tanto distilla
+> quant’io veggio dolor giù per le guance?
+> e che pena è in voi, che sì sfavilla?
+> E l’un rispuose a me: «Le cappe rance
+> son di piombo, e sì grosse che li pesi
+> fan così cigolar le lor bilance.
+> Frati Godenti fummo, e bolognesi;
+> io Catalano, e questi Loderingo
+> nomati, e da tua terra insieme presi,
+> come suol esser tolto un uom solingo,
+> per conservar sua pace; e fummo tali
+> ch’ancor si pare intorno dal Gardingo.»
 
 Pausa lunga.
 
-Si presentano.
+I nomi arrivano.
 
-Catalano de' Malavolti.
-Loderingo degli Andalò.
-
-Bolognesi.
-Frati Gaudenti.
+Catalano.
+Loderingo.
 
 Pausa.
 
-I Frati della Milizia di Santa Maria.
-L'ordine che governava.
+Frati Godenti.
+
+Quelli presi
+insieme
+per garantire la pace.
 
 Pausa lunga.
 
-Erano stati chiamati a Firenze.
-Insieme.
-Per tenere la pace
-tra Guelfi e Ghibellini.
-
-Neutri.
 Sopra le parti.
-Garanti dell'ordine.
+Neutri.
+Garanti.
 
-Pausa.
-
-> e come per la pace i due ordinati
-> furon là dove suole star convento,
-> e fummo tali, ch'ancor par dal Gardingo.
-
-Pausa lunga.
-
-Il Gardingo.
-
-Pausa.
-
-Il quartiere ghibellino.
-Quello che fu distrutto
-durante il loro governo.
+Eppure
+ancor si pare
+dal Gardingo.
 
 Pausa.
 
 La pace promessa
-è diventata macerie.
+è diventata
+macerie.
 
-Pausa lunga.
+## vv. 109-126 - Caifasso
 
 [Schermo: nero pieno]
 
-Pausa lunga.
-
-Erano sopra le parti.
-
-Ma il potere
-non è mai sopra le parti.
-
-Pausa.
-
-Avevano il mantello della neutralità.
-
-Dentro:
-la scelta già fatta.
-
----
-
-## vv. 91-108 - Caifasso
-
-Dante
-vede qualcosa per terra.
-
-Pausa.
-
-> Ed io vidi un crucifisso in terra
-> con tre pali ficcat'era in croce,
-> e quando mi vide, tutto si distorse,
-> soffiando ne la barba con sospiri.
-
-Pausa lunga.
-
-Crocifisso.
-Per terra.
-Tre chiodi.
-
-Pausa.
-
-Gli ipocriti
-ci passano sopra.
-
-Pausa lunga.
-
-Dante chiede chi è.
-
-Pausa.
-
-> «Quel confitto che tu miri,
+> Io cominciai: «O frati, i vostri mali…»;
+> ma più non dissi, ché a l’occhio mi corse
+> un, crucifisso in terra con tre pali.
+> Quando mi vide, tutto si distorse
+> soffiando ne la barba con sospiri;
+> e ’l frate Catalan, ch’a ciò s’accorse,
+> mi disse: «Quel confitto che tu miri
 > consigliò i Farisei che conveniva
-> porre un uom per lo popolo a' martìri.»
-
-Caifasso.
-
-Pausa.
-
-Il sommo sacerdote.
-
-Quello che disse:
-è meglio che un solo uomo muoia
-perché il popolo non perisca.
+> porre un uom per lo popolo a’ martiri.
+> Attraversato e nudo è ne la via,
+> come tu vedi, ed è mestier ch’êl senta
+> qualunque passa, come pesa, pria.
+> E a tal modo il socero si stenta
+> in questa fossa, e gli altri del concilio
+> che fu per li Giudei mala sementa.»
+> Allor vid’io maravigliar Virgilio
+> sovra colui ch’era disteso in croce
+> tanto vilmente ne l’eterno esilio.
 
 Pausa lunga.
 
-Ha consigliato il sacrificio di un innocente.
+Dante vede
+qualcosa per terra.
 
-Adesso
-è lui il sacrificato.
+Un corpo.
 
-Pausa.
-
-Steso.
+Crucifisso.
 
 Pausa.
 
-E tutti
-tutti
+E gli altri
 gli passano sopra.
 
 Pausa lunga.
 
-Il peso di ciascun ipocrita
-cade su di lui.
+Caifasso.
 
-Che era il più ipocrita di tutti.
-
-Pausa.
-
-Aveva detto di parlare per il bene comune.
-
-Voleva solo
-che il problema sparisse.
-
----
-
-## vv. 109-148 - Virgilio ingannato
-
-Virgilio
-guarda Caifasso.
+Quello che disse:
+conviene
+che uno muoia
+per il popolo.
 
 Pausa.
 
-Poi guarda i frati.
+Ha vestito
+di bene comune
+un calcolo politico.
 
-Pausa.
-
-Chiede:
-c'è un passo
-per uscire?
+Adesso
+è lui
+steso in mezzo alla via.
 
 Pausa lunga.
 
-Il frate risponde:
-sì.
-Non lontano.
+E chi passa
+gli fa sentire
+quanto pesa.
 
-Un macigno caduto
-fa da scala.
+## vv. 127-148 - Malacoda bugiardo
 
-Ma i ponti sopra la sesta bolgia
-sono tutti rotti.
-
-Pausa.
-
-Tutti tranne uno.
-
-Pausa lunga.
-
-> «Io udi' già dire a Bologna
-> del diavol vizi assai, tra i quali udi'
-> ch'elli è bugiardo e padre di menzogna.»
-
-Pausa lunga.
-
-Virgilio.
-
-Pausa.
-
-La guida.
-La ragione.
-La voce che sa.
-
-Pausa.
-
-Si è fidato di Malacoda.
-
-Malacoda gli aveva detto
-che i ponti erano intatti.
+> Poscia drizzò al frate cotal voce:
+> «Non vi dispiaccia, se vi lece, dirci
+> s’a la man destra giace alcuna foce,
+> onde noi amendue possiamo uscirci,
+> sanza costringer de gli angeli neri
+> che vegnan d’esto fondo a dipartirci.»
+> Rispuose adunque: «Più che tu non speri
+> s’appressa un sasso che da la gran cerchia
+> si move, e varca tutt’i vallon feri,
+> salvo che in questo è rotto e nol coperchia.
+> Montar potrete su per la ruina,
+> che giace in costa e nel fondo soperchia.»
+> Lo duca stette un poco a testa china;
+> poi disse: «Mal contava la bisogna
+> colui che i peccator di qua uncina!»
+> E ’l frate: «Io udi’ già dire a Bologna
+> del diavol vizi assai; tra i quali udi’
+> ch’egli è bugiardo e padre di menzogna.»
+> Appresso il duca a gran passi sen gì,
+> turbato un poco d’ira nel sembiante;
+> ond’io da gl’incarcati mi parti’
+> dietro a le poste de le care piante.
 
 Pausa lunga.
 
-Non erano intatti.
+Qui arriva
+il colpo finale.
 
-Si erano rotti all'ora di Cristo.
+Virgilio chiede
+un passo d’uscita.
 
-Pausa.
-
-E Malacoda
-lo sapeva.
-
-Pausa lunga.
-
-> Poi mosse i piè con fretta;
-> sì come io il vidi turbato alquanto d'ira.
-
-Virgilio
-si allontana di fretta.
+Il frate glielo indica.
 
 Pausa.
 
-Turbato d'ira.
+E solo allora
+si scopre davvero
+la menzogna di Malacoda.
 
 Pausa lunga.
 
-Non incerto.
-Non dubbioso.
+I ponti
+non erano intatti.
 
-Arrabbiato.
+Lo sapeva.
 
-Pausa.
-
-Con sé stesso
-per essersi fidato.
-
-Pausa lunga.
-
-Fermati su questo.
+Ha mentito
+con perfetta naturalezza.
 
 Pausa.
 
 Virgilio
-rappresenta la ragione.
+non crolla.
 
-E la ragione
+Ma si turba d’ira.
+
+Pausa lunga.
+
+Questo conta.
+
+La ragione
 può essere ingannata.
-
-Pausa lunga.
 
 Non perché sia debole.
 
 Ma perché
 la menzogna
-sa impostare la voce
-come la verità.
-
----
+sa parlare
+con la voce della verità.
 
 ## Chiusura
 
@@ -479,10 +447,8 @@ Pausa lunga.
 Il ventitreesimo canto
 ha due pesi.
 
-Pausa.
-
 Il primo
-è quello del mantello.
+è il mantello.
 
 Oro fuori.
 Piombo dentro.
@@ -490,52 +456,23 @@ Piombo dentro.
 Pausa lunga.
 
 Il secondo
-è quello di Caifasso.
+è Caifasso.
 
-Un uomo
-che porta il peso
-di tutti quelli
-che ha ispirato.
+Steso.
+Confitto.
+Calpestato.
 
 Pausa.
 
-I due pesi
-si somigliano.
-
-Pausa lunga.
-
-Caifasso
-aveva il mantello del sacerdote.
+Anche lui
+aveva un mantello.
 
 Fuori:
 la cura del popolo.
 
 Dentro:
-il calcolo politico.
-
-Pausa.
-
-E adesso
-è sdraiato
-e tutti gli passano sopra.
+il calcolo.
 
 Pausa lunga.
 
-Qui il contrapasso
-non è una punizione esterna.
-
-È la logica stessa
-di quello che hanno fatto.
-
-Pausa.
-
-Si sono fatti pesare meno
-di quello che erano.
-
-Adesso
-pesano
-per sempre.
-
-Pausa lunga.
-
-La mantella d'oro pesa come piombo.
+La mantella d’oro pesa come piombo.
