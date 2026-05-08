@@ -14,8 +14,8 @@
     "content_js": "./canto22-content.js"
   },
   "images": {
-    "thumbnail": null,
-    "cover": null,
+    "thumbnail": "./images/22_canto_01.png",
+    "cover": "./images/22_canto_01.png",
     "vertical": null
   },
   "notes": "Script completo del Canto XXII disponibile. `Canto_22_source.txt` contiene il testo UTET; `Canto_22_talk_finale.md` e `Canto_22_cue_immagini.md` sono pronti. Asset visivi da aggiungere in ./images/ (marcia dei Malebranche / Navarrese agganciato / Alichino e Calcabrina nella pece / nero finale sulla frode)."

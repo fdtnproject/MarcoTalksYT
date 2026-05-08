@@ -14,8 +14,8 @@
     "content_js": "./canto19-content.js"
   },
   "images": {
-    "thumbnail": null,
-    "cover": null,
+    "thumbnail": "./images/19_canto_01.png",
+    "cover": "./images/19_canto_01.png",
     "vertical": null
   },
   "notes": "Script completo del Canto XIX disponibile. `Canto_19_source.txt` contiene il testo UTET; `Canto_19_talk_finale.md` e `Canto_19_cue_immagini.md` sono pronti. Asset visivi da aggiungere in ./images/ (fori dei simoniaci / piedi in fiamme / Niccolò III / invettiva / Virgilio che riporta Dante su)."

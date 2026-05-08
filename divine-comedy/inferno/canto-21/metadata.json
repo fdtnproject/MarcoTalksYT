@@ -14,8 +14,8 @@
     "content_js": "./canto21-content.js"
   },
   "images": {
-    "thumbnail": null,
-    "cover": null,
+    "thumbnail": "./images/21_canto_01.png",
+    "cover": "./images/21_canto_01.png",
     "vertical": null
   },
   "notes": "Script completo del Canto XXI disponibile. `Canto_21_source.txt` contiene il testo UTET; `Canto_21_talk_finale.md` e `Canto_21_cue_immagini.md` sono pronti. Asset visivi da aggiungere in ./images/ (pece dell'arzanà / demonio col barattiere / Malebranche in formazione / nero finale della trombetta)."
