@@ -15,9 +15,9 @@
     "content_js": "./canto01-content.js"
   },
   "images": {
-    "thumbnail": "./images/IMG_5465 2.JPG",
-    "cover": "./images/IMG_5466 2.JPG",
-    "vertical": "./images/IMG_5467.heic"
+    "thumbnail": "./images/01_canto_01.png",
+    "cover": "./images/01_canto_02.png",
+    "vertical": null
   },
   "notes": "Script e immagini reali gia presenti. Duplica questa cartella per i prossimi canti mantenendo la stessa convenzione."
 }
