@@ -3,8 +3,6 @@
 Versione da palco
 Linea guida: "Chi si fa artefice del proprio destino lo è anche della propria fine"
 
----
-
 ## Apertura
 
 [Schermo: nero pieno]
@@ -15,608 +13,408 @@ Allora, il ventiseiesimo canto.
 
 Pausa.
 
-Qui bisogna fermarsi un momento
-prima di cominciare.
+Qui Dante
+cambia registro.
 
 Pausa lunga.
 
-I cantos precedenti
-erano barocchi.
-Violenti.
-Grotteschi.
+Non apre
+con una smorfia.
+Non apre
+con una rissa.
 
-Fusioni di corpi.
-Trombette oscene.
-Serpenti.
-
-Pausa.
-
-Il ventiseiesimo
-apre in modo completamente diverso.
-
-Pausa lunga.
-
-Apre con un grido di dolore.
-
-E chiude
-con il mare
-che si richiude.
+Apre
+con vergogna.
 
 Pausa.
 
-In mezzo
-c'è il discorso più bello
-che Dante abbia mai scritto.
+E prima ancora
+di nominare Ulisse,
+fa una cosa decisiva:
 
----
+frena
+il proprio ingegno.
 
 ## vv. 1-12 - Godi, Fiorenza
 
-Dante guarda indietro.
-Pensa ai Fiorentini
-che ha visto nell'Inferno.
+> Godi, Fiorenza, poi che se’ sì grande
+> che per mare e per terra batti l’ali,
+> e per l’Inferno tuo nome si spande!
+> Tra li ladron trovai cinque cotali
+> tuoi cittadini onde mi vien vergogna,
+> e tu in grande orranza non ne sali.
+> Ma se presso al mattin del ver si sogna,
+> tu sentirai di qua da picciol tempo
+> di quel che Prato, non ch’altri, t’agogna.
+> E se già fosse, non saria per tempo:
+> così foss’ei, da che pur esser dee,
+> ché più mi graverà com più m’attempo!
 
 Pausa lunga.
 
-Nei cantos precedenti.
-Nella settima bolgia.
-E ora nell'ottava.
+Non è
+solo un’invettiva politica.
 
 Pausa.
 
-E scrive:
-
-> Godi, Fiorenza, poi che se' sì grande
-> che per mare e per terra batti l'ali,
-> e per lo 'nferno tuo nome si spande!
+È una vergogna
+che ricade addosso
+a chi parla.
 
 Pausa lunga.
 
-Non un elogio.
+Dante
+non si vergogna
+degli altri
+in astratto.
+
+Si vergogna
+di essere
+fiorentino.
+
+## vv. 13-24 - Le scalee e il freno
+
+> Noi ci partimmo, e su per le scalee,
+> che n’avean fatte i borni a scender pria,
+> rimontò il duca mio e trasse mee;
+> e proseguendo la solinga via
+> tra le schegge e tra i rocchi de lo scoglio,
+> lo piè sanza la man non si spedia.
+> Allor mi dolsi, ed ora mi ridoglio,
+> quando drizzo la mente a ciò ch’io vidi,
+> e più lo ingegno affreno ch’i’ non soglio,
+> perché non corra che virtù nol guidi,
+> sì che, se stella buona o miglior cosa
+> m’ha dato il ben, ch’io stessi nol m’invidi.
+
+Pausa lunga.
+
+Qui c’è già
+mezzo canto.
 
 Pausa.
 
-Un'ironia
-che taglia.
+La salita
+è dura.
+
+Schegge.
+Rocchi.
+La mano
+che deve aiutare il piede.
 
 Pausa lunga.
 
-Il tuo nome
-si espande per mare,
-per terra
-e per l'Inferno.
+Ma soprattutto:
+
+più lo ingegno
+affreno.
 
 Pausa.
 
-Dovresti esserne fiera.
+Prima di raccontare
+Ulisse,
+Dante
+mette la briglia
+a se stesso.
 
-Pausa lunga.
+## vv. 25-42 - Le lucciole
 
-E poi Dante
-aggiunge qualcosa
-che appartiene solo a lui:
-
-> Di ciò mi assale una vergogna,
-> che gran ventura mi par che tu prenda,
-> né la fortuna a tanto onor mi chiama.
-
-Pausa lunga.
-
-Mi vergogno.
-
-Pausa.
-
-Non degli altri.
-
-Di essere fiorentino.
-
----
-
-## vv. 13-42 - Le lucciole
-
-[Schermo: nero pieno]
-
-Pausa lunga.
-
-Scendono verso l'ottava bolgia.
-
-E quello che vedono
-è una delle cose più belle
-che Dante abbia mai scritto.
-
-Pausa.
-
-> Quante il villan ch'al poggio si riposa,
-> nel tempo che colui che 'l mondo schiara
+> Quante il villan ch’al poggio si riposa,
+> nel tempo che colui che ’l mondo schiara
 > la faccia sua a noi tien meno ascosa,
 > come la mosca cede a la zanzara,
 > vede lucciole giù per la vallea,
-> forse colà dov'e' vendemmia e ara:
+> forse colà dove vendemmia od ara;
 > di tante fiamme tutta risplendea
-> l'ottava bolgia, sì com'io m'accorsi
-> tosto che fui là 've 'l fondo parea.
+> l’ottava bolgia, sì com’io m’accorsi
+> tosto che fui là ’ve ’l fondo parea.
+> E qual colui che si vengiò con gli orsi
+> vide ’l carro d’Elia al dipartire,
+> quando i cavalli al cielo erti levorsi,
+> che nol potea sì con gli occhi seguire
+> ch’el vedesse altro che la fiamma sola,
+> sì come nuvoletta, in su salire;
+> tal si movea ciascuna per la gola
+> del fosso, che nessuna mostra il furto,
+> e ogni fiamma un peccatore invola.
+
+[Schermo: Doré — l’ottava bolgia]
 
 Pausa lunga.
 
-Un contadino.
+Il contadino.
+L’estate.
+Il poggio.
+La valle piena di lucciole.
 
 Pausa.
 
-D'estate.
-Sul poggio.
-Quando il sole comincia a calare.
+È uno dei simili
+più belli
+di tutto l’Inferno.
 
 Pausa lunga.
 
-Le mosche spariscono.
-Vengono le zanzare.
+Ma la bellezza
+qui non consola.
 
-E nella valle
-sotto di lui
-le lucciole.
+Perché ogni lucciola
+è una fiamma.
 
-Pausa.
-
-Migliaia.
-
-Pausa lunga.
-
-L'ottava bolgia
-è così.
-
-Tutta fiamme.
-
-Come un cielo capovolto
-pieno di lucciole.
-
-Pausa.
-
-[Schermo: Doré — l'ottava bolgia]
-
-Ma non sono lucciole.
-
-Pausa lunga.
-
-Ogni fiamma
-è un'anima.
-
-Pausa.
-
-I consiglieri fraudolenti.
-
-Chi ha usato la propria intelligenza,
-la propria parola,
-la propria arte —
-
-per ingannare.
-
-Pausa lunga.
-
-La fiamma è la lingua del fuoco.
-Come la lingua che li ha condannati.
-
----
+E ogni fiamma
+nasconde un furto.
 
 ## vv. 43-75 - La fiamma doppia
 
-Dante ne vede una
-diversa dalle altre.
-
-Pausa.
-
-> Una fiamma sola
-> che là surgea con due cime,
+> Io stava sovra ’l ponte a veder surto,
+> sì che, s’io non avessi un ronchion preso,
+> caduto sarei giù sanz’esser urto.
+> E ’l duca, che mi vide tanto atteso,
+> disse: «Dentro dai fuochi son li spirti:
+> ciascun si fascia di quel ch’egli è inceso.»
+> «Maestro mio,» rispuos’io «per udirti
+> son io più certo, ma già m’era avviso
+> che così fosse, e già voleva dirti:
+> chi è in quel foco che vien sì diviso
+> di sopra, che par surger de la pira
+> dov’Eteòcle col fratel fu miso?»
+> Rispuose a me: «Là dentro si martira
+> Ulisse e Diomede, e così insieme
+> a la vendetta vanno, come a l’ira;
+> e dentro da la lor fiamma si geme
+> l’agguato del caval che fe’ la porta
+> onde uscì de’ Romani il gentil seme.
+> Piàngevisi entro l’arte per che, morta,
+> Deidamìa ancor si duol d’Achille,
+> e del Palladio pena vi si porta.»
+> «S’ei posson dentro da quelle faville
+> parlar,» diss’io «maestro, assai ten priego
+> e ripriego, che il priego vaglia mille,
+> che non mi facci de l’attender niego,
+> fin che la fiamma cornuta qua vegna:
+> vedi che del disio ver lei mi piego!»
+> Ed egli a me: «La tua preghiera è degna
+> di molta loda, e io però l’accetto;
+> ma fa che la tua lingua si sostegna;
+> lascia parlare a me, ch’io ho concetto
+> ciò che tu vuoi; ch’ei sarebber schivi,
+> perché fuor greci, forse del tuo detto.»
 
 Pausa lunga.
-
-Due punte.
 
 Una fiamma.
-Due anime dentro.
+Due punte.
 
 Pausa.
-
-Dante pensa al rogo
-di Eteocle e Polinice —
-i due fratelli nemici
-che si odiarono anche nel fuoco.
-
-Pausa lunga.
-
-Le loro fiamme
-non volevano stare insieme.
-
-Pausa.
-
-Questa invece
-è una fiamma sola.
-
-Pausa lunga.
-
-Virgilio spiega.
-
-Pausa.
-
-> «Là dentro si martira
-> Ulisse e Diomede, e così insieme
-> a la vendetta vanno come a l'ira;
-> e dentro da la lor fiamma si geme
-> l'agguato del caval che fé la porta
-> onde uscì de' Romani il gentil seme.»
-
-Pausa lunga.
 
 Ulisse.
 
-Pausa.
-
 E Diomede.
 
-Pausa.
+Pausa lunga.
 
 Puniti insieme
-per quello che hanno fatto insieme.
+perché insieme
+hanno costruito
+le loro frodi.
 
-Pausa lunga.
-
-Il cavallo di Troia.
-
-La seduzione di Achille,
-strappato a Deidamia.
-
-Il furto del Palladio.
+Il cavallo.
+Achille.
+Il Palladio.
 
 Pausa.
 
-Tre inganni.
-Tre frodi.
-Tre tradimenti della fiducia.
+E Dante
+vuole parlare.
 
-Pausa lunga.
+Virgilio no.
 
-Dante vuole parlare con loro.
-Vuole avvicinarsi.
+Lascia fare a me.
 
-Pausa.
+## vv. 76-99 - Ulisse parla
 
-Virgilio lo frena.
-
-Lasciate parlare me.
-
-Pausa lunga.
-
-Sono Greci.
-Potrebbero sdegnare le tue parole.
-
-Pausa.
-
-Forse.
-
-Pausa lunga.
-
-O forse
-Virgilio vuole
-che questo incontro
-avvenga attraverso di lui.
-
-Come se la poesia latina
-dovesse fare da tramite
-tra Dante
-e il più grande eroe dell'antichità.
-
----
-
-## vv. 76-99 - Il discorso
+> Poi che la fiamma fu venuta quivi
+> dove parve al mio duca tempo e loco,
+> in questa forma lui parlare audivi:
+> «O voi che siete due dentro ad un foco,
+> s’io meritai di voi, mentre ch’io vissi,
+> s’io meritai di voi assai o poco
+> quando nel mondo gli alti versi scrissi,
+> non vi movete, ma l’un di voi dica
+> dove per lui perduto a morir gissi.»
+> Lo maggior corno de la fiamma antica
+> cominciò a crollar, sì mormorando
+> pur come quella cui vento affatica;
+> indi, la cima qua e là menando,
+> come fosse la lingua che parlasse,
+> gittò voce di fuori e disse: «Quando
+> mi diparti’ da Circe, che sottrasse
+> me più d’un anno là presso a Gaeta,
+> prima che sì Enea la nomasse,
+> né dolcezza di figlio, né la pièta
+> del vecchio padre, né ’l debito amore
+> lo qual dovea Penelopé far lieta,
+> vincer poter dentro da me l’ardore
+> ch’io ebbi a divenir del mondo esperto,
+> e de li vizi umani e del valore;
 
 [Schermo: nero pieno]
 
 Pausa lunga.
 
-Virgilio chiama la fiamma.
-
-Pausa.
-
 La fiamma
-si muove.
-Si avvicina.
-
-Pausa lunga.
-
-Come una fiamma che il vento muove —
-la punta oscilla
-e poi si ferma.
+diventa lingua.
 
 Pausa.
 
-E parla.
+E Ulisse
+non racconta il ritorno.
 
-Pausa lunga.
-
-Ulisse parla.
-
-Pausa.
-
-Non racconta il ritorno.
 Non racconta Itaca.
-Non racconta Penelope.
+
+Racconta
+l’ultima partenza.
 
 Pausa lunga.
 
-Racconta l'ultima cosa.
-
-Quella che Omero non aveva raccontato.
-
-Pausa.
-
-> «Quando
-> mi dipartii da Circe, che sottrasse
-> me più d'un anno là presso a Gaeta,
-> prima che sì Enea la nomasse,
-> né dolcezza di figlio, né la pieta
-> del vecchio padre, né 'l debito amore
-> lo qual dovea Penelopè far lieta,
-> vincer potero dentro a me l'ardore
-> ch'i' ebbi a divenir del mondo esperto
-> e de li vizi umani e del valore.»
-
-Pausa lunga.
-
-Fermati su questo.
-
-Pausa.
-
-Non il figlio.
-Non il padre vecchio.
-Non Penelope.
-
-Pausa lunga.
+Né il figlio.
+Né il padre.
+Né Penelope.
 
 Niente di questo
-ha potuto vincere
-l'ardore.
+ha vinto l’ardore.
 
-Pausa.
+## vv. 100-111 - Oltre il confine
 
-L'ardore di diventare esperto del mondo.
-
-Pausa lunga.
-
-Non il desiderio di possedere.
-Non la vanità.
-Non il potere.
-
-L'ardore di conoscere.
-
-Pausa.
-
-Dei vizi umani.
-E del valore.
+> ma misi me per l’alto mare aperto,
+> sol con un legno e con quella compagna
+> picciola da la qual non fui diserto.
+> L’un lito e l’altro vidi infin la Spagna,
+> fin nel Morrocco, e l’isola de’ Sardi,
+> e l’altre che quel mare intorno bagna.
+> Io e’ compagni eravam vecchi e tardi,
+> quando venimmo a quella foce stretta,
+> dov’Ercule segnò li suoi riguardi,
+> a ciò che l’uom più oltre non si metta:
+> da la man destra mi lasciai Sibilia,
+> da l’altra già m’avea lasciata Setta.
 
 Pausa lunga.
 
-Tutto.
-
-Vuole sapere tutto.
+Qui il viaggio
+diventa un processo.
 
 Pausa.
 
-Riparte.
+L’alto mare aperto.
 
-Con i vecchi compagni.
+La compagna picciola.
 
-Pausa lunga.
+La foce stretta.
 
-E arriva alle Colonne d'Ercole.
-
-Il limite del mondo.
-
-Il segno che gli antichi
-avevano messo lì:
+Il segno di Ercole:
 fin qui.
+
 Non oltre.
 
-Pausa.
+## vv. 112-124 - L’orazion picciola
 
-E allora
-parla ai suoi uomini.
-
----
-
-## Il grande discorso
-
-Pausa lunga.
-
-> «O frati,» dissi, «che per cento milia
-> perigli siete giunti a l'occidente,
+> ‘O frati,’ dissi, che per cento milia
+> perigli siete giunti a l’occidente,
 > a questa tanto picciola vigilia
-> d'i nostri sensi ch'è del rimanente
-> non vogliate negar l'esperienza,
+> de’ nostri sensi ch’è del rimanente,
+> non vogliate negar l’esperienza,
 > di retro al sol, del mondo sanza gente.
 > Considerate la vostra semenza:
 > fatti non foste a viver come bruti,
-> ma per seguir virtute e canoscenza.»
+> ma per seguir virtute e conoscenza’.
+> Li miei compagni fec’io sì acuti,
+> con questa orazion picciola, al cammino,
+> che a pena poscia li avrei ritenuti.
 
 [Schermo: nero pieno]
 
 Pausa lunga.
 
-Pausa lunga.
+Fatti non foste
+a viver come bruti.
 
 Pausa lunga.
 
-Fatti non foste a viver come bruti.
+Qui parla
+il più grande persuasore
+del canto.
 
 Pausa.
 
-Non siete stati fatti
-per vivere come bestie.
+La chiama
+orazion picciola.
+
+Non lo è.
 
 Pausa lunga.
 
-Siete stati fatti
-per seguire virtute e canoscenza.
+È il discorso
+che li rende acuti.
+
+E li consegna
+al viaggio.
+
+## vv. 125-142 - Il folle volo
+
+> E volta nostra poppa nel mattino,
+> dei remi facemmo ali al folle volo,
+> sempre acquistando dal lato mancino.
+> Tutte le stelle già de l’altro polo
+> vedea la notte, e ’l nostro tanto basso
+> che non surgeva fuor del marin suolo.
+> Cinque volte racceso e tante casso
+> lo lume era di sotto da la luna,
+> poi ch’entrati eravam ne l’alto passo,
+> quando n’apparve una montagna, bruna
+> per la distanza, e parvemi alta tanto
+> quanto veduta non avea alcuna.
+> Noi ci allegrammo, e tosto tornò in pianto;
+> ché de la nova terra un turbo nacque,
+> e percosse del legno il primo canto.
+> Tre volte il fe’ girar con tutte l’acque;
+> a la quarta levar la poppa in suso
+> e la prora ire in giù, com’altrui piacque,
+> infin che ’l mar fu sopra noi richiuso.»
+
+Pausa lunga.
+
+Dei remi
+facemmo ali.
 
 Pausa.
 
-Virtù.
-E conoscenza.
+È il folle volo.
 
 Pausa lunga.
 
-Tre terzine.
-Ventisei parole.
+Ulisse vede
+le stelle del sud.
 
-E dentro quelle ventisei parole
-c'è tutta l'idea moderna dell'uomo.
+Vede
+la montagna.
+
+Ma non sa
+che cosa sta guardando.
 
 Pausa.
 
-L'uomo che non si accontenta.
-L'uomo che spinge oltre.
-L'uomo che vuole sapere.
+Si rallegrano.
 
-Pausa lunga.
+Poi il turbo.
 
-I compagni si muovono.
-
-Pausa.
-
-Remano.
-
-Pausa lunga.
-
----
-
-## vv. 100-142 - L'ultima traversata
-
-> Li miei compagni fec'io sì aguti,
-> con questa orazion picciola, al cammino,
-> che a pena poscia li avrei ritenuti.
-
-Pausa lunga.
-
-Con quell'orazione piccola.
-
-Pausa.
-
-Non piccola.
-
-Ulisse dice piccola.
-
-Pausa lunga.
-
-Forse è l'unico momento
-in cui il più grande oratore dell'antichità
-non sa quanto grandi
-siano state le sue parole.
-
-Pausa.
-
-Remano verso sud.
-Verso il cielo del polo australe.
-Verso stelle
-che nessun greco aveva mai visto.
-
-Pausa lunga.
-
-Cinque mesi.
-
-Pausa.
+Poi il giro della nave.
 
 Poi:
 
-> Tutte le stelle già de l'altro polo
-> vedea la notte, e 'l nostro tanto basso,
-> che non surgea fuor del marin suolo.
-
-Pausa.
-
-Il polo settentrionale
-è quasi scomparso.
-
-Le stelle del sud
-riempiono il cielo.
-
-Pausa lunga.
-
-E poi vedo la montagna.
-
-Pausa.
-
-> Cinque volte racceso e tante casso
-> lo lume era di sotto da la luna,
-> poi che 'ntrati eravam ne l'alto passo,
-> quando n'apparve una montagna, bruna
-> per la distanza, e parvemi alta tanto
-> quanto veduta non ne avëa alcuna.
-
-Pausa lunga.
-
-Una montagna.
-
-Altissima.
-Scura per la distanza.
-
-Pausa.
-
-La montagna del Purgatorio.
-
-Pausa lunga.
-
-Ulisse non lo sa.
-Non sa cosa sta guardando.
-
-Pausa.
-
-Vede solo
-la cosa più alta
-che abbia mai visto.
-
-Pausa lunga.
-
-E poi.
-
-> Noi ci allegrammo, e tosto tornò in pianto;
-> ché de la nova terra un turbo nacque
-> e percosse del legno il primo canto.
-> Tre volte il fé girar con tutte l'acque;
-> a la quarta levar la poppa in suso
-> e la prora ire in giù, com'altrui piacque,
-> infin che 'l mar fu sovra noi richiuso.
-
-Pausa lunga.
-
-Ci rallegrammo.
-
-Pausa.
-
-E subito tornò in pianto.
-
-Pausa lunga.
-
-Il vortice.
-
-La nave che gira tre volte.
-
-Pausa.
-
-La prua che va giù.
-
-Pausa.
-
-Come altrui piacque.
-
-Pausa lunga.
-
-Come piacque a qualcun altro.
+com’altrui piacque.
 
 Non a Ulisse.
-
-Pausa.
-
-E il mare si richiuse.
-
----
 
 ## Chiusura
 
@@ -624,120 +422,61 @@ E il mare si richiuse.
 
 Pausa lunga.
 
-Cicerone scrisse:
+Cicerone scrive:
+
 suae quisque fortunae faber.
 
 Pausa.
 
-Ogni uomo è l'artefice del proprio destino.
+Ulisse
+sembra la prova perfetta.
+
+Costruisce
+il cavallo.
+
+Costruisce
+il discorso.
+
+Costruisce
+l’ultima traversata.
+
+E costruisce
+la propria fine.
 
 Pausa lunga.
 
-Ulisse è l'artefice più grande
-di tutta la letteratura antica.
-
-Ha costruito il cavallo di Troia.
-Ha costruito la propria fortuna.
-Ha costruito il proprio destino.
-
-Pausa.
-
-E ha costruito la propria fine.
-
-Pausa lunga.
-
-Due millenni dopo Dante,
-Goethe scrive il Faust.
+Due millenni dopo,
+Goethe guarderà
+quasi la stessa febbre
+e darà
+il verdetto opposto.
 
 Pausa.
-
-Un uomo che ha studiato tutto
-e non ne ha abbastanza.
-Un uomo che vuole conoscere tutto
-e firma un patto col diavolo.
-
-Pausa lunga.
-
-Goethe lo salva.
-
-Pausa.
-
-Perché nella sua visione
-il desiderio di conoscere
-è in sé una virtù.
-
-Wer immer strebend sich bemüht —
-den können wir erlösen.
 
 Chi lotta senza posa
-può essere redento.
+può essere salvato.
 
 Pausa lunga.
 
-Dante non salva Ulisse.
+Dante no.
 
 Pausa.
 
-Stessa spinta.
-Stesso ardore.
-Stesso confine superato.
+Non condanna
+il desiderio di sapere.
+
+Condanna il momento
+in cui il desiderio di sapere
+si fa legge
+a se stesso
+e non riconosce più
+un limite.
 
 Pausa lunga.
 
-Ma per Dante
-il confine non è un ostacolo da abbattere.
+Ulisse è magnifico.
 
-È una forma di ordine
-che non si può
-che si deve rispettare.
-
-Pausa.
-
-Ulisse non sbaglia nel volere sapere.
-
-Sbaglia nel pensare
-che il volere sapere
-non abbia un limite.
-
-Pausa lunga.
-
-E la cosa straordinaria
-è che il suo discorso è magnifico.
-
-Pausa.
-
-Fatti non foste a viver come bruti.
-
-Pausa lunga.
-
-Dante lo scrive
-con una tale potenza
-che per settecento anni
-i lettori l'hanno letto
-come un inno.
-
-Non come una condanna.
-
-Pausa.
-
-Come se Dante
-avesse condannato Ulisse
-ma non avesse saputo
-trattenersi dall'ammirarlo.
-
-Pausa lunga.
-
-Come se il poeta
-capisse il peccato dall'interno.
-
-Perché anche lui
-vuole andare oltre.
-Vuole sapere tutto.
-
-Pausa.
-
-Ed è per questo
-che è qui.
+Ma non è innocente.
 
 Pausa lunga.
 
