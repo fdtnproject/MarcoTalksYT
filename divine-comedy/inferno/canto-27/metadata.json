@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 27",
+  "slug": "canto-27",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_27_source.txt",
+    "talk_finale_md": "./scripts/Canto_27_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_27_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto27-content.js"
+  },
+  "images": {
+    "thumbnail": null,
+    "cover": null,
+    "vertical": null
+  },
+  "notes": "Script completo del Canto XXVII disponibile. `Canto_27_source.txt` contiene il testo UTET; `Canto_27_talk_finale.md` e `Canto_27_cue_immagini.md` sono pronti. Asset visivi da aggiungere in ./images/ (Guido nel fuoco / Bonifacio e il consiglio / il diavolo loico / nero finale sulla furbizia che non salva)."
+}
