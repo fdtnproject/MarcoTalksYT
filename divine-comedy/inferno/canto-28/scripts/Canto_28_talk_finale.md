@@ -3,8 +3,6 @@
 Versione da palco
 Linea guida: "Chi ha diviso viene diviso"
 
----
-
 ## Apertura
 
 [Schermo: nero pieno]
@@ -15,431 +13,435 @@ Allora, il ventottesimo canto.
 
 Pausa.
 
-I tre cantos precedenti
-erano tutti fuoco.
-Fiamme che parlano.
-Lingue di fuoco.
+Qui Malebolge
+cambia ancora pelle.
 
 Pausa lunga.
 
-Il ventottesimo
-cambia materiale.
-
-Pausa.
+Non pece.
+Non fiamme.
+Non metamorfosi.
 
 Sangue.
 
-Pausa lunga.
+Pausa.
 
-E carne aperta.
-
----
+Carne aperta.
 
 ## vv. 1-21 - Le guerre del mondo
 
-Dante apre
-con una domanda
-che sa già
-di non poter rispondere.
-
-Pausa.
-
 > Chi poria mai pur con parole sciolte
 > dicer del sangue e de le piaghe a pieno
-> ch'i' ora vidi, per narrar più volte?
+> ch’i’ ora vidi, per narrar più volte?
+> Ogni lingua per certo verria meno,
+> per lo nostro sermone e per la mente
+> c’hanno a tanto comprender poco seno.
+> S’el s’aunasse ancor tutta la gente
+> che già in su la fortunata terra
+> di Puglia fu del suo sangue dolente
+> per li Troiani e per la lunga guerra
+> che de l’anella fe’ sì alte spoglie,
+> come Livio scrive, che non erra,
+> con quella che sentìo di colpi doglie
+> per contrastare a Ruberto Guiscardo,
+> e l’altra il cui ossame ancor s’accoglie
+> a Ceperan, là dove fu bugiardo
+> ciascun pugliese, e là da Tagliacozzo,
+> dove sanz’arme vinse il vecchio Alardo;
+> e qual forato suo membro e qual mozzo
+> mostrasse, d’aequar sarebbe nulla
+> il modo de la nona bolgia sozzo.
 
 Pausa lunga.
 
-Chi potrebbe mai —
-anche con parole libere,
-senza la costrizione della rima —
-descrivere quello che ho visto?
+Dante parte
+dicendo una cosa semplice:
+
+non bastano
+le parole.
 
 Pausa.
 
-E allora Dante elenca
-le guerre.
+Neanche se le sciogli
+dal verso.
+
+Neanche se racconti
+più volte.
 
 Pausa lunga.
+
+Poi chiama a raccolta
+la storia intera.
 
 Puglia.
 Troia.
-Le guerre di Roma.
-Roberto il Guiscardo.
-Ceprano.
+Roma.
+Guiscardo.
+Ceperano.
 Tagliacozzo.
 
-Pausa.
-
 Tutto il sangue
-che la storia ha versato.
-
-Pausa lunga.
-
-Sarebbe ancora poco
-rispetto a quello
-che vide nella nona bolgia.
-
----
-
-## vv. 22-42 - Maometto
-
-[Schermo: Doré — Maometto nella nona bolgia]
-
-Pausa lunga.
-
-Un'anima
-cammina verso di lui.
+che il mondo ricorda.
 
 Pausa.
 
-> Un diavol è qua dietro che n'accisma
-> sì crudelmente, al taglio de la spada
-> rimettendo ciascun di questa risma,
-> quand'avem volta la dolente strada;
-> però che le ferite son richiuse
-> prima ch'altri dinanzi li rivada.
+Sarebbe ancora poco.
 
-Pausa lunga.
-
-Ecco la meccanica della bolgia.
-
-Pausa.
-
-Un diavolo con la spada
-li taglia mentre passano.
-
-Poi si rimarginano.
-
-Poi tornano in fondo al cerchio.
-Ricominciare.
-
-Pausa lunga.
-
-E quella prima anima
-è divisa
-dalla gola all'inguine.
-
-Pausa.
+## vv. 22-45 - Maometto e Alì
 
 > Già veggia, per mezzul perdere o lulla,
-> com'io vidi un così fatto...
-
-Le budella
-pendono fuori.
-
-La milza.
-Il fegato.
-
-Pausa lunga.
-
-> E mentre che tutto in lui mirando stava,
-> guardommi e con le man s'aperse il petto,
-> dicendo: «Or vedi com'io mi dilacco!
-> vedi come storpiato è Mäometto!
+> com’io vidi un, così non si pertugia,
+> rotto dal mento infin dove si trulla:
+> tra le gambe pendevan le minugia,
+> la corata pareva e ’l tristo sacco
+> che merda fa di quel che si trangugia.
+> Mentre che tutto in lui veder m’attacco,
+> guardommi, e con le man s’aperse il petto
+> dicendo: «Or vedi com’io mi dilacco!
+> Vedi come storpiato è Maometto!
 > Dinanzi a me sen va piangendo Alì,
-> fesso nel volto dal mento al ciuffetto.»
-
-Pausa lunga.
-
-Maometto.
-
-Pausa.
-
-Dante lo mette qui
-come seminatore di scisma.
-
-Colui che ha diviso
-il mondo religioso.
-
-Pausa.
-
-E Ali —
-il suo successore,
-la prima grande divisione dell'Islam —
-gli cammina davanti.
-Spaccato dalla fronte al mento.
-
-Pausa lunga.
-
-La divisione religiosa
-si porta nel corpo.
-
----
-
-## vv. 43-63 - Fra Dolcino e Pier da Medicina
-
-Maometto
-non si ferma a parlare con Dante.
-
-Parla mentre passa.
-
-Pausa.
-
-Dà un avvertimento
-a Fra Dolcino.
-
-Pausa lunga.
-
-Fra Dolcino —
-capo dei Fraticelli,
-un movimento ereticale.
-
-Assediato sulle montagne
-col suo gruppo.
-
-Pausa.
-
-Maometto gli manda a dire:
-provvediti di viveri
-o la neve ti vincerà.
-
-Pausa lunga.
-
-Un consiglio pratico
-dato dall'interno dell'Inferno.
-
-Pausa.
-
-Poi passa Pier da Medicina.
-
-Pausa lunga.
-
-Squarciato nella gola.
-Il naso tagliato.
-Una sola narice.
-
-Pausa.
-
-Ha avvelenato la pace
-tra due grandi casate di Romagna.
-
-Pausa lunga.
-
-E manda un avvertimento
-a due nobili di Fano.
-
-Li stanno ingannando.
-Saranno gettati in mare.
-
-Pausa.
-
-Dante scrive il nome
-dei due condannati.
-
-Pausa lunga.
-
-Non solo un registro della dannazione.
-
-Un atto d'accusa
-contro i vivi.
-
----
-
-## vv. 64-90 - Curio e Mosca
-
-Poi:
-
-Curio.
-
-Pausa.
-
-Ha la lingua tagliata
-fino alla gola.
-
-Pausa lunga.
-
-Lui era quello
-che consigliò Cesare
-di attraversare il Rubicone.
-
-Pausa.
-
-"Cessa d'indugiare —
-il tempo non aspetta."
-
-Pausa lunga.
-
-Una frase.
-Una sola frase
-che ha cambiato la storia di Roma.
-
-E adesso
-la lingua che l'ha detta
-non c'è più.
-
-Pausa.
-
-Poi Mosca de' Lamberti.
-
-Pausa lunga.
-
-I moncherini alzati
-in aria.
-
-Sangue sul viso.
-
-Pausa.
-
-> «Capo ha cosa fatta»
-
-Pausa lunga.
-
-Cosa fatta capo ha.
-
-Pausa.
-
-Quella frase —
-pronunciata a Firenze
-per spingere all'omicidio
-di Buondelmonte —
-
-aveva dato il via
-alla divisione
-tra Guelfi e Ghibellini.
-
-Pausa lunga.
-
-Aveva spaccato Firenze.
-
-Pausa.
-
-E Dante
-non può trattenersi:
-
-> «E io li aggiunsi: 'e morte di tua schiatta':»
-
-Pausa lunga.
-
-La morte di tutta la tua stirpe.
-
-È il momento
-in cui la guida
-diventa giudice
-e il giudice
-diventa esecutore.
-
----
-
-## vv. 91-142 - Bertran de Born
-
-[Schermo: nero pieno]
-
-Pausa lunga.
-
-E poi
-l'immagine
-più assurda
-di tutta la Commedia.
-
-Pausa.
-
-Un uomo
-che cammina.
-
-Pausa lunga.
-
-E porta la testa
-staccata dal collo.
-
-Pausa.
-
-Per i capelli.
-
-Pausa lunga.
-
-Come una lanterna.
-
-Pausa.
-
-> Io vidi certo, e ancor par ch'io 'l veggia,
-> un busto sanza capo andar sì come
-> andavan gli altri de la trista greggia;
-> e 'l capo tronco tenea per le chiome,
-> pesol con mano a guisa di lanterna:
-> e quel mirava noi e dicea: «Oh me!»
-
-Pausa lunga.
-
-Pendulo.
-La testa come una lanterna.
-
-Pausa.
-
-E la testa
-ci guarda.
-
-E dice:
-oh me.
-
-Pausa lunga.
-
-Il busto
-si illumina con la propria testa.
-
-Pausa.
-
-È Bertran de Born.
-Trovatore.
-Signore del Périgord.
-
-Pausa lunga.
-
-Ha fatto sì
-che il principe Enrico
-si ribellasse al padre
-Enrico II d'Inghilterra.
-
-Pausa.
-
-Ha diviso
-padre e figlio.
-
-Pausa lunga.
-
-> Per ch'io fo il contrappasso.
-
-[Schermo: nero pieno]
-
-Pausa lunga.
+> fesso nel volto dal mento al ciuffetto.
+> E tutti gli altri che tu vedi qui
+> seminator di scandalo e di scisma
+> fur, vivi, e però son fessi così.
+> Un diavolo è qua dietro che n’accisma
+> sì crudelmente, al taglio de la spada
+> rimettendo ciascun di questa risma,
+> quando avem volta la dolente strada;
+> però che le ferite son richiuse
+> prima ch’altri dinanzi li rivada.
 
 Pausa lunga.
 
 Qui Dante
-inventa una parola.
+non attenua nulla.
 
 Pausa.
 
-O meglio:
-la usa per la prima volta
-in modo tecnico.
+Minugia.
+Corata.
+Il sacco
+che trasforma
+il cibo in merda.
 
 Pausa lunga.
+
+E quell’uomo
+si apre il petto
+da solo.
+
+Guardami.
+
+Guarda
+come sono diviso.
+
+Pausa.
+
+Maometto.
+
+Alì davanti a lui.
+
+Scisma.
+
+Seminator di scandalo
+e di divisione.
+
+Pausa lunga.
+
+La pena
+non resta ferma.
+
+Un diavolo
+li riapre ogni volta.
+
+Si richiudono.
+Ripassano.
+Si riaprono.
+
+## vv. 46-63 - Il vivo e Fra Dolcino
+
+> Ma tu chi se’ che in su lo scoglio muse,
+> forse per indugiar d’ire a la pena
+> ch’è giudicata in su le tue accuse?»
+> «Né morte ’l giunse ancor, né colpa il mena»
+> rispuose ’l mio maestro «a tormentarlo;
+> ma per dar lui esperienza piena,
+> a me, che morto son, convien menarlo
+> per lo Inferno qua giù di giro in giro;
+> e quest’è ver così com’io ti parlo.»
+> Più fuor di cento che, quando l’udiro,
+> s’arrestaron nel fosso a riguardarmi,
+> per maraviglia obliando il martiro.
+> «Or di’ a fra Dolcin dunque che s’armi,
+> tu che forse vedrai il sole in breve,
+> s’ello non vuol qui tosto seguitarmi,
+> sì di vivanda, che stretta di neve
+> non rechi la vittoria al Noarese,
+> ch’altrimenti acquistar non saria leve.»
+
+Pausa lunga.
+
+Qui succede
+una cosa bellissima.
+
+Pausa.
+
+I dannati
+si fermano
+a guardare Dante.
+
+Per maraviglia
+obliando il martiro.
+
+Pausa lunga.
+
+È vivo.
+
+E la sua vita
+interrompe perfino
+il ritmo della pena.
+
+Pausa.
+
+Poi Maometto
+manda un messaggio
+a Fra Dolcino.
+
+Non una teoria.
+
+Vivanda.
+Neve.
+Assedio.
+
+Un consiglio pratico
+dall’interno dell’Inferno.
+
+## vv. 64-90 - Pier da Medicina
+
+> Poi che l’un piè per girsene sospese,
+> Maometto mi disse esta parola;
+> indi a partirsi in terra lo ritese.
+> Un altro, che forata avea la gola
+> e tronco il naso infin sotto le ciglia,
+> e non avea mai ch’un’orecchia sola,
+> ristato a riguardar per maraviglia
+> con gli altri, innanzi a gli altri aprì la canna,
+> ch’era di fuor d’ogni parte vermiglia,
+> e disse: «O tu cui colpa non condanna,
+> e cui io vidi in su terra latina,
+> se troppa simiglianza non m’inganna,
+> rimembriti di Pier da Medicina,
+> se mai torni a veder lo dolce piano
+> che da Vercelli a Marcabò dichina.
+> E fa sapere a’ due miglior da Fano,
+> a messer Guido, e anco ad Angiolello,
+> che, se l’antiveder qui non è vano,
+> gittati saran fuor di lor vasello
+> e mazzerati presso a la Cattolica,
+> per tradimento d’un tiranno fello.
+> Tra l’isola di Cipri e di Maiolica
+> non vide mai sì gran fallo Nettuno,
+> non da pirate, non da gente argolica.
+> Quel traditor che vede pur con l’uno,
+> e tien la terra che tale è qui meco
+> vorrebbe di vedere esser digiuno,
+> farà venirli a parlamento seco;
+> poi farà sì ch’al vento di Focara
+> non sarà lor mestier voto né preco.»
+
+Pausa lunga.
+
+Adesso Pier da Medicina.
+
+Forata la gola.
+Un’orecchia sola.
+La canna
+tutta vermiglia.
+
+Pausa.
+
+E anche lui
+fa quello che faceva da vivo:
+
+semina
+divisione.
+
+Pausa lunga.
+
+Parla di tradimento
+tra vivi.
+
+Fa nomi.
+
+Guido.
+Angiolello.
+
+Parlamento.
+Vento di Focara.
+Mare.
+
+Pausa.
+
+L’Inferno
+continua a denunciare
+quello che deve ancora accadere
+nel mondo.
+
+## vv. 91-112 - Curio e Mosca
+
+> E io a lui: «Dimostrami e dichiara,
+> se vuo’ ch’i’ porti su di te novella,
+> chi è colui da la veduta amara.»
+> Allor puose la mano a la mascella
+> d’un suo compagno, e la bocca gli aperse,
+> gridando: «Questi è desso, e non favella.
+> Questi, scacciato, il dubitar sommerse
+> in Cesare, affermando che ’l fornito
+> sempre con danno l’attender sofferse.»
+> Oh quanto mi pareva sbigottito,
+> con la lingua tagliata ne la strozza,
+> Curio, ch’a dire fu così ardito!
+> E un ch’avea l’una e l’altra man mozza,
+> levando i moncherin per l’aura fosca,
+> sì che ’l sangue facea la faccia sozza,
+> gridò: «Ricordera’ ti anche del Mosca,
+> che dissi, lasso!, ‘Capo ha cosa fatta’,
+> che fu ’l mal seme per la gente tosca.»
+> E io gli aggiunsi: «E morte di tua schiatta.»
+> Per ch’egli, accumulando duol con duolo,
+> sen gìo come persona trista e matta.
+
+Pausa lunga.
+
+Curio
+ha la lingua tagliata.
+
+Pausa.
+
+Lui
+che aveva sommerso
+il dubbio in Cesare.
+
+Una frase.
+Una spinta.
+Una guerra civile.
+
+Pausa lunga.
+
+Poi Mosca.
+
+Le due mani mozze.
+I moncherini alzati.
+
+Capo ha cosa fatta.
+
+Pausa.
+
+Ed è qui
+che Dante
+esce un attimo
+dalla pura registrazione.
+
+E io gli aggiunsi:
+e morte di tua schiatta.
+
+Pausa lunga.
+
+Non commenta.
+
+Condanna.
+
+## vv. 113-136 - Bertran de Born
+
+> Ma io rimasi a riguardar lo stuolo,
+> e vidi cosa ch’io avrei paura,
+> sanza più prova, di contarla solo;
+> se non che coscïenza m’assicura:
+> la buona compagnia che l’uom francheggia
+> sotto l’asbergo del sentirsi pura.
+> Io vidi certo, ed ancor par ch’io ’l veggia,
+> un busto sanza capo andar sì come
+> andavan gli altri de la trista greggia;
+> e ’l capo tronco tenea per le chiome,
+> pésol con mano a guisa di lanterna,
+> e quel mirava noi e dicea ‘Oh me!’
+> Di sé faceva a se stesso lucerna,
+> ed eran due in uno e uno in due:
+> com’esser può, quei sa che sì governa.
+> Quando diritto al piè del ponte fue,
+> levò il braccio alto con tutta la testa,
+> per appressarne le parole sue,
+> che furo: «Or vedi la pena molesta,
+> tu che, spirando, vai veggendo i morti;
+> vedi s’alcuna è grande come questa.
+> E perché tu di me novella porti,
+> sappi ch’io son Bertram dal Bornio, quelli
+> che diedi al Re giovane i ma’ conforti.
+> Io feci il padre e ’l figlio in sé ribelli;
+> Achitofèl non fe’ più d’Absalone
+> e di Davìd coi malvagi punzelli.
+> Perch’io parti’ così giunte persone,
+> partito porto il mio cerebro, lasso!,
+> dal suo principio ch’è in questo troncone:
+> così s’osserva in me lo contrapasso.»
+
+[Schermo: Doré — Bertran de Born]
+
+Pausa lunga.
+
+Qui Dante
+si ferma.
+
+Dice:
+ho paura
+di raccontarlo da solo.
+
+Pausa.
+
+Poi vede
+quello che non si dimentica più.
+
+Un busto
+sanza capo.
+
+Il capo in mano.
+
+Come una lanterna.
+
+Pausa lunga.
+
+Di sé
+faceva a sé stesso
+lucerna.
+
+Pausa.
+
+E finalmente il nome:
+
+Bertran de Born.
+
+Pausa.
+
+Aveva diviso
+padre e figlio.
+
+Adesso porta
+diviso
+il proprio cervello
+dal suo principio.
+
+Pausa lunga.
+
+Qui il canto
+pronuncia
+la sua parola tecnica.
 
 Contrapasso.
 
-Pausa.
+Non serve
+spiegare di più.
 
-La pena
-che corrisponde al peccato.
-
-Pausa lunga.
-
-Bertran de Born
-lo dice lui stesso.
-
-Non serve spiegazione.
-
-Pausa.
-
-Ha diviso
-due cose
-che erano unite.
-
-Adesso
-lui è diviso.
-
----
+L’ha detta lui.
 
 ## Chiusura
 
@@ -448,77 +450,36 @@ lui è diviso.
 Pausa lunga.
 
 La nona bolgia
-è la più fisica
-di Malebolge.
+fa una cosa terribile
+e limpida.
 
 Pausa.
 
-Non fiamme.
-Non pece.
-Non serpenti.
+Prende la divisione
+che qualcuno ha messo
+nel mondo
 
-Pausa lunga.
-
-Carne aperta.
-
-Pausa.
-
-E la logica
-è semplice
-come un'equazione.
+e la scrive
+nel corpo.
 
 Pausa lunga.
 
 Hai diviso
-una famiglia.
+una fede.
 
-Adesso sei diviso.
-
-Pausa.
+E sei diviso.
 
 Hai spaccato
 una città.
 
-Adesso sei spaccato.
-
-Pausa lunga.
+E sei spaccato.
 
 Hai separato
 padre e figlio.
 
-Adesso la tua testa
-è separata dal corpo.
-
-Pausa.
-
-Il contrapasso
-è la giustizia
-che fa rima
-con il peccato.
-
-Pausa lunga.
-
-Bertran de Born
-porta la testa come una lanterna.
-
-Pausa.
-
-E la testa illumina
-il busto.
-
-Pausa lunga.
-
-Come se la parte separata
-fosse ancora quella
-che fa luce.
-
-Pausa.
-
-Come se il pensiero
-che divide
-fosse anche
-il solo pensiero
-che rimane.
+E cammini
+con la testa
+staccata dal corpo.
 
 Pausa lunga.
 
