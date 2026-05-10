@@ -227,9 +227,34 @@ Pausa.
 E Dante
 vuole parlare.
 
-Virgilio no.
+Anzi:
+si sta già piegando.
 
-Lascia fare a me.
+Pausa.
+
+Vedi che del disio
+ver lei
+mi piego.
+
+Pausa lunga.
+
+Il corpo
+va avanti
+prima della ragione.
+
+Pausa.
+
+Virgilio lo vede.
+
+E interviene.
+
+Non solo
+perché sono greci.
+
+Perché qui
+il desiderio di sapere
+sta già tirando Dante
+verso la fiamma.
 
 ## vv. 76-99 - Ulisse parla
 
@@ -261,6 +286,29 @@ Lascia fare a me.
 [Schermo: nero pieno]
 
 Pausa lunga.
+
+Prima della risposta,
+Virgilio fa una cosa sottilissima.
+
+Pausa.
+
+Non comanda.
+Non interroga.
+
+Chiede credito.
+
+Pausa lunga.
+
+S’io meritai di voi.
+
+Pausa.
+
+È una captatio benevolentiae.
+
+Il poeta latino
+si presenta
+con i suoi alti versi
+e prova a ottenere ascolto.
 
 La fiamma
 diventa lingua.
@@ -448,29 +496,30 @@ Pausa lunga.
 Due millenni dopo,
 Goethe guarderà
 quasi la stessa febbre
-e darà
-il verdetto opposto.
+e la assolverà.
 
 Pausa.
 
-Chi lotta senza posa
-può essere salvato.
+Stessa spinta.
+Verdetti opposti.
 
 Pausa lunga.
 
-Dante no.
+Ma il canto
+ha già detto tutto
+prima di noi.
 
 Pausa.
 
-Non condanna
-il desiderio di sapere.
+Com’altrui piacque.
 
-Condanna il momento
-in cui il desiderio di sapere
-si fa legge
-a se stesso
-e non riconosce più
-un limite.
+Pausa lunga.
+
+Ulisse
+si era fatto artefice
+di tutto.
+
+Tranne di questo.
 
 Pausa lunga.
 
