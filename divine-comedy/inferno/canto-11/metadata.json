@@ -14,9 +14,9 @@
     "content_js": "./canto11-content.js"
   },
   "images": {
-    "thumbnail": null,
-    "cover": null,
+    "thumbnail": "./images/11_canto_01.png",
+    "cover": "./images/11_canto_01.png",
     "vertical": null
   },
-  "notes": "Script completo disponibile. Asset visivi da aggiungere in ./images/ (tavole di Dore per la sosta sull'orlo / la tomba di papa Anastasio / la lezione di topologia morale / la ripartenza verso il VII cerchio)."
+  "notes": "Script completo disponibile. Tavola `11_canto_01.png` gia agganciata come immagine dell'orlo e della sosta; eventuali altre tavole restano utili per Anastasio o per la ripartenza verso il VII cerchio."
 }

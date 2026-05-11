@@ -12,8 +12,8 @@ Motivo: il canto si apre con una sosta sull'orlo. Il nero serve la sospensione.
 
 ### vv. 1-9 — Sull'orlo
 [Schermo: Doré — l'orlo dell'alta ripa, il sepolcro di Anastasio]
-Tavola del bordo: cerchio di pietre rotte, sotto il vuoto del basso Inferno, sepolcro grande con scritta.
-Asset suggerito: `11_orlo_anastasio.jpg` (Doré, "Le bord du gouffre" o tavola con la sosta sul bordo + sepolcro).
+Tavola del bordo: orlo, sosta, attesa prima della lezione.
+Usa `11_canto_01.png`.
 Tenere accesa per il blocco descrittivo.
 
 ### vv. 10-15 — Il naso si abitua
@@ -54,10 +54,9 @@ Restare a nero.
 Motivo: la frase-cardine sul lavoro umano come "nipote di Dio". Tenere il nero che la accompagna.
 
 ### vv. 112-115 — Si riparte
-[Schermo: Doré — l'orlo del dirupo, Dante e Virgilio che riprendono il cammino]
-Tornare alla tavola del bordo (la stessa di apertura), oppure introdurre una piccola tavola di passaggio.
-Asset suggerito: `11_si_riparte.jpg` (può essere la stessa di apertura, ripresa con angolo diverso).
-Tenere accesa pochi secondi per chiudere su una soglia visiva.
+[Schermo: nero pieno]
+Nero anche qui.
+Motivo: con una sola tavola conviene non fingere un secondo momento illustrato. La ripartenza pesa meglio sul ritorno al buio.
 
 ### Chiusura da palco
 [Schermo: nero pieno]
