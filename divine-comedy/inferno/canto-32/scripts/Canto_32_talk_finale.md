@@ -3,8 +3,6 @@
 Versione da palco
 Linea guida: "Il tradimento non brucia. Gela."
 
----
-
 ## Apertura
 
 [Schermo: nero pieno]
@@ -15,329 +13,359 @@ Allora, il trentaduesimo canto.
 
 Pausa.
 
-Anteo li ha depositati
+Anteo
+li ha deposti
 nel fondo del pozzo.
 
 Pausa lunga.
 
-E adesso
-sono qui.
-
-Pausa.
-
-Il nono cerchio.
-
-Pausa lunga.
-
-Il fondo dell'Inferno.
-
-Pausa.
-
-Dante sa
-che quello che sta per raccontare
-richiede qualcosa
-che non ha.
-
-Pausa lunga.
-
-> S'io avessi le rime aspre e chiocce
-> come si converrebbe al tristo buco
-> sovra 'l quale stampan tutte l'alce,
-> io premerei di mio concetto il suco
-> più pienamente; ma perch'io non l'abbo,
-> non sanza tema a dicer mi conduco.
-
-Pausa lunga.
-
-Rime aspre.
-Rime ruvide.
-Rime che grattano.
-
-Pausa.
-
-Come si conviene
-al buco tristo
-su cui pesano tutte le rocce.
-
-Pausa lunga.
-
-Non le ho.
-
-Pausa.
-
-Ma ci provo lo stesso.
-
----
-
-## vv. 22-51 - Cocito
-
-[Schermo: nero pieno]
-
-Pausa lunga.
-
-Il ghiaccio.
+E il paesaggio
+cambia del tutto.
 
 Pausa.
 
 Non fuoco.
 
+Non fango.
+
+Non pece.
+
+Ghiaccio.
+
+## vv. 1-21 - Rime aspre, pozzo, prime teste nel ghiaccio
+
+> S’io avessi le rime aspre e chiocce
+> come si converrebbe al tristo buco
+> sovra ’l qual pontan tutte l’altre rocce,
+> io premerei di mio concetto il suco
+> più pienamente; ma perch’io non l’abbo,
+> non sanza tema a dicer mi conduco;
+> ché non è impresa da pigliare a gabbo
+> descriver fondo a tutto l’universo,
+> né da lingua che chiami ‘mamma’ e ‘babbo’.
+> Ma quelle donne aiutino il mio verso
+> ch’aiutaro Anfione a chiuder Tebe,
+> sì che dal fatto il dir non sia diverso.
+> Oh sovra tutte mal creata plebe,
+> che stai nel luogo onde parlare è duro,
+> mei foste state qui pecore o zebe!
+> Come noi fummo giù nel pozzo scuro,
+> sotto i piè del gigante, assai più bassi,
+> e io mirava ancora a l’alto muro,
+> dicere udimmi: «Guarda come passi:
+> va sì che tu non calchi con le piante
+> le teste de’ fratei miseri lassi.»
+
 Pausa lunga.
 
-Qui
-tutto quello che l'Inferno
-aveva insegnato
-si rovescia.
+Dante apre
+con una confessione
+di insufficienza.
 
 Pausa.
 
-Il calore degli iracondi.
-Le fiamme degli ipocriti.
-Il fuoco degli indovini.
+Ci vorrebbero
+rime aspre.
+
+Rime chiocce.
 
 Pausa lunga.
 
-Qui:
-ghiaccio.
+Una lingua
+che non suoni bene.
+
+Che graffi.
 
 Pausa.
 
+Perché il fondo dell’Inferno
+non chiede eloquenza.
+
+Chiede attrito.
+
+Pausa lunga.
+
+Poi la preghiera.
+
+Le donne
+che aiutarono Anfione.
+
+Pausa.
+
+E subito dopo
+l’insulto.
+
+Mal creata plebe.
+
+Pausa lunga.
+
+Prima ancora di vedere,
+si sente la qualità morale
+di questo luogo.
+
+Pausa.
+
+E la prima voce
+che arriva dal ghiaccio
+non chiede pietà.
+
+Chiede attenzione:
+
+guarda dove metti i piedi.
+
+## vv. 22-51 - Cocito
+
+> Per ch’io mi volsi, e vidimi davante
+> e sotto i piedi un lago, che per gelo
+> avea di vetro e non d’acqua sembiante.
 > Non fece al corso suo sì grosso velo
-> di verno la Danoia in Ostericche,
+> di verno la Danoia in Osterlicch,
 > né Tanaì là sotto il freddo cielo,
-> com'era quivi; che se Tambernicche
+> com’era quivi; che se Tambernicch
 > vi fosse su caduto, o Pietrapana,
-> non avria pur da l'orlo fatto cricche.
-
-Pausa lunga.
-
-Il Danubio d'inverno.
-Il Don sotto il freddo cielo.
-
-Pausa.
-
-Nemmeno questi
-come questo ghiaccio.
-
-Pausa lunga.
-
-E dentro:
-anime.
-
-Pausa.
-
-Come rane
-che mostrano il muso
-dall'acqua in estate.
-
-Pausa lunga.
-
-Ma non in estate.
-Non in acqua.
-
-Nel ghiaccio.
-
-Pausa.
-
-Le teste
-che sporgono appena.
-
-Pausa lunga.
-
-I denti che battono
-come cicogne.
-
-Pausa.
-
-Ogni testa
-rivolta in giù.
-
-Pausa lunga.
-
-E piangono.
-
-Pausa.
-
-Ma le lacrime
-gelano prima
-di arrivare alla guancia.
-
-Pausa lunga.
-
-> lo pianger lor non lascia lor piangere,
-> e 'l duol che trova in su li occhi rintoppo
-> si volge in entro a far crescer l'ambascia.
-
-Pausa lunga.
-
-Il loro pianto
-non li lascia piangere.
-
-Pausa.
-
-Le lacrime
-diventano una visiera di ghiaccio
-sugli occhi.
-
-Pausa lunga.
-
-Non si può
-nemmeno piangere.
-
----
-
-## vv. 52-69 - La Caina
-
-Pausa.
-
-La prima zona
-si chiama Caina.
-
-Pausa lunga.
-
-Da Caino.
-Che aveva ucciso il fratello.
-
-Pausa.
-
-Qui:
-i traditori dei propri congiunti.
-
-Pausa lunga.
-
-Due anime
-che si trovano
-faccia a faccia.
-
-Pausa.
-
-Strette.
-
-Pausa lunga.
-
-> com'io mi volsi, vidi due sì stretti,
-> che 'l pelo del capo avieno insieme misto.
-
-Pausa.
-
-I capelli intrecciati.
-
-Pausa lunga.
-
-Dante chiede chi sono.
-
-Pausa.
-
-> «Perché cotanto in noi ti specchi?»
-
-Pausa lunga.
-
-Alessandro e Napoleone
-degli Alberti.
-
-Pausa.
-
-Fratelli.
-Conti.
-
-Pausa lunga.
-
-Si erano uccisi a vicenda
-per la terra
-e per i soldi.
-
-Pausa.
-
-Fratelli che si sono
-ammazzati tra loro.
-
-Pausa lunga.
-
-E adesso
-eterni
-faccia a faccia
-nel ghiaccio.
-
-Pausa.
-
-Non possono
-girarsi.
-
-Pausa lunga.
-
-Camicion de' Pazzi
-glieli indica
-e aggiunge il suo nome.
-
-Pausa.
-
-Aspetta
-un altro Pazzi —
-Carlino —
-che sarà peggio di lui.
-
-Pausa lunga.
-
-Anche nell'Inferno
-c'è chi guarda in basso.
-
----
-
-## vv. 70-123 - Bocca degli Abati
+> non avria pur da l’orlo fatto cricch.
+> E come a gracidar si sta la rana
+> col muso fuor de l’acqua, quando sogna
+> di spigolar sovente la villana,
+> livide, insin là dove appar vergogna
+> eran l’ombre dolenti ne la ghiaccia,
+> mettendo i denti in nota di cicogna.
+> Ognuna in giù tenea volta la faccia;
+> da bocca il freddo e da gli occhi il cor tristo
+> tra lor testimonianza si procaccia.
+> Quand’io m’ebbi dintorno alquanto visto,
+> volsimi a’ piedi, e vidi due sì stretti
+> che ’l pel del capo avìeno insieme misto.
+> «Ditemi, voi che sì strignete i petti,»
+> diss’io, «chi siete?» E quei piegaro i colli;
+> e poi ch’ebber li visi a me eretti,
+> gli occhi lor, ch’eran pria pur dentro molli,
+> gocciar su per le labbra, e ’l gelo strinse
+> le lagrime tra essi, e riserrolli.
+> Con legno legno spranga mai non cinse
+> forte così; ond’ei come due becchi
+> cozzaro insieme, tanta ira li vinse.
 
 [Schermo: nero pieno]
 
 Pausa lunga.
 
-Dante cammina
-sul ghiaccio.
+Cocito
+non è un fiume.
+
+È un lago fermo.
 
 Pausa.
 
-Tra le teste.
+Vetro.
+
+Non acqua.
 
 Pausa lunga.
 
-E ne colpisce una.
+Dante cerca i paragoni
+più freddi che conosce.
+
+La Danoia.
+
+Il Tanaì.
 
 Pausa.
 
-> Già varcavam là 've l'ombra si raggruma
-> sotto i piè: e io vidi due sì stretti...
+Non bastano.
 
 Pausa lunga.
 
-Un calcio.
-Forse involontario.
+Poi il colpo visivo.
+
+Le rane
+col muso fuori.
 
 Pausa.
 
-> «Perché mi peste?
+Solo che qui
+non è estate
+e non è acqua.
+
+È ghiaccio.
+
+Pausa lunga.
+
+I denti
+battono
+in nota di cicogna.
+
+Le lacrime
+si chiudono
+sugli occhi.
+
+Pausa.
+
+Qui il dolore
+non si sfoga.
+
+Si blocca.
+
+## vv. 52-69 - La Caina
+
+> Ed un ch’avea perduto ambo gli orecchi
+> per la freddura, pur col viso in giue,
+> disse: «Perché cotanto in noi ti specchi?
+> Se vuo’ saper chi son cotesti due,
+> la valle onde Bisenzo si dichina
+> del padre loro Alberto e di lor fue.
+> D’un corpo usciro; e tutta la Caina
+> potrai cercare, e non troverai ombra
+> degna più d’esser fitta in gelatina:
+> non quegli a cui fu rotto il petto e l’ombra
+> con esso un colpo per la man d’Artù,
+> non Focaccia, non questi che m’ingombra
+> col capo sì ch’io non veggio oltre più,
+> e fu nomato Sassol Mascheroni:
+> se tosco se’, ben sai omai chi fu.
+> E perché non mi metti in più sermoni,
+> sappi ch’io fui ’l Camicion de’ Pazzi,
+> e aspetto Carlin che mi scagioni.»
+
+Pausa lunga.
+
+La prima zona
+è la Caina.
+
+Pausa.
+
+Traditori dei congiunti.
+
+Pausa lunga.
+
+Caino
+sta nel nome
+prima ancora
+che nei corpi.
+
+Pausa.
+
+I due stretti insieme
+sono fratelli.
+
+Usciti da un corpo solo.
+
+Pausa lunga.
+
+Eternamente serrati
+l’uno contro l’altro.
+
+Pausa.
+
+Poi Camicione.
+
+Si nomina.
+
+Nomina gli altri.
+
+E aspetta Carlino
+per sentirsi meno basso.
+
+Pausa lunga.
+
+Anche qui
+il dannato
+prova a salvarsi
+con un confronto:
+
+ce n’è uno
+peggiore di me.
+
+## vv. 70-123 - L’Antenora e Bocca degli Abati
+
+> Poscia vid’io mille visi cagnazzi
+> fatti per freddo; onde mi vien riprezzo,
+> e verrà sempre, de’ gelati guazzi.
+> E mentre ch’andavamo inver lo mezzo,
+> al quale ogni gravezza si rauna,
+> e io tremava ne l’eterno rezzo,
+> se voler fu o destino o fortuna
+> non so, ma, passeggiando tra le teste,
+> forte percossi ’l piè nel viso ad una.
+> Piangendo mi sgridò: «Perché mi peste?
 > se tu non vieni a crescer la vendetta
-> di Monteaperti, perché mi moleste?»
+> di Montaperti, perché mi moleste?»
+> E io: «Maestro mio, or qui m’aspetta,
+> sì ch’io esca d’un dubbio per costui:
+> poi mi farai quantunque vorrai fretta.»
+> Lo duca stette; e io dissi a colui
+> che bestemmiava duramente ancora:
+> «Qual se’ tu, che così rampogni altrui?»
+> «Or tu chi se’, che vai per l’Antenora
+> percotendo» rispuose «altrui le gote,
+> sì che, se fossi vivo, troppo fora?»
+> «Vivo son io, e caro esser ti puote,»
+> fu mia risposta «se dimandi fama,
+> ch’io metta il nome tuo tra l’altre note.»
+> Ed egli a me: «Del contrario ho io brama;
+> lèvati quinci e non mi dar più lagna,
+> ché mal sai lusingar per questa lama!»
+> Allor lo presi per la cuticagna,
+> e dissi: «El converrà che tu ti nomi,
+> o che capel qui su non ti rimagna.»
+> Ond’egli a me: «Perché tu mi dischiomi,
+> né ti dirò ch’io sia, né mostrerolti,
+> se mille fiate in sul capo mi tomi.»
+> Io avea già i capelli in mano avvolti,
+> e tratti li n’avea più d’una ciocca,
+> latrando lui con gli occhi in giù raccolti,
+> quando un altro gridò: «Che hai tu, Bocca?
+> non ti basta sonar con le mascelle,
+> se tu non latri? qual diavol ti tocca?»
+> «Omai» diss’io «non vo’ che tu favelle,
+> malvagio traditor, ch’a la tua onta
+> io porterò di te vere novelle.»
+> «Va via,» rispuose «e ciò che tu vuoi conta;
+> ma non tacer, se tu di qua entro eschi,
+> di quel ch’ebbe or così la lingua pronta.
+> El piange qui l’argento de’ Franceschi;
+> ‘Io vidi’ potrai dir ‘quel da Duera
+> là dove i peccatori stanno freschi’.
+> Se fossi domandato altri chi v’era,
+> tu hai da lato quel di Beccheria,
+> di cui segò Fiorenza la gorgiera.
+> Gianni del Soldanier credo che sia
+> più là con Ganellone e Tribaldello,
+> ch’aprì Faenza quando si dormia.»
+
+[Schermo: nero pieno]
 
 Pausa lunga.
 
-Montaperti.
+Adesso
+si entra in Antenora.
 
 Pausa.
 
-La battaglia
-del 1260.
-
-Firenze contro Siena.
+Traditori della patria
+o della parte.
 
 Pausa lunga.
 
-Firenze perde.
+E qui succede
+una cosa secca.
+
+Dante
+colpisce una testa.
 
 Pausa.
 
-Migliaia di morti.
+Forse per caso.
+
+Non importa.
 
 Pausa lunga.
 
-E c'è un nome
-dietro quella sconfitta.
+Quella testa
+nomina Montaperti.
+
+E basta quello
+per accendere Dante.
 
 Pausa.
 
@@ -345,156 +373,102 @@ Bocca degli Abati.
 
 Pausa lunga.
 
-Fiorentino.
-Schierato con Firenze.
+Qui Dante
+non ha pietà.
 
-Ha tagliato la mano
-al portabandiera
-nel mezzo della battaglia.
+Non ha esitazione.
 
-Pausa.
+Lo prende
+per la cuticagna.
 
-Senza stendardo
-l'esercito si disperde.
-
-Pausa lunga.
-
-Firenze perde.
-Per un tradimento.
+Strappa.
 
 Pausa.
 
-Dante lo capisce.
-Lo afferra per i capelli.
+È uno dei punti
+più duri
+di tutto l’Inferno.
 
 Pausa lunga.
 
-> «O tu che mostri
-> per cotanta ira lo tuo nome,
-> dimmi chi sei.»
+E Bocca,
+una volta scoperto,
+fa l’unica cosa
+che sa fare:
+
+trascina dentro
+gli altri.
+
+Da Duera.
+
+Beccheria.
+
+Gianni del Soldanier.
+
+Ganellone.
+
+Tribaldello.
+
+Pausa lunga.
+
+Il traditore
+non cade mai
+da solo.
+
+## vv. 124-139 - I due in una buca
+
+> Noi eravam partiti già da ello,
+> ch’io vidi due ghiacciati in una buca,
+> sì che l’un capo a l’altro era cappello.
+> E come ’l pan per fame si manduca,
+> così ’l sovran li denti a l’altro pose
+> là ’ve ’l cervel s’aggiunge con la nuca.
+> Non altrimenti Tideo si rose
+> le tempie a Menalippo per disdegno,
+> che quei faceva il teschio e l’altre cose.
+> «O tu che mostri per sì bestial segno
+> odio sovra colui che tu ti mangi,
+> dimmi ’l perché,» diss’io «per tal convegno,
+> che se tu a ragion di lui ti piangi,
+> sappiendo chi voi siete e la sua pecca,
+> nel mondo suso ancora io te ne cangi,
+> se quella con ch’io parlo non si secca.»
+
+Pausa lunga.
+
+Poi l’ultima immagine.
 
 Pausa.
 
-Bocca non risponde.
+Due in una buca.
+
+Uno sopra.
+
+Uno sotto.
 
 Pausa lunga.
 
-Dante strappa.
+E il morso
+non è furia.
+
+È fame.
+
+Come il pane.
 
 Pausa.
 
-Bocca non parla.
+Il canto
+si ferma qui.
+
+Sulla domanda.
+
+Non sulla risposta.
 
 Pausa lunga.
 
-Un'altra anima
-lo nomina
-per dispetto.
-
-Pausa.
-
-> «Questi è Bocca
-> che qui sotto copre il capo.»
-
-Pausa lunga.
-
-Bocca risponde
-nominando gli altri.
-
-Non per confessare.
-
-Per trascinare
-tutti con sé.
-
-Pausa.
-
-Buoso da Duera
-che si fece pagare
-per lasciar passare
-l'esercito francese.
-
-Pausa lunga.
-
-Gianni de' Soldanier.
-Ganelon.
-Tebaldello.
-
-Pausa.
-
-Un elenco
-di tradimenti
-tirato fuori
-come un'arma.
-
-Pausa lunga.
-
-Se cado
-cado con tutti.
-
----
-
-## vv. 124-139 - I due chiusi in uno foro
-
-[Schermo: nero pieno]
-
-Pausa lunga.
-
-E poi
-l'ultima immagine
-del canto.
-
-Pausa.
-
-Due anime
-nello stesso buco nel ghiaccio.
-
-Pausa lunga.
-
-Vicine.
-
-Pausa.
-
-> com'il pan per fame si manduca,
-> sì 'l sovran li denti a l'altro pose
-> là 've 'l cervel s'aggiugne con la nuca.
-
-Pausa lunga.
-
-Uno
-sta mangiando
-la testa dell'altro.
-
-Pausa.
-
-Come si mangia
-il pane quando si ha fame.
-
-Pausa lunga.
-
-Non la morde
-con rabbia.
-
-Con fame.
-
-Pausa.
-
-Dante si ferma.
-
-Pausa lunga.
-
-E chiede.
-
-Pausa.
-
-Il trentaduesimo
-finisce qui.
-
-Pausa lunga.
-
-La risposta
-viene nel prossimo.
-
----
+Perché la risposta
+dev’essere
+un altro canto.
 
 ## Chiusura
 
@@ -502,106 +476,39 @@ viene nel prossimo.
 
 Pausa lunga.
 
-Tutto l'Inferno
-aveva preparato questo.
+Il fondo dell’Inferno
+non brucia.
+
+Gela.
 
 Pausa.
 
 Il fuoco
-era la pena dei lussuriosi.
-Degli iracondi.
-Di chi bruciava dentro.
+apparteneva ancora
+alla passione.
 
 Pausa lunga.
 
-Il fondo dell'Inferno
-non brucia.
+Qui la passione
+si è spenta.
+
+Resta la durezza.
+
+Resta il legame
+capovolto.
 
 Pausa.
 
-Gela.
+Fratelli contro fratelli.
 
-Pausa lunga.
+Cittadini contro città.
 
-È il contrario
-di quello che ci si aspetta.
-
-Pausa.
-
-E ha una logica.
+Volti serrati
+nel ghiaccio.
 
 Pausa lunga.
 
 Il tradimento
-è il peccato freddo.
-
-Pausa.
-
-Non è un peccato d'ira.
-Non d'amore.
-Non di desiderio.
-
-Pausa lunga.
-
-È un peccato calcolato.
-
-Pausa.
-
-Freddo.
-
-Pausa lunga.
-
-Chi ha tradito il fratello.
-Chi ha tradito la città.
-Chi ha tradito il sangue.
-
-Pausa.
-
-Non lo ha fatto
-per passione.
-
-Pausa lunga.
-
-Lo ha fatto
-a sangue freddo.
-
-Pausa.
-
-E adesso
-il freddo è per sempre.
-
-Pausa lunga.
-
-Le lacrime gelano
-prima di uscire.
-
-Pausa.
-
-Non si può
-nemmeno piangere.
-
-Pausa lunga.
-
-Il pianto
-non lascia piangere.
-
-Pausa.
-
-Il dolore
-non trova uscita.
-
-Pausa lunga.
-
-Tutto si congela.
-
-Pausa.
-
-Il corpo.
-Le lacrime.
-Il tempo.
-
-Pausa lunga.
-
-Il tradimento non brucia.
+non brucia.
 
 Gela.
