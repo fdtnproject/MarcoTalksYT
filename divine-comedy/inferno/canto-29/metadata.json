@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 29",
+  "slug": "canto-29",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_29_source.txt",
+    "talk_finale_md": "./scripts/Canto_29_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_29_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto29-content.js"
+  },
+  "images": {
+    "thumbnail": "./images/29_canto_01.png",
+    "cover": "./images/29_canto_01.png",
+    "vertical": null
+  },
+  "notes": "Script completo del Canto XXIX disponibile. `Canto_29_source.txt` contiene il testo UTET; `Canto_29_talk_finale.md` e `Canto_29_cue_immagini.md` sono pronti. La tavola `29_canto_01.png` e' gia agganciata; altri asset utili: Geri del Bello / il fetore della decima bolgia / Griffolino d'Arezzo / Capocchio / nero finale sul falso scritto nel corpo."
+}

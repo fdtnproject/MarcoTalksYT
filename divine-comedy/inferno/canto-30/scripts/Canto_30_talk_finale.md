@@ -3,8 +3,6 @@
 Versione da palco
 Linea guida: "Chi si è fatto un altro è diventato nessuno"
 
----
-
 ## Apertura
 
 [Schermo: nero pieno]
@@ -24,7 +22,8 @@ Pausa lunga.
 
 Il trentesimo
 apre prima ancora
-di entrare nella bolgia.
+di entrare
+nella bolgia.
 
 Pausa.
 
@@ -36,545 +35,358 @@ Non come ornamento.
 
 Come specchio.
 
----
+## vv. 1-27 - Atamante, Ecuba, le due ombre rabbiose
 
-## vv. 1-27 - Le furie mitologiche
-
-Dante costruisce
-un precedente.
-
-Pausa.
-
-Prima di mostrare
-i falsari di persona,
-evoca due figure
-che hanno perso il senno.
-
-Pausa lunga.
-
-Atamante.
-
-Pausa.
-
-> Nel tempo che Giunone era crucciata
-> per Semele contra 'l sangue tebano,
-> come mostrò una e altra fiata,
-> Atamante divenne tanto insano
-> che, veggendo la moglie con due figli
+> Nel tempo che Iunone era crucciata
+> per Semelè contra ’l sangue tebano,
+> come mostrò una ed altra fiata,
+> Atamante divenne tanto insano,
+> che veggendo la moglie con due figli
 > andar carcata da ciascuna mano,
-> gridò: «Tendiam le reti, sì ch'io pigli
-> la leonessa e' leoncini al varco»;
+> gridò: «Tendiam le reti sì ch’io pigli
+> la leonessa e i leoncini al varco»;
 > e poi distese i dispietati artigli,
-> prendendo l'un ch'aveva nome Learco,
+> prendendo l’un ch’avea nome Learco,
 > e rotollo e percosselo ad un sasso;
-> e quella s'annegò con l'altro carco.
+> e quella s’annegò con l’altro carco.
+> E quando la fortuna volse in basso
+> l’altezza dei Troian che tutto ardiva,
+> sì che insieme col regno il re fu casso,
+> Ecuba trista, misera e cattiva,
+> poscia che vide Polissena morta,
+> e del suo Polidoro in su la riva
+> del mar si fu, la dolorosa, accorta,
+> forsennata latrò sì come cane,
+> tanto il dolor le fe’ la mente torta.
+> Ma né di Tebe furie né troiane
+> si vider mai in alcun tanto crude,
+> non punger bestie, non che membra umane,
+> quant’io vidi due ombre smorte e nude,
+> che mordendo correvan di quel modo
+> che ’l porco quando del porcil si schiude.
 
 Pausa lunga.
 
-Vede la moglie.
-I figli.
-
-Pausa.
-
-E vede bestie.
-
-Pausa lunga.
-
-Prende Learco.
-Lo sbatte contro la pietra.
-
-La moglie
-si getta in mare
-con l'altro bambino
-tra le braccia.
-
-Pausa.
-
-La follia
-che cancella
-chi hai davanti.
-
-Pausa lunga.
+Prima Atamante.
 
 Poi Ecuba.
 
 Pausa.
 
-> e come la fortuna volse in basso
-> l'altezza de' Troian che tutto ardiva,
-> sì che 'nsieme col regno il re fu casso,
-> Ecuba trista, misera e cattiva,
-> poscia che vide Polissena morta,
-> e del suo Polidoro in su la riva
-> del mar si fu la dolorosa accorta,
-> forsennata latrò sì come cane:
-> tanto il dolor le fé la mente torta.
+Due che il dolore
+o la follia
+hanno spostato
+fuori da sé.
 
 Pausa lunga.
 
-Troia bruciata.
-Il re morto.
-La figlia uccisa.
+Poi Dante stringe il paragone.
 
-E poi
-il figlio
-trovato sulla riva.
+Nemmeno loro.
+
+Nemmeno le furie tebane.
+
+Nemmeno Troia.
 
 Pausa.
 
-E ulula.
+Perché quello che arriva adesso
+non è solo sofferenza.
 
-Pausa lunga.
-
-Come un cane.
-
-Pausa.
-
-Due che non sono più loro.
-
-Pausa lunga.
-
-Dante dice:
-quello che sto per vedere
-supera anche questo.
-
----
+È identità rovinata.
 
 ## vv. 28-48 - Gianni Schicchi e Mirra
+
+> L’una giunse a Capocchio, ed in sul nodo
+> del collo l’assannò, sì che, tirando,
+> grattar li fece il ventre al fondo sodo.
+> E l’Aretin, che rimase tremando,
+> mi disse: «Quel folletto è Gianni Schicchi,
+> e va rabbioso altrui così conciando.»
+> «Oh!» diss’io lui, «se l’altro non ti ficchi
+> i denti addosso, non ti sia fatica
+> a dir chi è pria che di qui si spicchi.»
+> Ed egli a me: «Quell’è l’anima antica
+> di Mirra scellerata, che divenne
+> al padre fuor del dritto amore amica.
+> Questa a peccar con esso così venne,
+> falsificando sé in altrui forma,
+> come l’altro che là sen va sostenne,
+> per guadagnar la donna de la torma,
+> falsificare in sé Buoso Donati,
+> testando e dando al testamento norma.»
 
 [Schermo: nero pieno]
 
 Pausa lunga.
 
-Due ombre
-corrono.
-
-Pausa.
-
-Mordono.
-
-Pausa lunga.
-
-Come porci
-lasciati liberi.
-
-Pausa.
-
-Una
-si lancia su Capocchio.
-
-Pausa lunga.
-
-Capocchio.
-
-Quello che Dante
-aveva appena lasciato
-nel canto precedente.
-
-Pausa.
-
-Lo azzanna per la nuca.
-Lo trascina.
-Lo lascia ventre a terra
-sulla pietra.
-
-Pausa lunga.
-
-Chi è?
+Le due ombre
+adesso hanno un nome.
 
 Pausa.
 
 Gianni Schicchi.
 
-Pausa lunga.
-
-Aveva impersonato
-un morto.
-
-Buoso Donati.
-
-Sul letto di morte.
-
-Si era messo
-al posto suo.
-
-Aveva dettato il testamento.
-
-Si era preso
-la cavalla migliore
-della scuderia.
-
-Pausa.
-
-L'altra?
-
-Pausa lunga.
-
 Mirra.
 
+Pausa lunga.
+
+Due falsatori della persona.
+
+Non della moneta.
+
+Non della parola ancora.
+
+Della faccia.
+
 Pausa.
 
-Si era camuffata
-per andare
-nel letto del padre.
+Uno si fece
+Buoso Donati.
+
+L’altra
+si fece un’altra donna
+per entrare nel letto del padre.
 
 Pausa lunga.
 
-Cinyras.
+Falsificando sé
+in altrui forma.
 
-Non per denaro.
-
-Per desiderio.
-
-Pausa.
-
-Due che si sono fatti
-qualcun altro.
-
-Pausa lunga.
-
-E adesso
-corrono senza sosta.
-Mordono.
-Non parlano.
-
-Pausa.
-
-Come se
-chi ha rubato una faccia
-non sapesse più
-usare la propria voce.
-
----
+Questa è la formula
+che apre il canto.
 
 ## vv. 49-90 - Maestro Adamo
 
-[Schermo: Doré — Maestro Adamo nella decima bolgia]
-
-Pausa lunga.
-
-Poi c'è lui.
-
-Pausa.
-
-Fermo.
-
-Pausa lunga.
-
-Tutti corrono.
-Tutti si grattano.
-Tutti si muovono.
-
-Lui no.
-
-Pausa.
-
-Non può.
-
-Pausa lunga.
-
+> E poi che i due rabbiosi fur passati
+> sovra cui io avea l’occhio tenuto,
+> rivolsilo a guardar gli altri malnati.
 > Io vidi un, fatto a guisa di leuto,
-> pur s'avesse avuta l'anguinaia
-> tronca da l'altro che l'uom ha forcuto.
+> pur ch’egli avesse avuto l’anguinaia
+> tronca da l’altro che l’uomo ha forcuto.
+> La grave idropisia, che sì dispaia
+> le membra, con l’umor che mal converte,
+> che ’l viso non risponde a la ventraia,
+> faceva lui tener le labbra aperte
+> come l’etico fa, che per la sete
+> l’un verso il mento e l’altro in su rinverte.
+> «O voi che sanz’alcuna pena siete,
+> e non so io perché, nel mondo gramo»
+> diss’egli a noi, «guardate e attendete
+> a la miseria del maestro Adamo:
+> io ebbi, vivo, assai di quel ch’io volli;
+> e ora, lasso!, un gocciol d’acqua bramo.
+> Li ruscelletti che de’ verdi colli
+> del Casentin discendon giuso in Arno
+> facendo i lor canali freddi e molli,
+> sempre mi stanno innanzi, e non indarno,
+> ché l’imagine lor vie più m’asciuga
+> che ’l male ond’io nel volto mi discarno.
+> La rigida giustizia che mi fruga
+> tragge cagion del loco ov’io peccai
+> a metter più li miei sospiri in fuga.
+> Ivi è Romena, là dov’io falsai
+> la lega suggellata del Battista,
+> per ch’io il corpo su arso lasciai.
+> Ma s’io vedessi qui l’anima trista
+> di Guido o d’Alessandro o di lor frate,
+> per fonte Branda non darei la vista.
+> Dentro c’è l’una già, se l’arrabbiate
+> ombre che vanno intorno dicon vero;
+> ma che mai val, c’ho le membra legate?
+> S’io fossi pur di tanto ancor leggiero
+> ch’io potessi in cent’anni andare un’oncia,
+> io sarei messo già per lo sentiero,
+> cercando lui tra questa gente sconcia,
+> con tutto ch’ella volge undici miglia,
+> e men d’un mezzo di traverso non ci ha.
+> Io son per lor tra sì fatta famiglia:
+> ei m’indussero a batter li fiorini
+> ch’avean tre carati di mondiglia.»
+
+[Schermo: Doré — Maestro Adamo]
 
 Pausa lunga.
 
-Un liuto.
-
-Pausa.
-
-Il corpo
-gonfio come uno strumento.
-
-L'addome enorme.
-Le gambe sottili.
-
-Pausa lunga.
-
-> La grave idropesi, che sì dispaia
-> le membra con l'omor che mal converte,
-> che 'l viso non risponde a la ventraia,
-> facea lui tener le labbra aperte
-> come l'etico fa, che per la sete
-> l'un verso 'l mento e l'altro in sù revert.
-
-Pausa lunga.
-
-La bocca aperta.
-
-La sete.
-
-Pausa.
-
-E intorno:
-acqua.
-
-Pausa lunga.
-
-No.
-
-Il ricordo dell'acqua.
-
-Pausa.
-
-> «I' son Maestro Adamo;
-> io ebbi, vivo, assai di quel ch'io volli,
-> e ora, lasso!, un gocciol d'acqua bramo.»
-
-Pausa lunga.
-
-Ho avuto tutto.
-
-Adesso voglio
-una goccia d'acqua.
+Poi il canto
+si ferma
+su un corpo solo.
 
 Pausa.
 
 Maestro Adamo.
 
+Un liuto umano.
+
 Pausa lunga.
 
-Bresciano.
-Al servizio dei conti Guidi
-nel Casentino.
+Gonfio.
 
-Ha falsificato il fiorino.
+Immobile.
+
+Arso dalla sete.
 
 Pausa.
 
-Tre carati
-di metallo vile
-mescolati nell'oro.
+E il colpo è questo:
+
+ha avuto
+quello che voleva.
+
+Ora vuole
+una goccia d’acqua.
 
 Pausa lunga.
+
+Tre carati
+di mondiglia
+dentro il fiorino.
 
 Tre carati.
 
-E adesso:
-questo corpo.
+E tutto il corpo
+gli torna contro.
 
-Pausa.
+## vv. 91-129 - La falsa di Putifarre, Sinone, la lite
 
-Vede i ruscelli.
+> Ed io a lui: «Chi son li due tapini
+> che fumman come man bagnate ’l verno,
+> giacendo stretti a’ tuoi destri confini?»
+> «Qui li trovai, e poi volta non dierno»
+> rispuose, «quand’io piovvi in questo greppo;
+> e non credo che dieno in sempiterno.
+> L’una è la falsa che accusò Ioseppo;
+> l’altro è ’l falso Sinon greco da Troia:
+> per febbre aguta gittan tanto leppo.»
+> E l’un di lor, che si recò a noia
+> forse d’esser nomato sì oscuro,
+> col pugno li percosse l’epa croia.
+> Quella sonò come fosse un tamburo;
+> e mastro Adamo li percosse il volto
+> col braccio suo, che non parve men duro,
+> dicendo a lui: «Ancor che mi sia tolto
+> lo muover, per le membra che son gravi,
+> ho io il braccio a tal mestiere sciolto.»
+> Ond’ei rispuose: «Quando tu andavi
+> al foco, non l’avei tu così presto,
+> ma sì e più l’avei quando coniavi.»
+> E l’idropico: «Tu di’ ver di questo;
+> ma tu non fosti sì ver testimonio
+> là ’ve del ver fosti a Troia richiesto.»
+> «S’io dissi falso, e tu falsasti il conio»
+> disse Sinone; «e son qui per un fallo,
+> e tu per più ch’alcun altro dimonio.»
+> «Ricorditi, spergiuro, del cavallo»
+> rispuose quel ch’avea enfiata l’epa,
+> «e sieti reo che tutto il mondo sallo!»
+> «E te sia rea la sete onde ti crepa»
+> disse ’l greco «la lingua, e l’acqua marcia
+> che ’l ventre innanzi gli occhi sì t’assiepa.»
+> Allora il monetier «Così si squarcia
+> la bocca tua per tuo mal, come suole:
+> ché, s’i’ ho sete ed umor mi rinfarcia,
+> tu hai l’arsura e ’l capo che ti duole,
+> e per leccar lo specchio di Narcisso
+> non vorresti, a invitar, molte parole.»
 
 Pausa lunga.
 
-> Ramo del Casentin discende giuso
-> in Arno sù di sopra a Pratomagno,
-> fresco e molle, e sempre me ne 'ncuso.
+Adesso il falso
+non corre più.
+
+Litiga.
 
 Pausa.
 
-Freschi.
-Limpidi.
-Sempre davanti agli occhi.
-
-Pausa lunga.
-
-E mai raggiungibili.
-
-Pausa.
-
-La sete
-che non smette.
-
-L'acqua
-che non arriva.
-
-Pausa lunga.
-
-È stato bruciato vivo.
-
-Pausa.
-
-I conti Guidi
-che lo avevano ingaggiato
-sono qui anche loro.
-
-Li nomina.
-Senza pietà.
-
----
-
-## vv. 91-129 - Sinone e la lite
-
-Poi:
+La falsa di Putifarre.
 
 Sinone.
 
-Pausa.
-
-Il greco che convinse
-i Troiani
-ad aprire le porte.
+Maestro Adamo.
 
 Pausa lunga.
 
-Ad accettare il cavallo.
+È una scena bassa.
+
+Volgare.
+
+Ridicola.
 
 Pausa.
 
-Con una sola menzogna
-ha cambiato
-la storia del mondo.
+Un ventre
+che suona come un tamburo.
+
+Due dannati
+che si rinfacciano
+chi abbia mentito peggio.
 
 Pausa lunga.
 
-Ha la febbre.
-Brucia dall'interno.
-Puzza.
-
-Pausa.
-
-E comincia a litigare
-con Maestro Adamo.
-
-Pausa lunga.
-
-Non è un litigio nobile.
-
-Pausa.
-
-Si insultano.
-Si accusano.
-Si ricordano
-i torti.
-
-Pausa lunga.
-
-Sinone colpisce
-il ventre gonfio
-di Maestro Adamo.
-
-Pausa.
-
-Risuona
-come un tamburo.
-
-Pausa lunga.
-
-Maestro Adamo
-risponde.
-
-Pausa.
-
-Ha un braccio libero.
-Lo usa.
-
-Pausa lunga.
-
-Due bugiardi
-che si accusano
-di mentire.
-
-Pausa.
-
-Ognuno ricorda
-il crimine dell'altro
-meglio del proprio.
-
-Pausa lunga.
-
-La cosa più triste dell'Inferno
-non è sempre
-il dolore.
-
-Pausa.
-
-A volte
-è questo.
-
----
+E proprio per questo
+Dante ci resta
+incollato.
 
 ## vv. 130-148 - La vergogna di Dante
+
+> Ad ascoltarli er’io del tutto fisso,
+> quando il maestro mi disse: «Or pur mira
+> che per poco è che teco non mi risso!»
+> Quand’io ’l senti’ a me parlar con ira,
+> volsimi verso lui con tal vergogna
+> che ancor per la memoria mi si gira.
+> Qual è colui che suo dannaggio sogna,
+> che, sognando, desidera sognare,
+> sì che quel ch’è, come non fosse, agogna,
+> tal mi fec’io, non possendo parlare:
+> che disiava scusarmi, e scusava
+> me tuttavia, e nol mi credea fare.
+> «Maggior difetto men vergogna lava»
+> disse ’l maestro, «che ’l tuo non è stato;
+> però d’ogni tristizia ti disgrava.
+> E fa ragion ch’io ti sia sempre a lato;
+> se più avvien che fortuna t’accoglia
+> dove sien genti in simigliante piato:
+> ché voler ciò udire è bassa voglia.»
 
 [Schermo: nero pieno]
 
 Pausa lunga.
 
-Dante guarda.
+Ed eccolo,
+il vero colpo del canto.
 
 Pausa.
 
-E non riesce
-a smettere.
+Non Schicchi.
+
+Non Maestro Adamo.
+
+Non Sinone.
+
+Dante.
 
 Pausa lunga.
 
-È affascinato.
+Dante
+che si scopre
+preso
+da una bassezza.
 
 Pausa.
 
-Non dalla grandezza.
-Non dal terrore.
+Virgilio
+non lo rimprovera
+per pietà.
 
-Dal litigio.
-
-Pausa lunga.
-
-Virgilio se ne accorge.
-
-Pausa.
-
-> «Or pur mira,
-> che per poco che teco non mi risso.»
+Lo rimprovera
+per gusto.
 
 Pausa lunga.
 
-Continua pure a guardare —
-quasi mi faccio prendere
-anche io.
-
-Pausa.
-
-> «Ché voler ciò udire è bassa voglia.»
-
-Pausa lunga.
-
-Bassa voglia.
-
-Pausa.
-
-Non paura.
-Non pietà.
-Non orrore.
-
-Pausa lunga.
-
-Piacere volgare.
-
-Lo stare a guardare
-chi si degrada.
-
-Pausa.
-
-Dante abbassa la testa.
-
-Pausa lunga.
-
-La vergogna.
-
-Pausa.
-
-E Virgilio
-non lo lascia lì.
-
-Pausa lunga.
-
-Cambia tono subito.
-
-Pausa.
-
-Lo raccoglie.
-
-Pausa lunga.
-
-Bastano poche parole
-per restituire
-la dignità
-a chi l'ha persa.
-
----
+Voler udire
+quel piato
+è bassa voglia.
 
 ## Chiusura
 
@@ -582,83 +394,46 @@ a chi l'ha persa.
 
 Pausa lunga.
 
-La decima bolgia
-ha quattro falsari.
+Il trentesimo canto
+comincia
+con chi perde se stesso
+e finisce
+con Dante
+che teme
+di perdersi un poco anche lui.
 
 Pausa.
 
-Di metalli.
-Di moneta.
-Di parola.
-Di persona.
+Gianni Schicchi.
+
+Mirra.
+
+Maestro Adamo.
+
+Sinone.
 
 Pausa lunga.
 
-Tutti con il corpo
-che porta il marchio
-di quello che hanno fatto.
+Persona.
+
+Moneta.
+
+Parola.
 
 Pausa.
 
-Gli alchimisti
-si grattano le scaglie.
+Tre modi
+di falsare il reale.
+
+Tre modi
+di consumare
+la propria forma.
 
 Pausa lunga.
 
-Maestro Adamo
-non si muove
-e ha sete per sempre.
-
-Pausa.
-
-Sinone
-brucia dall'interno.
-
-Pausa lunga.
-
-Gianni Schicchi e Mirra
-corrono.
-Mordono.
-Non parlano.
-
-Pausa.
-
-I falsari di persona
-sono i più inquietanti.
-
-Pausa lunga.
-
-Perché non hanno falsificato
-un metallo.
-
-Non hanno falsificato
-una parola.
-
-Pausa.
-
-Si sono fatti
-un altro.
-
-Pausa lunga.
-
-Hanno indossato
-una faccia non loro.
-
-Hanno abitato
-una vita non loro.
-
-Pausa.
-
-E adesso corrono
-senza sosta.
-Senza voce.
-Senza nome.
-
-Pausa lunga.
-
-Come se
-chi si è fatto un altro
-non sapesse più
+Chi si è fatto un altro
+alla fine
+non sa più
 chi è.
 
 Pausa.

@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 30",
+  "slug": "canto-30",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_30_source.txt",
+    "talk_finale_md": "./scripts/Canto_30_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_30_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto30-content.js"
+  },
+  "images": {
+    "thumbnail": "./images/30_canto_01.png",
+    "cover": "./images/30_canto_01.png",
+    "vertical": null
+  },
+  "notes": "Script completo del Canto XXX disponibile. `Canto_30_source.txt` contiene il testo UTET; `Canto_30_talk_finale.md` e `Canto_30_cue_immagini.md` sono pronti. La tavola `30_canto_01.png` e' gia agganciata; altri asset utili: Atamante / Ecuba / Gianni Schicchi / Mirra / Maestro Adamo / Sinone / nero finale sulla vergogna di Dante."
+}
