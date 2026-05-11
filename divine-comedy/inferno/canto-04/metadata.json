@@ -14,9 +14,9 @@
     "content_js": "./canto04-content.js"
   },
   "images": {
-    "thumbnail": null,
-    "cover": null,
+    "thumbnail": "./images/04_canto_01.png",
+    "cover": "./images/04_canto_01.png",
     "vertical": null
   },
-  "notes": "Script completo disponibile. Asset visivi da aggiungere in ./images/ (tavole di Dore per risveglio / folla del Limbo / Cristo-discesa / quattro poeti / castello / filosofi / uscita buia)."
+  "notes": "Script completo disponibile. Tavola Doré `04_canto_01.png` già agganciata per il risveglio nel Limbo; altri asset visivi restano utili per folla del Limbo, Cristo-discesa, quattro poeti, castello, filosofi e uscita buia."
 }

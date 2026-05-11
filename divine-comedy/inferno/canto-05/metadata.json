@@ -14,9 +14,9 @@
     "content_js": "./canto05-content.js"
   },
   "images": {
-    "thumbnail": null,
-    "cover": null,
+    "thumbnail": "./images/05_canto_01.png",
+    "cover": "./images/05_canto_03.png",
     "vertical": null
   },
-  "notes": "Script completo disponibile. Asset visivi da aggiungere in ./images/ (tavole di Dore per Minosse / la bufera / Paolo e Francesca in avvicinamento / Paolo e Francesca col libro / Dante caduto)."
+  "notes": "Script completo disponibile. Tavole Doré `05_canto_01.png`, `05_canto_02.png` e `05_canto_03.png` già agganciate per Minosse, la bufera e Paolo e Francesca col libro."
 }
