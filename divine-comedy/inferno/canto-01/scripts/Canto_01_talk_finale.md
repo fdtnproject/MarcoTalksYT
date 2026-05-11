@@ -3,11 +3,6 @@
 Versione da palco
 Linea guida: "Senza misura non c’è via"
 
-Nota di lavoro:
-- questa versione ripulisce il draft presente in `01.docx`
-- i versi sono riallineati al testo standard del Canto I
-- i cue immagine restano generici: le tavole le scegli tu
-
 ## Apertura
 
 [Schermo: Doré / selva]
@@ -36,7 +31,6 @@ che ha perso la via.
 > mi ritrovai per una selva oscura,
 > che la diritta via era smarrita.
 
-Qui succede subito una cosa fondamentale.
 Dante non dice dove si trova.
 Non dice da quanto tempo cammina.
 
@@ -67,7 +61,6 @@ sei già dentro il suo dominio.
 > ma, per trattar del ben ch’io vi trovai,
 > dirò de l’altre cose ch’io v’ho scorte,
 
-Qui Dante fa già una cosa enorme.
 Dice: dirò.
 
 Promette un ordine.
@@ -101,7 +94,7 @@ Il sonno non è stanchezza.
 > vestite già de’ raggi del pianeta
 > che mena dritto altrui per ogni calle.
 
-Finalmente succede qualcosa di geometrico:
+Finalmente appare una forma:
 la valle termina.
 
 C’è un limite.
@@ -135,7 +128,7 @@ Si riduce.
 Dal caos totale
 si passa a un disordine contenuto.
 
-E poi arriva l'immagine perfetta:
+Poi arriva l'immagine del naufrago:
 il naufrago ha due spazi,
 la riva e il mare.
 
@@ -154,8 +147,7 @@ E distinguere è il primo atto della conoscenza.
 > ripresi via per la piaggia diserta,
 > sì che ’l piè fermo sempre era il più basso.
 
-Qui Dante fa un gesto fondamentale:
-si gira indietro.
+Si gira indietro.
 Non è nostalgia.
 È verifica.
 
@@ -186,8 +178,7 @@ All'inizio.
 Non ti abbatte.
 Ti fa deviare.
 
-Qui la geometria è chiarissima:
-sta davanti.
+Sta davanti.
 Occupa la linea.
 
 La direzione viene negata.
@@ -207,8 +198,7 @@ La direzione viene negata.
 > con la test’alta e con rabbiosa fame,
 > sì che parea che l’aere ne temesse.
 
-Qui il poema ti dice:
-le condizioni sono perfette.
+Le condizioni sono perfette.
 
 È mattino.
 Il sole sale.
@@ -246,14 +236,14 @@ dall'elusivo al dominante.
 > che in tutti i suoi pensier piange e s’attrista,
 
 La lupa è il contrario del leone.
-Non è piena:
-è vuota.
+Non è piena.
+È vuota.
 
 È magra perché desidera sempre.
 È l’ostacolo che non finisce mai.
 Quello che si nutre del tuo stesso cedimento.
 
-Qui Dante non dice: sono caduto.
+Non dice: sono caduto.
 Dice: gravezza.
 
 La lupa non colpisce.
@@ -262,13 +252,8 @@ Ti toglie slancio.
 E quando il peso supera una soglia,
 la salita non è più possibile.
 
-Qui Dante perde la cosa peggiore:
+E perde la cosa peggiore:
 la speranza dell'altezza.
-
-## Le tre fiere - Tre modi di perdere la via
-
-Le tre fiere non sono tre incidenti.
-Sono tre modi diversi di perdere la direzione.
 
 La lonza devia.
 Il leone domina.
@@ -276,7 +261,7 @@ La lupa svuota.
 
 Pausa.
 
-Prima Dante vedeva la strada.
+Prima vedeva la strada.
 Adesso non riesce più a sostenerla.
 
 ## vv. 58-66 - L'urto e l'apparizione
@@ -291,7 +276,6 @@ Adesso non riesce più a sostenerla.
 > «Miserere di me» gridai a lui,
 > «qual che tu sii, od ombra od omo certo.»
 
-Qui le fiere fanno una cosa precisissima.
 Non tentano:
 spingono.
 
@@ -306,7 +290,7 @@ Con misura.
 
 [Schermo: Doré / Dante e Virgilio]
 
-E a questo punto Dante fa la prima cosa giusta:
+Per la prima volta
 chiede aiuto.
 
 Chiede.
@@ -364,10 +348,6 @@ Un'origine del dire.
 > tu se’ solo colui da cui io tolsi
 > lo bello stilo che m’ha fatto onore.
 
-Qui bisogna fermarsi.
-
-Pausa.
-
 Dante non sta dicendo solo:
 ti ho letto.
 
@@ -414,8 +394,7 @@ Da soli non si regge.
 > che mai non empie la bramosa voglia,
 > e dopo il pasto ha più fame che pria,
 
-Qui c’è la sentenza:
-altro viaggio.
+Altro viaggio.
 
 Non un'aggiunta.
 Una necessità.
@@ -443,10 +422,13 @@ Ogni vittoria la rende più forte.
 > fin che l’avrà rimessa ne l’Inferno,
 > là onde invidia prima dipartilla.
 
-Qui il canto si apre in avanti.
+Il canto si apre davvero in avanti.
 
-Chi sia il veltro, Dante non lo chiude.
-E forse proprio per questo pesa.
+Chi sia il veltro,
+qui,
+non lo chiudo nemmeno io.
+
+E forse è giusto così.
 
 Ma una cosa la dice:
 non si nutre di terra né di peltro.
@@ -459,7 +441,11 @@ Amore.
 Virtute.
 
 Non una bestia più forte.
+
 Una forma più alta.
+Un ordine
+che la lupa
+non può divorare.
 
 ## vv. 112-117 - La decisione della guida
 
@@ -469,8 +455,6 @@ Una forma più alta.
 > ove udirai le disperate strida,
 > vedrai gli antichi spiriti dolenti,
 > che la seconda morte ciascun grida;
-
-Qui nasce la struttura del viaggio.
 
 Tu segui.
 Io guido.
@@ -529,9 +513,9 @@ La salita ha ordine.
 > e color cui tu fai cotanto mesti.»
 > Allor si mosse, e io li tenni retro.
 
-Qui Dante non discute più.
+Dante non discute più.
 Misura.
-E poi chiede.
+Poi chiede.
 
 E chiede con misura:
 male e peggio.
@@ -548,11 +532,17 @@ Il primo canto non racconta ancora l'Inferno.
 
 Racconta la condizione per entrarci.
 
-Senza guida non c’è via.
-Senza misura non c’è via.
-Senza forma non si sale.
+Non basta vedere la luce.
+Bisogna reggerla.
 
-Pausa lunga.
+Non basta desiderare la via.
+Bisogna avere una forma
+per seguirla.
 
 E così
 si mosse.
+
+Pausa lunga.
+
+Senza misura
+non c’è via.
