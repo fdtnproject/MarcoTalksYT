@@ -3,8 +3,6 @@
 Versione da palco
 Linea guida: "La dismisura porta le proprie catene"
 
----
-
 ## Apertura
 
 [Schermo: nero pieno]
@@ -24,497 +22,346 @@ che lo raccoglie.
 Pausa lunga.
 
 Il trentunesimo
-apre con questa stessa cosa.
+apre
+proprio da lì.
 
 Pausa.
 
-La lingua che ferisce
+La stessa lingua
+che ferisce
 è la stessa
-che guarisce.
+che cura.
 
-Pausa lunga.
+## vv. 1-15 - La lingua che morde e risana
 
 > Una medesma lingua pria mi morse,
-> sì che mi tinse l'una e l'altra guancia,
-> e poi la medicina mi riporse;
-> così od io che la lancia
-> d'Achille e del suo padre
-> solea essere cagion, prima di trista
-> e poi di buona mancia.
+> sì che mi tinse l’una e l’altra guancia,
+> e poi la medicina mi riporse:
+> così od’io che soleva la lancia
+> d’Achille e del suo padre esser cagione
+> prima di trista e poi di buona mancia.
+> Noi demmo il dosso al misero vallone
+> su per la ripa che ’l cinge dintorno,
+> attraversando sanza alcun sermone.
+> Quiv’era men che notte e men che giorno,
+> sì che ’l viso m’andava innanzi poco;
+> ma io senti’ sonare un alto corno,
+> tanto ch’avrebbe ogni tuon fatto fioco,
+> che, contra sé la sua via seguitando,
+> dirizzò gli occhi miei tutti ad un loco.
 
 Pausa lunga.
 
-La lancia di Achille.
+Virgilio
+ha ferito Dante.
+
+Virgilio
+ha guarito Dante.
 
 Pausa.
 
-Quella che feriva
-era anche quella
-che sanava.
+La stessa voce.
+
+Lo stesso gesto.
 
 Pausa lunga.
 
-Lo stesso ferro.
-La stessa mano.
+Poi non parlano più.
 
-Pausa.
+Camminano.
 
-Virgilio ha sgridato Dante.
-Virgilio ha raccolto Dante.
+Buio.
 
-Pausa lunga.
+E un corno.
 
-E adesso
-vanno oltre.
+## vv. 16-45 - Orlando, le torri, i giganti
 
----
-
-## vv. 16-45 - Il corno e le torri
-
-Scendono.
-
-Pausa.
-
-E nella nebbia
-arriva un suono.
-
-Pausa lunga.
-
-Forte.
-
-Pausa.
-
-Come un tuono.
-
-Pausa lunga.
-
-> non avria fatto al suo corno Orlando.
-
-Pausa.
-
-Più forte
-del corno di Orlando a Roncisvalle.
-
-Pausa lunga.
-
-Dante non riesce
-a vedere bene.
-
-Pausa.
-
-La nebbia
-nasconde la profondità.
-
-Pausa lunga.
-
-Poi:
-
-qualcosa emerge.
-
-Pausa.
-
-Come torri.
-
-Pausa lunga.
-
-> Però che come su la cerchia tonda
+> Dopo la dolorosa rotta, quando
+> Carlo Magno perdé la santa gesta,
+> non sonò sì terribilmente Orlando.
+> Poco portai in là volta la testa,
+> che mi parve veder molte alte torri;
+> ond’io: «Maestro, di’, che terra è questa?»
+> Ed egli a me: «Però che tu trascorri
+> per le tenebre troppo da la lungi,
+> avvien che poi nel maginare abborri.
+> Tu vedrai ben, se tu là ti congiungi,
+> quanto il senso s’inganna di lontano;
+> però alquanto più te stesso pungi.»
+> Poi caramente mi prese per mano,
+> e disse: «Pria che noi siam più avanti,
+> acciò che ’l fatto men ti paia strano,
+> sappi che non son torri, ma giganti,
+> e son nel pozzo, intorno da la ripa,
+> da l’umbilico in giuso tutti quanti.»
+> Come, quando la nebbia si dissìpa,
+> lo sguardo a poco a poco raffigura
+> ciò che cela il vapor che l’aere stipa,
+> così, forando l’aura grossa e scura,
+> più e più appressando ver la sponda,
+> fuggìemi errore e cresce’mi paura;
+> però che, come su la cerchia tonda
 > Montereggion di torri si corona,
-> così la proda che 'l pozzo circonda
+> così la proda che ’l pozzo circonda
 > torreggiavan di mezza la persona
-> li orribili giganti, cui minaccia
+> gli orribili giganti, cui minaccia
 > Giove dal cielo ancora quando tuona.
 
 Pausa lunga.
 
-Montereggioni.
+Prima l’errore.
+
+Poi la correzione.
 
 Pausa.
 
-La città murata
-con le torri
-che sporgono sopra il bastione.
+Dante vede torri.
+
+Virgilio dice:
+no.
+
+Giganti.
 
 Pausa lunga.
 
-Così emergono i giganti
-dalla profondità del pozzo.
+E il canto
+fa una cosa precisissima:
+
+più si chiarisce la vista,
+più cresce la paura.
 
 Pausa.
 
-Solo la metà superiore.
+Montereggioni
+serve a questo.
 
-Pausa lunga.
+Non a fare sfoggio.
 
-Il busto.
-Le spalle.
-La testa.
-
-Pausa.
-
-Enormi.
-
-Pausa lunga.
-
-E Dante
-per un momento
-crede siano mura.
-
-Pausa.
-
-Poi capisce.
-
-Pausa lunga.
-
-E la paura
-cresce
-con la comprensione.
-
----
+A far sentire
+il passaggio
+da architettura
+a mostruosità.
 
 ## vv. 46-81 - Nembrotto
 
-[Schermo: nero pieno]
+> Ed io scorgeva già d’alcun la faccia,
+> le spalle e ’l petto e del ventre gran parte,
+> e per le coste giù ambo le braccia.
+> Natura certo, quando lasciò l’arte
+> di sì fatti animali, assai fe’ bene,
+> per tòrre tali esecutori a Marte.
+> E s’elli d’elefanti e di balene
+> non si pente, chi guarda sottilmente
+> più giusta e più discreta la ne tiene;
+> ché dove l’argomento de la mente
+> s’aggiugne al mal volere ed a la possa,
+> nessun riparo vi può far la gente.
+> La faccia sua mi parea lunga e grossa
+> come la pina di San Pietro a Roma,
+> e a sua proporzione eran l’altre ossa;
+> sì che la ripa, ch’era perizoma
+> dal mezzo in giù, ne mostrava ben tanto
+> di sopra, che di giungere a la chioma
+> tre Frison s’averìen dato mal vanto;
+> però ch’io ne vedea trenta gran palmi
+> dal luogo in giù dov’uomo affibbia il manto.
+> «Raphel maì amech zabi almi»
+> cominciò a gridar la fiera bocca,
+> cui non si convenian più dolci salmi.
+> E ’l duca mio ver lui: «Anima sciocca,
+> tienti col corno, e con quel ti disfoga
+> quand’ira o altra passion ti tocca!
+> Cercati al collo, e troverai la soga
+> che ’l tien legato, o anima confusa,
+> e vedi lui che ’l gran petto ti doga.»
+> Poi disse a me: «Elli stesso s’accusa:
+> questi è Nembròt, per lo cui mal coto
+> pur un linguaggio nel mondo non s’usa.
+> Lasciamlo stare e non parliamo a voto;
+> ché così è a lui ciascun linguaggio
+> come ’l suo ad altrui, ch’ a nullo è noto.»
+
+[Schermo: Doré — Nembrotto]
 
 Pausa lunga.
 
 Il primo
-che incontra
-è quello
-da cui viene il suono.
+è Nembrotto.
 
 Pausa.
 
-Un corno enorme
-al collo.
+Corno.
 
-Pausa lunga.
+Catena.
 
-Lo fa suonare.
-
-Pausa.
-
-E poi parla.
-
-Pausa lunga.
-
-> «Raphèl maì amèche zabì almi»
-
-Pausa lunga.
-
-Non è una lingua.
-
-Pausa.
-
-Non è nessuna lingua.
-
-Pausa lunga.
-
-Virgilio:
-
-> «Anima sciocca,
-> tienti col corno, e con quel ti disfoga
-> quand'ira o altra passion ti tocca;
-> cerca al collo, e troverai la soga
-> che 'l tien legato, o anima confusa,
-> e vedi lui che 'l gran petto ti doga.»
-
-Pausa lunga.
-
-Nembrotto.
-
-Pausa.
-
-Il costruttore
-della Torre di Babele.
+Lingua rotta.
 
 Pausa lunga.
 
 Aveva voluto
-arrivare fino a Dio.
+una lingua sola.
+
+E adesso
+non ne ha più
+nemmeno una
+che qualcuno possa capire.
 
 Pausa.
 
-E Dio aveva risposto
-confondendo le lingue.
+La pena è totale.
 
-Pausa lunga.
+Non capisce.
 
-Prima
-tutti parlavano
-la stessa lingua.
-
-Dopo Babele:
-nessuno capisce più
-nessuno.
-
-Pausa.
-
-E Nembrotto
-è qui
-con la propria pena.
-
-Pausa lunga.
-
-Non capisce nessuno.
-Nessuno lo capisce.
-
-Pausa.
-
-Ha confuso le lingue del mondo.
-Adesso non ne ha più una.
-
-Pausa lunga.
-
-Il corno
-è il suo solo linguaggio.
-
----
+Non è capito.
 
 ## vv. 82-111 - Fialte e Briareo
 
-[Schermo: Doré — i giganti nel pozzo]
+> Facemmo adunque più lungo viaggio,
+> volti a sinistra; ed al trar d’un balestro
+> trovammo l’altro, assai più fiero e maggio.
+> A cinger lui qual che fosse ’l maestro
+> non so io dir, ma el tenea soccinto,
+> dinanzi, l’altro, e, dietro, il braccio destro
+> d’una catena che ’l tenea avvinto
+> dal collo in giù, sì che in su lo scoperto
+> si ravolgea infino al giro quinto.
+> «Questo superbo voll’esser esperto
+> di sua potenza contro al sommo Giove»
+> disse ’l mio duca, «ond’egli ha cotal merto.
+> Fialte ha nome, e fece le gran prove
+> quando i giganti fer paura a’ Dei:
+> le braccia ch’ei menò già mai non move.»
+> Ed io a lui: «S’esser puote, io vorrei
+> che de lo smisurato Briareo
+> esperienza avesser gli occhi miei.»
+> Ond’ei rispuose: «Tu vedrai Anteo
+> presso di qui, che parla ed è disciolto,
+> che ne porrà nel fondo d’ogni reo.
+> Quel che tu vuoi veder più là è molto,
+> ed è legato, e fatto come questo,
+> salvo che più feroce par nel volto.»
+> Non fu tremoto già tanto rubesto,
+> che scotesse una torre così forte,
+> come Fialte a scuotersi fu presto.
+> Allor temett’io più che mai la morte,
+> e non v’era mestier più che la dotta,
+> s’io non avessi viste le ritorte.
 
 Pausa lunga.
 
-Il secondo gigante
-è incatenato.
+Fialte
+è la forza
+che non è sparita.
+
+È stata solo
+legata.
 
 Pausa.
 
-Fialte.
+Cinque giri
+di catena.
+
+Eppure basta
+un fremito
+per far tremare tutto.
 
 Pausa lunga.
 
-Lui e il fratello Oto
-avevano tentato
-di scalare l'Olimpo.
+Questa è la verità
+dei giganti:
 
-Di rovesciare gli dèi.
+la dismisura
+non smette
+d’essere potente.
 
-Pausa.
-
-Di farsi
-più grandi degli dèi.
-
-Pausa lunga.
-
-Non ci erano riusciti.
-
-E adesso
-le catene.
-
-Pausa.
-
-Cinque giri di catena
-dal collo in giù.
-
-Pausa lunga.
-
-Dante chiede
-di Briareo.
-
-Virgilio risponde:
-è lontano.
-È come Fialte.
-
-Pausa.
-
-Ma quello che vedi
-basta.
-
-Pausa lunga.
-
-Fialte si muove.
-
-Un fremito.
-
-Pausa.
-
-Le catene
-risuonano.
-
-Pausa lunga.
-
-> Io non vidi mai tremar la terra
-> sì violenta, non uscir di gabbia
-> signoril prigion per colpa d'Orfeo.
-
-Pausa.
-
-Anche incatenato
-fa paura.
-
-Pausa lunga.
-
-Anche immobile
-la sua forza
-è visibile.
-
-Pausa.
-
-È questo
-il punto dei giganti.
-
-Pausa lunga.
-
-Non che non abbiano forza.
-Ce l'hanno ancora.
-
-Che la forza
-non li porta
-da nessuna parte.
-
----
+Smette solo
+d’essere libera.
 
 ## vv. 112-145 - Anteo
 
-[Schermo: nero pieno]
+> Noi procedemmo più avante allotta,
+> e venimmo ad Anteo, che ben cinque alle,
+> sanza la testa, uscìa fuor de la grotta.
+> «O tu che ne la fortunata valle,
+> che fece Scipion di gloria reda,
+> quando Annibàl co’ suoi diede le spalle,
+> recasti già mille leon per preda,
+> e che se fossi stato a l’alta guerra
+> de’ tuoi fratelli, ancor par che si creda
+> ch’avrebber vinto i figli de la Terra;
+> mettine giù, e non ten vegna schifo,
+> dove Cocìto la freddura serra.
+> Non ci fare ire a Tizio né a Tifo:
+> questi può dar di quel che qui si brama:
+> però ti china e non torcer lo grifo.
+> Ancor ti può nel mondo render fama,
+> ch’el vive, e lunga vita ancor aspetta,
+> se innanzi tempo grazia a sé nol chiama.»
+> Così disse ’l maestro, e quegli in fretta
+> le man distese, e prese il duca mio,
+> ond’Ercule sentì già grande stretta.
+> Virgilio, quando prender si sentìo,
+> disse a me: «Fatti qua, sì ch’io ti prenda»;
+> poi fece sì ch’un fascio era egli e io.
+> Qual pare a riguardar la Garisenda
+> sotto il chinato, quando un nuvol vada
+> sovr’essa sì che ella incontro penda,
+> tal parve Anteo a me, che stava a bada
+> di vederlo chinare, e fu tal ora
+> ch’io avrei voluto ir per altra strada.
+> Ma lievemente al fondo che divora
+> Lucifero con Giuda ci sposò;
+> né, sì chinato, lì fece dimora,
+> e com’albero in nave si levò.
+
+[Schermo: Doré — Anteo depone i due poeti]
 
 Pausa lunga.
 
-Il terzo è diverso.
-
-Pausa.
-
-Anteo.
-
-Pausa lunga.
+Anteo
+è diverso.
 
 Non è incatenato.
 
 Pausa.
 
-Perché non era
-alle Flegre.
+E Virgilio
+non lo sfida.
 
-Non aveva combattuto
-contro gli dèi.
+Lo lusinga.
 
 Pausa lunga.
 
-Era rimasto
-fuori dalla ribellione.
+Leoni.
+
+Libia.
+
+Scipione.
+
+Fama.
 
 Pausa.
 
-Per questo
-è libero.
+Funziona.
+
+Anteo si china.
+
+La Garisenda
+diventa la misura
+di quel piegarsi.
 
 Pausa lunga.
 
-Ma è ancora qui.
+Poi li prende.
 
-Pausa.
+Li depone.
 
-Virgilio lo chiama.
-Gli parla.
+Non li scaglia.
 
-Pausa lunga.
+Li posa.
 
-E lo lusinga.
-
-Pausa.
-
-Gli ricorda
-le cacce in Libia.
-
-I mille leoni abbattuti.
-
-Pausa lunga.
-
-Gli ricorda Zama.
-
-Dove i Romani
-sconfissero Annibale.
-
-Pausa.
-
-In quelle terre
-era Anteo.
-
-Pausa lunga.
-
-> «O tu che ne la fortunata valle
-> che fece Scipion di gloria reda,
-> quando Anibal co' suoi diede le spalle,
-> recasti già mille leon per preda,
-> e che, se fossi stato a l'alta guerra
-> de' tuoi fratei, ancor par che si creda
-> ch'avrebber vinto i figli de la terra:
-> mettine giù, e non ten vegna schifo,
-> là dove Cocito la freddura serra.»
-
-Pausa lunga.
-
-Virgilio sa
-che Anteo
-ha ancora un orgoglio.
-
-Pausa.
-
-Lo usa.
-
-Pausa lunga.
-
-E Anteo
-si piega.
-
-Pausa.
-
-Si abbassa.
-
-Pausa lunga.
-
-> Qual pare a riguardar la Garisenda
-> sotto 'l chinato, quando un nuvol vada
-> sovr'essa sì, ch'ella incontra penda;
-> tal parve Antëo a me che stava a bada
-> di vederlo chinare...
-
-Pausa lunga.
-
-La Garisenda.
-
-Pausa.
-
-La torre di Bologna
-che pende.
-
-Quando un nuvolo passa
-sembra che sia la torre
-a muoversi.
-
-Pausa lunga.
-
-Così Anteo
-che si china verso di loro.
-
-Pausa.
-
-Enorme.
-Lento.
-
-Pausa lunga.
-
-Li prende.
-Li deposita
-nel fondo del pozzo.
-
-Come chi pone
-qualcosa
-con cura.
-
-Pausa.
-
-E poi
-si raddrizza.
-
-Pausa lunga.
-
-Come un albero da nave
-che si solleva.
-
----
+E si rialza
+come albero in nave.
 
 ## Chiusura
 
@@ -523,120 +370,29 @@ che si solleva.
 Pausa lunga.
 
 I giganti
-sono il confine
-tra la frode e il tradimento.
+stanno tra Malebolge
+e Cocito
+come una soglia.
 
 Pausa.
 
-Tra Malebolge
-e Cocito.
+Non sono frode.
+
+Non sono ancora tradimento.
+
+Sono forza
+senza misura.
 
 Pausa lunga.
 
-Stanno nel mezzo
-non per caso.
+E il loro corpo
+dice già tutto:
 
-Pausa.
+chi ha voluto
+più altezza,
+più spazio,
+più potenza
+di quanta ne reggesse,
 
-Perché rappresentano
-qualcosa di diverso
-da tutto quello che c'era prima.
-
-Pausa lunga.
-
-Non astuzia.
-Non inganno.
-Non falsificazione.
-
-Pausa.
-
-Forza pura.
-
-Pausa lunga.
-
-Forza che non si è fermata
-dove doveva fermarsi.
-
-Pausa.
-
-Nembrotto
-voleva arrivare a Dio.
-
-Fialte
-voleva abbattere l'Olimpo.
-
-Briareo
-lo stesso.
-
-Pausa lunga.
-
-La dismisura.
-
-Pausa.
-
-Il rifiuto
-di qualsiasi limite.
-
-Pausa lunga.
-
-E la pena
-è semplice
-come una catena.
-
-Pausa.
-
-Stai fermo.
-
-Pausa lunga.
-
-Chi voleva
-superare ogni confine
-non si muove più.
-
-Pausa.
-
-Chi voleva
-essere più grande di tutto
-è incatenato
-nel posto più basso.
-
-Pausa lunga.
-
-Solo Anteo
-si muove ancora.
-
-Pausa.
-
-Perché aveva tenuto
-qualcosa di umano.
-
-Pausa lunga.
-
-Aveva cacciato i leoni
-in Libia.
-
-Non aveva assaltato
-il cielo.
-
-Pausa.
-
-E Virgilio
-lo sa.
-
-Lo lusinga.
-Lo usa.
-
-Pausa lunga.
-
-E anche questo
-è una forma di pietà.
-
-Pausa.
-
-Dargli
-ancora un gesto
-da compiere.
-
-Pausa lunga.
-
-La dismisura porta le proprie catene.
+si porta addosso
+le proprie catene.

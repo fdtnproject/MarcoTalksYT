@@ -1,0 +1,22 @@
+{
+  "channel": "MarcoTalksYT",
+  "playlist": "Divine Comedy",
+  "cantica": "Inferno",
+  "episode_title": "Canto 31",
+  "slug": "canto-31",
+  "status": "draft",
+  "script": {
+    "source_txt": "./scripts/Canto_31_source.txt",
+    "talk_finale_md": "./scripts/Canto_31_talk_finale.md",
+    "image_cues_md": "./scripts/Canto_31_cue_immagini.md",
+    "talk_html": "./talk.html",
+    "teleprompter_html": "./teleprompter.html",
+    "content_js": "./canto31-content.js"
+  },
+  "images": {
+    "thumbnail": "./images/31_canto_01.png",
+    "cover": "./images/31_canto_02.png",
+    "vertical": null
+  },
+  "notes": "Script completo del Canto XXXI disponibile. `Canto_31_source.txt` contiene il testo UTET; `Canto_31_talk_finale.md` e `Canto_31_cue_immagini.md` sono pronti. Le tavole `31_canto_01.png` e `31_canto_02.png` sono gia agganciate: Nembrotto e Anteo."
+}
