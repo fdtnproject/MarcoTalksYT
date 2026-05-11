@@ -1,9 +1,7 @@
 # INFERNO - CANTO XXXIV
 
 Versione da palco
-Linea guida: "In fondo all'Inferno si rividono le stelle"
-
----
+Linea guida: "In fondo all'Inferno si rivedono le stelle."
 
 ## Apertura
 
@@ -13,56 +11,60 @@ Pausa lunga.
 
 Allora, il trentaquattresimo canto.
 
+Pausa.
+
+L’ultimo dell’Inferno.
+
 Pausa lunga.
 
-L'ultimo.
+Qui
+non c’è più
+niente da scendere.
+
+Resta solo
+il fondo.
+
+## vv. 1-21 - Vexilla, vento, Dite
+
+> «Vexilla regis prodeunt Inferni
+> verso di noi; però dinanzi mira»
+> disse ’l maestro mio «se tu il discerni.»
+> Come quando una grossa nebbia spira,
+> o quando l’emisperio nostro annotta,
+> par di lungi un molin che ’l vento gira,
+> veder mi parve un tal dificio allotta;
+> poi per lo vento mi ristrinsi retro
+> al duca mio, ché non gli era altra grotta.
+> Già era, e con paura il metto in metro,
+> là dove l’ombre tutte eran coperte,
+> e trasparìen come festuca in vetro.
+> Altre sono a giacere; altre stanno erte,
+> quella col capo e quella con le piante;
+> altra, com’arco, il volto a’ piè rinverte.
+> Quando noi fummo fatti tanto avante
+> ch’al mio maestro piacque di mostrarmi
+> la creatura ch’ebbe il bel sembiante,
+> d’innanzi mi si tolse e fe’ restarmi,
+> «Ecco Dite» dicendo, «ed ecco il loco
+> ove convien che di fortezza t’armi.»
 
 Pausa lunga.
 
 Virgilio apre
-con una frase in latino.
+in latino.
 
 Pausa.
 
-> «Vexilla regis prodeunt inferni.»
+Vexilla regis.
+
+L’inno della croce.
 
 Pausa lunga.
 
-Avanzano i vessilli
-del re dell'Inferno.
+Dante aggiunge
+una sola parola.
 
-Pausa.
-
-È una citazione.
-
-Pausa lunga.
-
-Un inno sacro
-del sesto secolo.
-
-Venanzio Fortunato.
-Per la Passione di Cristo.
-
-Pausa.
-
-*Vexilla regis prodeunt* —
-avanzano i vessilli del re.
-
-Pausa lunga.
-
-Dante aggiunge una parola sola.
-
-*Inferni.*
-
-Pausa.
-
-Dell'Inferno.
-
-Pausa lunga.
-
-Un inno alla croce
-diventato
-l'annuncio di Satana.
+Inferni.
 
 Pausa.
 
@@ -71,511 +73,313 @@ rovesciato.
 
 Pausa lunga.
 
-> «però dinanzi mira»
-> disse 'l maestro mio,
-> «se tu 'l discerni.»
+Poi il mulino.
+
+Prima da lontano.
+
+Poi il vento.
 
 Pausa.
 
-Guarda avanti.
-Vedi se riesci a vederlo.
+Dante
+si stringe dietro Virgilio.
 
 Pausa lunga.
 
-Dante guarda.
+E le anime
+nel ghiaccio
+sono ormai solo
+forme intrappolate.
 
----
+Pausa.
 
-## vv. 1-27 - Il vento
+Poi il nome.
+
+Dite.
+
+## vv. 22-69 - Lucifero
+
+> Com’io divenni allor gelato e fioco
+> nol dimandar, lettor, ch’io non lo scrivo,
+> però ch’ogni parlar sarebbe poco.
+> Io non mori’ e non rimasi vivo:
+> pensa oggimai per te, s’hai fior d’ingegno,
+> qual io divenni d’uno e d’altro privo.
+> Lo imperador del doloroso regno
+> da mezzo il petto uscìa fuor de la ghiaccia;
+> e più con un gigante io mi convegno
+> che ’ giganti non fan con le sue braccia:
+> vedi oggimai quant’esser dee quel tutto
+> ch’a così fatta parte si confaccia.
+> S’el fu sì bel com’ello è ora brutto,
+> e contra ’l suo fattore alzò le ciglia,
+> ben dee da lui procedere ogni lutto.
+> Oh quanto parve a me gran maraviglia
+> quand’io vidi tre facce a la sua testa!
+> L’una dinanzi, e quella era vermiglia;
+> l’altr’eran due che s’aggiungìeno a questa
+> sovr’esso il mezzo di ciascuna spalla,
+> e sé giungìeno al luogo de la cresta;
+> e la destra parea tra bianca e gialla;
+> la sinistra a vedere era tal, quali
+> vegnon di là onde ’l Nilo s’avvalla.
+> Sotto ciascuna uscivan due grand’ali,
+> quanto si convenia a tanto uccello:
+> vele di mar non vid’io mai cotali.
+> Non avean penne, ma di vispistrello
+> era lor modo; e quelle svolazzava,
+> sì che tre venti si movean da ello.
+> Quindi Cocito tutto s’aggelava;
+> con sei occhi piangea, e per tre menti
+> gocciava il pianto e sanguinosa bava.
+> Da ogni bocca dirompea coi denti
+> un peccatore, a guisa di maciulla,
+> sì che tre ne facea così dolenti.
+> A quel dinanzi il morder era nulla
+> verso il graffiar, che tal volta la schiena
+> rimanea de la pelle tutta brulla.
+> «Quell’anima là su c’ha maggior pena»
+> disse ’l maestro «è Giuda Scariotto,
+> che ’l capo ha dentro e fuor le gambe mena.
+> De gli altri due c’hanno il capo di sotto,
+> quel che pende dal nero ceffo è Bruto:
+> vedi come si storce e non fa motto;
+> e l’altro è Cassio che par sì membruto.
+> Ma la notte risurge; e oramai
+> è da partir, ché tutto avem veduto.»
 
 [Schermo: nero pieno]
 
 Pausa lunga.
 
-C'è vento.
+Qui Dante
+non descrive soltanto
+Lucifero.
+
+Descrive
+la propria insufficienza.
 
 Pausa.
 
-Un vento gelido
-che viene dal fondo.
+Non mori’
+e non rimasi vivo.
 
 Pausa lunga.
 
-Dante non riesce
-a stare in piedi.
+Poi l’immagine.
+
+Da mezzo il petto
+fuori dal ghiaccio.
 
 Pausa.
-
-Si mette dietro a Virgilio.
-
-Pausa lunga.
-
-E capisce.
-
-Il vento
-viene da lui.
-
-Pausa.
-
-Da Lucifero.
-
-Pausa lunga.
-
-Dalle sue ali.
-
-Pausa.
-
-Che battono.
-
-Pausa lunga.
-
-E ogni battito
-produce vento.
-
-Pausa.
-
-E ogni vento
-raffredda ulteriormente
-il ghiaccio.
-
-Pausa lunga.
-
-Le ali di Lucifero
-sono la causa
-del ghiaccio di Cocito.
-
-Pausa.
-
-Si imprigiona
-da solo.
-
-Pausa lunga.
-
-Con ogni movimento.
-
----
-
-## vv. 28-69 - Lucifero
-
-[Schermo: Doré — Lucifero nel ghiaccio]
-
-Pausa lunga.
-
-Eccolo.
-
-Pausa.
-
-> «Lo 'mperador del doloroso regno
-> da mezzo 'l petto uscia fuor de la ghiaccia.»
-
-Pausa lunga.
-
-L'imperatore
-del doloroso regno.
-
-Pausa.
-
-Metà nel ghiaccio.
-Metà fuori.
-
-Pausa lunga.
-
-Enorme.
-
-Pausa.
-
-Più grande dei giganti
-quanto i giganti
-sono più grandi degli uomini.
-
-Pausa lunga.
 
 Tre facce.
 
-Pausa.
-
-Una davanti:
-vermiglia.
-
-Pausa lunga.
-
-Una a destra:
-tra il giallo e il bianco.
-
-Pausa.
-
-Una a sinistra:
-scura come quelli
-che vengono
-da dove nasce il Nilo.
-
-Pausa lunga.
-
-Tre colori
-per tre parti del mondo.
-
-Pausa.
-
-Non l'unità della Trinità.
-
-La sua parodia.
-
-Pausa lunga.
-
 Sei ali.
 
-Pausa.
-
-Come un pipistrello.
-
-Pausa lunga.
-
-Non le ali
-di un serafino.
-
-Pausa.
-
-Membrane.
-Senza piume.
-
-Pausa lunga.
-
-> «S'el fu sì bel com'elli è ora brutto,
-> e contra 'l suo fattore alzò le ciglia,
-> ben dee da lui procedere ogni lutto.»
-
-Pausa lunga.
-
-Se era bello
-quanto ora è brutto —
-
-Pausa.
-
-e alzò le ciglia
-contro chi lo aveva fatto —
-
-Pausa lunga.
-
-allora è giusto
-che da lui
-venga ogni lutto.
-
-Pausa.
-
-Non è una condanna.
-
-Pausa lunga.
-
-È una constatazione.
-
-Pausa.
-
-Lucifero era
-il più bello.
-
-Pausa lunga.
-
-E ha scelto
-di essere questo.
-
-Pausa.
+Sei occhi.
 
 Tre bocche.
 
 Pausa lunga.
 
-Tre peccatori.
+Non è l’unità
+di una Trinità.
+
+È la sua caricatura.
 
 Pausa.
 
-Quella di mezzo —
-la bocca della faccia vermiglia —
+E il punto più forte
+è questo:
 
-Giuda Iscariota.
+il vento che batte
+con le ali
+gela Cocito.
 
 Pausa lunga.
 
-La testa dentro.
-Le gambe che calciano fuori.
+Lucifero
+produce da sé
+la propria prigione.
 
 Pausa.
 
-La schiena
-scorticata dalle unghie.
+Giuda.
 
-Pausa lunga.
-
-Quella di destra:
 Bruto.
 
-Pausa.
-
-La testa fuori.
-Non dice niente.
-
-Pausa lunga.
-
-Quella di sinistra:
 Cassio.
 
-Pausa.
+I tre estremi
+del tradimento.
 
-Tarchiato.
+## vv. 70-105 - La discesa e il rovesciamento
 
-Pausa lunga.
-
-Giuda: il tradimento dell'uomo-Dio.
-Bruto e Cassio: il tradimento del fondatore dell'Impero.
-
-Pausa.
-
-I tre più grandi traditori
-della storia umana.
-
-Pausa lunga.
-
-Tritati.
-
----
-
-## vv. 70-84 - La discesa
-
-[Schermo: nero pieno]
-
-Pausa lunga.
-
-La notte
-sta arrivando.
-
-Pausa.
-
-Virgilio decide.
-
-Pausa lunga.
-
-> «Attaccati qua; prendi di qua»
-> disse 'l mio duca,
-> «ché tai fiere
-> conviene ir via.»
-
-Pausa lunga.
-
-Si attaccano a Lucifero.
-
-Pausa.
-
-Scendono.
-
-Pausa lunga.
-
-Scendono lungo il corpo.
-
-Pausa.
-
-Le cosce.
-
-Pausa lunga.
-
-I fianchi.
-
-Pausa.
-
-Dove il ghiaccio comincia.
-
-Pausa lunga.
-
-E poi
-qualcosa cambia.
-
-Pausa.
-
-Virgilio si gira.
-
-Pausa lunga.
-
-Le gambe
-sono in su.
-
-Pausa.
-
-> «Tienti forte,
-> ché per cotai scale,»
-> disse 'l maestro, ansando
-> com'uom lasso,
+> Com’a lui piacque, il collo gli avvinghiai;
+> ed el prese di tempo e luogo poste;
+> e quando l’ali furo aperte assai,
+> appigliò sé a le vellute coste;
+> di vello in vello giù discese poscia
+> tra il folto pelo e le gelate croste.
+> Quando noi fummo là dove la coscia
+> si volge a punto in sul grosso de l’anche,
+> lo duca, con fatica e con angoscia,
+> volse la testa ov’egli avea le zanche,
+> ed aggrappossi al pel com’uom che sale,
+> sì che in Inferno io credea tornar anche.
+> «Attienti ben, ché per cotali scale»
+> disse ’l maestro, ansando com’uom lasso,
 > «conviensi dipartir da tanto male.»
-
-Pausa lunga.
-
-Poi esce.
-Da un buco nella roccia.
-
-Pausa.
-
-E posa Dante
-sull'orlo.
-
-Pausa lunga.
-
-Dante si gira.
-
-Pausa.
-
-E vede Lucifero.
-
-Pausa lunga.
-
-Ma al contrario.
-
-Pausa.
-
-Le gambe in su.
-
----
-
-## vv. 106-126 - Il rovesciamento
-
-[Schermo: nero pieno]
-
-Pausa lunga.
-
-Dante non capisce.
-
-Pausa.
-
-> «Lèvati sù»
-> disse 'l maestro,
-> «in piede:
-> la via è lunga e 'l cammino è malvagio,
+> Poi uscì fuor per lo foro d’un sasso,
+> e puose me in su l’orlo a sedere;
+> appresso porse a me l’accorto passo.
+> Io levai gli occhi, e credetti vedere
+> Lucifero com’io l’avea lasciato,
+> e vidili le gambe in su tenere;
+> e s’io divenni allora travagliato,
+> la gente grossa il pensi, che non vede
+> qual è quel punto ch’io avea passato.
+> «Levati su», disse ’l maestro «in piede:
+> la via è lunga e ’l cammino è malvagio,
 > e già il sole a mezza terza riede.»
+> Non era caminata di palagio
+> là ’v’eravam, ma natural burella
+> ch’avea mal suolo e di lume disagio.
+> «Prima ch’io de l’abisso mi divella,
+> maestro mio,» diss’io quando fui dritto
+> «a trarmi d’erro un poco mi favella:
+> ov’è la ghiaccia? e questi com’è fitto
+> sì sottosopra? e come in sì poc’ora
+> da sera a mane ha fatto il sol tragitto?»
 
 Pausa lunga.
 
-Non è notte.
+Poi il gesto
+più assurdo
+di tutta la cantica.
 
 Pausa.
 
-È mattina.
+Si aggrappano
+al pelo di Lucifero.
+
+E scendono.
 
 Pausa lunga.
 
-Come?
+Finché arriva
+il punto
+in cui tutto gira.
 
 Pausa.
+
+Virgilio si volta.
+
+E Dante crede
+di tornare indietro.
+
+Pausa lunga.
+
+No.
+
+Hanno passato
+il centro.
+
+Pausa.
+
+Da quel punto
+giù e su
+non sono più
+quelli di prima.
+
+## vv. 106-139 - Il centro della terra e le stelle
+
+> Ed egli a me: «Tu imagini ancora
+> d’esser di là dal centro, ov’io mi presi
+> al pel del vermo reo che ’l mondo fora.
+> Di là fosti cotanto quant’io scesi;
+> quand’io mi volsi, tu passasti il punto
+> al qual si traggon d’ogni parte i pesi,
+> E se’ or sotto l’emisperio giunto
+> ch’è opposito a quel che la gran secca
+> coverchia, e sotto il cui colmo consunto
+> fu l’uom che nacque e visse sanza pecca:
+> tu hai i piedi in su picciola spera,
+> che l’altra faccia fa de la Giudecca.
+> Qui è da man quando di là è sera;
+> e questi che ne fe’ scala col pelo
+> fitto è ancora sì come prim’era.
+> Da questa parte cadde giù dal cielo;
+> e la terra, che pria di qua si sporse,
+> per paura di lui fe’ del mar velo
+> e venne a l’emisperio nostro; e forse
+> per fuggir lui lasciò qui luogo voto
+> quella ch’appar di qua, e su ricorse.»
+> Luogo è là giù da Belzebù remoto
+> tanto quanto la tomba si distende,
+> che non per vista, ma per suono è noto
+> d’un ruscelletto che quivi discende
+> per la buca d’un sasso, ch’egli ha roso
+> col corso ch’egli avvolge e poco pende.
+> Lo duca e io per quel cammino ascoso
+> intrammo, a ritornar nel chiaro mondo;
+> e sanza cura aver d’alcun riposo
+> salimmo su, ei primo e io secondo,
+> tanto ch’io vidi de le cose belle
+> che porta il ciel, per un pertugio tondo;
+> e quindi uscimmo a riveder le stelle.
+
+Pausa lunga.
 
 Virgilio spiega.
 
-Pausa lunga.
+Non con simboli.
 
-Hanno passato
-il centro della terra.
-
-Pausa.
-
-Il punto
-dove convergono tutti i pesi.
-
-Pausa lunga.
-
-Da quel punto in poi
-tutto si rovescia.
+Con cosmologia.
 
 Pausa.
 
-Quello che era giù
-è su.
+Il centro della terra.
+
+I pesi che convergono.
+
+L’emisfero opposto.
 
 Pausa lunga.
 
-Il centro dell'Inferno
-è il centro della terra.
+La caduta di Lucifero
+ha scavato
+il fondo infernale
+e ha fatto salire
+l’altra terra.
 
 Pausa.
 
-E quando Lucifero cadde
-dal cielo —
+Da una caduta
+nasce anche
+la montagna
+del Purgatorio.
 
 Pausa lunga.
 
-la terra del sud
-fuggì sott'acqua.
+Poi il ruscelletto.
+
+Il cunicolo.
+
+La salita.
 
 Pausa.
 
-E la terra spostata
-dall'impatto
-emerse dall'altro lato.
+E infine
+la riga più liberatoria
+della cantica.
 
 Pausa lunga.
 
-Creò
-il monte del Purgatorio.
-
-Pausa.
-
-La caduta più grande
-della storia —
-
-Pausa lunga.
-
-aveva creato
-il luogo
-della redenzione.
-
----
-
-## vv. 127-139 - Le stelle
-
-[Schermo: nero pieno]
-
-Pausa lunga.
-
-Salgono.
-
-Pausa.
-
-Per un cammino
-nascosto.
-
-Pausa lunga.
-
-Buio.
-
-Pausa.
-
-Stretto.
-
-Pausa lunga.
-
-Sentono il suono
-di un ruscello.
-
-Pausa.
-
-Lo seguono.
-
-Pausa lunga.
-
-Salgono ancora.
-
-Pausa.
-
-E poi —
-
-Pausa lunga.
-
-[Schermo: nero pieno]
-
-Pausa lunga.
-
-> «E quindi uscimmo a riveder le stelle.»
-
-Pausa lunga.
-
-[Schermo: nero pieno]
-
-Pausa lunga.
-
----
+E quindi uscimmo
+a riveder
+le stelle.
 
 ## Chiusura
 
@@ -583,166 +387,35 @@ Pausa lunga.
 
 Pausa lunga.
 
-L'Inferno
-è finito.
+L’Inferno
+finisce così.
+
+Non con Lucifero.
+
+Con un’uscita.
 
 Pausa.
 
-Trentaquattro canti.
+Il male assoluto
+sta fermo,
+intrappolato
+nel proprio gesto.
 
 Pausa lunga.
 
-Malebolge.
-Cocito.
-I giganti.
-Il ghiaccio.
-Ugolino.
-Lucifero.
+Agita le ali.
+
+E si gela da sé.
 
 Pausa.
 
-E in fondo a tutto questo —
+I due poeti
+non lo vincono.
+
+Lo oltrepassano.
 
 Pausa lunga.
-
-il male assoluto
-non grida.
-
-Pausa.
-
-Non comanda.
-
-Pausa.
-
-Non distrugge.
-
-Pausa lunga.
-
-Piange.
-
-Pausa.
-
-Batte le ali.
-
-Pausa lunga.
-
-E con ogni battito
-si imprigiona
-un po' di più.
-
-Pausa.
-
-Non è un re.
-
-Pausa lunga.
-
-È il più incatenato
-di tutti.
-
-Pausa.
-
-Il più immobile
-di tutti.
-
-Pausa lunga.
-
-Il più lontano
-da Dio.
-
-Pausa.
-
-Il più lontano
-dalla luce.
-
-Pausa lunga.
-
-E la sua grandezza —
-quella che aveva —
-
-Pausa.
-
-si vede solo
-nel ricordo
-di quello che era.
-
-Pausa lunga.
-
-> «S'el fu sì bel com'elli è ora brutto.»
-
-Pausa lunga.
-
-Il male
-non è il contrario
-della bellezza.
-
-Pausa.
-
-È la sua
-rovina.
-
-Pausa lunga.
-
-E la via fuori dall'Inferno
-non passa sopra il male.
-
-Pausa.
-
-Passa attraverso.
-
-Pausa lunga.
-
-Attraverso il centro.
-Attraverso il buio.
-Attraverso il cammino stretto.
-
-Pausa.
-
-E poi su.
-
-Pausa lunga.
-
-Dante e Virgilio
-salgono
-seguendo un ruscello
-nel buio totale.
-
-Pausa.
-
-Non sanno
-dove stanno andando.
-
-Pausa lunga.
-
-Poi:
-l'apertura.
-
-Pausa.
-
-Il cielo.
-
-Pausa lunga.
-
-Le stelle.
-
-Pausa.
-
-Rivederle.
-
-Pausa lunga.
-
-Non vederle per la prima volta.
-Rivederle.
-
-Pausa.
-
-Erano sempre state là.
-
-Pausa lunga.
-
-Era lui
-che non le poteva vedere.
-
-Pausa.
 
 In fondo all'Inferno
-si rividono le stelle.
+si rivedono
+le stelle.
