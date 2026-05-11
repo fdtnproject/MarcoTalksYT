@@ -15,8 +15,9 @@ Linea guida: "In fondo all'Inferno si rivedono le stelle."
 
 ## vv. 22-69 - Lucifero
 
-- Nero o solo testo.
-- Se in futuro arriva una tavola, qui va agganciata: Lucifero, tre facce, tre bocche, Giuda/Bruto/Cassio.
+- [Schermo: Doré — Lucifero nel Cocito]
+- Usa `34_canto_01.png`.
+- Punto: Lucifero, tre facce, tre bocche, Giuda/Bruto/Cassio.
 
 ## vv. 70-105 - La discesa e il rovesciamento
 
@@ -25,7 +26,8 @@ Linea guida: "In fondo all'Inferno si rivedono le stelle."
 
 ## vv. 106-139 - Il centro della terra e le stelle
 
-- Nero o solo testo.
+- [Schermo: Doré — il pertugio e l'uscita] appena disponibile.
+- Slot già pronto per `34_canto_02.png`.
 - Punto: spiegazione cosmologica, cunicolo, pertugio tondo, stelle.
 
 ## Chiusura
