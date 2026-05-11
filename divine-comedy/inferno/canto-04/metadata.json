@@ -14,9 +14,9 @@
     "content_js": "./canto04-content.js"
   },
   "images": {
-    "thumbnail": "./images/04_canto_01_dore.png",
-    "cover": "./images/04_canto_01_dore.png",
+    "thumbnail": "./images/04_canto_01.png",
+    "cover": "./images/04_canto_01.png",
     "vertical": null
   },
-  "notes": "Script completo disponibile. Tavola Doré `04_canto_01_dore.png` già agganciata per il risveglio nel Limbo; altri asset visivi restano utili per folla del Limbo, Cristo-discesa, quattro poeti, castello, filosofi e uscita buia."
+  "notes": "Script completo disponibile. Tavola Doré `04_canto_01.png` già agganciata per il risveglio nel Limbo; altri asset visivi restano utili per folla del Limbo, Cristo-discesa, quattro poeti, castello, filosofi e uscita buia."
 }

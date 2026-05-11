@@ -14,9 +14,9 @@
     "content_js": "./canto05-content.js"
   },
   "images": {
-    "thumbnail": "./images/05_canto_01_dore.png",
-    "cover": "./images/05_canto_03_dore.png",
+    "thumbnail": "./images/05_canto_01.png",
+    "cover": "./images/05_canto_03.png",
     "vertical": null
   },
-  "notes": "Script completo disponibile. Tavole Doré `05_canto_01_dore.png`, `05_canto_02_dore.png` e `05_canto_03_dore.png` già agganciate per Minosse, la bufera e Paolo e Francesca col libro."
+  "notes": "Script completo disponibile. Tavole Doré `05_canto_01.png`, `05_canto_02.png` e `05_canto_03.png` già agganciate per Minosse, la bufera e Paolo e Francesca col libro."
 }
