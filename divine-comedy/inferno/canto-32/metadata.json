@@ -14,9 +14,9 @@
     "content_js": "./canto32-content.js"
   },
   "images": {
-    "thumbnail": null,
-    "cover": null,
+    "thumbnail": "./images/32_canto_01.png",
+    "cover": "./images/32_canto_03.png",
     "vertical": null
   },
-  "notes": "Script completo del Canto XXXII disponibile. `Canto_32_source.txt` contiene il testo UTET; `Canto_32_talk_finale.md` e `Canto_32_cue_immagini.md` sono pronti. Nessuna tavola Doré agganciata per ora: stage volutamente testo/nero."
+  "notes": "Script completo del Canto XXXII disponibile. `Canto_32_source.txt` contiene il testo UTET; `Canto_32_talk_finale.md` e `Canto_32_cue_immagini.md` sono pronti. Le tavole `32_canto_01.png`, `32_canto_02.png` e `32_canto_03.png` sono ora agganciate: Cocito, Bocca/Antenora e i due ghiacciati che aprono il passaggio a Ugolino."
 }

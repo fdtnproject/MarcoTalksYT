@@ -15,12 +15,14 @@ Linea guida: "L'odio sopravvive a tutto. Anche alla fame."
 
 ## vv. 22-54 - La torre e il sogno
 
-- Nero o solo testo.
+- [Schermo: Doré — Ugolino e i figli nella Muda]
+- Usa `33_canto_01.png`.
 - Punto: la Muda, il sogno del lupo, l'uscio inchiodato.
 
 ## vv. 55-78 - I figli e il digiuno
 
-- Nero pieno.
+- [Schermo: Doré — la torre della fame]
+- Usa `33_canto_02.png`.
 - Punto: i figli, Gaddo, la fame, la frase finale sul digiuno.
 
 ## vv. 79-90 - Pisa

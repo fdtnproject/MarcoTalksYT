@@ -14,9 +14,9 @@
     "content_js": "./canto33-content.js"
   },
   "images": {
-    "thumbnail": null,
-    "cover": null,
+    "thumbnail": "./images/33_canto_01.png",
+    "cover": "./images/33_canto_02.png",
     "vertical": null
   },
-  "notes": "Script completo del Canto XXXIII disponibile. `Canto_33_source.txt` contiene il testo UTET; `Canto_33_talk_finale.md` e `Canto_33_cue_immagini.md` sono pronti. Nessuna tavola Doré agganciata per ora: stage volutamente testo/nero."
+  "notes": "Script completo del Canto XXXIII disponibile. `Canto_33_source.txt` contiene il testo UTET; `Canto_33_talk_finale.md` e `Canto_33_cue_immagini.md` sono pronti. Le tavole `33_canto_01.png` e `33_canto_02.png` sono ora agganciate: la Muda con Ugolino e i figli, e il blocco del digiuno nella torre della fame."
 }
