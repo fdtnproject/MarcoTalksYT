@@ -24,7 +24,8 @@ Piano tavole Doré per il Canto XXIII.
 - Focus: i due Frati Godenti, Bologna, il Gardingo, la pace fallita
 
 ## vv. 109-126 - Caifasso
-- Schermo: nero pieno
+- Schermo: Doré — Caifasso in terra, gli ipocriti dietro, Dante e Virgilio accanto
+- Usa `23_canto_01.png`
 - Focus: Caifasso crocifisso a terra, gli altri che gli passano sopra, il bene comune usato come copertura
 
 ## vv. 127-148 - Malacoda bugiardo

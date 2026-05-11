@@ -14,9 +14,9 @@
     "content_js": "./canto23-content.js"
   },
   "images": {
-    "thumbnail": null,
-    "cover": null,
+    "thumbnail": "./images/23_canto_01.png",
+    "cover": "./images/23_canto_01.png",
     "vertical": null
   },
-  "notes": "Script completo del Canto XXIII disponibile. `Canto_23_source.txt` contiene il testo UTET; `Canto_23_talk_finale.md` e `Canto_23_cue_immagini.md` sono pronti. Asset visivi da aggiungere in ./images/ (ipocriti in processione / cappe dorate e piombo / Caifasso in terra / nero finale sulla menzogna)."
+  "notes": "Script completo del Canto XXIII disponibile. `Canto_23_source.txt` contiene il testo UTET; `Canto_23_talk_finale.md` e `Canto_23_cue_immagini.md` sono pronti. `23_canto_01.png` e' gia agganciata sul blocco di Caifasso con gli ipocriti sullo sfondo; altri asset restano utili per la fuga iniziale e la processione delle cappe."
 }
