@@ -15,8 +15,8 @@
   },
   "images": {
     "thumbnail": "./images/12_canto_01.png",
-    "cover": "./images/12_canto_02.png",
+    "cover": "./images/12_canto_01.png",
     "vertical": null
   },
-  "notes": "Script completo disponibile. In ./images/ sono presenti 12_canto_01.png e 12_canto_02.png, già agganciati allo stage. Altri asset utili: tavole per i Centauri arcieri, Chirone e Nesso, i tiranni immersi nel sangue."
+  "notes": "Script completo disponibile. In ./images/ e' presente 12_canto_01.png, gia agganciata allo stage. Altri asset utili: tavole davvero del canto per i Centauri arcieri, Chirone e Nesso, i tiranni immersi nel sangue."
 }

@@ -27,10 +27,9 @@ Nero per la spiegazione del terremoto.
 Motivo: il blocco è memoria parlata di Virgilio (la sua precedente discesa, Cristo, il terremoto). Niente da illustrare. La voce racconta.
 
 ### vv. 49-75 — Il Flegetonte
-[Schermo: Doré — il fiume di sangue con i Centauri arcieri sulla riva]
-Tavola del Flegetonte: vasto fiume di sangue rossastro, Centauri che corrono lungo la riva con archi tesi.
-Asset suggerito: `12_flegetonte_centauri.jpg` (Doré, "Le Phlégéthon et les centaures" — una delle tavole più riconoscibili dell'Inferno).
-Tenere accesa per il blocco descrittivo del fiume e dell'arrivo dei Centauri.
+[Schermo: nero pieno]
+Nero per il Flegetonte e per l'arrivo dei Centauri.
+Motivo: la tavola che prima copriva questo blocco è stata spostata al Canto XIII. Finché il XII non ha una tavola davvero sua per questo punto, meglio il nero che un'immagine sbagliata.
 
 ### "Oh cieca cupidigia e ira folle"
 [Schermo: nero pieno — opzionale, breve]
@@ -38,10 +37,9 @@ Nero brevissimo solo per pesare l'apostrofe di Dante.
 Motivo: è il momento in cui Dante esce dal racconto per fare un'invocazione morale. Se lo si fa, restare a nero pochi secondi e poi tornare alla tavola.
 
 ### vv. 76-99 — Chirone, Nesso, Folo
-[Schermo: Doré — i tre Centauri in primo piano]
-Tavola dei tre Centauri identificati: Chirone al centro che si guarda il petto, Nesso e Folo ai lati.
-Asset suggerito: `12_chirone_nesso_folo.jpg` (Doré, scena del dialogo con Chirone).
-Tenere accesa fino alla fine del dialogo Virgilio-Chirone.
+[Schermo: nero pieno]
+Restare a nero anche qui.
+Motivo: senza una tavola giusta del XII, conviene non forzare il blocco dei Centauri con immagini migrate da altri canti.
 
 ### Sintesi a metà canto — Il sangue misura
 [Schermo: nero pieno]
@@ -72,13 +70,10 @@ Motivo: come tutti i canti precedenti, il motto va in bocca su nero.
 
 ## Suggerimento complessivo
 
-Il Canto XII è uno dei più "iconografici" del primo Inferno. Le tavole-cardine sono quattro:
+Il Canto XII è uno dei più "iconografici" del primo Inferno. Ma al momento la sola tavola sicuramente sua già agganciata è:
 1. Il Minotauro che si dimena
-2. Il Flegetonte coi Centauri arcieri
-3. Chirone e i suoi compagni in primo piano
-4. I tiranni nel sangue indicati da Nesso
 
-Tutti i blocchi narrativi (Minotauro, Centauri, tiranni) reggono bene una tavola Doré tenuta ferma. I blocchi parlati (il crollo di Cristo, la sintesi, l'apostrofe sull'ira folle, il Guy de Montfort) vanno su nero.
+Per tutto il resto, finché non ci sono tavole davvero del XII, è meglio il nero. I blocchi parlati (il crollo di Cristo, la sintesi, l'apostrofe sull'ira folle, il Guy de Montfort) già vogliono buio; e adesso anche Flegetonte e Centauri ci stanno meglio che con un'immagine sbagliata.
 
 Nero-cardine da rispettare in modo spietato:
 1. La spiegazione del crollo (vv. 31-48) — è memoria di Virgilio
