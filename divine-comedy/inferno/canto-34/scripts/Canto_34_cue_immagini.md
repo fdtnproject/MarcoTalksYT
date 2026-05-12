@@ -26,8 +26,8 @@ Linea guida: "In fondo all'Inferno si rivedono le stelle."
 
 ## vv. 106-139 - Il centro della terra e le stelle
 
-- [Schermo: Doré — il pertugio e l'uscita] appena disponibile.
-- Slot già pronto per `34_canto_02.png`.
+- [Schermo: Doré — il pertugio e l'uscita]
+- Usa `34_canto_02.png`.
 - Punto: spiegazione cosmologica, cunicolo, pertugio tondo, stelle.
 
 ## Chiusura
