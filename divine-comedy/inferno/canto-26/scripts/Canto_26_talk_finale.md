@@ -117,6 +117,50 @@ Dante
 mette la briglia
 a se stesso.
 
+Pausa.
+
+Non chiede
+meno intelligenza.
+
+Chiede
+che la virtù
+la guidi.
+
+Pausa.
+
+Il talento
+ce l’ha.
+Lo sa.
+
+Ma il talento
+non gli garantisce
+di usarlo bene.
+
+Pausa lunga.
+
+A me sembra
+che qui Dante
+non stia soltanto
+preparando il giudizio
+su un altro.
+
+Stia prendendo
+una precauzione
+contro se stesso.
+
+Pausa.
+
+Perché fra poco
+dovrà dare voce
+a un uomo
+che sa convincere.
+
+E per farci sentire
+quanto sa convincere,
+dovrà scrivere
+parole capaci
+di convincere anche noi.
+
 ## vv. 25-42 - Le lucciole
 
 > Quante il villan ch’al poggio si riposa,
@@ -408,6 +452,87 @@ che li rende acuti.
 E li consegna
 al viaggio.
 
+Pausa.
+
+O frati.
+
+Non comincia
+con un ordine.
+
+Li chiama
+fratelli.
+
+Mette davanti a loro
+i pericoli già attraversati,
+tutta quella vita
+passata insieme.
+
+Pausa.
+
+E poi
+il poco tempo
+che rimane.
+
+Non dice:
+abbiamo poco tempo,
+torniamo.
+
+Dice:
+abbiamo poco tempo,
+andiamo.
+
+Pausa lunga.
+
+La vecchiaia,
+che potrebbe trattenerli,
+diventa
+l’ultima ragione
+per partire.
+
+Pausa.
+
+Virtute
+e conoscenza.
+
+Chi vorrebbe
+stare dall’altra parte?
+Chi sceglierebbe
+di chiamarsi bruto?
+
+Pausa.
+
+Io qui sento
+anche questa pressione:
+rifiutare il viaggio
+finisce per somigliare
+a rifiutare
+la propria dignità.
+
+Non ha cancellato
+il pericolo.
+
+Ha cambiato
+il significato
+del restare.
+
+Pausa lunga.
+
+I compagni
+non rispondono
+con un altro discorso.
+
+Diventano
+così impazienti
+che lui stesso
+faticherebbe
+a trattenerli.
+
+Pausa.
+
+La parola
+ha messo in moto
+i remi.
+
 ## vv. 124-142 - Il folle volo
 
 > E volta nostra poppa nel mattino,
@@ -512,36 +637,659 @@ la propria fine.
 
 Pausa lunga.
 
-A me sembra
-che due millenni dopo
-Goethe guardi
-quasi la stessa febbre
-e la assolva.
+Ma adesso
+voglio portarti
+cinquecento anni avanti.
 
 Pausa.
 
-Stessa spinta.
-Verdetti opposti.
+Il mare si è chiuso.
+La domanda no.
+
+Che cosa fai
+di un uomo
+al quale non basta
+mai niente?
 
 Pausa lunga.
 
-Ma il canto
-ha già detto tutto
-prima di noi.
+Nel 1832,
+l’anno della morte di Goethe,
+esce la seconda parte
+del Faust.
+
+E io,
+leggendo quel finale,
+torno qui.
+
+A questa fiamma.
 
 Pausa.
+
+Faust è un uomo
+che ha studiato,
+cercato,
+accumulato sapere.
+
+E non gli basta.
+
+Non vuole soltanto
+sapere che cos’è la vita.
+
+Vuole attraversarla.
+Provarla.
+Sentirla tutta.
+
+Pausa.
+
+A me sembra
+di riconoscere
+una febbre
+che abbiamo appena ascoltato.
+
+L’ardore.
+
+Non lo stesso uomo.
+Non la stessa colpa.
+
+Ma quella fame
+per cui ogni arrivo
+è già troppo piccolo.
+
+Pausa lunga.
+
+Faust la mette
+in una scommessa
+con Mefistofele.
+
+Se riuscirai
+a rendermi così soddisfatto
+da volermi fermare,
+avrai vinto.
+
+Se dirò all’istante:
+resta,
+non voglio altro,
+potrai prendermi.
+
+Pausa.
+
+Verweile doch!
+du bist so schön!
+
+Pausa.
+
+Fermati,
+sei così bello!
+
+Pausa.
+
+Non sono
+parole proibite
+che basta pronunciare
+per cadere in una trappola.
+
+La posta
+è riuscire
+a saziarlo.
+
+Fermare
+quell’uomo.
+
+Pausa lunga.
+
+E adesso guarda
+dove arriva.
+
+Alla fine
+Faust è vecchio.
+È cieco.
+
+Sente scavare.
+
+Pausa.
+
+Crede di sentire
+il lavoro
+che realizzerà
+il suo progetto:
+una terra strappata all’acqua,
+uno spazio
+dove vivrà
+un popolo libero.
+
+Pausa.
+
+Ma stanno scavando
+la sua fossa.
+
+Pausa lunga.
+
+Lui ascolta
+il proprio futuro.
+
+Noi ascoltiamo
+la sua sepoltura.
+
+Pausa.
+
+È ancora lì,
+il costruttore.
+
+La realtà
+gli sta preparando
+la fine,
+e lui sente
+un’opera da completare.
+
+Pausa.
+
+Intravede nella mente
+quel mondo futuro
+e dice
+che a un istante così
+potrebbe chiedere
+di fermarsi.
+
+Potrebbe.
+
+Il mondo
+che immagina
+non è ancora compiuto.
+
+E lui
+muore.
+
+Pausa lunga.
+
+Mefistofele
+pensa di averlo.
+
+Il corpo è caduto.
+Il patto c’è.
+
+Pausa.
+
+Ma arrivano
+gli angeli.
+
+E gli portano via
+ciò che credeva
+già suo.
+
+Pausa lunga.
+
+Goethe fa dire loro:
+
+Wer immer strebend sich bemüht,
+Den können wir erlösen.
+
+Pausa.
+
+Lo renderei così:
+
+chi continua
+a tendere,
+a impegnarsi,
+noi possiamo
+redimerlo.
+
+Pausa.
+
+Possiamo.
+
+Non:
+si è salvato
+da solo.
+
+Pausa lunga.
+
+A questo punto
+verrebbe voglia
+di chiudere il confronto
+in due colpi.
+
+Ulisse cerca.
+E affonda.
+
+Faust cerca.
+E sale.
+
+Pausa.
+
+Dante condanna.
+Goethe assolve.
+
+Pausa.
+
+Ma perderemmo
+il pezzo
+che cambia tutto.
+
+Gli angeli
+parlano subito
+anche dell’amore
+che dall’alto
+ha preso parte
+alla sua salvezza.
+
+Pausa lunga.
+
+Dall’alto.
+
+Qualcosa
+che Faust
+non ha fabbricato.
+
+Pausa.
+
+La sua spinta
+non viene cancellata.
+
+Ma non è lui
+a pronunciare
+l’assoluzione
+di se stesso.
+
+A salvarlo
+non basta
+la firma
+che mette
+sulla propria vita.
+
+Pausa lunga.
+
+E allora
+io ripenso
+alla selva.
+
+Non alla nave.
+Alla selva.
+
+Pausa.
+
+Dante è lì.
+La salita è fallita.
+La lupa
+lo respinge.
+
+Vuole uscire.
+Non ci riesce.
+
+Pausa.
+
+Quando chiede aiuto,
+Virgilio
+è già davanti a lui.
+
+E nel secondo canto
+scopriamo
+quanta strada
+ha fatto
+quell’aiuto.
+
+Pausa.
+
+Maria.
+Lucia.
+Beatrice.
+Virgilio.
+
+Pausa.
+
+Prima che Dante
+riesca a muoversi,
+qualcuno
+si è mosso
+per lui.
+
+Pausa lunga.
+
+Non gli viene risparmiato
+il viaggio.
+
+Dovrà camminare.
+Dovrà guardare.
+Dovrà cambiare.
+
+Ma non è stato lui
+a inventare
+la mano
+che lo raggiunge.
+
+Pausa.
+
+Per me
+è qui
+che Goethe
+si avvicina a Dante.
+
+Non perché
+i loro mondi
+diventino uguali.
+
+Perché anche nel Faust
+la salvezza
+non è soltanto
+una conquista.
+
+Pausa lunga.
+
+E non resta
+un’idea astratta.
+
+Nel finale di Goethe
+c’è Margherita.
+
+La donna
+che Faust ha amato,
+dentro una storia
+che l’ha travolta.
+
+Ora è fra le penitenti.
+Chiede di guidarlo.
+
+Pausa.
+
+Non una medaglia
+consegnata all’eroe.
+
+Una persona
+che lo riconosce.
+
+E vuole
+accompagnarlo.
+
+Pausa.
+
+Poi arrivano
+le ultime parole
+dell’opera.
+
+Das Ewig-Weibliche
+Zieht uns hinan.
+
+Pausa lunga.
+
+L’eterno femminino
+ci trae
+verso l’alto.
+
+Pausa.
+
+Ci trae.
+
+Non:
+abbiamo conquistato
+l’alto.
+
+Pausa lunga.
+
+Io qui
+penso a Beatrice.
+
+A uno sguardo
+che ti porta
+dove da solo
+non sai ancora
+guardare.
+
+Pausa.
+
+Non è
+un accostamento
+inventato oggi.
+
+Nietzsche,
+in Al di là
+del bene e del male,
+mette proprio vicini
+Dante e Goethe:
+Beatrice che guarda in alto
+e Dante che guarda lei;
+l’eterno femminino
+che ci trae in alto.
+
+Lo fa con ironia,
+dentro un discorso
+sull’uomo e sulla donna.
+
+Non è una prova
+che le due opere
+dicano la stessa cosa.
+
+Ma quel gesto,
+anche lui,
+lo ha visto.
+
+Pausa lunga.
+
+Una presenza
+che non ti sostituisce.
+
+Ti orienta.
+
+Pausa.
+
+E adesso
+torniamo alla nave.
+
+Ulisse
+non è solo.
+
+Ci sono i compagni.
+Ci sono i loro corpi,
+la loro stanchezza,
+il tempo
+che rimane anche a loro.
+
+Pausa.
+
+Ma non c’è
+un mandato dall’alto
+che autorizzi
+quella traversata.
+
+C’è la sua parola.
+
+E la sua parola
+basta
+a farli partire.
+
+Pausa lunga.
+
+Io sento qui
+la domanda più scomoda
+del canto.
+
+Il fatto
+che tu sappia
+convincere gli altri
+dimostra
+che sai guidarli?
+
+Pausa.
+
+Essere seguiti
+non è ancora
+avere ragione.
+
+Pausa lunga.
+
+Non riduco
+la condanna di Ulisse
+alla curiosità.
+
+Virgilio
+ha nominato le frodi:
+il cavallo,
+Achille,
+il Palladio.
+
+Sono dentro
+quella fiamma.
+
+Pausa.
+
+Ma nell’ultima traversata
+io vedo tornare
+il rischio
+che Dante
+ha riconosciuto
+anche in se stesso.
+
+Un ingegno
+capace di trovare
+la strada
+senza chiedersi
+che cosa lo guidi.
+
+Pausa.
+
+Perché non corra
+che virtù nol guidi.
+
+Pausa lunga.
+
+Non gli dice:
+non correre.
+
+Gli chiede
+chi tiene
+le redini.
+
+Pausa.
+
+E adesso
+il paragone
+non è più
+un tribunale facile.
+
+Goethe
+non ha preso Ulisse
+e cambiato
+la sentenza.
+
+Faust
+non è Ulisse
+con un finale felice.
+
+Pausa.
+
+A me interessa
+tenerli qui,
+uno accanto all’altro,
+senza cancellare
+la differenza.
+
+Ulisse
+trascina i compagni.
+
+Faust
+viene tratto
+verso l’alto.
+
+Dante
+impara
+a seguire.
+
+Pausa lunga.
+
+E nessuna
+di queste storie
+ci chiede
+di diventare
+più piccoli.
+
+Ci mette davanti
+al punto
+in cui la grandezza
+non basta
+a garantire
+il bene.
+
+Pausa.
+
+Il viaggio di Ulisse
+finisce
+davanti a una montagna.
+
+L’ha vista.
+Non l’ha raggiunta.
+
+La gioia
+è durata
+un momento.
+
+Pausa lunga.
+
+Quella montagna,
+nel mondo di Dante,
+è il Purgatorio.
+
+Dante
+ci arriverà.
+
+Non perché
+abbia remato
+più forte.
+
+Pausa.
+
+Ed è questo
+che a me
+fa tremare
+il confronto.
+
+Non la distanza
+fra un uomo grande
+e un uomo piccolo.
+
+La distanza
+fra due viaggi
+che non possono
+darsi da soli
+la stessa autorizzazione.
+
+Pausa lunga.
+
+Torniamo
+all’artefice
+della propria sorte.
+
+Ulisse ha scelto.
+Ha parlato.
+Ha portato
+la nave fin lì.
+
+La responsabilità
+resta sua.
+
+Pausa.
+
+Ma il mare
+non esegue
+i suoi ordini.
+
+Pausa lunga.
 
 Com’altrui piacque.
 
 Pausa lunga.
 
-Ulisse
-si era fatto artefice
-di tutto.
+È ancora Ulisse
+a raccontarcelo.
 
-Tranne di questo.
+Quello che ha saputo
+convincere tutti,
+adesso
+ci racconta
+il punto
+in cui la sua parola
+non ha potuto
+più nulla.
 
-Pausa lunga.
+Pausa.
 
 Ulisse è magnifico.
 
