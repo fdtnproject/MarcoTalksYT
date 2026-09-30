@@ -102,7 +102,7 @@ a seguirla.
 Pausa lunga.
 
 Dante si gira verso Virgilio
-— il "mar di tutto 'l senno,"
+— il "mar di tutto il senno,"
 il mare di tutta la saggezza —
 e gli chiede:
 
@@ -192,7 +192,7 @@ Pausa.
 
 Virgilio lo blocca.
 
-"Flegïàs, Flegïàs, tu gridi a vòto."
+"Flegiàs, Flegiàs, tu gridi a voto."
 
 Pausa.
 
@@ -418,7 +418,7 @@ Pausa.
 E Virgilio
 lo respinge.
 
-"Via costà con li altri cani!"
+"Via costà con gli altri cani!"
 
 Via, vai con gli altri cani!
 
@@ -437,7 +437,7 @@ Lo bacia in volto.
 E gli dice:
 
 "Alma sdegnosa,
-benedetta colei che 'n te s'incinse!"
+benedetta colei che in te s'incinse!"
 
 Pausa.
 
@@ -482,7 +482,7 @@ Pausa.
 
 "Quei fu al mondo persona orgogliosa;
 bontà non è che sua memoria fregi:
-così s'è l'ombra sua qui furïosa."
+così s'è l'ombra sua qui furiosa."
 
 Pausa.
 
@@ -497,7 +497,7 @@ qui è furiosa.
 Pausa.
 
 E aggiunge:
-"Quanti si tegnon or là sù gran regi
+"Quanti si tengon or là su gran regi
 che qui staranno come porci in brago,
 di sé lasciando orribili dispregi!"
 
@@ -546,8 +546,8 @@ sarai sazio.
 
 Pausa.
 
-"Di tal disïo
-convien che tu goda."
+"Di tal disio
+converrà che tu goda."
 
 Di un tale desiderio
 è giusto che tu goda.
@@ -725,7 +725,7 @@ Virgilio dice:
 
 "Omai, figliuolo,
 s'appressa la città
-c'ha nome Dite."
+che ha nome Dite."
 
 Pausa.
 
@@ -813,7 +813,7 @@ Pausa.
 
 E Virgilio:
 
-"Il foco etterno
+"Il foco eterno
 ch'entro l'affoca
 le dimostra rosse."
 
@@ -935,7 +935,7 @@ per la sua folle strada.
 
 Pausa.
 
-"Pruovi, se sa."
+"Provi, se sa."
 
 Provi, se ne è capace.
 
@@ -1009,7 +1009,7 @@ Pausa.
 
 Pausa.
 
-"Ché 'l nostro passo
+"Ché il nostro passo
 non ci può tòrre alcun:
 da tal n'è dato."
 
@@ -1052,7 +1052,7 @@ di buona speranza.
 
 Pausa.
 
-"Ch'i' non ti lascerò
+"Ch'io non ti lascerò
 nel mondo basso."
 
 Non ti lascerò
@@ -1110,7 +1110,7 @@ si rincorrono dentro.
 Pausa.
 
 E gli chiudono le porte
-"nel petto al mio segnor."
+"nel petto al mio signor."
 
 In faccia al mio signore.
 

@@ -325,8 +325,8 @@ che la pioggia tiene a terra.
 
 Pausa.
 
-"Ponavam le piante
-sovra lor vanità che par persona."
+"Ponevam le piante
+sopra lor vanità che par persona."
 
 Mettevano i piedi
 sopra il loro nulla
@@ -370,7 +370,7 @@ E parla per primo.
 
 Pausa.
 
-"O tu che se' per questo 'nferno tratto."
+"O tu che se' per questo inferno tratto."
 
 O tu che vieni trascinato
 attraverso questo Inferno.
@@ -616,7 +616,7 @@ Dante si commuove.
 Pausa.
 
 "Ciacco, il tuo affanno
-mi pesa sì, ch'a lagrimar mi 'nvita."
+mi pesa sì, ch'a lagrimar m'invita."
 
 Ciacco, la tua sofferenza
 mi pesa così tanto
@@ -761,7 +761,7 @@ E poi il diagnostico.
 
 "Superbia, invidia e avarizia
 sono le tre faville
-c'hanno i cuori accesi."
+c'hanno i cori accesi."
 
 Pausa.
 
@@ -958,9 +958,9 @@ che io li riconosca.
 
 Pausa.
 
-"Ché gran disio mi stringe di savere
+"Ché gran disio mi stringe di sapere
 se 'l ciel li addolcia,
-o lo 'nferno li attosca."
+o l'inferno li attosca."
 
 Voglio molto sapere
 se il cielo li sta facendo dolci
@@ -1023,7 +1023,7 @@ Poi Ciacco fa una richiesta.
 Pausa.
 
 "Quando tu sarai nel dolce mondo,
-priegoti ch'a la mente altrui mi rechi."
+priegoti che a la mente altrui mi rechi."
 
 Quando tu tornerai
 nel mondo dolce dei vivi,
@@ -1167,7 +1167,7 @@ da uomo che ragiona.
 Pausa.
 
 "Maestro, esti tormenti
-cresceranno ei dopo la gran sentenza,
+crescerann'ei dopo la gran sentenza,
 o fier minori,
 o saran sì cocenti?"
 
@@ -1192,7 +1192,7 @@ con un principio aristotelico.
 
 Pausa.
 
-"Ritorna a tua scïenza,
+"Ritorna a tua scienza,
 che vuol, quanto la cosa è più perfetta,
 più senta il bene,
 e così la doglienza."

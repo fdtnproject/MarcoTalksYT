@@ -169,7 +169,7 @@ Pausa.
 
 E aggiunge un riferimento preciso:
 "Là dove Michele
-fé la vendetta del superbo strupo."
+fe' la vendetta del superbo strupo."
 
 Là dove l'arcangelo Michele
 fece la vendetta
@@ -421,7 +421,7 @@ Pausa.
 
 E Virgilio.
 
-"Tutti quanti fuor guerci
+"Tutti quanti fur guerci
 sì de la mente in la vita primaia,
 che con misura nullo spendio ferci."
 
@@ -457,7 +457,7 @@ E poi il colpo.
 
 Pausa.
 
-"Questi fuor cherci,
+"Questi fur cherci,
 che non han coperchio
 piloso al capo,
 e papi e cardinali,
@@ -869,7 +869,7 @@ Verso una palude.
 > ma con la testa e col petto e coi piedi,
 > troncandosi co’ denti a brano a brano.
 
-"Ma or discendiamo omai a maggior pieta."
+"Or discendiamo omai a maggior pièta."
 
 Pausa.
 
@@ -885,7 +885,7 @@ Pausa lunga.
 
 E aggiunge una nota di tempo.
 
-"Già ogne stella cade
+"Già ogni stella cade
 che saliva
 quand' io mi mossi."
 

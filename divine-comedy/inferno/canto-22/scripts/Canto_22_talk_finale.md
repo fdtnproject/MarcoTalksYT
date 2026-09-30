@@ -91,6 +91,252 @@ Ha visto segnali
 di partenza
 e di ritirata.
 
+Pausa.
+
+E li ha visti davvero.
+
+Pausa lunga.
+
+11 giugno 1289.
+Campaldino,
+nel Casentino.
+
+Pausa.
+
+Firenze contro Arezzo.
+Guelfi contro ghibellini.
+
+Pausa.
+
+Dante ha ventiquattro anni.
+
+Pausa.
+
+Secondo Leonardo Bruni,
+che più di un secolo dopo
+scrive una vita di Dante,
+Dante è lì.
+
+A cavallo.
+
+Nella prima schiera.
+
+Pausa lunga.
+
+La prima schiera
+è quella che prende l'urto.
+
+E l'urto arriva.
+
+La cavalleria di Arezzo carica,
+e i fiorentini arretrano.
+
+Pausa.
+
+Poi entra in battaglia,
+di lato,
+una schiera di riserva.
+
+La guida Corso Donati.
+
+Pausa.
+
+Aveva l'ordine
+di stare fermo,
+pena la testa.
+
+Parte lo stesso.
+
+Pausa.
+
+Per Giovanni Villani
+è una delle grandi ragioni
+della vittoria.
+
+Pausa lunga.
+
+Segnati questo nome.
+
+Pausa.
+
+Dodici anni dopo
+Corso Donati
+porterà i Neri al potere.
+
+La parte
+che manderà Dante in esilio.
+
+Pausa lunga.
+
+Bruni dice anche
+di aver letto una lettera di Dante,
+oggi perduta.
+
+E ne ricopia qualche riga.
+
+Pausa.
+
+Dante scrive
+di aver avuto
+«temenza molta,
+e nella fine
+allegrezza grandissima».
+
+Pausa lunga.
+
+Paura.
+E poi gioia.
+
+Pausa.
+
+Dopo la vittoria
+i fiorentini
+vanno a razziare
+le terre di Arezzo.
+
+Pausa.
+
+Corridor vidi
+per la terra vostra,
+o Aretini.
+
+Pausa.
+
+Non è un'immagine.
+
+È un ricordo.
+
+Pausa lunga.
+
+Nel canto di prima
+c'era Caprona,
+due mesi dopo.
+
+Questi due canti di diavoli
+contengono
+due battaglie
+che Dante dice di aver visto.
+
+Pausa lunga.
+
+Ma c'è una seconda marcia.
+
+Pausa.
+
+27 gennaio 1302.
+
+Pausa.
+
+Firenze, in mano ai Neri,
+condanna Dante.
+In contumacia.
+
+Pausa.
+
+Baratteria.
+Guadagni illeciti.
+Estorsioni.
+
+Pausa lunga.
+
+Cinquemila fiorini piccoli.
+Due anni di confino,
+anche se paga.
+Nessun ufficio pubblico,
+mai più.
+
+Pausa.
+
+Lui non paga.
+Non si presenta.
+
+E il 10 marzo
+arriva la seconda sentenza.
+
+Se lo prendono,
+lo bruciano vivo.
+
+Pausa lunga.
+
+A Firenze
+non tornerà mai più.
+
+Pausa.
+
+E quando arriva la prima sentenza,
+Dante in città non c'è.
+
+Pausa.
+
+Secondo Dino Compagni,
+che quei giorni li ha vissuti da dentro,
+è a Roma.
+Ambasciatore presso il papa.
+
+Pausa.
+
+Gli ambasciatori sono tre.
+Il papa ne rimanda indietro due.
+
+Il terzo resta a Roma.
+
+Pausa.
+
+Secondo la tradizione,
+il terzo è lui.
+
+Trattenuto da Bonifacio.
+
+Pausa.
+
+Il nostro cattivo
+fuori scena.
+
+Pausa lunga.
+
+Adesso guarda
+dove lo mette il poema.
+
+Pausa.
+
+Nella bolgia dei barattieri.
+
+Cioè
+nella bolgia
+della sua condanna.
+
+Pausa.
+
+Scortato dai diavoli.
+
+Gli stessi che,
+nel canto di prima,
+si chiedevano
+se infilzarlo con i raffi.
+
+Pausa lunga.
+
+Io credo
+che qui Dante
+stia rispondendo
+alla sentenza.
+
+Pausa.
+
+Non con un'arringa.
+
+Con una farsa.
+
+Pausa.
+
+Mostra i barattieri veri,
+uno per uno,
+con i loro nomi.
+
+E lui,
+lì in mezzo,
+è di passaggio.
+
 Pausa lunga.
 
 Ma mai
@@ -99,6 +345,29 @@ una marcia così.
 Dieci demoni.
 
 Ahi fiera compagnia.
+
+Pausa.
+
+E subito dopo,
+un proverbio.
+
+ma ne la chiesa
+coi santi, ed in taverna co’ ghiottoni!
+
+Pausa lunga.
+
+In chiesa coi santi.
+In taverna coi ghiottoni.
+
+Ogni luogo
+ha la sua compagnia.
+
+Pausa.
+
+Detto da un uomo
+condannato per baratteria,
+mentre cammina
+in mezzo ai barattieri.
 
 Pausa.
 
@@ -200,6 +469,105 @@ E adesso
 ne rendo ragione
 in questo caldo.
 
+Pausa lunga.
+
+Ma torna un attimo indietro.
+
+Pausa.
+
+È l'unico dannato di questa bolgia
+che racconta da dove viene.
+
+E comincia dai genitori.
+
+Pausa.
+
+Mia madre a servo d’un signor mi pose,
+che m’avea generato d’un ribaldo
+distruggitor di sé e di sue cose.
+
+Pausa lunga.
+
+Una madre
+che lo mette a servizio.
+
+Un padre
+che ha distrutto
+se stesso
+e le sue cose.
+
+Pausa.
+
+Di sé
+e di sue cose.
+
+Pausa lunga.
+
+Questa coppia
+l'abbiamo già sentita.
+
+Nell'undicesimo canto,
+quando Virgilio spiega la mappa:
+
+Puote omo avere in sé man violenta
+e ne’ suoi beni.
+
+Pausa.
+
+Violenza contro se stessi.
+Violenza contro le proprie cose.
+
+Sono i dannati del tredicesimo canto.
+I suicidi.
+Gli scialacquatori.
+
+Pausa lunga.
+
+E un commentatore del Trecento,
+Benvenuto da Imola,
+racconta che questo padre
+dissipò tutto,
+e poi si impiccò.
+
+Pausa.
+
+Io credo
+che Dante qui
+disegni una genealogia.
+
+Il padre
+nel settimo cerchio.
+
+Il figlio
+nell'ottavo.
+
+Pausa lunga.
+
+Messo a servizio da ragazzo,
+il figlio
+ha venduto a sua volta
+il servizio del re.
+
+Pausa.
+
+quivi mi misi a far baratteria,
+di ch’io rendo ragione in questo caldo.
+
+Pausa lunga.
+
+Rendo ragione.
+
+È la lingua dei conti.
+
+Pausa.
+
+Come se questa vita
+fosse un conto
+aperto prima di lui.
+
+E adesso
+lo sta chiudendo.
+
 ## vv. 55-75 - Tra male gatte
 
 > E Ciriatto, a cui di bocca uscìa
@@ -248,6 +616,39 @@ di questa bolgia.
 Il topo.
 Le gatte.
 Gli artigli.
+
+Pausa.
+
+Ma il topo,
+in questa storia,
+non è solo il Navarrese.
+
+Pausa lunga.
+
+Nel ventunesimo
+Virgilio aveva detto a Dante:
+acquattati,
+dietro uno scheggio.
+
+E Dante si era nascosto
+fra i sassi del ponte.
+
+Pausa.
+
+Poi, allo scoperto,
+si era stretto a Virgilio,
+mentre i diavoli
+si chiedevano fra loro
+se toccarlo sul groppone.
+
+Pausa lunga.
+
+Il topo fra le gatte
+era già stato lui.
+
+Pausa.
+
+Il condannato per baratteria.
 
 Pausa.
 
@@ -329,7 +730,7 @@ Uscite concesse.
 
 Pausa.
 
-Vasel d’ogne froda.
+Vasel d’ogni froda.
 
 Non una crepa.
 
@@ -347,6 +748,157 @@ La confessione
 qui
 si fa sempre
 sotto minaccia.
+
+Pausa lunga.
+
+Ma questa chiacchiera sarda
+nasconde due fili.
+
+Pausa.
+
+Prima, una parola.
+
+Donno.
+
+Pausa.
+
+È sardo.
+Vuol dire signore.
+
+Dante lo mette in bocca
+a due sardi
+che parlano di Sardegna.
+
+Pausa.
+
+L'isola,
+per secoli,
+era stata divisa in quattro giudicati.
+Quasi quattro piccoli regni.
+
+Gallura era uno.
+Logodoro un altro.
+
+Pausa lunga.
+
+Il primo filo.
+
+Frate Gomita
+ha tradito il suo donno.
+
+Pausa.
+
+Il donno si chiama Nino Visconti,
+giudice di Gallura.
+
+E secondo i primi commentatori,
+quando scopre la truffa,
+Nino lo fa impiccare.
+
+Pausa lunga.
+
+Nino,
+Dante lo conosceva.
+
+E nel Purgatorio
+lo ritrova.
+Salvo.
+
+Giudice Nin gentil, quanto mi piacque
+quando ti vidi non esser tra’ rei!
+
+Pausa.
+
+E Nino gli chiede una cosa sola.
+
+Di dire a sua figlia,
+Giovanna,
+di pregare per lui.
+
+Pausa lunga.
+
+Il tradito si salva.
+Il traditore è qui.
+
+Pausa.
+
+E Nino
+è il nipote del conte Ugolino.
+
+Ci arriveremo.
+
+Pausa lunga.
+
+Il secondo filo.
+
+Michel Zanche.
+
+Pausa.
+
+Lo ucciderà suo genero,
+Branca Doria.
+
+A tradimento.
+Durante un banchetto,
+raccontano i commentatori.
+
+Pausa.
+
+E in fondo all'Inferno,
+nel ghiaccio,
+un'anima racconterà
+che Branca era già laggiù
+quando Michel Zanche,
+nella pece dei Malebranche,
+non era giunto ancora.
+
+Pausa lunga.
+
+L'assassino
+arriva all'Inferno
+prima della vittima.
+
+Pausa.
+
+Lo ritroveremo.
+
+Pausa lunga.
+
+E c'è una parola
+da tribunale.
+
+Pausa.
+
+Gomita i prigionieri
+li ha lasciati andare
+di piano.
+
+Pausa.
+
+Nel latino dei giudici,
+de plano.
+
+Senza processo.
+
+Pausa lunga.
+
+La lingua delle sentenze,
+nella bolgia
+della sentenza di Dante.
+
+Pausa lunga.
+
+e a dir di Sardigna
+le lingue lor non si sentono stanche.
+
+Pausa.
+
+Due truffatori che chiacchierano.
+
+Si ride.
+
+E intanto
+siamo stati avvertiti.
 
 ## vv. 97-117 - La proposta
 
@@ -456,8 +1008,13 @@ come andrà a finire.
 
 Pausa lunga.
 
+Sguardo in camera.
+
 O tu che leggi,
 udirai novo ludo.
+
+Dante si gira verso di noi.
+E ci dà il permesso di ridere.
 
 Pausa.
 
@@ -470,6 +1027,8 @@ che il canto
 sta cambiando tono.
 
 Pausa lunga.
+
+Velocità doppia fino allo stop: le pause diventano respiri.
 
 Il Navarrese
 coglie il suo tempo.
@@ -505,6 +1064,102 @@ diventano impaniati.
 Sono loro, adesso,
 da tirare fuori coi raffi.
 
+Stop.
+
+Pausa lunga.
+
+Allarga lo sguardo.
+
+Guarda tutto il canto
+da lontano.
+
+Pausa.
+
+Delfini.
+Rane.
+Una lontra.
+Un porco.
+Il topo fra le gatte.
+
+Pausa.
+
+L'anitra
+che si tuffa
+quando arriva il falcone.
+
+E il falcone
+che torna su a mani vuote:
+Alichino.
+
+Lo sparviero grifagno.
+
+Il malvagio uccello.
+
+Pausa lunga.
+
+È un bestiario.
+
+Nel Medioevo
+il bestiario era un libro.
+Ogni animale,
+una lezione morale.
+
+Pausa.
+
+Qui la lezione
+la danno le bestie di una caccia.
+
+I dannati sono prede.
+I diavoli, uccelli da caccia.
+
+Pausa.
+
+E guarda come finisce la caccia.
+
+Pausa lunga.
+
+sì avìeno inviscate l’ali sue.
+
+Pausa.
+
+Inviscate.
+
+Dal vischio.
+
+Pausa.
+
+E poco dopo:
+impaniati.
+
+Dalla pania.
+
+Pausa lunga.
+
+Vischio e pania
+sono le colle
+con cui si prendevano gli uccelli.
+
+Si spalmavano sui rami.
+
+L'uccello si posava.
+E non volava più.
+
+Pausa lunga.
+
+porser gli uncini verso gl’impaniati
+ch’eran già cotti dentro da la crosta.
+
+Pausa.
+
+La favola ha la sua morale.
+
+Detta con una parola da caccia.
+
+Pausa.
+
+I cacciatori
+presi come uccelli.
+
 Pausa lunga.
 
 E mentre i Malebranche
@@ -519,6 +1174,14 @@ Così impacciati.
 ## Chiusura
 
 [Schermo: nero pieno]
+
+Pausa lunga.
+
+Il condannato per baratteria
+se ne va.
+
+Restano impaniati
+quelli che dovevano sorvegliarlo.
 
 Pausa lunga.
 

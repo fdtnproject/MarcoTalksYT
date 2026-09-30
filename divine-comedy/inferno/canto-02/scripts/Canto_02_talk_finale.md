@@ -176,7 +176,7 @@ lo fa perché è stato mandato.
 
 Qui c'è una delle frasi più oneste della Commedia.
 
-"Io non Enea, io non Paulo sono."
+"Io non Enea, io non Paolo sono."
 
 Pausa.
 
@@ -185,7 +185,7 @@ Non è falsa modestia.
 chi sono io per stare in questa storia?
 
 E poi la chiave:
-"me degno a ciò né io né altri 'l crede."
+"me degno a ciò né io né altri crede."
 
 Non c'è nessuna autorizzazione.
 Non gli è stato detto niente.
@@ -372,7 +372,7 @@ dove la volontà si è consumata.
 Pausa.
 
 Ricordate Dante pochi versi fa:
-"pensando, consumai la 'mpresa."
+"pensando, consumai l'impresa."
 Il pensiero lo ferma.
 
 Qui Beatrice dice l'esatto contrario:
@@ -561,7 +561,7 @@ E arriva il rimprovero.
 Virgilio non grida.
 Interroga.
 
-"Perché, perché restai?"
+"Perché, perché ristai?"
 
 Il doppio "perché" non è stilistico.
 È insistenza.

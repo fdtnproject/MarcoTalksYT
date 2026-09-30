@@ -243,7 +243,7 @@ dove ogni luce è muta.
 [Schermo: Doré — la bufera che trascina le anime]
 
 Fermati su questo:
-"loco d'ogne luce muto."
+"luogo d'ogni luce muto."
 
 Non un posto buio.
 Un posto in cui la luce è stata zittita.
@@ -714,7 +714,7 @@ Non sappiamo ancora il suo nome.
 
 Pausa lunga.
 
-"O animal grazïoso e benigno."
+"O animal grazioso e benigno."
 
 Animale gentile e benigno
 che vieni a visitarci
@@ -735,7 +735,7 @@ Sangue.
 Pausa lunga.
 
 Poi dice una cosa generosa.
-"Se fosse amico il re dell'universo,
+"Se fosse amico il re de l'universo,
 ti chiederemmo per te la pace."
 
 Se Dio ci stesse ad ascoltare
@@ -768,8 +768,8 @@ Pausa.
 E comincia.
 
 "Siede la terra dove nata fui
-su la marina dove 'l Po discende
-per aver pace co' seguaci sui."
+su la marina dove il Po discende
+per aver pace coi seguaci sui."
 
 Pausa.
 
@@ -827,7 +827,7 @@ Pausa lunga.
 
 "Prese costui de la bella persona
 che mi fu tolta;
-e 'l modo ancor m'offende."
+e il modo ancor m'offende."
 
 Prese lui
 per il mio bel corpo
@@ -1162,7 +1162,7 @@ Non lei.
 Pausa.
 
 "Francesca, i tuoi martìri
-a lagrimar mi fanno tristo e pio."
+a lacrimar mi fanno tristo e pio."
 
 I tuoi martirii
 mi fanno piangere
@@ -1180,9 +1180,9 @@ Pausa.
 Ma poi fa una domanda
 da uomo che vuole capire.
 
-"Al tempo d'i dolci sospiri,
+"Al tempo de' dolci sospiri,
 a che e come concedette amore
-che conosceste i dubbiosi disiri?"
+che conosceste i dubbiosi desiri?"
 
 Pausa.
 
@@ -1249,7 +1249,7 @@ quando si è nella miseria.
 
 Pausa.
 
-"E ciò sa 'l tuo dottore."
+"E ciò sa il tuo dottore."
 
 E questo
 lo sa il tuo maestro.
@@ -1265,7 +1265,7 @@ Pausa.
 
 Poi.
 
-"Ma s'a conoscer la prima radice
+"Ma se a conoscer la prima radice
 del nostro amor
 tu hai cotanto affetto,
 dirò come colui che piange e dice."
@@ -1285,7 +1285,7 @@ Adesso comincia.
 
 [Schermo: Doré — Paolo e Francesca, il libro aperto]
 
-"Noi leggiavamo un giorno per diletto
+"Noi leggevamo un giorno per diletto
 di Lancialotto come amor lo strinse;
 soli eravamo e sanza alcun sospetto."
 
@@ -1322,7 +1322,7 @@ da quello che stava per succedere.
 
 Pausa lunga.
 
-"Per più fiate li occhi ci sospinse
+"Per più fiate gli occhi ci sospinse
 quella lettura,
 e scolorocci il viso."
 
@@ -1364,10 +1364,10 @@ Una pagina precisa.
 
 Pausa lunga.
 
-"Quando leggemmo il disïato riso
-esser basciato da cotanto amante,
+"Quando leggemmo il disiato riso
+esser baciato da cotanto amante,
 questi, che mai da me non fia diviso,
-la bocca mi basciò tutto tremante."
+la bocca mi baciò tutto tremante."
 
 Pausa.
 
@@ -1433,7 +1433,7 @@ E poi la frase.
 
 [Schermo: nero pieno]
 
-"Galeotto fu 'l libro e chi lo scrisse:
+"Galeotto fu il libro e chi lo scrisse:
 quel giorno più non vi leggemmo avante."
 
 Pausa.

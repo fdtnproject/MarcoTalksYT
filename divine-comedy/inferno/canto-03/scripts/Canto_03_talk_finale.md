@@ -77,7 +77,7 @@ Pausa lunga.
 
 E poi l'ultima riga.
 
-"Lasciate ogne speranza, voi ch'intrate."
+"Lasciate ogni speranza, voi ch'entrate."
 
 Non è una minaccia.
 È un'istruzione.
@@ -117,8 +117,8 @@ Pausa.
 E Virgilio risponde con una delle frasi
 più importanti di tutta la Commedia.
 
-"Qui si convien lasciare ogne sospetto;
-ogne viltà convien che qui sia morta."
+"Qui si convien lasciare ogni sospetto;
+ogni viltà convien che qui sia morta."
 
 Pausa lunga.
 
@@ -200,13 +200,13 @@ chi sono questi?
 Virgilio risponde lentamente.
 
 "Le anime triste di coloro
-che visser sanza 'nfamia e sanza lodo."
+che visser sanza infamia e sanza lodo."
 
 Pausa lunga.
 
 Fermati qui.
 
-Sanza 'nfamia e sanza lodo.
+Sanza infamia e sanza lodo.
 Senza infamia e senza lode.
 
 Pausa.
@@ -291,7 +291,7 @@ Pausa.
 Non possono nemmeno finire.
 
 "La lor cieca vita è tanto bassa
-che 'nvidïosi son d'ogne altra sorte."
+che invidiosi son d'ogni altra sorte."
 Perfino i dannati,
 almeno,
 sono qualcuno.
@@ -341,7 +341,7 @@ Non si ferma mai.
 
 Pausa.
 
-"D'ogne posa mi parea indegna."
+"D'ogni posa mi pareva indegna."
 Sembra incapace di fermarsi.
 Mai.
 
@@ -381,7 +381,7 @@ Riconosce un'ombra.
 Non la nomina.
 Ma la indica.
 
-"Colui che fece per viltade il gran rifiuto."
+"Colui che fece per viltà il gran rifiuto."
 
 Pausa lunga.
 
@@ -392,7 +392,7 @@ O altri personaggi della storia di Dante.
 Non importa chi è.
 Importa la formula.
 
-"Per viltade"
+"Per viltà"
 "il gran rifiuto."
 
 Pausa.
@@ -502,7 +502,7 @@ E qui succede una cosa piccola
 ma importante.
 
 Virgilio lo zittisce con dolcezza.
-"Le cose ti fier conte
+"Le cose ti fìer conte
 quando noi fermerem li nostri passi."
 
 Tradotto:
@@ -517,7 +517,7 @@ E Dante reagisce così:
 Si sente in colpa
 per aver chiesto troppo presto.
 
-"Infino al fiume del parlar mi trassi."
+"Infino al fiume di parlar mi trassi."
 Non parla più, fino al fiume.
 
 Sta imparando.
@@ -561,7 +561,7 @@ Pausa.
 
 E poi si accorge di Dante.
 
-"Tu che se' costì, anima viva."
+"Tu che sei costì, anima viva."
 Vattene da questi morti.
 
 Caronte riconosce subito
@@ -776,7 +776,7 @@ Tutti i sensi,
 insieme,
 vinti.
 
-"E caddi come l'uom cui sonno piglia."
+"E caddi come l'uom che 'l sonno piglia."
 
 Pausa lunga.
 

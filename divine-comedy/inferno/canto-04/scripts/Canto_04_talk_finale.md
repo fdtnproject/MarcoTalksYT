@@ -164,7 +164,7 @@ Ci sono sospiri.
 
 Pausa.
 
-"L'aura etterna facevan tremare."
+"L'aura eterna facevan tremare."
 L'aria eterna
 trema di sospiri.
 
@@ -312,7 +312,7 @@ E allora chiede una cosa,
 ma chiede con cautela.
 
 "Per voler esser certo
-di quella fede che vince ogne errore."
+di quella fede che vince ogni errore."
 
 Pausa.
 
@@ -349,7 +349,7 @@ E risponde.
 
 Pausa.
 
-"Io era nuovo in questo stato
+"Io era novo in questo stato
 quando ci vidi venire un possente."
 
 Io ero appena arrivato qui
@@ -466,7 +466,7 @@ Che vince un emisfero di tenebre.
 Pausa lunga.
 
 Ricordi che il Limbo è buio?
-"Aura fosca."
+"Oscura e profonda era e nebulosa."
 
 Eppure qui,
 nel punto dove stanno andando,
@@ -504,7 +504,7 @@ Pausa.
 E chiede.
 
 "Questi chi son c'hanno cotanta onranza,
-che dal modo de li altri li diparte?"
+che dal modo degli altri li diparte?"
 
 Chi sono questi
 che hanno tanto onore
@@ -516,8 +516,8 @@ E Virgilio risponde
 con una delle idee più belle della Commedia.
 
 "L'onrata nominanza
-che di lor suona sù ne la tua vita,
-grazia acquista in ciel
+che di lor suona su ne la tua vita,
+grazia acquista nel ciel
 che sì li avanza."
 
 Pausa.
@@ -626,8 +626,8 @@ che dal palco devi dire piano.
 
 Pausa.
 
-"Così vid' i' adunar la bella scola
-di quel segnor de l'altissimo canto."
+"Così vidi adunar la bella scola
+di quel signor de l'altissimo canto."
 
 Si raccoglie la bella scuola
 intorno a Omero.

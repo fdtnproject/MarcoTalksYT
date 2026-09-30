@@ -429,7 +429,7 @@ ha il suo momento
 più vivo.
 
 "Perché tanto delira
-lo 'ngegno tuo?"
+lo ingegno tuo?"
 
 Perché vaghi
 da quello che sai?

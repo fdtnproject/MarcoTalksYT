@@ -621,7 +621,7 @@ Dura.
 
 Pausa.
 
-Ma questo cede vale più
+Ma questo cedere vale più
 di qualsiasi descrizione.
 
 Pausa lunga.
@@ -633,7 +633,7 @@ sono la stessa cosa.
 Pausa.
 
 Se non riesci a dirlo,
-non riesci a misuarlo.
+non riesci a misurarlo.
 
 Pausa lunga.
 
@@ -1740,7 +1740,7 @@ Lungo silenzio.
 Pausa lunga.
 
 Virgilio è morto nell'anno 19 prima di Cristo.
-Sono passati quasi milletrecentotrenta anni.
+Sono passati quasi milletrecentoventi anni.
 
 Pausa.
 
@@ -2554,7 +2554,7 @@ L'invidia.
 
 Pausa.
 
-Non la lupa non ha creato sé stessa.
+La lupa non ha creato sé stessa.
 Qualcuno la ha spinta fuori.
 
 Pausa lunga.
@@ -2816,7 +2816,7 @@ Pausa lunga.
 
 Ti chiedo aiuto
 in nome di qualcosa
-che tu non hai avuto accesso.
+a cui tu non hai avuto accesso.
 
 Pausa.
 

@@ -517,6 +517,334 @@ del restare.
 
 Pausa lunga.
 
+Eppure
+io non riesco
+a chiudere questa terzina
+qui.
+
+Pausa.
+
+Perché queste parole
+hanno avuto
+un altro ascoltatore.
+
+[Schermo: nero pieno. Nessuna immagine del campo]
+
+Pausa lunga.
+
+Monowitz.
+Auschwitz.
+1944.
+
+Pausa.
+
+Un chimico di Torino.
+Si chiama Primo Levi.
+
+Sul braccio
+ha un numero.
+
+174517.
+
+Pausa lunga.
+
+Un giorno
+il più giovane della squadra,
+uno studente alsaziano,
+lo sceglie
+per andare a prendere la zuppa.
+
+Là dentro
+il suo incarico ha un nome:
+Pikolo.
+
+Pausa.
+
+È un lavoro ambito.
+
+Si va in due,
+con la marmitta su due stanghe.
+
+E per un'ora,
+più o meno,
+si può parlare.
+
+Pausa lunga.
+
+Parlano in francese.
+
+Pikolo vorrebbe imparare l'italiano.
+
+E Levi,
+non sa neanche lui perché,
+gli dà Dante.
+
+Pausa.
+
+Questo canto.
+
+Pausa lunga.
+
+Comincia da dove
+abbiamo cominciato noi,
+poco fa.
+
+Lo maggior corno de la fiamma antica
+cominciò a crollar, sì mormorando
+pur come quella cui vento affatica;
+indi, la cima qua e là menando,
+come fosse la lingua che parlasse,
+gittò voce di fuori e disse: Quando
+
+Pausa.
+
+Quando.
+
+E lì si ferma.
+
+Prova a tradurre.
+Il francese non basta.
+
+Pausa.
+
+Dopo quando,
+il vuoto.
+
+Tornano dei pezzi.
+Il padre.
+Penelope.
+
+Poi un verso intero.
+
+ma misi me per l’alto mare aperto,
+
+Pausa.
+
+Misi me.
+
+Levi si ferma su queste due parole.
+
+Prova a spiegare a Pikolo
+che non è soltanto partire.
+
+È lanciarsi,
+con tutto il proprio peso,
+dall'altra parte
+di un limite.
+
+Pausa lunga.
+
+Poi il limite vero.
+
+Ne ricorda un verso solo.
+
+a ciò che l’uom più oltre non si metta:
+
+Pausa.
+
+Due uomini
+che non possono uscire da un recinto
+parlano delle colonne d'Ercole.
+
+Pausa lunga.
+
+Poi arrivano
+questi tre versi.
+
+Considerate la vostra semenza:
+fatti non foste a viver come bruti,
+ma per seguir virtute e conoscenza.
+
+Pausa lunga.
+
+Levi racconta
+di averli sentiti
+come se fosse la prima volta.
+
+Come uno squillo.
+
+Pausa.
+
+Per un attimo,
+il campo non c'è più.
+
+Né il numero.
+Né il luogo.
+
+DA SCEGLIERE (Marco): se vuoi, al posto delle righe da «Levi racconta» a «Né il luogo», una sola frase esatta di Levi, breve, letta dal libro, con autore, opera ed editore. Altrimenti restano queste righe.
+
+Pausa lunga.
+
+Fatti non foste
+a viver come bruti.
+
+Pausa.
+
+Detto lì.
+
+In un posto costruito
+per fare degli uomini
+dei bruti.
+
+Pausa lunga.
+
+Pikolo gli chiede
+di ripeterli.
+
+Pausa.
+
+E Levi
+va avanti.
+
+Li miei compagni fec’io sì acuti,
+
+Lungo silenzio.
+
+Qui
+la memoria si rompe.
+
+Pausa.
+
+Mancano almeno quattro terzine.
+
+Pausa.
+
+Pikolo gli dice
+di andare avanti lo stesso.
+
+Pausa lunga.
+
+Poi tornano dei pezzi.
+
+Una montagna,
+bruna per la distanza.
+
+E a Levi
+tornano in mente le sue montagne,
+quelle che vedeva la sera
+dal treno,
+tornando da Milano a Torino.
+
+Pausa.
+
+Di nuovo il vuoto.
+
+Levi dice
+che darebbe la zuppa di quel giorno
+per ritrovare i versi che mancano.
+
+Pausa.
+
+La zuppa.
+
+Là dentro.
+
+Pausa lunga.
+
+È tardi.
+
+Le cucine sono vicine.
+
+Pausa.
+
+E c'è una mezza riga
+che all'improvviso
+gli sembra la più importante di tutte.
+
+Deve farla arrivare a Pikolo.
+Adesso.
+Prima che sia troppo tardi.
+
+Pausa.
+
+Perché domani
+uno dei due
+potrebbe non esserci più.
+
+Pausa lunga.
+
+Quella mezza riga
+la sentiremo fra poco,
+al suo posto nel canto.
+
+Pausa.
+
+Intanto sono in fila,
+davanti alle cucine.
+
+Annunciano la zuppa del giorno,
+in tre lingue.
+
+Cavoli e rape.
+
+Pausa lunga.
+
+Il capitolo si chiude
+con l'ultimo verso di questo canto.
+
+Pausa.
+
+Anche noi
+ci arriveremo.
+
+Pausa lunga.
+
+Ma adesso
+riprendo
+da dove mi sono fermato.
+
+Li miei compagni fec’io sì acuti,
+con questa orazion picciola, al cammino,
+che a pena poscia li avrei ritenuti.
+
+Pausa lunga.
+
+Orazion picciola.
+
+Pausa.
+
+Poco fa dicevo
+che con queste parole
+rifiutare il viaggio
+sembra rifiutare
+la propria dignità.
+
+È una pressione.
+E porta degli uomini
+a morire.
+
+Pausa.
+
+Lo fa.
+
+Pausa lunga.
+
+Ma in un altro luogo,
+in un altro tempo,
+per un'ora di strada,
+le stesse parole
+hanno restituito a due uomini,
+per un momento,
+la loro dignità.
+
+La loro umanità.
+
+Pausa.
+
+Al cammino.
+
+Pausa lunga.
+
+Io credo
+che il canto
+ci chieda di tenere insieme
+tutte e due le cose.
+
+Senza scegliere
+la più comoda.
+
+Pausa lunga.
+
 I compagni
 non rispondono
 con un altro discorso.
