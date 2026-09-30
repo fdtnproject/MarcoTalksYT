@@ -199,11 +199,13 @@ Lingua rotta.
 Pausa lunga.
 
 Aveva voluto
-una lingua sola.
+una torre fino al cielo.
+
+Pausa.
 
 E adesso
-non ne ha più
-nemmeno una
+non ha più
+nemmeno una lingua
 che qualcuno possa capire.
 
 Pausa.
@@ -344,15 +346,14 @@ Pausa.
 
 Funziona.
 
-Anteo si china.
+Anteo li prende.
+Poi si china.
 
 La Garisenda
 diventa la misura
 di quel piegarsi.
 
 Pausa lunga.
-
-Poi li prende.
 
 Li depone.
 

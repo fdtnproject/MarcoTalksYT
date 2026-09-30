@@ -397,7 +397,7 @@ Siamo in un posto
 dove è passato Cristo.
 Una volta sola.
 
-E dopo, più nessuno.
+E Virgilio è rimasto qui.
 
 Virgilio ha visto la salvezza
 attraversare questo cerchio.
@@ -1011,7 +1011,7 @@ Una luce che non salva.
 Pausa.
 
 Qui ci sono i nomi più grandi
-che il mondo classico abbia prodotto.
+della sapienza antica e medievale.
 Aristotele.
 Omero.
 Enea.
@@ -1022,8 +1022,7 @@ Pausa.
 
 E sono tutti qui.
 
-Non puniti.
-Non torturati.
+Non torturati nel corpo.
 Sospesi.
 
 Pausa lunga.
@@ -1076,4 +1075,4 @@ Pausa.
 Il canto si chiude nel buio.
 Il prossimo si aprirà
 con Minosse,
-dove cominciano le pene vere.
+dove cominciano i tormenti del corpo.

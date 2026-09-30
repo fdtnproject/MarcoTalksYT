@@ -348,7 +348,7 @@ qui
 si fa sempre
 sotto minaccia.
 
-## vv. 97-123 - La proposta
+## vv. 97-117 - La proposta
 
 > «Se voi volete vedere o udire,»
 > ricominciò lo spaurato appresso,
@@ -415,7 +415,7 @@ il canto
 ha già deciso
 come andrà a finire.
 
-## vv. 124-151 - La zuffa
+## vv. 118-151 - La zuffa
 
 > O tu che leggi, udirai novo ludo.
 > Ciascun da l’altra costa gli occhi volse,

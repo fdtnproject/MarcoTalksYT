@@ -189,9 +189,10 @@ Pausa.
 Non può fermarsi.
 
 Se si ferma,
-cade.
+resta disteso cent'anni,
+senza schermarsi dal fuoco.
 
-Quindi continua a correre
+Quindi continua a camminare
 e intanto parla.
 
 ## vv. 43-54 - L'allievo in alto
@@ -214,7 +215,7 @@ Pausa.
 La scena è strana
 anche nel corpo.
 
-Brunetto corre
+Brunetto cammina
 sulla sabbia.
 
 Dante cammina
@@ -306,7 +307,7 @@ da sapere
 che il talento
 lì si paga.
 
-## vv. 79-102 - Cara e buona imagine paterna
+## vv. 79-99 - Cara e buona imagine paterna
 
 > «Se fosse tutto pieno il mio dimando,»
 > rispuosi lui, «voi non sareste ancora
@@ -383,14 +384,14 @@ oltre la vita.
 
 Pausa.
 
-Brunetto corre nella sabbia.
+Brunetto cammina nella sabbia.
 
 E intanto,
 in Dante,
 quell'insegnamento
 è ancora intatto.
 
-## vv. 103-114 - Gli altri nomi
+## vv. 100-114 - Gli altri nomi
 
 > Né per tanto di men parlando vommi
 > con ser Brunetto, e dimando chi sono

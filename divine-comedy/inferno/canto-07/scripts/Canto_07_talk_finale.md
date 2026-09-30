@@ -299,7 +299,8 @@ Pausa.
 
 Le anime
 fanno una specie di danza obbligata.
-Vanno in due cerchi opposti.
+Vanno in due schiere opposte,
+nello stesso cerchio.
 Si scontrano nel punto in cui si incontrano.
 
 ## vv. 25-48 - La pena di avari e prodighi
@@ -487,7 +488,7 @@ papi e cardinali
 nel quarto cerchio dell'Inferno.
 Non in punta di critica.
 A spingere massi
-nel fango di una giostra senza fine.
+in una giostra senza fine.
 
 Pausa.
 

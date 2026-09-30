@@ -123,7 +123,8 @@ per trattare con Bonifacio.
 
 Pausa.
 
-Il papa lo tiene fermo.
+Secondo la ricostruzione tradizionale,
+il papa lo tiene fermo.
 La trappola è già scattata.
 
 ## Il 27 gennaio 1302
@@ -142,7 +143,7 @@ per opposizione al papa.
 
 Pausa lunga.
 
-Cinquemila fiorini di multa.
+Cinquemila lire di fiorini piccoli.
 Due anni di esilio.
 Esclusione perpetua da ogni ufficio pubblico.
 
@@ -300,8 +301,8 @@ Non è ancora condannato.
 Pausa lunga.
 
 Anzi:
-è priore.
-Sta nel governo.
+quell'anno diventerà priore.
+È dentro la politica della città.
 Ha ancora tutto.
 
 Pausa.
@@ -431,7 +432,7 @@ Non è una coincidenza.
 
 Pausa lunga.
 
-Sto scrivendo questo libro
+Faccio cominciare questo viaggio
 dall'esatto centro della vita.
 Dal momento in cui non si può più fingere
 di non sapere dove si sta andando.
@@ -500,13 +501,14 @@ Non trovai.
 
 Pausa.
 
-Il prefisso ri- dice già
-che si era già perso.
+Io in quel ri-
+sento già
+lo smarrimento.
 
 Pausa lunga.
 
-E dice anche
-che c'è un momento di ritorno
+E ci sento anche
+un momento di ritorno
 alla consapevolezza.
 
 Pausa.
@@ -966,14 +968,13 @@ Pausa.
 
 Le spalle del colle
 sono illuminate.
-Non la cima.
 
 Pausa lunga.
 
 La meta è visibile.
 Ma non è a portata di mano.
 
-## vv. 19-27 - La paura contenuta, il naufrago
+## vv. 19-24 - La paura contenuta, il naufrago
 
 Pausa lunga.
 
@@ -1052,7 +1053,7 @@ E distinguere
 è il primo atto
 della mente che torna.
 
-## vv. 28-30 - Il passo
+## vv. 25-27 - Il passo
 
 Pausa lunga.
 
@@ -1079,8 +1080,10 @@ Che cosa vuol dire?
 
 Pausa lunga.
 
-Non che ammazza.
-Che cambia.
+C'è il rischio
+della morte dell'anima.
+Io ci leggo anche
+un cambiamento.
 
 Pausa.
 
@@ -1689,6 +1692,9 @@ Pausa.
 > Mentre ch'io ruvinava in basso loco,
 > dinanzi a gli occhi mi si fu offerto
 > chi per lungo silenzio parea fioco.
+> Quando vidi costui nel gran diserto
+> «Miserere di me» gridai a lui,
+> «qual che tu sii, od ombra od omo certo.»
 
 Pausa lunga.
 
@@ -1696,8 +1702,8 @@ Rovinar.
 
 Pausa.
 
-Non scendere.
-Non retrocedere.
+Non soltanto scendere.
+Non soltanto retrocedere.
 
 Pausa lunga.
 
@@ -1707,8 +1713,8 @@ Come le macerie.
 
 Pausa.
 
-È proprio quando Dante
-non cammina più
+È proprio mentre Dante
+perde terreno
 che appare Virgilio.
 
 Pausa lunga.
@@ -2304,8 +2310,8 @@ Pausa lunga.
 
 Non si può vincerla
 con la forza di volontà.
-Perché più la combatti,
-più la nutri.
+Perché più la nutri,
+più ha fame.
 
 ## vv. 100-111 - Il Veltro
 
@@ -2522,8 +2528,7 @@ La caccerà.
 
 Pausa.
 
-Non la ucciderà.
-Non la distruggerà.
+La farà morire con dolore.
 La ricaccerà.
 
 Pausa lunga.
@@ -2699,6 +2704,9 @@ Pausa lunga.
 > ché quello imperador che là su regna,
 > perch'io fui rebellante a la sua legge,
 > non vuol che in sua città per me si vegna.
+> In tutte parti impera e quivi regge;
+> quivi è la sua città e l’alto seggio:
+> oh felice colui cui ivi elegge!»
 
 Pausa lunga.
 
@@ -2715,28 +2723,31 @@ Poi serve un'altra guida.
 
 Pausa.
 
-E si autoaccusa.
-
-Pausa lunga.
-
 Perch'io fui rebellante a la sua legge.
 
 Pausa.
 
-Non dice:
-sono pagano.
-Non dice:
-sono nato nel tempo sbagliato.
-
-Pausa lunga.
-
-Dice:
-fui rebellante.
+Una parola durissima.
 
 Pausa.
 
-Come se ci fosse stata
-una possibilità di scelta.
+Ma attenzione.
+Qui rebellante
+non significa ribelle
+nel senso in cui lo intendiamo noi.
+
+Pausa lunga.
+
+Virgilio non sta dicendo:
+ho conosciuto Cristo
+e l'ho rifiutato.
+
+Pausa.
+
+Sta dicendo:
+sono rimasto estraneo
+a quella legge.
+Non l'ho conosciuta.
 
 Pausa lunga.
 
@@ -2833,8 +2844,8 @@ color cui tu fai cotanto mesti.
 
 Pausa lunga.
 
-Chi rendi così tristi.
-Gli spiriti del Purgatorio.
+Quelli che descrivi così tormentati.
+Le anime dell'Inferno.
 
 Pausa.
 
@@ -2911,11 +2922,16 @@ appare una guida.
 Pausa lunga.
 
 Non per caso.
-Non per miracolo.
 
 Pausa.
 
-Perché Dante ha chiesto.
+E non perché Dante
+l'abbia chiamato.
+
+Pausa.
+
+Quando Dante chiede aiuto,
+l'aiuto è già arrivato.
 
 Pausa lunga.
 

@@ -460,7 +460,7 @@ attraverso la madre.
 Pausa.
 
 È la formula evangelica
-che la folla usa per Gesù
+che una donna tra la folla rivolge a Gesù
 nel Vangelo di Luca:
 "Beato il ventre che ti portò."
 
@@ -644,22 +644,23 @@ con i propri denti.
 
 Pausa lunga.
 
-Da qui in giù
+Oltre Dite
 conta sempre di più
 quello che uno ha voluto.
 
 Pausa.
 
-Per questo Dante
+Qui Dante
 non lo compatisce.
 
-E per questo Virgilio
+E qui Virgilio
 benedice
 la mancanza di pietà.
 
 Pausa lunga.
 
-Da qui il male è scelto.
+La soglia è lì davanti:
+da qui il male è scelto.
 
 Pausa.
 
@@ -772,7 +773,7 @@ sono di ferro.
 > Io vidi più di mille in su le porte
 > da ciel piovuti, che stizzosamente
 > dicean: «Chi è costui che sanza morte
-> va per Io regno de la morta gente?»
+> va per lo regno de la morta gente?»
 > E ’l savio mio maestro fece segno
 > di voler lor parlar secretamente.
 
@@ -1286,8 +1287,8 @@ passando per i cerchi
 senza scorta,
 qualcuno
 per cui
-la terra qui
-si aprirà.
+la città
+ci sarà aperta.
 
 Pausa lunga.
 

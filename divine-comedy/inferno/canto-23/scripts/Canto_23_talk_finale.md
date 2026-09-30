@@ -50,7 +50,7 @@ Pausa lunga.
 
 Dante cammina
 e nella testa
-costruisce una favola.
+gli torna una favola.
 
 Pausa.
 

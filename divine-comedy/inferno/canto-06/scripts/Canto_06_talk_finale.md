@@ -494,7 +494,7 @@ Ferma su questa parola.
 
 Pausa.
 
-Lui era stato sereno.
+Lui era stato vivo.
 A Firenze.
 La città dell'invidia traboccante.
 
@@ -502,8 +502,8 @@ Pausa lunga.
 
 Già qui
 c'è una piccola tensione.
-Una vita serena
-in una città malata.
+Serena, da quaggiù.
+Perfino in una città malata.
 
 Pausa.
 
@@ -521,6 +521,7 @@ Non "il mio nome era."
 
 Pausa.
 
+Secondo una lettura antica,
 Ciacco non è il suo vero nome.
 Ciacco, in fiorentino antico,
 significa "porco."
@@ -557,13 +558,14 @@ Pausa.
 
 "Mi fiacco."
 
-Mi disfaccio.
-Mi sciolgo.
+Mi fiacco.
+Mi abbatto.
+È come sciogliersi.
 
 Pausa lunga.
 
 Ciacco non sta solo subendo una pena.
-Si sta sciogliendo
+È come se si sciogliesse
 nella stessa sostanza
 che da vivo
 non smetteva di ingoiare.

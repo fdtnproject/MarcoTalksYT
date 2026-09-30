@@ -167,8 +167,9 @@ Pausa.
 
 Guarda Anfiarao.
 
-Cadde nella terra
-per sfuggire al proprio destino.
+Aveva tentato di sfuggire
+al proprio destino.
+La terra lo inghiottì.
 
 Ed eccolo qui.
 

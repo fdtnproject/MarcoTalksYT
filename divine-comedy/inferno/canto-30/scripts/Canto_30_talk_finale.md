@@ -21,9 +21,9 @@ e le croste.
 Pausa lunga.
 
 Il trentesimo
-apre prima ancora
-di entrare
-nella bolgia.
+apre prima di mostrarci
+altre anime
+della stessa bolgia.
 
 Pausa.
 
@@ -95,7 +95,7 @@ non è solo sofferenza.
 
 È identità rovinata.
 
-## vv. 28-48 - Gianni Schicchi e Mirra
+## vv. 28-45 - Gianni Schicchi e Mirra
 
 > L’una giunse a Capocchio, ed in sul nodo
 > del collo l’assannò, sì che, tirando,
@@ -156,7 +156,7 @@ in altrui forma.
 Questa è la formula
 che apre il canto.
 
-## vv. 49-90 - Maestro Adamo
+## vv. 46-90 - Maestro Adamo
 
 > E poi che i due rabbiosi fur passati
 > sovra cui io avea l’occhio tenuto,

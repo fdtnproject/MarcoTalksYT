@@ -252,7 +252,7 @@ come si aspetta
 chi deve venire
 a prenderti il posto.
 
-E vede Dante vivo
+E sente qualcuno parlargli
 e pensa:
 è già arrivato.
 

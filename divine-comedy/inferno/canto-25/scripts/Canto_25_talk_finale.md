@@ -316,7 +316,7 @@ adesso taci.
 Sta per arrivare
 qualcosa di peggio.
 
-## vv. 97-124 - Lo scambio
+## vv. 97-123 - Lo scambio
 
 > Taccia di Cadmo e d’Aretusa Ovidio,
 > ché se quello in serpente e quella in fonte
@@ -381,7 +381,7 @@ Ma nessuno dei due
 ha smesso
 di guardare.
 
-## vv. 125-151 - Buoso, Puccio, Gaville
+## vv. 124-151 - Buoso, Puccio, Gaville
 
 > Quel ch’era dritto il trasse ver le tempie,
 > e di troppa matera ch’in là venne

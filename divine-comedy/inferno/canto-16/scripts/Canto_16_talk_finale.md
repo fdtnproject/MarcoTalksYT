@@ -131,7 +131,7 @@ prima di afferrarsi.
 Pausa.
 
 Non possono smettere di correre.
-Non possono voltarsi.
+Non possono fermarsi.
 
 Allora tengono il viso verso Dante
 e i piedi
@@ -194,7 +194,8 @@ Tre nomi
 che per Dante
 non sono qualunque.
 
-Erano già emersi
+Due di questi nomi
+erano già emersi
 nel sesto canto,
 nella Firenze di Ciacco.
 
@@ -273,7 +274,7 @@ io vado ancora giù.
 
 Voi no.
 
-## vv. 64-75 - La domanda su Firenze
+## vv. 64-72 - La domanda su Firenze
 
 > «Se lungamente l’anima conduca
 > le membra tue,» rispuose quegli allora,
@@ -319,7 +320,7 @@ Anche dall'Inferno
 guardano ancora
 verso la città.
 
-## vv. 76-90 - Dante risponde e loro capiscono
+## vv. 73-90 - Dante risponde e loro capiscono
 
 > «La gente nova e i sùbiti guadagni
 > orgoglio e dismisura han generata,
@@ -522,9 +523,8 @@ sale una figura.
 Viene nuotando in su.
 
 Come chi torna dall'acqua
-tirando su
-qualcosa
-che era rimasto agganciato in fondo.
+dopo aver liberato
+un'ancora impigliata sul fondo.
 
 Pausa lunga.
 

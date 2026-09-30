@@ -211,7 +211,7 @@ Pausa.
 
 Non si guardano intorno.
 Non guardano il cielo.
-Non guardano Dante.
+Gli occhi tornano alla borsa.
 
 Pascono gli occhi
 sulla borsa.

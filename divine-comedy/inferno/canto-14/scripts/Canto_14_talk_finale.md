@@ -180,7 +180,7 @@ prima ancora di saperne il nome.
 
 Grande.
 Steso.
-Torto.
+Sguardo torvo.
 
 E soprattutto:
 dispettoso.
@@ -259,7 +259,7 @@ Ma non è vittoria.
 di restare inchiodato
 alla propria forma.
 
-## vv. 76-93 - Il rio rosso
+## vv. 76-90 - Il rio rosso
 
 > Tacendo divenimmo là ’ve spiccia
 > fuor de la selva un picciol fiumicello,
@@ -313,7 +313,7 @@ Perché spegne
 le fiamme
 sopra di sé.
 
-## vv. 94-120 - Il Veglio di Creta
+## vv. 91-120 - Il Veglio di Creta
 
 [Schermo: Doré — il Veglio di Creta]
 

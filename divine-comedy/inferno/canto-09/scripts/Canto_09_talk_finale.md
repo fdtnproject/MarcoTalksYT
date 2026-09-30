@@ -54,15 +54,11 @@ verso il lettore.
 > perch’io traeva la parola tronca
 > forse a peggior sentenza che non tenne.
 
-Dante vede
-che il colore della paura
-gli era salito in faccia.
+Dante è pallido
+di paura.
 
-E vede anche
-che Virgilio,
-tornando indietro,
-lo richiude in fretta
-dentro il proprio volto.
+Virgilio lo vede
+e ricompone il proprio volto.
 
 Pausa lunga.
 
@@ -553,7 +549,7 @@ Ha altro da fare.
 
 Pausa lunga.
 
-Non è venuto per Dante.
+Non è venuto a conversare con Dante.
 
 È venuto
 ad aprire

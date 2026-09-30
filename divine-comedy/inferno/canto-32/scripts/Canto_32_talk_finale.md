@@ -448,10 +448,10 @@ Uno sotto.
 
 Pausa lunga.
 
-E il morso
-non è furia.
+A me il morso
+non sembra soltanto furia.
 
-È fame.
+Sembra fame.
 
 Come il pane.
 
@@ -489,8 +489,8 @@ alla passione.
 
 Pausa lunga.
 
-Qui la passione
-si è spenta.
+È come se qui la passione
+si fosse spenta.
 
 Resta la durezza.
 

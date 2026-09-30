@@ -24,7 +24,7 @@ il quinto si apre nel posto dove la luce è sostituita dal vento.
 Pausa.
 
 Scendiamo di un cerchio.
-Dal primo, dove c'erano sospiri e nessuna pena,
+Dal primo, dove c'erano sospiri e nessuna pena corporale,
 al secondo,
 dove la pena ha finalmente un suono.
 
@@ -120,11 +120,11 @@ Si avvolge la coda intorno al corpo
 tante volte
 quanti sono i cerchi di discesa.
 
-Una volta:
-secondo cerchio.
 Due volte:
+secondo cerchio.
+Tre volte:
 terzo.
-Sette volte:
+Nove volte:
 nono.
 
 Pausa lunga.
@@ -453,7 +453,7 @@ Pausa lunga.
 
 Poi Didone.
 Quella che si uccise per amore.
-E che, uccidendosi,
+E che, amando Enea,
 ruppe la fedeltà
 alle ceneri del marito Sicheo.
 
@@ -588,8 +588,8 @@ che vanno insieme.
 Pausa.
 
 E sembrano "sì al vento esser leggeri."
-Talmente leggere
-che il vento le sposta più degli altri.
+Così leggere
+nel vento.
 
 Pausa.
 
@@ -603,7 +603,7 @@ Pausa lunga.
 
 Vanno insieme.
 Sono leggere.
-Il vento le porta più di tutti.
+Il vento le porta.
 
 Tre informazioni.
 Niente nomi ancora.
@@ -854,7 +854,7 @@ che, come vedi, ancor non m'abbandona."
 L'amore,
 che a nessun amato perdona di non amare a sua volta,
 mi prese
-del piacere di lui
+per la bellezza di lui
 così forte
 che, come vedi,
 ancora non mi lascia.
@@ -884,15 +884,15 @@ Pausa.
 
 E ancora,
 qui in mezzo al vento,
-quel piacere
+quell'amore
 non l'ha abbandonata.
 
 Pausa.
 
 Ferma anche su questo.
-Quel piacere
+Quell'amore
 è la sua dannazione.
-E la chiama "piacere"
+E lei lo chiama "amore"
 mentre te lo racconta.
 
 Pausa lunga.
@@ -1123,7 +1123,7 @@ menò costoro al doloroso passo!"
 
 Pausa.
 
-Oh povera me.
+Oh povero me.
 Quanti pensieri dolci,
 quanto desiderio
 ha portato questi due
@@ -1171,9 +1171,9 @@ di tristezza e di pietà.
 Pausa lunga.
 
 Tristo e pio.
-Le stesse due parole
-che Virgilio aveva usato nel quarto
-per dire la pena del Limbo.
+Ritornano il dolore
+e la pietà
+che avevamo incontrato nel Limbo.
 
 Pausa.
 
@@ -1256,7 +1256,7 @@ lo sa il tuo maestro.
 
 Pausa lunga.
 
-Frecciata a Virgilio.
+Io ci sento una frecciata a Virgilio.
 Tu che sei nel Limbo,
 sai cosa significa
 ricordare di essere stato vivo.
@@ -1310,10 +1310,9 @@ Non sospettavamo niente.
 
 Pausa.
 
-Sospetto significa,
-nell'italiano antico,
-"avvertimento."
-Qualcosa che ti mette in guardia.
+Sospetto qui significa
+timore.
+Non si erano messi in guardia.
 
 Pausa.
 
@@ -1391,8 +1390,7 @@ che mai più sarà separato da me.
 
 Pausa.
 
-È la prima volta
-che parla di Paolo
+Qui parla di Paolo
 come di un "lui."
 
 E nel farlo,
@@ -1447,7 +1445,7 @@ non leggemmo oltre.
 
 Pausa.
 
-Galeotto, in francese antico,
+Galeotto, nel romanzo francese,
 era il personaggio
 che fece da intermediario
 tra Lancillotto e Ginevra.

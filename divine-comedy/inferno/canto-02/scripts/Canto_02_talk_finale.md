@@ -107,7 +107,7 @@ Si ferma.
 E dice a Virgilio: controlla prima.
 
 Guarda se la mia virtù basta.
-Prima di fidarti di me.
+Prima di espormi a questo viaggio.
 
 Pausa.
 
@@ -140,8 +140,8 @@ con l'entusiasmo.
 
 Dante fa un ragionamento preciso.
 
-Altri due sono scesi vivi
-dove nessuno scende:
+Altri due hanno attraversato vivi
+il confine dell'aldilà:
 Enea e Paolo.
 
 Enea, per fondare Roma.
@@ -150,7 +150,7 @@ Paolo, per confermare la fede.
 Pausa.
 
 Ma nota cosa dice Dante:
-non sono scesi per sé.
+non sono andati per sé.
 
 Enea è andato
 perché da lui doveva nascere un impero.
@@ -162,8 +162,8 @@ Per qualcosa più grande di loro.
 
 Dante sta cercando un precedente.
 Ma quello che trova è la regola:
-chi scende vivo,
-scende perché è stato mandato.
+chi attraversa quel confine da vivo,
+lo fa perché è stato mandato.
 
 ## vv. 31-36 - Io non Enea, io non Paulo
 
@@ -323,11 +323,8 @@ E lo chiama "l'amico mio, e non de la ventura."
 
 Pausa.
 
-Amico non per caso.
-Non per fortuna.
-Non per combinazione.
-
-Amico per scelta sostanziale.
+Amato da me.
+Non amato dalla fortuna.
 
 E c'è dentro una paura precisa:
 temo di essere arrivata tardi.
@@ -637,17 +634,18 @@ Si aprono.
 
 Pausa.
 
-Questo è esattamente ciò che succede a Dante.
-Non prende una decisione.
+A me sembra
+che a Dante succeda questo.
+Non prende soltanto una decisione.
 Si raddrizza.
 
 La sua virtù era stanca.
 Adesso si drizza in loro stelo.
 
-Non perché si è convinto.
+Non soltanto perché si è convinto.
 Perché è stato scaldato.
 
-L'amore non ti persuade.
+L'amore non ti persuade soltanto.
 Ti riapre.
 
 ## vv. 133-138 - Il cor disposto
@@ -669,10 +667,10 @@ Ma guarda il verbo che usa:
 
 Pausa.
 
-Il cuore non si è convinto.
+Il cuore non si è soltanto convinto.
 Si è disposto.
 
-È un verbo passivo.
+È lui che riceve.
 È il movimento di chi riceve una forma.
 
 La misura del Canto I era esterna:
@@ -748,7 +746,7 @@ Il primo passo della Commedia
 non lo fa Dante.
 
 Lo fa una donna in cielo
-che piange
+che si muove a pietà
 e chiede aiuto per lui.
 
 Pausa lunga.

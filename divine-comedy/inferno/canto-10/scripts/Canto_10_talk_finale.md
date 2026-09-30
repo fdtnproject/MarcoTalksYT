@@ -435,7 +435,7 @@ Pausa lunga.
 Il fuoco
 non li appiattisce.
 
-## vv. 73-85 - Farinata immutato
+## vv. 73-84 - Farinata immutato
 
 > Ma quell’altro magnanimo, a cui posta
 > restato m’era, non mutò aspetto,
@@ -501,7 +501,7 @@ Anche da dannato
 Farinata
 fa ancora politica.
 
-## vv. 86-99 - La domanda sul vedere
+## vv. 85-99 - La domanda sul vedere
 
 > Ond’io a lui: «Lo strazio e ’l grande scempio
 > che fece l’Arbia colorata in rosso
@@ -629,7 +629,8 @@ si chiuderà anche
 la loro conoscenza.
 
 Dopo il giudizio finale
-non sapranno più niente.
+non sapranno più nulla
+del mondo dei vivi.
 
 Pausa.
 

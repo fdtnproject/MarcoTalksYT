@@ -162,7 +162,7 @@ Perché ogni lucciola
 è una fiamma.
 
 E ogni fiamma
-nasconde un furto.
+nasconde un'anima.
 
 ## vv. 43-75 - La fiamma doppia
 
@@ -248,7 +248,7 @@ Virgilio lo vede.
 
 E interviene.
 
-Non solo
+Io credo che non sia solo
 perché sono greci.
 
 Perché qui
@@ -365,7 +365,7 @@ fin qui.
 
 Non oltre.
 
-## vv. 112-124 - L’orazion picciola
+## vv. 112-123 - L’orazion picciola
 
 > ‘O frati,’ dissi, che per cento milia
 > perigli siete giunti a l’occidente,
@@ -408,7 +408,7 @@ che li rende acuti.
 E li consegna
 al viaggio.
 
-## vv. 125-142 - Il folle volo
+## vv. 124-142 - Il folle volo
 
 > E volta nostra poppa nel mattino,
 > dei remi facemmo ali al folle volo,
@@ -470,9 +470,28 @@ Non a Ulisse.
 
 Pausa lunga.
 
-Cicerone scrive:
+Cicerone,
+nel De officiis,
+torna proprio su Ulisse.
 
-suae quisque fortunae faber.
+Pausa.
+
+Ma c'è una massima romana
+ancora più antica,
+attribuita ad Appio Claudio.
+
+Pausa lunga.
+
+Lo Pseudo-Sallustio
+ce la tramanda così:
+
+fabrum esse suae quemque fortunae.
+
+Pausa.
+
+Ognuno
+è artefice
+della propria sorte.
 
 Pausa.
 
@@ -493,10 +512,11 @@ la propria fine.
 
 Pausa lunga.
 
-Due millenni dopo,
-Goethe guarderà
+A me sembra
+che due millenni dopo
+Goethe guardi
 quasi la stessa febbre
-e la assolverà.
+e la assolva.
 
 Pausa.
 

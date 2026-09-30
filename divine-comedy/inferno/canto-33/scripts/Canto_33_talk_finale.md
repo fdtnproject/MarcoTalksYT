@@ -401,8 +401,8 @@ Dattero per fico.
 
 Pausa.
 
-L’ospitalità
-usata come segnale
+L’ospitalità è la trappola.
+La frutta, il segnale
 per uccidere.
 
 ## vv. 121-157 - Branca Doria e la legge della Tolomea

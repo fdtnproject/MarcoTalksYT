@@ -123,11 +123,10 @@ Nel mezzo di Malebolge
 Dante pensa ancora
 a un debito di famiglia.
 
-E capisce
-che il morto
-gli ha perdonato
-proprio
-voltandosi via.
+Il morto se ne va
+sdegnato.
+E proprio quel rifiuto
+rende Dante più pietoso.
 
 ## vv. 37-57 - Il fetore della decima bolgia
 
@@ -180,7 +179,7 @@ una teoria morale.
 
 È un odore.
 
-## vv. 58-90 - I falsatori malati
+## vv. 58-84 - I falsatori malati
 
 > Non credo ch’a veder maggior tristizia
 > fosse in Egina il popol tutto infermo,
@@ -238,7 +237,7 @@ la materia
 si vendica
 sul suo corpo.
 
-## vv. 91-121 - Griffolino d’Arezzo
+## vv. 85-120 - Griffolino d’Arezzo
 
 > «O tu che con le dita ti dismaglie»
 > cominciò il duca mio a l’un di loro
@@ -306,7 +305,7 @@ Pausa.
 in cui il falso
 si fa corpo.
 
-## vv. 122-139 - Capocchio e i Senesi
+## vv. 121-139 - Capocchio e i Senesi
 
 > E io dissi al poeta: «Or fu già mai
 > gente sì vana come la sanese?
@@ -372,13 +371,13 @@ Contraffattore.
 Pausa lunga.
 
 La decima bolgia
-non punisce
+punisce anche
 chi ha mentito
 con la lingua.
 
 Pausa.
 
-Punisce
+Qui incontriamo
 chi ha messo il falso
 nella materia.
 

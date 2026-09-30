@@ -156,7 +156,7 @@ La frode qui
 ha già trovato
 la sua polizia.
 
-## vv. 40-66 - Venedico
+## vv. 40-63 - Venedico
 
 > Mentr’io andava, gli occhi miei in uno
 > furo scontrati; e io sì tosto dissi:
@@ -228,7 +228,7 @@ Bologna è piena.
 La vergogna
 cerca sempre folla.
 
-## vv. 67-99 - Giasone
+## vv. 64-99 - Giasone
 
 > Così parlando, il percosse un demonio
 > de la sua scuriada e disse: «Via,
@@ -278,8 +278,8 @@ Pausa lunga.
 
 È una frase perfetta.
 
-Perché dice
-esattamente questo:
+Io qui ci sento
+anche questo:
 qui non puoi più
 spendere nessuno.
 
@@ -329,7 +329,7 @@ diventa passaggio,
 mezzo,
 strumento.
 
-## vv. 100-113 - La seconda bolgia
+## vv. 100-111 - La seconda bolgia
 
 > Già eravam là ’ve lo stretto calle
 > con l’argine secondo s’incrocicchia,
@@ -371,7 +371,7 @@ il movimento della frusta.
 Ha la viscosità
 del residuo.
 
-## vv. 114-136 - Alessio e Taide
+## vv. 112-136 - Alessio e Taide
 
 > Quivi venimmo; e quindi giù nel fosso
 > vidi gente attuffata in uno sterco

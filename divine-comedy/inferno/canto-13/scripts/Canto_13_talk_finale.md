@@ -74,7 +74,7 @@ non ospita la vita.
 
 La divora.
 
-## vv. 16-46 - La voce nel legno
+## vv. 16-45 - La voce nel legno
 
 > E ’l buon maestro: «Prima che più entre
 > sappi che se’ nel secondo girone»
@@ -139,7 +139,7 @@ escono insieme.
 La voce esiste
 solo nella ferita.
 
-## vv. 47-55 - Virgilio si scusa
+## vv. 46-54 - Virgilio si scusa
 
 > «S’egli avesse potuto creder prima»
 > rispuose ’l savio mio, «anima lesa,
@@ -164,7 +164,7 @@ che la guida ammetta
 così apertamente
 il prezzo del proprio gesto.
 
-## vv. 56-79 - Pier della Vigna
+## vv. 55-78 - Pier della Vigna
 
 > E ’l tronco: «Sì col dolce dir m’adeschi,
 > ch’io non posso tacere, e voi non gravi
@@ -229,7 +229,7 @@ Non è solo un suicidio.
 È un tradimento
 contro di sé.
 
-## vv. 80-109 - Tanta pietà e il meccanismo
+## vv. 79-108 - Tanta pietà e il meccanismo
 
 > Un poco attese, e poi: «Da ch’el si tace»
 > disse ’l poeta a me, «non perder l’ora;
@@ -289,15 +289,15 @@ esce la voce.
 Pausa.
 
 Al Giudizio
-gli altri riavranno il corpo.
+gli altri rivestiranno il corpo.
 
-Loro no.
+Loro lo appenderanno ai rami.
 
 Perché non è giusto
 avere ciò che uno
 si è tolto.
 
-## vv. 110-136 - Gli scialacquatori
+## vv. 109-135 - Gli scialacquatori
 
 > Noi eravamo ancora al tronco attesi,
 > credendo ch’altro ne volesse dire,
@@ -361,7 +361,7 @@ si mette a parlare.
 Qui persino il riparo
 è un'altra ferita.
 
-## vv. 137-151 - Il fiorentino anonimo
+## vv. 136-151 - Il fiorentino anonimo
 
 > Quando il maestro fu sovr’esso fermo,
 > disse: «Chi fosti, che per tante punte

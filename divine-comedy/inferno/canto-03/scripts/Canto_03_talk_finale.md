@@ -215,8 +215,8 @@ Non i peggiori.
 Non i migliori.
 Niente.
 
-Non hanno fatto abbastanza male da essere maledetti.
-Non hanno fatto abbastanza bene da essere ricordati.
+Non hanno voluto schierarsi.
+Hanno vissuto soltanto per sé.
 Sono esistiti.
 Punto.
 
@@ -332,7 +332,7 @@ E vede un'insegna.
 
 Pausa.
 
-Un'insegna vuota.
+Io la immagino vuota.
 Una bandiera senza nulla sopra.
 
 Che gira.
@@ -342,7 +342,7 @@ Non si ferma mai.
 Pausa.
 
 "D'ogne posa mi parea indegna."
-Non merita di fermarsi.
+Sembra incapace di fermarsi.
 Mai.
 
 E dietro a questo stendardo vuoto,
@@ -350,8 +350,8 @@ una tratta di gente lunghissima.
 
 Pausa.
 
-Nota cosa ha fatto Dante qui,
-come immagine.
+Nota come funziona
+questa immagine.
 
 Queste persone in vita
 non hanno seguito niente.
@@ -397,9 +397,8 @@ Importa la formula.
 
 Pausa.
 
-Non un errore.
-Non un peccato.
 Un rifiuto.
+Che è già una colpa.
 
 E viltà come motore.
 

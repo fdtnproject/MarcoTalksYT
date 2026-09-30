@@ -74,7 +74,6 @@ Poi chiama a raccolta
 la storia intera.
 
 Puglia.
-Troia.
 Roma.
 Guiscardo.
 Ceperano.
@@ -87,7 +86,7 @@ Pausa.
 
 Sarebbe ancora poco.
 
-## vv. 22-45 - Maometto e Alì
+## vv. 22-42 - Maometto e Alì
 
 > Già veggia, per mezzul perdere o lulla,
 > com’io vidi un, così non si pertugia,
@@ -158,7 +157,7 @@ Si richiudono.
 Ripassano.
 Si riaprono.
 
-## vv. 46-63 - Il vivo e Fra Dolcino
+## vv. 43-60 - Il vivo e Fra Dolcino
 
 > Ma tu chi se’ che in su lo scoglio muse,
 > forse per indugiar d’ire a la pena
@@ -216,7 +215,7 @@ Assedio.
 Un consiglio pratico
 dall’interno dell’Inferno.
 
-## vv. 64-90 - Pier da Medicina
+## vv. 61-90 - Pier da Medicina
 
 > Poi che l’un piè per girsene sospese,
 > Maometto mi disse esta parola;
@@ -260,8 +259,9 @@ tutta vermiglia.
 
 Pausa.
 
-E anche lui
-fa quello che faceva da vivo:
+A me sembra
+che anche lui continui
+a fare quello che faceva da vivo:
 
 semina
 divisione.
@@ -287,7 +287,7 @@ continua a denunciare
 quello che deve ancora accadere
 nel mondo.
 
-## vv. 91-112 - Curio e Mosca
+## vv. 91-111 - Curio e Mosca
 
 > E io a lui: «Dimostrami e dichiara,
 > se vuo’ ch’i’ porti su di te novella,
@@ -351,7 +351,7 @@ Non commenta.
 
 Condanna.
 
-## vv. 113-136 - Bertran de Born
+## vv. 112-142 - Bertran de Born
 
 > Ma io rimasi a riguardar lo stuolo,
 > e vidi cosa ch’io avrei paura,

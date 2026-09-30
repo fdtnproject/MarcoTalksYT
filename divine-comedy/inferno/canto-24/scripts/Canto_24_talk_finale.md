@@ -169,7 +169,7 @@ Pausa lunga.
 Senza fatica
 non resta niente.
 
-## vv. 58-75 - La voce dal fosso
+## vv. 58-78 - La voce dal fosso
 
 > Leva’mi allor, mostrandomi fornito
 > meglio di lena ch’i’ non mi sentia,
@@ -234,7 +234,7 @@ La dimanda onesta
 si segue
 facendola.
 
-## vv. 76-96 - La settima bolgia
+## vv. 79-96 - La settima bolgia
 
 [Schermo: Doré — la bolgia dei ladri]
 
@@ -404,7 +404,7 @@ non è l’insulto.
 
 Più gli duole
 essere visto da Dante
-che essere dannato.
+che aver perso la vita.
 
 Pausa lunga.
 

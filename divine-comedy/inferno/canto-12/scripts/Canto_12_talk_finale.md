@@ -39,9 +39,9 @@ i Centauri.
 
 Pausa.
 
-Tiranni fino agli occhi.
-Omicidi fino alla gola.
-Predoni fino alle ginocchia.
+Il sangue arriva agli occhi.
+Alla gola.
+Altrove copre appena i piedi.
 
 Pausa lunga.
 
@@ -212,7 +212,7 @@ E spiega.
 
 Pausa lunga.
 
-Quando lui era sceso qui con Erichto,
+Quando lui era sceso qui per comando di Erichto,
 questa ruina non c'era.
 
 È recente.
@@ -410,9 +410,9 @@ in una misura.
 
 Pausa.
 
-Tiranni fino agli occhi.
-Omicidi fino alla gola.
-Predoni fino alle ginocchia.
+Il sangue arriva agli occhi.
+Alla gola.
+Altrove copre appena i piedi.
 
 Pausa lunga.
 
@@ -600,9 +600,9 @@ che gli è data.
 
 Pausa lunga.
 
-Tiranni fino agli occhi.
-Omicidi fino alla gola.
-Predoni fino alle ginocchia.
+Il sangue arriva agli occhi.
+Alla gola.
+Altrove copre appena i piedi.
 
 Pausa lunga.
 
