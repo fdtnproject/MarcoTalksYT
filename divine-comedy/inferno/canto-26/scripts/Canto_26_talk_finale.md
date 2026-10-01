@@ -561,7 +561,7 @@ Racconta quanto ha aspettato nel Limbo.
 E per dire Limbo
 dice così:
 
-Quindi onde mosse tua donna Virgilio,
+Quindi onde mosse tua donna Virgilio
 
 Pausa.
 
@@ -1054,8 +1054,8 @@ Ulisse ha passato quello di Ercole.
 
 E muore
 guardando la montagna
-che ha in cima
-il primo segno.
+che porta in cima il luogo
+dove il primo segno fu trapassato.
 
 Pausa lunga.
 
