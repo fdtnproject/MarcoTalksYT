@@ -208,6 +208,51 @@ Perché ogni lucciola
 E ogni fiamma
 nasconde un'anima.
 
+Pausa lunga.
+
+E subito dopo,
+un altro fuoco.
+
+Pausa.
+
+Un profeta della Bibbia,
+Eliseo,
+guarda il suo maestro, Elia,
+che se ne va su un carro di fuoco.
+
+I cavalli si impennano verso il cielo.
+E lui non riesce più a vedere il carro.
+
+Vede solo una fiamma.
+
+sì come nuvoletta, in su salire;
+
+Pausa lunga.
+
+Elia sale nel fuoco.
+
+Portato via.
+Chiamato.
+
+Pausa.
+
+Fra poco,
+dentro una di queste fiamme,
+ascolteremo un uomo
+che è andato oltre
+con le sue forze.
+
+E che è finito
+in fondo al mare.
+
+Pausa lunga.
+
+Uno sale.
+Uno affonda.
+
+Tutti e due
+dentro il fuoco.
+
 ## vv. 43-75 - La fiamma doppia
 
 > Io stava sovra ’l ponte a veder surto,
@@ -409,6 +454,104 @@ fin qui.
 
 Non oltre.
 
+Pausa lunga.
+
+Quel segno
+Dante lo ritroverà
+molto più in alto.
+
+Pausa.
+
+Nel Paradiso.
+Nel ventiseiesimo canto.
+Lo stesso numero di questo.
+
+Pausa lunga.
+
+Lì incontra Adamo.
+Il primo uomo.
+
+E vorrebbe sapere
+perché davvero
+siamo stati cacciati dall'Eden.
+
+Pausa.
+
+Adamo risponde
+che il frutto,
+in sé,
+non c'entra.
+
+Or, figliuol mio, non il gustar del legno
+fu per sé la cagion di tanto esilio,
+ma solamente il trapassar del segno.
+
+Pausa lunga.
+
+Il trapassar del segno.
+
+Pausa.
+
+Non mangiare.
+
+Passare oltre.
+
+Pausa lunga.
+
+E adesso riascolta Ercole.
+
+dov’Ercule segnò li suoi riguardi,
+a ciò che l’uom più oltre non si metta:
+
+Pausa.
+
+Segnò.
+
+Pausa lunga.
+
+Le colonne d'Ercole
+non sono soltanto un confine sulla carta.
+
+Sono la stessa linea
+che il primo uomo
+ha già oltrepassato.
+
+Pausa.
+
+E Ulisse
+la oltrepassa di nuovo.
+
+Pausa lunga.
+
+E guarda che cosa dice Adamo
+subito dopo.
+
+Racconta quanto ha aspettato nel Limbo.
+
+E per dire Limbo
+dice così:
+
+Quindi onde mosse tua donna Virgilio,
+
+Pausa.
+
+Il posto da cui Beatrice
+ha mosso Virgilio
+per andare a prendere Dante.
+
+Pausa lunga.
+
+Nello stesso canto,
+l'uomo che ha passato il segno
+e la donna che ha mandato Dante
+oltre ogni segno.
+
+Con un permesso.
+
+Pausa.
+
+Ci torneremo fra poco.
+
 ## vv. 112-123 - L’orazion picciola
 
 > ‘O frati,’ dissi, che per cento milia
@@ -517,281 +660,170 @@ del restare.
 
 Pausa lunga.
 
-Eppure
-io non riesco
-a chiudere questa terzina
-qui.
+Eppure,
+prima di andare avanti,
+devo dirti una cosa.
 
 Pausa.
 
-Perché queste parole
-hanno avuto
-un altro ascoltatore.
+Questo discorso
+c'è qualcuno che potrebbe firmarlo.
 
-[Schermo: nero pieno. Nessuna immagine del campo]
+Pausa.
+
+Dante.
 
 Pausa lunga.
 
-Monowitz.
-Auschwitz.
-1944.
+Anche lui vuole sapere.
+Anche lui è partito
+per un viaggio che nessun vivo fa.
 
 Pausa.
 
-Un chimico di Torino.
-Si chiama Primo Levi.
-
-Sul braccio
-ha un numero.
-
-174517.
+E lo sa benissimo.
 
 Pausa lunga.
 
-Un giorno
-il più giovane della squadra,
-uno studente alsaziano,
-lo sceglie
-per andare a prendere la zuppa.
+All'inizio del secondo canto,
+prima ancora di entrare,
+si ferma
+e dice a Virgilio:
 
-Là dentro
-il suo incarico ha un nome:
-Pikolo.
+guarda la mia virtù s’ell’è possente,
+prima ch’a l’alto passo tu mi fidi.
 
 Pausa.
 
-È un lavoro ambito.
-
-Si va in due,
-con la marmitta su due stanghe.
-
-E per un'ora,
-più o meno,
-si può parlare.
+L'alto passo.
 
 Pausa lunga.
 
-Parlano in francese.
+E poco dopo:
 
-Pikolo vorrebbe imparare l'italiano.
-
-E Levi,
-non sa neanche lui perché,
-gli dà Dante.
+temo che la venuta non sia folle.
 
 Pausa.
 
-Questo canto.
+Folle.
 
 Pausa lunga.
 
-Comincia da dove
-abbiamo cominciato noi,
-poco fa.
+Tieni a mente queste due parole.
 
-Lo maggior corno de la fiamma antica
-cominciò a crollar, sì mormorando
-pur come quella cui vento affatica;
-indi, la cima qua e là menando,
-come fosse la lingua che parlasse,
-gittò voce di fuori e disse: Quando
-
-Pausa.
-
-Quando.
-
-E lì si ferma.
-
-Prova a tradurre.
-Il francese non basta.
-
-Pausa.
-
-Dopo quando,
-il vuoto.
-
-Tornano dei pezzi.
-Il padre.
-Penelope.
-
-Poi un verso intero.
-
-ma misi me per l’alto mare aperto,
-
-Pausa.
-
-Misi me.
-
-Levi si ferma su queste due parole.
-
-Prova a spiegare a Pikolo
-che non è soltanto partire.
-
-È lanciarsi,
-con tutto il proprio peso,
-dall'altra parte
-di un limite.
+Fra poco
+Ulisse le userà tutte e due
+per il suo viaggio.
 
 Pausa lunga.
 
-Poi il limite vero.
-
-Ne ricorda un verso solo.
-
-a ciò che l’uom più oltre non si metta:
-
-Pausa.
-
-Due uomini
-che non possono uscire da un recinto
-parlano delle colonne d'Ercole.
+Dante ha paura
+di essere Ulisse.
 
 Pausa lunga.
 
-Poi arrivano
-questi tre versi.
+E le somiglianze ci sono tutte.
 
-Considerate la vostra semenza:
-fatti non foste a viver come bruti,
-ma per seguir virtute e conoscenza.
+Tutti e due oltrepassano un confine.
+Tutti e due vogliono conoscere.
+Tutti e due vanno
+dove un uomo non dovrebbe andare.
+
+E tutti e due,
+alla fine,
+raccontano.
+
+Pausa.
+
+Allora dov'è la differenza?
 
 Pausa lunga.
 
-Levi racconta
-di averli sentiti
-come se fosse la prima volta.
-
-Come uno squillo.
+Ulisse
+si autorizza da solo.
 
 Pausa.
 
-Per un attimo,
-il campo non c'è più.
+Dante,
+nel secondo canto,
+si fa proprio questa domanda.
 
-Né il numero.
-Né il luogo.
+Con quale diritto?
 
-DA SCEGLIERE (Marco): se vuoi, al posto delle righe da «Levi racconta» a «Né il luogo», una sola frase esatta di Levi, breve, letta dal libro, con autore, opera ed editore. Altrimenti restano queste righe.
+Pausa.
+
+Prima di lui,
+nell'aldilà,
+da vivi,
+ci sono andati in due.
+
+Enea,
+che doveva fondare Roma.
+
+E san Paolo,
+rapito fino al cielo.
+
+Pausa.
+
+E Dante dice:
+
+Io non Enea, io non Paolo sono:
+me degno a ciò né io né altri crede.
 
 Pausa lunga.
 
-Fatti non foste
-a viver come bruti.
+Io non sono nessuno dei due.
 
-Pausa.
-
-Detto lì.
-
-In un posto costruito
-per fare degli uomini
-dei bruti.
+Chi sono io
+per fare questo viaggio?
 
 Pausa lunga.
 
-Pikolo gli chiede
-di ripeterli.
+Virgilio non gli risponde
+con un ragionamento.
+
+Gli racconta
+chi lo ha mandato.
 
 Pausa.
 
-E Levi
-va avanti.
+Una donna gentile, in cielo,
+si accorge di lui.
 
-Li miei compagni fec’io sì acuti,
+Chiama Lucia.
 
-Lungo silenzio.
+Lucia va da Beatrice.
 
-Qui
-la memoria si rompe.
-
-Pausa.
-
-Mancano almeno quattro terzine.
+E Beatrice
+scende nel Limbo,
+da Virgilio.
 
 Pausa.
 
-Pikolo gli dice
-di andare avanti lo stesso.
+Io son Beatrice, che ti faccio andare;
+vegno del loco ove tornar disìo;
+amor mi mosse, che mi fa parlare.
 
 Pausa lunga.
 
-Poi tornano dei pezzi.
-
-Una montagna,
-bruna per la distanza.
-
-E a Levi
-tornano in mente le sue montagne,
-quelle che vedeva la sera
-dal treno,
-tornando da Milano a Torino.
+Amor mi mosse.
 
 Pausa.
 
-Di nuovo il vuoto.
+Il viaggio di Dante
+comincia così.
 
-Levi dice
-che darebbe la zuppa di quel giorno
-per ritrovare i versi che mancano.
-
-Pausa.
-
-La zuppa.
-
-Là dentro.
+Da un amore
+che non è il suo.
 
 Pausa lunga.
 
-È tardi.
+Ulisse invece
+la spinta se la dà da solo.
 
-Le cucine sono vicine.
-
-Pausa.
-
-E c'è una mezza riga
-che all'improvviso
-gli sembra la più importante di tutte.
-
-Deve farla arrivare a Pikolo.
-Adesso.
-Prima che sia troppo tardi.
+E la dà agli altri.
 
 Pausa.
-
-Perché domani
-uno dei due
-potrebbe non esserci più.
-
-Pausa lunga.
-
-Quella mezza riga
-la sentiremo fra poco,
-al suo posto nel canto.
-
-Pausa.
-
-Intanto sono in fila,
-davanti alle cucine.
-
-Annunciano la zuppa del giorno,
-in tre lingue.
-
-Cavoli e rape.
-
-Pausa lunga.
-
-Il capitolo si chiude
-con l'ultimo verso di questo canto.
-
-Pausa.
-
-Anche noi
-ci arriveremo.
-
-Pausa lunga.
-
-Ma adesso
-riprendo
-da dove mi sono fermato.
 
 Li miei compagni fec’io sì acuti,
 con questa orazion picciola, al cammino,
@@ -799,49 +831,11 @@ che a pena poscia li avrei ritenuti.
 
 Pausa lunga.
 
-Orazion picciola.
+Fec'io.
 
 Pausa.
 
-Poco fa dicevo
-che con queste parole
-rifiutare il viaggio
-sembra rifiutare
-la propria dignità.
-
-È una pressione.
-E porta degli uomini
-a morire.
-
-Pausa.
-
-Lo fa.
-
-Pausa lunga.
-
-Ma in un altro luogo,
-in un altro tempo,
-per un'ora di strada,
-le stesse parole
-hanno restituito a due uomini,
-per un momento,
-la loro dignità.
-
-La loro umanità.
-
-Pausa.
-
-Al cammino.
-
-Pausa lunga.
-
-Io credo
-che il canto
-ci chieda di tenere insieme
-tutte e due le cose.
-
-Senza scegliere
-la più comoda.
+Io.
 
 Pausa lunga.
 
@@ -891,6 +885,35 @@ facemmo ali.
 Pausa.
 
 È il folle volo.
+
+Pausa.
+
+Folle.
+
+Eccola,
+la parola che Dante temeva per sé.
+
+E qualche verso più giù
+torna anche l'altra:
+ne l'alto passo.
+
+Pausa lunga.
+
+Molto più avanti,
+nel Paradiso,
+Dante guarderà la Terra
+da lassù,
+dalle stelle.
+
+E rivedrà questa rotta.
+
+di là da Gade, il varco
+folle d’Ulisse,
+
+Pausa.
+
+Folle.
+Anche visto dal cielo.
 
 Pausa lunga.
 
@@ -962,6 +985,29 @@ l’ultima traversata.
 
 E costruisce
 la propria fine.
+
+Pausa.
+
+Ha costruito tutto.
+
+Tranne l'ultima parola.
+
+Pausa.
+
+com’altrui piacque.
+
+Pausa lunga.
+
+Artefice della propria sorte.
+
+Com'altrui piacque.
+
+Pausa.
+
+Io credo
+che questo canto
+viva tutto
+fra queste due frasi.
 
 Pausa lunga.
 
@@ -1185,11 +1231,6 @@ E sale.
 
 Pausa.
 
-Dante condanna.
-Goethe assolve.
-
-Pausa.
-
 Ma perderemmo
 il pezzo
 che cambia tutto.
@@ -1251,9 +1292,9 @@ Virgilio
 è già davanti a lui.
 
 E nel secondo canto
-scopriamo
+abbiamo visto
 quanta strada
-ha fatto
+aveva fatto
 quell’aiuto.
 
 Pausa.
@@ -1270,6 +1311,8 @@ riesca a muoversi,
 qualcuno
 si è mosso
 per lui.
+
+Per amore.
 
 Pausa lunga.
 
@@ -1442,6 +1485,38 @@ Essere seguiti
 non è ancora
 avere ragione.
 
+Pausa.
+
+Dante,
+quando toccherà a lui
+portarsi dietro qualcuno,
+farà il contrario.
+
+Pausa.
+
+All'inizio del Paradiso
+si volta verso i lettori
+che lo seguono
+su barche più piccole della sua.
+
+E li avverte.
+
+O voi che siete in piccioletta barca,
+
+Pausa.
+
+tornate a riveder li vostri liti:
+non vi mettete in pelago,
+
+Pausa lunga.
+
+Ulisse dice ai suoi:
+andiamo.
+
+Dante dice ai suoi:
+se non siete pronti,
+tornate indietro.
+
 Pausa lunga.
 
 Non riduco
@@ -1561,6 +1636,56 @@ ci arriverà.
 Non perché
 abbia remato
 più forte.
+
+Pausa.
+
+Ci arriverà a piedi,
+dopo tutto l'Inferno,
+con una guida.
+
+Pausa lunga.
+
+E appena arrivato
+su quella spiaggia,
+la descrive così.
+
+Venimmo poi in sul lito diserto,
+che mai non vide navicar sue acque
+omo che di tornar sia poscia esperto.
+
+Pausa.
+
+Nessuno che abbia navigato quelle acque
+è mai tornato indietro.
+
+Pausa.
+
+Sappiamo chi ci ha provato.
+
+Pausa lunga.
+
+Lì Virgilio
+cinge Dante con un giunco.
+L'umile pianta.
+
+E Dante scrive:
+
+Quivi mi cinse sì com’altrui piacque:
+
+Pausa lunga.
+
+Le stesse parole.
+Davanti alla stessa montagna.
+
+Pausa.
+
+Ulisse quella montagna
+l'ha vista dal mare.
+E il mare si è chiuso.
+
+Dante ci mette piede.
+E la prima cosa che accetta
+è un gesto di umiltà.
 
 Pausa.
 
