@@ -119,9 +119,9 @@ ucciso da Ercole.
 
 Pausa.
 
-Il Gerione di Dante
-viene da un altro libro.
-L’Apocalisse.
+Nel Gerione di Dante
+si sente anche l'eco
+dell’Apocalisse.
 
 Dall’abisso
 escono locuste
@@ -142,64 +142,51 @@ La frode
 
 Pausa lunga.
 
-E qui,
-su questa tela di Aracne,
-devo fermarmi un momento.
-Per una ragione che riguarda noi.
+Ma non cerchiamo una ricetta unica per fabbricare il mostro.
+Il nome antico, la faccia umana, il serpente, la coda velenosa:
+Dante li fa stare nello stesso corpo.
+E quello che conta è come ce lo fa vedere.
 
-Pausa lunga.
+Prima della faccia arriva la coda.
+Nelle parole di Virgilio: coda aguzza.
+Il maestro indica subito il pericolo, prima che noi possiamo
+fermarci all'espressione rassicurante.
+Poi il corpo approda e la coda resta nel vuoto.
+Non è scomparsa. Il racconto torna a mostrarcela mentre guizza.
+Noi lettori vediamo insieme ciò che rassicura e ciò che ferisce.
 
-Firenze, 23 ottobre 1373.
+Guarda quella parola: di fuor.
+La pelle è benigna di fuori.
+Non ci viene detto che Gerione sia buono e poi diventi cattivo.
+La contraddizione c'è già, intera, davanti agli occhi.
+La faccia promette una cosa che il corpo smentisce.
+Eppure le due cose appartengono allo stesso essere.
+La frode non è semplicemente il male che non hai visto.
+È il male che usa un segno del bene per farsi avvicinare.
 
-Il Comune
-paga un uomo
-per leggere la Commedia in pubblico.
-In una chiesa,
-Santo Stefano di Badia.
-Davanti a chiunque voglia ascoltare.
+Anche i disegni hanno una funzione in questo sguardo.
+Nodi e rotelle: l'occhio può seguirli, perdersi negli intrecci,
+passare da un colore all'altro.
+Possiamo leggerci l'abilità di complicare, di avvolgere.
+Ma prima di decifrarli sentiamone l'effetto:
+stiamo guardando qualcosa di lavorato con una cura straordinaria.
+Il serpente non è una superficie nuda.
+Ha addosso quasi un tessuto prezioso.
+Aracne serve a farci misurare quella fattura, non a portarci altrove.
 
-È la prima volta.
+E subito Dante abbassa lo sguardo dalla tela alla riva.
+Come sta appoggiata, questa bellezza pericolosa?
+Come una barca con una parte fuori e una parte dentro.
+Testa e busto sulla pietra, il resto sospeso.
+La similitudine ci dà una posizione che possiamo immaginare.
+Non occorre aver visto un mostro: basta aver visto una barca attraccata.
 
-Pausa.
-
-Quell’uomo è Boccaccio.
-
-Pausa lunga.
-
-Comincia dal primo canto.
-Spiega.
-Commenta.
-Va avanti per mesi.
-
-È malato.
-E c’è chi lo attacca:
-hai dato Dante a chi non lo merita.
-
-In un sonetto
-lui stesso
-se ne rammaricherà.
-
-Pausa lunga.
-
-Le sue lezioni
-si fermano qui.
-A questo canto.
-A questi versi.
-A questa tela di Aracne.
-
-Morirà due anni dopo.
-
-Pausa lunga.
-
-Qui,
-a questi versi,
-si è fermato il primo uomo
-che ha fatto quello
-che stiamo facendo noi.
-
-Lungo silenzio.
-
-Come tal volta stanno a riva i burchi,
+È importante, perché fra poco bisognerà salirci.
+Quello che adesso stiamo osservando da lontano
+diventerà il solo sostegno sotto il corpo di Dante.
+Non una lezione illustrata sulla frode.
+Un dorso sul quale mettere le gambe,
+con una coda dalla quale tenersi lontani.
 
 ## vv. 28-42 - Virgilio manda Dante dagli usurai
 
@@ -246,6 +233,32 @@ Pausa.
 Per scendere
 nel regno della frode
 serve la frode stessa.
+
+Serve, precisamente, la creatura che la rappresenta.
+Non significa che Virgilio debba imbrogliare Dante,
+né che Dante debba imparare a imbrogliare per proseguire.
+Gerione sarà costretto dentro una funzione di trasporto.
+Il simbolo rimane malvagio; il viaggio riesce a servirsene.
+
+Adesso il maestro fa due cose contemporaneamente.
+Prepara il passaggio e completa l'esperienza dell'allievo.
+Gli ultimi dannati del settimo cerchio sono poco più in là.
+Non si possono saltare perché c'è una discesa impressionante da affrontare.
+Va', guarda, ma parla poco.
+Questo limite rende la visita diversa dalle grandi conversazioni precedenti.
+Dante parte sapendo già che non avrà tutto il tempo che vuole.
+
+E parte solo.
+Sentila, quella piccola separazione, prima dell'abbraccio che verrà.
+Fin qui la presenza del maestro dava forma anche alle domande.
+Qui Dante deve scegliere dove posare gli occhi,
+capire che cosa conta, poi tornare.
+Intanto la trattativa con Gerione rimane fuori scena.
+Non sentiamo che cosa Virgilio gli prometta o gli imponga.
+Quando Dante ritornerà, troverà il risultato: la guida già in sella.
+Il poema non inventa una conversazione dove non gli serve.
+Ci lascia per qualche minuto dalla parte dell'allievo,
+che non controlla tutto ciò che il maestro sta facendo per lui.
 
 ## vv. 43-57 - Le borse
 
@@ -306,6 +319,48 @@ Gli occhi tornano alla borsa.
 
 Pascono gli occhi
 sulla borsa.
+
+Non leggiamo però quello sguardo come una fotografia senza movimento.
+Le mani vanno di qua e di là.
+Se difendi il viso, resta esposto il corpo;
+se provi a proteggerti dalla sabbia, il fuoco continua a cadere.
+Non c'è una posizione buona da trovare una volta per tutte.
+La similitudine dei cani rende proprio questo:
+il tormento minuto, insistente, che ti obbliga a reagire ancora.
+
+Dentro questa agitazione gli occhi hanno un centro fisso.
+La tasca al collo.
+Dante prova prima la strada normale: il volto.
+Non riconosce nessuno.
+Allora il racconto gli offre un altro modo di identificare le persone.
+Non il loro gesto, non la loro voce, ma il segno della famiglia
+cucito sull'oggetto del denaro.
+
+Una borsa può contenere ciò che hai accumulato.
+Uno stemma racconta a quale casa appartieni.
+Qui i due segni coincidono.
+L'identità pubblica pende dal collo nella forma di una tasca.
+È come se il personaggio dovesse presentarsi mostrando il proprio possesso,
+anche quando quel possesso non può più procurargli niente.
+Non può comprare un riparo. Non può spegnere una fiamma.
+Può soltanto continuare a guardarlo.
+
+Questo è il dettaglio che mi ferma: si pasce.
+Un verbo del nutrimento, applicato a uno sguardo.
+Quegli occhi cercano ancora un cibo che non sazia.
+Non occorre inventare un pensiero per ciascun dannato.
+La frase ci basta per sentire una dipendenza che sopravvive
+alla perdita di ogni utilità concreta dell'oggetto.
+
+Perché sono ancora nel settimo cerchio, prima dei fraudolenti?
+Virgilio lo aveva spiegato: nell'ordine morale del poema
+l'usura offende il lavoro umano, che segue la natura,
+e attraverso la natura l'arte divina.
+Non stiamo traducendo automaticamente ogni prestito moderno in questa pena.
+Stiamo seguendo il giudizio che regge il viaggio di Dante.
+Qui quel ragionamento è diventato una scena:
+mani occupate soltanto a difendersi,
+occhi incapaci di staccarsi dalla borsa.
 
 ## vv. 58-78 - Il padovano e i tre becchi
 
@@ -383,16 +438,10 @@ la memoria del padre.
 
 Pausa lunga.
 
-Benvenuto da Imola
-racconta che Dante
-andò a trovare Giotto a Padova,
-mentre dipingeva.
-
-Pausa lunga.
-
-Uno dei capolavori del mondo
-è nato dal denaro
-di questo sacchetto.
+Non possiamo ridurre la cappella
+a una ricevuta di assoluzione.
+La fama del figlio e il giudizio sul padre
+restano due cose diverse.
 
 Pausa lunga.
 
@@ -424,12 +473,41 @@ Come un bue.
 di volgarità
 e di bestialità pura.
 
-E a farlo
-è il padre
-dell’uomo che ha pagato Giotto.
-
 Dante capisce
 che ha visto abbastanza.
+
+Ma prima di andarsene ha sentito una piccola guerra di città.
+Il padovano è seduto fra fiorentini.
+Non dice: finalmente siamo tutti uguali nel dolore.
+Dice: questi mi stordiscono gli orecchi.
+Anche la pena comune diventa un'occasione per distinguersi,
+per dire io non sono dei vostri.
+
+Poi mette in mezzo chi è ancora vivo.
+Vitaliano prenderà posto accanto a me.
+Gli altri aspettano il cavaliere con i tre becchi.
+La conversazione non apre un passato personale;
+allarga l'elenco di quelli che devono essere esposti alla vergogna.
+Ti ho sorpreso a guardarmi? Allora guarda anche loro.
+Portati via altri nomi, non soltanto il mio.
+
+Il titolo di cavaliere, pronunciato qui, cambia suono.
+Sovrano, dice la voce riferita dei fiorentini.
+L'onore mondano viene invitato a sedersi sotto il fuoco,
+con la sua insegna bene in vista.
+Il canto non ha bisogno di raccontare ogni carriera.
+Mette accanto il linguaggio della dignità e l'attesa della tasca.
+Fa sentire quanto poco rimanga del titolo,
+quando il suo portatore viene atteso come un nuovo compagno di pena.
+
+E il gesto della lingua rompe perfino questa conversazione meschina.
+È l'ultima immagine che ci lascia quel dannato.
+Non una frase memorabile sulla propria sorte,
+ma una bocca deformata dalla derisione.
+Dante torna indietro soprattutto perché ricorda l'ordine di Virgilio:
+non trattenerti.
+La voce della guida continua ad agire anche da lontano.
+Ora bisogna raggiungerla davvero.
 
 ## vv. 79-99 - Salire sulla bestia
 
@@ -498,6 +576,58 @@ Lo sostiene.
 Solo allora
 ordina a Gerione
 di muoversi.
+
+Riguardiamo la disposizione dei corpi.
+Virgilio non dice soltanto: fidati, non succede niente.
+Dice: monta davanti, io starò in mezzo.
+Fra Dante e la coda mette se stesso.
+Il pericolo non viene negato per tranquillizzare chi ha paura.
+Viene riconosciuto, e la guida prende una posizione per proteggerlo.
+
+La fiducia nasce qui, non sulla faccia benigna della bestia.
+Dante sa benissimo che cosa sta montando.
+L'ha vista, ha sentito Virgilio chiamarla frode,
+sa della coda velenosa.
+Non viene sedotto da Gerione e non crede a una sua promessa.
+Si affida all'uomo che gli ha detto dove sedersi
+e che adesso si mette fra lui e il danno possibile.
+
+Eppure sapere questo non elimina il tremore.
+La similitudine della febbre è precisa: unghie smorte,
+brivido che comincia perfino alla vista dell'ombra.
+Prima ancora di staccarsi da terra, il corpo ha già reagito.
+Non puoi persuadere le unghie a riprendere colore con un argomento.
+Non puoi ordinare alla voce di uscire e aspettarti che obbedisca.
+
+La vergogna riesce a farlo salire.
+Ma non basta a farlo stare bene.
+È una distinzione molto umana.
+Posso compiere il gesto che mi viene chiesto
+e intanto avere ancora bisogno di aiuto.
+Da fuori sembrerà che ce l'ho fatta;
+da dentro sto cercando il modo di dire: tienimi.
+
+Qui il poeta non si protegge con un ritratto eroico.
+Racconta una richiesta che non riesce nemmeno a pronunciare.
+Fa che tu m'abbracce.
+Non: spiegami la natura del mostro.
+Non: dimostrami che arriveremo.
+Una domanda elementare, fisica, quasi infantile.
+
+Virgilio risponde senza esigere che venga formulata bene.
+Non lo rimprovera per la paura, non gli chiede di meritare il sostegno.
+Lo avvince e lo sostiene.
+Il primo verbo stringe, il secondo regge il peso.
+L'abbraccio è affetto, certo, ma è anche la cosa concreta
+che permette a un uomo vivo di affrontare quel passaggio.
+
+Poi arrivano istruzioni molto pratiche al mostro.
+Giri larghi. Discesa graduale. Attenzione al carico nuovo.
+Il maestro traduce la cura in una manovra.
+Non può rendere terrestre quel viaggio;
+può chiedere che il volo tenga conto di chi non è fatto per volare.
+La grandezza di questa guida, qui, sta anche in questo:
+non pretende che Dante abbia il corpo di un altro.
 
 ## vv. 100-120 - L'aria
 
@@ -569,6 +699,46 @@ Stare sopra
 ciò che ti spaventa
 e non poter scendere.
 
+Ma il movimento comincia prima di quella vertigine.
+Gerione arretra.
+In dietro in dietro: lo sentiamo liberarsi dalla riva un poco alla volta.
+Soltanto quando ha spazio gira la coda.
+La bestia sa manovrare; il passeggero non sa orientarsi.
+Questa differenza regge tutta la scena.
+
+Noi, per abitudine, immaginiamo il volo come un panorama.
+Qui è la perdita del panorama.
+Spenta ogni veduta, dice Dante.
+Non ha una montagna all'orizzonte, un sentiero sotto,
+qualcosa di fermo con cui confrontare il proprio movimento.
+Vede solo ciò che lo trasporta.
+E ciò che lo trasporta si muove insieme a lui.
+
+Allora il corpo deve capire quello che gli occhi non sanno più dire.
+L'aria arriva al viso: stiamo avanzando.
+Arriva da sotto: stiamo scendendo.
+Il moto è lento, ma la paura non per questo è piccola.
+Anzi, proprio quella lentezza lascia il tempo di sentire
+che sotto non c'è niente da raggiungere con il piede.
+
+Fetonte e Icaro non servono a dire che Dante stia ripetendo
+la loro disobbedienza o la loro colpa.
+Servono a misurare la sua paura.
+L'uno perde il governo del carro, l'altro sente cedere le ali.
+Dante sente di non avere il governo del proprio sostegno.
+Ma c'è una differenza decisiva: il sostegno, qui, non cede.
+Il racconto evoca due catastrofi e non le fa accadere.
+
+Poi arriva un suono dalla destra.
+Il gorgo, lo scroscio della caduta d'acqua.
+È un riferimento nello spazio, ma per seguirlo bisogna sporgersi.
+Dante lo fa. La voglia di capire lo porta a guardare sotto.
+E appena vede i fuochi, appena sente i pianti più vicini,
+si stringe di nuovo sulla groppa.
+Un gesto in avanti, un ritrarsi.
+Non la posa uniforme di chi ha paura,
+ma l'alternanza fra curiosità e difesa che la paura produce.
+
 ## vv. 121-136 - Malebolge appare
 
 > Allor fu’ io più timido a lo stoscio,
@@ -626,6 +796,27 @@ non è più simbolo.
 
 È sistema.
 
+Adesso i punti luminosi gli restituiscono il movimento.
+Prima sapeva di scendere soltanto per il vento.
+Ora i luoghi della pena si avvicinano da parti diverse:
+capisce il girare perché cambia ciò che gli viene incontro.
+Malebolge non compare tutta insieme come una carta aperta.
+Si ricompone attraverso i sensi di un uomo che trema.
+
+E il falcone della similitudine finale non è un animale mansueto.
+Scende stanco, si posa lontano dal padrone, resta sdegnoso.
+Gerione ha eseguito il trasporto, non è diventato amico dei viaggiatori.
+La protezione del maestro non richiede questa trasformazione impossibile.
+Basta arrivare e scendere dalla groppa.
+
+La lentezza finisce di colpo.
+Per tutto il volo abbiamo sentito curve, attese, piccoli segnali.
+Appena deposte le due persone, la bestia sparisce come una freccia.
+Era capace di quella velocità.
+Con il carico vivo non l'ha usata.
+Resta il terreno sotto i piedi, e resta Virgilio accanto a Dante.
+Il mezzo è sparito. Il rapporto che ha reso possibile il passaggio no.
+
 ## Chiusura
 
 Pausa lunga.
@@ -645,54 +836,31 @@ Pausa lunga.
 Ti guarda
 con faccia giusta.
 
-Ti offre il dorso.
-
-Ti fa montare.
-
-E solo dopo
-ti porta giù.
+Ma Dante non scambia
+quella faccia
+per una garanzia.
 
 Pausa lunga.
 
-Tre secoli dopo,
-Shakespeare scrive un personaggio
-che è Gerione in carne e ossa.
-
-Iago.
+Gerione non lo tradisce.
+Lo porta fino in fondo.
 
 Pausa.
 
-Per tutta la tragedia
-Otello lo chiama
-l’onesto Iago.
+E Dante non si è fidato
+della sua apparenza.
 
-E Iago, alla prima scena,
-dice una frase sola:
-io non sono quello che sono.
-
-Pausa lunga.
-
-Faccia d’uom giusto.
-Coda di scorpione.
-
-Pausa.
-
-Otello sale sulla schiena di Iago
-come Dante su quella di Gerione.
-
-Ma Otello
-non ha nessuno
-che lo tenga abbracciato.
-
-Pausa lunga.
-
-Dante sì.
+Si è fidato di Virgilio.
+Di quelle braccia.
+Di chi ha visto la coda
+e si è messo in mezzo.
 
 Pausa lunga.
 
 La frode ha sempre
 il volto
-di chi ti fidi.
+di qualcuno
+di cui ti fidi.
 
 Pausa.
 
