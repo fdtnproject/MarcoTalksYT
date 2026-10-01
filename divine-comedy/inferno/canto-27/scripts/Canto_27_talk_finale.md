@@ -224,6 +224,31 @@ Guido da Montefeltro.
 
 Pausa.
 
+E adesso torna indietro di qualche verso.
+
+La terra che fe’ già la lunga prova
+e di Franceschi sanguinoso mucchio,
+
+Forlì.
+1282.
+I francesi assediano la città,
+e vengono massacrati.
+A comandare i forlivesi
+c'era lui.
+
+Pausa.
+
+Dante, senza saperlo,
+gli ha appena raccontato
+la sua vittoria più famosa.
+
+E al suo servizio
+c'era un astrologo di Forlì
+che abbiamo visto nel ventesimo canto.
+Guido Bonatti.
+
+Pausa lunga.
+
 Parla
 perché crede
 che nessuno
@@ -231,6 +256,12 @@ torni vivo di qui.
 
 Parla
 senza tema d’infamia.
+
+Pausa.
+
+E invece
+eccoci qui.
+Più di settecento anni dopo.
 
 Pausa lunga.
 
@@ -273,6 +304,37 @@ Si rende.
 E giovato
 sarebbe.
 
+Pausa lunga.
+
+Calar le vele.
+
+Pausa.
+
+Questa immagine
+Dante l'aveva già usata.
+Per lo stesso uomo.
+
+Nel Convivio
+aveva scritto di Guido da Montefeltro:
+nobilissimo.
+Un esempio.
+Uno che da vecchio
+aveva saputo calare le vele
+e rendersi a Dio.
+
+Pausa lunga.
+
+Qui Dante gli mette in bocca
+la sua stessa lode.
+E la rovescia.
+
+ahi miser lasso! e giovato sarebbe.
+
+Pausa.
+
+Che cosa è successo, in mezzo?
+Lo sentiremo fra poco.
+
 ## vv. 85-105 - Bonifacio
 
 > Lo principe de’ novi Farisei,
@@ -304,8 +366,16 @@ Bonifacio.
 
 Pausa.
 
-Il principe
-dei novi Farisei.
+Lo principe de’ novi Farisei,
+
+Pausa.
+
+Farisei.
+Il concilio di Caifasso,
+crocifisso per terra
+quattro canti fa.
+
+Bonifacio è il principe dei nuovi.
 
 Pausa lunga.
 
@@ -335,6 +405,39 @@ finor t’assolvo.
 
 Poi tu
 mi dici come fare.
+
+Pausa lunga.
+
+sì come Penestrino in terra getti.
+
+Palestrina.
+La fortezza dei Colonna,
+la grande famiglia romana
+nemica di Bonifacio.
+
+Pausa.
+
+E guarda come Bonifacio
+presenta le sue chiavi.
+
+son due le chiavi
+che ’l mio antecessor non ebbe care
+
+Pausa.
+
+L'antecessore
+è Celestino.
+Il papa del gran rifiuto,
+nel terzo canto.
+
+Pausa lunga.
+
+Il filo di Bonifacio
+era cominciato lì.
+E finisce qui.
+
+Sempre fuori scena.
+Sempre con le chiavi in mano.
 
 ## vv. 106-111 - Il consiglio
 
@@ -368,6 +471,25 @@ Attender corto.
 Prometti molto.
 
 Mantieni poco.
+
+Pausa lunga.
+
+E nella storia è andata così.
+Nel 1298 i Colonna si arrendono,
+con la promessa del perdono.
+E Palestrina viene rasa al suolo.
+
+Pausa.
+
+Che il consiglio fosse di Guido,
+non è provato.
+Lo racconta anche un cronista di quegli anni,
+Riccobaldo da Ferrara.
+Era una voce.
+
+E Dante l'ha creduta.
+Per questo il nobilissimo Guido del Convivio
+è finito qui.
 
 ## vv. 112-129 - Il diavolo loico
 
@@ -415,18 +537,23 @@ Per logica.
 
 Pausa.
 
+Conta sulle dita, come un professore.
+
+Uno.
 Non si può assolvere
 chi non si pente.
 
-E non si può
+Due.
+Non si può
 volere il peccato
 e pentirsene
 insieme.
 
-Pausa lunga.
+per la contradizion che nol consente.
 
-Per la contradizion
-che nol consente.
+Tre.
+Dunque l'assoluzione data prima del peccato
+non vale niente.
 
 Pausa.
 
@@ -442,11 +569,100 @@ Il diavolo
 vince Guido
 con un sillogismo.
 
+Il principio di non contraddizione.
+Aristotele.
+
+Il più astuto degli uomini
+battuto da un diavolo
+che ha studiato logica.
+
+Pausa.
+
 Poi Minosse.
 
 Otto giri.
 
 Foco furo.
+
+Pausa lunga.
+
+E adesso
+ti racconto il figlio.
+
+Pausa.
+
+Guido aveva un figlio.
+Buonconte.
+Capitano degli aretini a Campaldino,
+la battaglia del ventiduesimo canto.
+Quella in cui Dante combatteva
+dall'altra parte.
+
+Buonconte muore lì.
+Il suo corpo
+non verrà mai trovato.
+
+Pausa lunga.
+
+Dante lo ritroverà nel Purgatorio.
+Salvo.
+
+Io fui da Montefeltro, io son Buonconte;
+
+Pausa.
+
+Gli racconterà come è morto.
+Ferito alla gola,
+scappando a piedi,
+insanguinando la pianura.
+E con l'ultimo fiato,
+il nome di Maria.
+
+Pausa lunga.
+
+E allora arrivano in due.
+Un angelo
+e un diavolo.
+
+Come per suo padre.
+
+Pausa.
+
+Ma questa volta
+l'angelo se lo prende.
+E il diavolo grida:
+
+Tu te ne porti di costui l’eterno
+per una lagrimetta che ’l mi toglie;
+
+Pausa lunga.
+
+Il padre aveva il saio.
+La confessione.
+L'assoluzione di un papa.
+E si è perso.
+
+Il figlio aveva una lacrima.
+E si è salvato.
+
+Pausa lunga.
+
+Io credo che qui
+ci sia tutta la teologia di Dante.
+Non conta la forma.
+Conta dove guarda il cuore,
+nell'ultimo istante.
+
+Pausa.
+
+E c'è un'ultima cosa.
+A Campaldino
+Buonconte era un nemico.
+Dante lo salva.
+
+Pausa lunga.
+
+ch’assolver non si può chi non si pente,
 
 ## vv. 130-136 - Si passa oltre
 

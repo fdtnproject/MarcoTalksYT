@@ -156,6 +156,56 @@ in altrui forma.
 Questa è la formula
 che apre il canto.
 
+Pausa lunga.
+
+E la storia di Gianni Schicchi
+la conosci già.
+Anche se forse non lo sai.
+
+Pausa.
+
+Buoso Donati è appena morto.
+Schicchi si mette nel suo letto,
+si finge lui, ancora vivo,
+e detta al notaio un testamento nuovo.
+E a se stesso lascia
+la cosa più bella della casa.
+La mula migliore.
+
+per guadagnar la donna de la torma,
+
+Pausa lunga.
+
+Seicento anni dopo,
+Puccini ne fa un'opera comica.
+Gianni Schicchi.
+Quella di O mio babbino caro.
+
+Pausa.
+
+E nel finale
+Schicchi esce dalla storia
+e parla al pubblico.
+
+Si rivolge alla camera, con un mezzo sorriso.
+
+Per questo scherzo
+Dante mi ha messo all'Inferno.
+Ma se vi siete divertiti,
+concedetemi le attenuanti.
+
+Pausa lunga.
+
+Dante lo condanna.
+Puccini chiede la grazia
+a una sala che ride.
+
+Pausa.
+
+Tienilo a mente, questo ridere.
+Alla fine del canto
+ci tornerà addosso.
+
 ## vv. 46-90 - Maestro Adamo
 
 > E poi che i due rabbiosi fur passati
@@ -247,6 +297,55 @@ Tre carati.
 E tutto il corpo
 gli torna contro.
 
+Pausa lunga.
+
+Il fiorino dell'undicesimo canto.
+Oro a ventiquattro carati.
+Da una parte il Battista,
+dall'altra il giglio.
+La moneta più affidabile d'Europa.
+
+Maestro Adamo
+ci mette dentro tre carati di metallo vile.
+Per conto dei conti di Romena,
+nel Casentino.
+Lo scoprono.
+Nel 1281 lo bruciano vivo.
+
+Pausa lunga.
+
+E adesso ascolta che cosa sogna.
+
+Li ruscelletti che de’ verdi colli
+del Casentin discendon giuso in Arno
+facendo i lor canali freddi e molli,
+
+Pausa.
+
+È il paesaggio più tenero di tutto l'Inferno.
+E lo dice il corpo più deforme.
+
+Pausa.
+
+Dante quei ruscelli li conosceva.
+In esilio sarà ospite dei conti Guidi,
+proprio nel Casentino.
+E due delle sue lettere più importanti
+le firmerà così:
+presso le sorgenti dell'Arno.
+
+Pausa lunga.
+
+A me sembra che non sia un caso
+che questo falsario si chiami Adamo.
+Un uomo che sogna colli verdi
+e acqua fresca.
+Un Adamo
+cacciato dal giardino.
+
+io ebbi, vivo, assai di quel ch’io volli;
+e ora, lasso!, un gocciol d’acqua bramo.
+
 ## vv. 91-129 - La falsa di Putifarre, Sinone, la lite
 
 > Ed io a lui: «Chi son li due tapini
@@ -321,6 +420,20 @@ Due dannati
 che si rinfacciano
 chi abbia mentito peggio.
 
+Pausa.
+
+E uno dei due
+viene dall'Eneide.
+
+Ricorditi, spergiuro, del cavallo
+
+Il cavallo del ventiseiesimo canto.
+L'aveva inventato Ulisse.
+A farlo entrare a Troia,
+con un racconto falso e un giuramento,
+era stato lui.
+Sinone.
+
 Pausa lunga.
 
 E proprio per questo
@@ -387,6 +500,40 @@ Pausa lunga.
 Voler udire
 quel piato
 è bassa voglia.
+
+Pausa lunga.
+
+Ricordi la sala di Puccini?
+
+Pausa.
+
+Dante, qui, è come quel pubblico.
+Si è fermato a godersi lo spettacolo.
+Due dannati che si insultano.
+
+E Virgilio, che di solito lo consola,
+questa volta
+quasi litiga con lui.
+
+Pausa lunga.
+
+Io credo che Dante
+qui metta in guardia anche noi.
+Che guardiamo.
+
+Il male,
+quando diventa spettacolo,
+diverte.
+
+Pausa.
+
+E quella vergogna,
+anni dopo,
+mentre scrive,
+la sente ancora.
+
+con tal vergogna
+che ancor per la memoria mi si gira.
 
 ## Chiusura
 

@@ -50,6 +50,45 @@ in un'altra forma.
 
 Pausa lunga.
 
+Torna al secondo verso.
+
+che la mia comedìa cantar non cura,
+
+Pausa.
+
+Eccola.
+
+Nel sedicesimo canto
+il poema aveva detto il suo nome
+per la prima volta.
+Questa è la seconda.
+E sarà l'ultima.
+
+Pausa lunga.
+
+E cade nemmeno venti versi
+dopo la tragedia di Virgilio.
+
+l’alta mia tragedia
+
+la mia comedìa
+
+Pausa.
+
+Tutti e due dicono
+mia.
+
+Solo uno
+dice alta.
+
+Pausa lunga.
+
+E adesso
+guarda come comincia,
+la comedìa.
+
+Pausa.
+
 L'apertura del canto
 non è mitologica.
 
@@ -283,6 +322,40 @@ uscire salvi
 fra gente
 che potrebbe sbranarti.
 
+Pausa lunga.
+
+E qui Dante
+non prende la similitudine dai libri.
+
+Così vid’io
+
+Pausa.
+
+Agosto 1289.
+Fiorentini e lucchesi
+assediano Caprona,
+un castello dei pisani.
+
+La guarnigione si arrende.
+Patti chiari:
+avranno salva la vita.
+Ma per uscire
+devono sfilare in mezzo ai nemici.
+
+Pausa.
+
+Quasi certamente
+Dante era lì.
+Fra quelli che guardavano.
+
+Pausa lunga.
+
+Adesso
+in mezzo ai nemici
+c'è lui.
+
+veggendo sé tra nemici cotanti.
+
 ## vv. 100-126 - La scorta dei Malebranche
 
 > Ei chinavan li raffi, e «Vuo’ che ’l tocchi»
@@ -330,12 +403,143 @@ C'è una scorta assegnata.
 
 Pausa lunga.
 
+Il ponte rotto.
+
+Malacoda non dice soltanto
+che è crollato.
+Dice quando.
+
+Ier, più oltre cinqu’ore che quest’otta,
+mille dugento con sessantasei
+anni compiè che qui la via fu rotta.
+
+Pausa lunga.
+
+Milleduecentosessantasei anni.
+
+Pausa.
+
+Il ponte è crollato nel terremoto
+della morte di Cristo.
+
+E nel Convivio
+Dante scrive che Cristo è morto
+nel suo trentaquattresimo anno.
+A mezzogiorno.
+
+Pausa.
+
+Milleduecentosessantasei più trentaquattro.
+Milletrecento.
+
+E l'ora.
+Ieri,
+cinque ore più tardi di adesso.
+Cioè a mezzogiorno.
+
+Quindi adesso
+sono le sette del mattino.
+Di sabato.
+
+Pausa.
+
+Che giorno fosse, ieri,
+si discute ancora:
+il venerdì santo del 1300,
+o il 25 marzo,
+che allora si credeva
+il giorno della morte di Cristo.
+Erano venerdì tutti e due.
+
+Pausa lunga.
+
+Nel dodicesimo canto
+Virgilio aveva detto:
+qui ed altrove.
+
+Questo è l'altrove.
+
+Pausa.
+
+Ma Virgilio quel terremoto
+l'aveva spiegato con un filosofo.
+
+Il diavolo
+sa l'anno.
+E l'ora.
+
+Pausa.
+
+Io credo che un conto così preciso
+lo tenga soltanto
+chi ha perso.
+
+Pausa lunga.
+
+E con la stessa voce,
+mente.
+
+Dice che poco più in là
+c'è un altro ponte.
+Intero.
+
+Non c'è.
+Virgilio lo scoprirà
+fra due canti.
+
+Pausa.
+
+Una data esatta,
+per vendere una bugia.
+È il trucco
+di un truffatore di strada.
+
+costor sien salvi infino a l’altro scheggio
+che tutto intero va sovra le tane.
+
+Pausa lunga.
+
 E ci sono i nomi.
+
+Come un sergente che fa l'appello.
 
 Alichino.
 Calcabrina.
 Cagnazzo.
 Barbariccia.
+Libicocco.
+Draghignazzo.
+Ciriatto.
+Graffiacane.
+Farfarello.
+Rubicante.
+
+Pausa lunga.
+
+Quasi tutti,
+probabilmente,
+Dante li ha presi dalla strada.
+Nei documenti di quegli anni
+ci sono un Malebranca,
+un Raffacani,
+perfino un Malacoda.
+
+Pausa.
+
+Uno invece viene da lontano.
+
+Alichino.
+In Francia, Hellequin.
+Il diavolo comico
+del teatro medievale francese.
+
+Pausa.
+
+Quasi tre secoli dopo,
+da quel nome
+nascerà una maschera.
+
+Arlecchino.
 
 Pausa.
 
@@ -380,6 +584,21 @@ Guarda le ciglia.
 Capisce benissimo
 che questa gente
 non promette niente di buono.
+
+Pausa.
+
+Virgilio lo tranquillizza:
+digrignano per i dannati.
+
+Pausa.
+
+Non è così.
+Si strizzano l'occhio.
+Sanno della bugia.
+
+Quello che ha paura
+ha visto meglio
+di quello che sa.
 
 Pausa lunga.
 
@@ -438,6 +657,8 @@ Dante ha paura.
 Virgilio tratta.
 
 Malacoda obbedisce.
+
+E mente.
 
 La squadra si mette in moto.
 

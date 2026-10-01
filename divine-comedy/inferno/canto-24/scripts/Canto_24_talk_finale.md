@@ -86,6 +86,27 @@ Poi Virgilio si volta.
 E basta quel piglio dolce
 per scioglierla.
 
+Pausa lunga.
+
+E Dante dice dove l'aveva visto,
+quel piglio dolce.
+
+con quel piglio
+dolce ch’io vidi prima a piè del monte:
+
+Pausa.
+
+A piè del monte.
+Il primo canto.
+La selva, il colle, le tre fiere.
+E un'ombra che arriva.
+
+Pausa.
+
+Dopo la rabbia del canto di prima,
+Virgilio torna a essere
+quello del primo incontro.
+
 ## vv. 22-57 - La salita
 
 > le braccia aperse, dopo alcun consiglio
@@ -147,7 +168,9 @@ Dante
 invece
 arranca.
 
-Si siede.
+Si siede a terra.
+
+Dante si siede.
 Resta senza fiato.
 
 Pausa.
@@ -168,6 +191,14 @@ Pausa lunga.
 
 Senza fatica
 non resta niente.
+
+Pausa lunga.
+
+E però leva su: vinci l’ambascia
+
+Si alza.
+
+con l’animo che vince ogni battaglia,
 
 ## vv. 58-78 - La voce dal fosso
 
@@ -278,6 +309,24 @@ mezzo mondo
 per dire:
 mai vista una cosa così.
 
+Pausa.
+
+E i nomi di questi serpenti
+li prende da un altro poeta.
+Lucano.
+Il deserto di Libia,
+dove i serpenti assalgono
+l'esercito di Catone.
+
+Pausa.
+
+Più non si vanti Libia con sua rena,
+
+Più non si vanti.
+È una sfida.
+A Libia.
+E a Lucano.
+
 Pausa lunga.
 
 E i dannati
@@ -362,6 +411,34 @@ Pausa.
 È la forma stessa
 che non tiene.
 
+Pausa lunga.
+
+E c'è un'altra cosa.
+
+Nei bestiari del Medioevo
+la fenice
+è un simbolo di Cristo.
+Muore, e risorge.
+
+Pausa.
+
+E noi siamo al sabato.
+Il giorno fra la morte
+e la resurrezione.
+
+Pausa lunga.
+
+A me sembra
+che Dante metta qui,
+proprio oggi,
+una resurrezione rovesciata.
+
+Un uomo che risorge dalla cenere
+per tornare cenere.
+
+Oh potenza di Dio, quant’è severa,
+che cotai colpi per vendetta croscia!
+
 ## vv. 121-139 - Vanni Fucci
 
 > Lo duca il domandò poi chi ello era;
@@ -416,12 +493,25 @@ la sagrestia.
 E il colpo basso
 è questo:
 
-falsamente
-fu apposto altrui.
+e falsamente già fu apposto altrui.
 
 Non solo ladro.
 
 Anche vile.
+
+Pausa.
+
+Il tesoro della sagrestia
+di San Jacopo, a Pistoia.
+E per quel furto,
+un altro uomo, Rampino Foresi,
+fu a un passo dalla forca.
+
+Pausa lunga.
+
+Una falsa accusa.
+Dante sa bene
+che cosa vuol dire.
 
 ## vv. 140-151 - La vendetta
 
@@ -471,6 +561,52 @@ Pausa.
 
 E detto l’ho
 perché doler ti debbia.
+
+Pausa lunga.
+
+Ricordi il sesto canto?
+Ciacco era stato il primo
+a raccontare a Dante il suo futuro.
+Poi Farinata.
+Poi Brunetto.
+
+Vanni Fucci è il quarto.
+E l'ultimo, nell'Inferno.
+
+Ogni volta più preciso.
+Questa volta,
+più cattivo.
+
+Pausa lunga.
+
+Il vapor di Val di Magra
+è un uomo.
+Moroello Malaspina,
+capitano dei Neri
+contro i Bianchi di Pistoia.
+
+Un fulmine
+che deve colpire
+ogni Bianco.
+
+Pausa.
+
+Ma la storia ha un senso dell'umorismo
+che Vanni non poteva prevedere.
+
+Pochi anni dopo
+Dante, Bianco ed esule,
+sarà ospite dei Malaspina,
+in Lunigiana.
+Scriverà una lettera a Moroello.
+E nel Purgatorio
+farà l'elogio della loro casata.
+
+Pausa lunga.
+
+La famiglia del fulmine
+darà un tetto
+al Bianco che doveva colpire.
 
 ## Chiusura
 

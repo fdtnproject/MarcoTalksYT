@@ -108,7 +108,7 @@ Virgilio dice una cosa semplice:
 
 Aspetta.
 
-A costoro
+A costor
 si vuol essere cortese.
 
 Pausa.
@@ -198,6 +198,37 @@ Due di questi nomi
 erano già emersi
 nel sesto canto,
 nella Firenze di Ciacco.
+
+Pausa lunga.
+
+E ascolta come Dante presenta Tegghiaio.
+
+la cui voce
+nel mondo su dovria esser gradita.
+
+Pausa.
+
+Una voce
+che avrebbero dovuto ascoltare.
+
+Pausa.
+
+Nel 1260
+Tegghiaio aveva sconsigliato a Firenze
+la spedizione contro Siena.
+Non lo ascoltarono.
+
+E fu Montaperti.
+
+Pausa lunga.
+
+La stessa battaglia,
+da tre lati.
+
+Farinata l'ha vinta.
+Tegghiaio l'aveva prevista.
+E più giù, nel ghiaccio,
+troveremo chi l'ha tradita.
 
 Pausa lunga.
 
@@ -370,6 +401,45 @@ Poi chiedono solo questo:
 se torni fra le stelle,
 parla di noi.
 
+Pausa lunga.
+
+Ascolta come lo dicono.
+
+Però, se campi d’esti lochi bui
+e torni a riveder le belle stelle,
+quando ti gioverà dicere ‘I’ fui
+
+Pausa.
+
+Quando ti farà piacere dire:
+io c'ero.
+
+Pausa lunga.
+
+È Virgilio.
+Nell'Eneide,
+dopo il naufragio,
+Enea consola i compagni:
+forse un giorno
+ricordare anche questo
+ci farà piacere.
+
+Pausa.
+
+Tre dannati
+augurano a Dante
+la consolazione di Enea.
+
+Pausa lunga.
+
+E ascolta le altre parole.
+Riveder le belle stelle.
+
+Le stelle del primo canto.
+Nessuno, quaggiù,
+gli aveva ancora augurato
+di rivederle.
+
 Pausa.
 
 E spariscono.
@@ -416,6 +486,10 @@ precisa,
 terrestre.
 
 L'Acquacheta.
+
+Una cascata vera,
+sull'Appennino.
+C'è ancora.
 
 Pausa.
 
@@ -485,6 +559,45 @@ Una novità
 deve rispondere
 a un cenno nuovo.
 
+Pausa lunga.
+
+E pensa a che cosa sta per salire
+da quel buio.
+La frode.
+
+Pausa.
+
+La corda
+che doveva servire contro la lonza
+adesso chiama la frode.
+
+Nel primo canto
+c'era chi leggeva la lonza
+proprio come la frode.
+Qui quella lettura
+trova un argomento.
+
+Pausa lunga.
+
+E la corda
+ha un seguito.
+
+Sulla spiaggia del Purgatorio
+Catone,
+il romano che abbiamo già incontrato due volte,
+ordinerà di cingere Dante
+con un giunco.
+
+Una pianta umile.
+Che si piega
+e non si spezza.
+
+Pausa.
+
+La corda finisce nell'abisso.
+Al suo posto
+arriverà l'umiltà.
+
 ## vv. 124-136 - Sale qualcosa
 
 > Sempre a quel ver c’ha faccia di menzogna
@@ -514,6 +627,44 @@ che quello che sta per dire
 è vero.
 
 Perché ha faccia di menzogna.
+
+Pausa lunga.
+
+Alza la mano destra.
+
+Ma qui tacer nol posso; e per le note
+di questa comedìa, lettor, ti giuro,
+
+Pausa lunga.
+
+Comedìa.
+
+Pausa.
+
+È la prima volta
+che il poema
+dice il proprio nome.
+
+E lo dice dentro un giuramento.
+Dante giura
+sulla sua finzione
+che il mostro
+esiste davvero.
+
+Pausa lunga.
+
+Divina,
+lo sappiamo,
+non l'ha scritto lui.
+Lo aggiungerà Boccaccio.
+E sul frontespizio di un libro stampato
+comparirà solo nel 1555.
+
+Pausa.
+
+Per Dante
+era la Comedìa.
+E basta.
 
 Pausa lunga.
 

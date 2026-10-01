@@ -86,6 +86,44 @@ Pausa.
 
 Sarebbe ancora poco.
 
+Pausa lunga.
+
+E in quell'elenco
+c'è la fine di una casa.
+
+Pausa.
+
+Ceperano.
+In realtà la battaglia fu a Benevento,
+nel 1266.
+Lì muore Manfredi,
+il figlio di Federico II.
+
+Tagliacozzo,
+1268.
+Lì perde Corradino,
+il nipote.
+Sedici anni.
+Lo decapitano a Napoli,
+in piazza.
+
+Pausa.
+
+Federico l'abbiamo incontrato più volte.
+Fra gli eretici.
+Nella voce del suo cancelliere,
+fra i suicidi.
+Accanto al suo astrologo.
+
+Qui finisce la sua casa.
+
+dove sanz’arme vinse il vecchio Alardo;
+
+Pausa.
+
+Senz'armi.
+Con un consiglio.
+
 ## vv. 22-42 - Maometto e Alì
 
 > Già veggia, per mezzul perdere o lulla,
@@ -142,9 +180,6 @@ Alì davanti a lui.
 
 Scisma.
 
-Seminator di scandalo
-e di divisione.
-
 Pausa lunga.
 
 La pena
@@ -156,6 +191,71 @@ li riapre ogni volta.
 Si richiudono.
 Ripassano.
 Si riaprono.
+
+Pausa lunga.
+
+Su questi versi
+serve una parola in più.
+
+Pausa.
+
+Per il Medioevo cristiano,
+Maometto non era il fondatore
+di un'altra religione.
+Si raccontava che fosse stato
+un cristiano.
+Un chierico.
+Perfino un cardinale,
+che voleva diventare papa.
+
+Una leggenda.
+Ma Dante la prende per vera.
+
+Per questo lo mette qui.
+Non fra gli infedeli.
+Fra quelli che hanno spaccato
+la cristianità.
+
+seminator di scandalo e di scisma
+
+Pausa lunga.
+
+E c'è un paradosso.
+
+Alla corte del re di Castiglia,
+dove Brunetto Latini
+era stato ambasciatore,
+un libro arabo viene tradotto in castigliano.
+E nel 1264,
+in latino e in francese.
+
+Il libro della scala.
+
+Racconta il viaggio di Maometto
+nell'aldilà.
+Gli inferni.
+I cieli.
+Una guida.
+
+Pausa.
+
+Nel 1919 uno studioso spagnolo,
+Miguel Asín Palacios,
+sostenne che Dante
+lo avesse conosciuto.
+
+Se ne discute ancora.
+Nessuno l'ha dimostrato.
+Nessuno l'ha escluso.
+
+Pausa lunga.
+
+Io qui sento un'ironia
+che Dante non poteva vedere.
+
+L'uomo che lui mette fra chi divide
+forse gli aveva prestato
+un pezzo del viaggio.
 
 ## vv. 43-60 - Il vivo e Fra Dolcino
 
@@ -351,6 +451,39 @@ Non commenta.
 
 Condanna.
 
+Pausa lunga.
+
+Il Mosca.
+Quello del tredicesimo canto.
+Il consiglio,
+la statua di Marte,
+il cavaliere ucciso la mattina di Pasqua.
+
+Ed è l'ultimo.
+
+[Schermo: testo — "Farinata · Tegghiaio · Iacopo Rusticucci · Arrigo · Mosca"]
+
+Nel sesto canto
+Dante chiedeva di loro
+come di uomini degni.
+Uomini
+che avevano messo l'ingegno
+a fare il bene.
+
+Pausa.
+
+Li ha cercati.
+Li ha trovati.
+Tutti quaggiù.
+
+Pausa lunga.
+
+Tranne uno.
+Arrigo.
+Non lo troveremo mai.
+
+[Schermo: nero pieno]
+
 ## vv. 112-142 - Bertran de Born
 
 > Ma io rimasi a riguardar lo stuolo,
@@ -410,9 +543,13 @@ Come una lanterna.
 
 Pausa lunga.
 
-Di sé
-faceva a sé stesso
-lucerna.
+Solleva una mano a braccio teso,
+all'altezza della testa.
+
+Di sé faceva a se stesso lucerna,
+ed eran due in uno e uno in due:
+
+Abbassa il braccio.
 
 Pausa.
 
@@ -438,10 +575,40 @@ la sua parola tecnica.
 
 Contrapasso.
 
-Non serve
-spiegare di più.
+È l'unica volta
+che questa parola
+compare nel poema.
 
-L’ha detta lui.
+Pausa.
+
+La usiamo tutti,
+per tutte le pene dell'Inferno.
+Dante la dice una volta sola.
+E la mette in bocca a un dannato.
+
+Pausa lunga.
+
+Contrapassum.
+Patire in cambio.
+È una parola delle scuole.
+Aristotele.
+Tommaso d'Aquino.
+E il Vangelo:
+con la misura con cui misurate,
+sarete misurati.
+
+Pausa lunga.
+
+Ma io credo
+che per Dante
+non sia una vendetta.
+
+È una rivelazione.
+La pena non aggiunge niente.
+Mostra quello che il peccato
+era già.
+
+così s’osserva in me lo contrapasso.
 
 ## Chiusura
 

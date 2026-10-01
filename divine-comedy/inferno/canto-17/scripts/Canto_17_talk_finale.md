@@ -110,6 +110,97 @@ Viene avanti
 con la faccia
 dell’uomo perbene.
 
+Pausa lunga.
+
+Questo Gerione
+non è quello del mito.
+Lì era un gigante con tre corpi,
+ucciso da Ercole.
+
+Pausa.
+
+Il Gerione di Dante
+viene da un altro libro.
+L’Apocalisse.
+
+Dall’abisso
+escono locuste
+con facce come facce d’uomini
+e code come scorpioni.
+
+Pausa.
+
+E il dorso?
+Dipinto.
+Più colorato dei tappeti d’Oriente.
+Più fine delle tele di Aracne.
+
+Pausa lunga.
+
+La frode
+è anche bella da vedere.
+
+Pausa lunga.
+
+E qui,
+su questa tela di Aracne,
+devo fermarmi un momento.
+Per una ragione che riguarda noi.
+
+Pausa lunga.
+
+Firenze, 23 ottobre 1373.
+
+Il Comune
+paga un uomo
+per leggere la Commedia in pubblico.
+In una chiesa,
+Santo Stefano di Badia.
+Davanti a chiunque voglia ascoltare.
+
+È la prima volta.
+
+Pausa.
+
+Quell’uomo è Boccaccio.
+
+Pausa lunga.
+
+Comincia dal primo canto.
+Spiega.
+Commenta.
+Va avanti per mesi.
+
+È malato.
+E c’è chi lo attacca:
+hai dato Dante a chi non lo merita.
+
+In un sonetto
+lui stesso
+se ne rammaricherà.
+
+Pausa lunga.
+
+Le sue lezioni
+si fermano qui.
+A questo canto.
+A questi versi.
+A questa tela di Aracne.
+
+Morirà due anni dopo.
+
+Pausa lunga.
+
+Qui,
+a questi versi,
+si è fermato il primo uomo
+che ha fatto quello
+che stiamo facendo noi.
+
+Lungo silenzio.
+
+Come tal volta stanno a riva i burchi,
+
 ## vv. 28-42 - Virgilio manda Dante dagli usurai
 
 > Lo duca disse: «Or convien che si torca
@@ -260,6 +351,51 @@ Stemmi.
 
 Pausa lunga.
 
+Ma uno di questi stemmi
+va guardato da vicino.
+
+Una scrofa azzurra
+su un sacchetto bianco.
+
+Pausa.
+
+È lo stemma degli Scrovegni,
+una famiglia di Padova.
+E l’usuraio, per i commentatori,
+è Reginaldo Scrovegni.
+
+Pausa lunga.
+
+Suo figlio, Enrico,
+proprio in quegli anni
+fa costruire a Padova
+una cappella.
+E chiama a dipingerla
+un pittore fiorentino.
+
+Giotto.
+
+Pausa.
+
+La tradizione dice
+che volesse anche riscattare
+la memoria del padre.
+
+Pausa lunga.
+
+Benvenuto da Imola
+racconta che Dante
+andò a trovare Giotto a Padova,
+mentre dipingeva.
+
+Pausa lunga.
+
+Uno dei capolavori del mondo
+è nato dal denaro
+di questo sacchetto.
+
+Pausa lunga.
+
 E poi uno parla.
 
 Non per pentirsi.
@@ -287,6 +423,10 @@ Come un bue.
 È un gesto
 di volgarità
 e di bestialità pura.
+
+E a farlo
+è il padre
+dell’uomo che ha pagato Giotto.
 
 Dante capisce
 che ha visto abbastanza.
@@ -511,6 +651,42 @@ Ti fa montare.
 
 E solo dopo
 ti porta giù.
+
+Pausa lunga.
+
+Tre secoli dopo,
+Shakespeare scrive un personaggio
+che è Gerione in carne e ossa.
+
+Iago.
+
+Pausa.
+
+Per tutta la tragedia
+Otello lo chiama
+l’onesto Iago.
+
+E Iago, alla prima scena,
+dice una frase sola:
+io non sono quello che sono.
+
+Pausa lunga.
+
+Faccia d’uom giusto.
+Coda di scorpione.
+
+Pausa.
+
+Otello sale sulla schiena di Iago
+come Dante su quella di Gerione.
+
+Ma Otello
+non ha nessuno
+che lo tenga abbracciato.
+
+Pausa lunga.
+
+Dante sì.
 
 Pausa lunga.
 

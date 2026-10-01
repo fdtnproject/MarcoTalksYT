@@ -128,7 +128,15 @@ prima ancora che del corpo.
 
 Poi Dante spezza un ramo.
 
-E il ramo urla.
+Spezza un ramo secco, vicino al microfono.
+
+Lungo silenzio.
+
+«Perché mi schiante?»
+
+Pausa.
+
+Il ramo urla.
 
 Pausa.
 
@@ -156,6 +164,59 @@ Pausa.
 Virgilio si scusa.
 
 Mi pesa.
+
+Pausa lunga.
+
+Perché proprio lui
+si sente in colpa?
+
+Pausa.
+
+Perché questa scena
+Virgilio l'aveva già scritta.
+
+Nell'Eneide
+Enea strappa dei rami da un cespuglio.
+Dal legno esce sangue.
+E dalla terra
+una voce:
+è Polidoro,
+un principe troiano
+ucciso per il suo oro.
+
+Pausa.
+
+Anche le Arpie
+vengono da quel libro.
+Questo canto
+è il terzo libro dell'Eneide,
+riscritto.
+
+Pausa lunga.
+
+E Virgilio dice a Pier:
+se lui avesse creduto
+a quello che aveva letto nei miei versi,
+non ti avrebbe toccato.
+
+ciò c’ha veduto pur con la mia rima,
+
+Pausa lunga.
+
+Il poeta latino
+chiede scusa a un albero.
+Perché la sua poesia,
+da sola,
+non bastava a farsi credere.
+
+Pausa lunga.
+
+In Virgilio
+la voce nel legno
+accusava un delitto altrui.
+
+In Dante
+accuserà se stessa.
 
 Pausa lunga.
 
@@ -199,7 +260,15 @@ Ed eccolo.
 
 Pier della Vigna.
 
-Il cancelliere di Federico.
+Il cancelliere di Federico II.
+
+Ricordi?
+Nel decimo canto
+Federico era fra le tombe degli eretici.
+Questo è il suo uomo di fiducia.
+
+Pausa.
+
 L'uomo delle chiavi.
 
 Pausa.
@@ -211,14 +280,63 @@ o escludeva.
 
 Pausa lunga.
 
+Ed era uno scrittore.
+Le sue lettere latine
+erano un modello
+per le cancellerie d'Europa.
+Scriveva anche poesie,
+alla corte di Federico.
+
+Pausa.
+
+Allora ascolta come parla.
+
+infiammò contra me gli animi tutti;
+e gl’infiammati infiammar sì Augusto
+che i lieti onor tornaro in tristi lutti.
+
+Pausa lunga.
+
+Infiammò.
+Infiammati.
+Infiammar.
+
+È il suo stile.
+Elegante.
+Tutto rimandi e ripetizioni.
+Lo stile di una cancelleria.
+
+Pausa.
+
+E Dante
+aveva cominciato a parlare così
+ancora prima di incontrarlo.
+
+Cred’io ch’ei credette ch’io credesse
+
+Pausa lunga.
+
+Pier racconta la sua rovina
+con la stessa lingua
+con cui era stato grande.
+
+Pausa lunga.
+
 Poi l'invidia.
 La corte.
 La caduta.
 
+Nel 1249
+viene accusato di tradimento,
+arrestato,
+accecato.
+E in prigione
+si toglie la vita.
+
 E la terzina
 che tiene in piedi tutto il canto:
 
-L’animo mio,
+L’animo mio, per disdegnoso gusto,
 credendo col morir fuggir disdegno,
 ingiusto fece me contra me giusto.
 
@@ -228,6 +346,43 @@ Non è solo un suicidio.
 
 È un tradimento
 contro di sé.
+
+Pausa lunga.
+
+E qui c'è una contraddizione
+che Dante non scioglie.
+
+Pausa.
+
+Per sant'Agostino
+togliersi la vita è un omicidio.
+Anche per i grandi romani.
+
+Eppure,
+sulla spiaggia del Purgatorio,
+a fare la guardia
+Dante metterà un romano
+che si è tolto la vita.
+Catone.
+
+Pausa.
+
+Per Dante
+Catone è il simbolo della libertà.
+E il poema
+non spiega fino in fondo
+questa eccezione.
+
+Pausa lunga.
+
+Io credo che sia giusto
+lasciarla così.
+Una domanda aperta.
+Non una sentenza.
+
+Pausa lunga.
+
+Uomini fummo, e or siam fatti sterpi:
 
 ## vv. 79-108 - Tanta pietà e il meccanismo
 
@@ -393,6 +548,52 @@ Pausa.
 
 Solo Firenze.
 
+Pausa.
+
+Io fui de la città che nel Battista
+mutò il primo padrone
+
+Pausa.
+
+Firenze pagana
+era di Marte.
+Quella cristiana
+di san Giovanni.
+
+Ma un pezzo della statua di Marte
+era rimasto.
+All'imbocco del Ponte Vecchio.
+
+Pausa lunga.
+
+Ai piedi di quella statua,
+la mattina di Pasqua del 1216,
+un giovane cavaliere,
+Buondelmonte,
+viene ucciso
+per un matrimonio mancato.
+
+Da lì,
+racconta la tradizione,
+comincia la guerra
+fra guelfi e ghibellini.
+
+Pausa lunga.
+
+Chi aveva consigliato quel delitto
+si chiamava Mosca.
+L'ultimo dei cinque nomi di Ciacco.
+
+Lo ritroveremo.
+
+Pausa lunga.
+
+E quest'uomo,
+qui,
+non ha nemmeno un nome.
+
+Solo una città.
+
 E poi l'ultima riga.
 
 Io fei giubbetto
@@ -441,3 +642,25 @@ Pausa lunga.
 
 Ci si tradisce
 credendo di salvarsi.
+
+Lungo silenzio.
+
+Questo è lo sguardo di Dante,
+dentro la teologia del suo tempo.
+
+Oggi sappiamo
+che dietro un gesto così
+c'è quasi sempre una sofferenza.
+E una sofferenza
+si può ascoltare.
+Si può curare.
+
+Pausa.
+
+Se questo canto
+ti tocca da vicino,
+non restare da solo.
+Parlane con qualcuno.
+
+In descrizione
+trovi dove chiedere aiuto.

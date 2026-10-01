@@ -164,6 +164,9 @@ Quello è Farinata.
 
 Pausa.
 
+Ricordi i cinque nomi di Ciacco?
+Il primo era lui.
+
 [Schermo: Doré — Farinata che si alza dalla tomba]
 
 Farinata degli Uberti.
@@ -330,19 +333,58 @@ Tre cose in una.
 Non sono qui
 per merito mio.
 
-La mia guida è Virgilio.
+Mi guida Virgilio.
 
-E forse Guido
-lo ha disdegnato.
+E mi porta da qualcuno
+che forse Guido
+ha disdegnato.
+
+Pausa lunga.
+
+forse, cui Guido vostro ebbe a disdegno.
 
 Pausa.
+
+Cui.
+Chi?
+
+Su questa parola
+si discute da secoli.
+
+Pausa.
+
+Per una lettura antica
+è Virgilio:
+la grande poesia latina,
+che Guido non amava.
+
+Per molti, oggi,
+è Beatrice.
+La donna verso cui Virgilio
+sta portando Dante.
+Guido l'aveva conosciuta.
+Ma non l'aveva mai guardata
+come la guardava Dante.
+
+Pausa lunga.
+
+Due amici poeti.
+E una donna
+che uno dei due
+ha fatto diventare un cielo.
+
+L'altro no.
+
+Pausa lunga.
 
 Ma il punto
 è un altro.
 
+[Schermo: testo — "ebbe"]
+
 "Ebbe."
 
-Pausa lunga.
+Lungo silenzio.
 
 Passato remoto.
 
@@ -384,6 +426,92 @@ solo per il figlio.
 E quando crede
 che il figlio sia morto,
 crolla.
+
+Pausa lunga.
+
+Adesso bisogna sapere
+chi era Guido.
+
+Pausa.
+
+Guido Cavalcanti.
+Il poeta più ammirato
+della Firenze di quegli anni.
+
+E l'amico più caro di Dante.
+A lui Dante dedica la Vita Nova.
+Lo chiama
+primo de li miei amici.
+
+Pausa lunga.
+
+Il viaggio è ambientato
+nella primavera del 1300.
+Guido è vivo.
+
+Pausa.
+
+Il 15 giugno
+Dante diventa uno dei priori di Firenze.
+
+Pochi giorni dopo,
+per fermare gli scontri tra le fazioni,
+i priori mandano al confino
+i capi delle due parti.
+
+Fra i Bianchi
+c'è Guido.
+
+Pausa lunga.
+
+Lo mandano a Sarzana.
+Lì si ammala.
+Torna a Firenze.
+
+Alla fine di agosto
+muore.
+
+Pausa lunga.
+
+Fra i priori
+che avevano deciso quel confino
+c'era Dante.
+
+Pausa lunga.
+
+Quando Dante scrive
+quel passato remoto,
+sa tutto questo.
+
+Pausa.
+
+A me sembra
+che quell'esitazione
+davanti al padre
+non sia solo un equivoco sui tempi dei verbi.
+
+È l'autore che sa,
+dentro il personaggio
+che non sa ancora.
+
+Pausa lunga.
+
+supin ricadde, e più non parve fora.
+
+Pausa.
+
+Ricordi la storia di Boccaccio?
+Guido,
+circondato fra le tombe di San Giovanni,
+ci saltava sopra.
+
+Pausa.
+
+Il figlio
+le tombe le scavalcava.
+
+Il padre
+ci ricade dentro.
 
 ## Due persone nello stesso fuoco
 
@@ -434,6 +562,50 @@ Pausa lunga.
 
 Il fuoco
 non li appiattisce.
+
+Pausa lunga.
+
+Durante la seconda guerra mondiale,
+a Istanbul,
+uno studioso tedesco
+cacciato dalla sua università
+perché ebreo,
+lontano dai suoi libri,
+scrive un capitolo
+proprio su questi due uomini.
+
+Erich Auerbach.
+
+Pausa.
+
+Un esule
+che legge un esule.
+
+Pausa lunga.
+
+Dice una cosa
+che a me sembra vera.
+
+Nell'aldilà di Dante
+gli uomini non svaniscono.
+Diventano
+ancora più intensamente
+quello che erano.
+
+Pausa.
+
+E aggiunge:
+a forza di realtà,
+l'uomo
+finisce per riempire tutta la scena.
+Più ancora di Dio
+che lo ha giudicato.
+
+Pausa lunga.
+
+Farinata è dannato.
+Ma è lui
+che non riusciamo a smettere di guardare.
 
 ## vv. 73-84 - Farinata immutato
 
@@ -487,6 +659,13 @@ e non riuscirci.
 Sta parlando
 dell'esilio di Dante.
 
+Pausa.
+
+Ciacco era stato il primo.
+Farinata è il secondo.
+E questa volta
+la profezia lo tocca da vicino.
+
 Pausa lunga.
 
 E subito dopo
@@ -496,6 +675,49 @@ Perché Firenze
 continua a essere
 così empia
 contro gli Uberti?
+
+Pausa lunga.
+
+E Firenze, con gli Uberti,
+è stata davvero senza pietà.
+
+Pausa.
+
+Farinata muore nel 1264.
+Diciannove anni dopo,
+l'Inquisizione
+processa per eresia
+lui e sua moglie.
+Da morti.
+
+Le loro ossa
+vengono tolte dalla sepoltura.
+
+Pausa lunga.
+
+Le case degli Uberti,
+nel cuore di Firenze,
+erano già state rase al suolo.
+E un decreto aveva stabilito
+che su quel terreno maledetto
+non si costruisse mai più.
+
+Pausa.
+
+Quel vuoto
+oggi lo conosciamo.
+
+È piazza della Signoria.
+
+Pausa lunga.
+
+Chi è stato a Firenze
+ha camminato
+sulle case di Farinata.
+
+Pausa lunga.
+
+ciò mi tormenta più che questo letto.
 
 Anche da dannato
 Farinata
@@ -526,6 +748,18 @@ non è stato dimenticato.
 L'Arbia colorata in rosso
 parla ancora
 nelle leggi di Firenze.
+
+Pausa.
+
+E quel giorno, a Montaperti,
+racconta il cronista Villani,
+un guelfo tradì la sua parte.
+Tagliò la mano
+a chi portava la bandiera.
+
+Lo ritroveremo.
+Molto più giù.
+Nel ghiaccio.
 
 Pausa lunga.
 
@@ -687,6 +921,13 @@ Federico II.
 Il Cardinale.
 E gli altri
 li lascia perdere.
+
+Pausa.
+
+Federico II,
+l'imperatore.
+Fra tre canti
+incontreremo il suo cancelliere.
 
 Pausa lunga.
 

@@ -120,6 +120,61 @@ Non a caso.
 
 Pausa lunga.
 
+E qui Dante
+fa una cosa che non fa quasi mai.
+Racconta un fatto suo.
+
+Pausa.
+
+rupp’io per un che dentro v’annegava:
+e questo sia suggel che ogn’uomo sganni.
+
+Pausa.
+
+Nel fonte di San Giovanni
+c'erano dei pozzetti.
+Uno di questi,
+dice Dante,
+l'ho rotto io.
+Per tirare fuori qualcuno
+che ci stava soffocando.
+
+E questo valga come sigillo:
+che nessuno si sbagli.
+
+Pausa lunga.
+
+Forse, a Firenze,
+qualcuno ne aveva parlato
+come di un sacrilegio.
+E Dante,
+dentro l'Inferno,
+si difende.
+
+Pausa.
+
+Un antico commentatore
+aggiunge un dettaglio:
+il ragazzo salvato
+era della famiglia di Filippo Argenti.
+
+Pausa lunga.
+
+Quel fonte non c'è più.
+Fu demolito nel 1576.
+
+Pausa.
+
+Ma ricordi il quarto canto?
+Il sogno di tornare a Firenze
+e di prendere la corona di poeta
+sul fonte del suo battesimo.
+
+Lo stesso fonte.
+Quello che aveva rotto.
+
+Pausa lunga.
+
 Il battesimo
 è il sacramento
 che ti fa entrare
@@ -260,8 +315,80 @@ Pausa.
 
 Virgilio deve quasi suggerire la battuta.
 
-Digli subito:
-non sono quello che credi.
+Si volta di lato.
+Sottovoce, con la voce di Virgilio:
+
+Dilli tosto:
+‘Non son colui, non son colui che credi’.
+
+Si gira di nuovo, verso la buca.
+Ad alta voce:
+
+Non son colui, non son colui che credi.
+
+Pausa lunga.
+
+Fermiamoci su questo malinteso.
+Perché qui c'è il cuore del canto.
+
+Pausa.
+
+Nel 1300
+Bonifacio VIII è vivo.
+È lui il papa.
+
+Dante non può metterlo all'Inferno.
+Allora lo fa aspettare.
+
+Un papa dannato,
+che vede il futuro,
+sa che Bonifacio arriverà.
+
+Pausa lunga.
+
+Lo abbiamo seguito da lontano.
+Il gran rifiuto del terzo canto,
+che gli apre la strada.
+Il tal che testé piaggia del sesto.
+Il giubileo del canto scorso.
+
+Pausa.
+
+Non entra mai in scena.
+Ma il poema
+lo aspetta.
+
+Pausa lunga.
+
+E la storia
+riserva un colpo di scena.
+
+Nel 1303,
+ad Anagni,
+gli uomini del re di Francia
+entrano nel palazzo del papa
+e lo umiliano.
+Bonifacio muore poche settimane dopo.
+
+Pausa.
+
+E Dante?
+Nel Purgatorio
+si indigna.
+Per lui.
+
+veggio in Alagna intrar lo fiordaliso
+e nel vicario suo Cristo esser catto.
+
+Pausa lunga.
+
+Odia l'uomo.
+Difende l'ufficio.
+
+È la stessa cosa
+che tra poco lo tratterrà
+davanti a questo papa capovolto.
+La reverenza de le somme chiavi.
 
 ## vv. 64-87 - Niccolò e gli altri papi
 
@@ -314,7 +441,7 @@ per alzare la sua casa.
 
 Su l'avere
 e qui
-mi misi in borsa.
+me misi in borsa.
 
 Pausa lunga.
 
@@ -345,6 +472,53 @@ sopra l'altro.
 
 Impilati
 nella stessa ferita.
+
+Pausa lunga.
+
+E Dante a Clemente
+dà un soprannome.
+Nuovo Iasòn.
+
+Pausa.
+
+Giasone,
+nella Bibbia,
+è un sacerdote
+che compra la carica di sommo sacerdote
+promettendo denaro a un re.
+
+Nel canto scorso
+c'era l'altro Giasone.
+Il seduttore.
+Dante li mette uno dopo l'altro.
+
+Pausa lunga.
+
+Clemente V
+porterà la sede del papa
+ad Avignone.
+
+E sai qual è
+l'ultima cosa che Beatrice dice
+in tutto il poema?
+
+Pausa.
+
+Parla di lui.
+Dice che Dio non lo sopporterà a lungo.
+E che finirà qui.
+
+ch’el sarà detruso
+là dove Simon mago è per suo merto,
+e farà quel d’Alagna intrar più giuso.
+
+Pausa lunga.
+
+Quel d'Alagna
+è Bonifacio.
+
+Le ultime parole di Beatrice
+sono per questa buca.
 
 ## vv. 88-105 - L'invettiva di Dante
 
@@ -467,6 +641,41 @@ Il male
 è che la Chiesa
 si sia fatta ricca.
 
+Pausa lunga.
+
+Quella dote
+è un documento.
+La donazione di Costantino.
+L'imperatore che, convertito,
+avrebbe dato al papa
+Roma e l'Occidente.
+
+Dante ci crede.
+Ci crede tutto il Medioevo.
+
+Pausa.
+
+Nel 1440
+un umanista, Lorenzo Valla,
+lo legge da filologo.
+Parole, titoli, formule
+che al tempo di Costantino
+non potevano esistere.
+
+È un falso.
+
+Pausa lunga.
+
+Il male di cui Dante
+accusa Costantino
+viene da un documento
+che Costantino
+non ha mai scritto.
+
+Pausa.
+
+che da te prese il primo ricco patre!
+
 ## vv. 118-133 - Virgilio lo rialza
 
 > E mentr’io li cantava cotai note,
@@ -551,6 +760,47 @@ qui parla.
 Accusa.
 Argomenta.
 Condanna.
+
+Pausa lunga.
+
+Più di cinque secoli dopo,
+Dostoevskij
+immagina che Cristo
+torni sulla terra.
+A Siviglia.
+Ai tempi dell'Inquisizione.
+
+Pausa.
+
+Il Grande Inquisitore
+lo fa arrestare.
+E di notte, in prigione,
+gli spiega
+che la Chiesa ha dovuto correggere la sua opera.
+Ha preso il miracolo,
+il mistero,
+l'autorità.
+Ha preso la spada di Cesare.
+
+Pausa lunga.
+
+Cristo non risponde.
+Lo ascolta fino in fondo.
+Poi lo bacia.
+E se ne va.
+
+Pausa lunga.
+
+Quanto tesoro volle Cristo da Pietro?
+
+Certo non chiese se non: ‘Viemmi retro.
+
+Pausa.
+
+Dante e Dostoevskij
+danno la stessa risposta.
+Una frase sola.
+Oppure un bacio.
 
 Pausa.
 

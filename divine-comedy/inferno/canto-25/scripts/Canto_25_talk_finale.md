@@ -92,6 +92,35 @@ Con il seme
 che in mal fare
 avanza.
 
+Pausa lunga.
+
+E poi Dante lo misura.
+
+non vidi spirto in Dio tanto superbo,
+non quel che cadde a Tebe giù da’ muri.
+
+Pausa.
+
+Quello caduto dalle mura di Tebe
+è Capaneo.
+Il re del quattordicesimo canto,
+che sotto la pioggia di fuoco
+sfidava ancora il cielo.
+
+Ricordi?
+Per misurare un dannato ancora più superbo,
+Dante avrebbe usato proprio lui.
+
+Eccolo.
+
+Pausa lunga.
+
+Capaneo sfidava un dio
+che chiamava Giove.
+
+Vanni Fucci fa le fiche a Dio.
+E lo chiama per nome.
+
 ## vv. 19-33 - Caco
 
 > Maremma non cred’io che tante n’abbia
@@ -215,8 +244,19 @@ fa una cosa bellissima.
 Si mette il dito
 dal mento al naso.
 
+Fa lo stesso gesto.
+Silenzio, dieci secondi.
+
 Taci.
 Guarda.
+
+Pausa lunga.
+
+Poi, piano:
+
+Se tu se’ or, lettore, a creder lento
+ciò ch’io dirò, non sarà meraviglia,
+ché io che ’l vidi, appena il mi consento.
 
 Pausa lunga.
 
@@ -381,6 +421,32 @@ Ma nessuno dei due
 ha smesso
 di guardare.
 
+Pausa lunga.
+
+Torna un momento alla sfida.
+
+Lucano e Ovidio
+li abbiamo già incontrati.
+Nel quarto canto,
+nel Limbo,
+nella bella scola.
+E lo avevano accolto fra loro.
+
+sì ch’io fui sesto tra cotanto senno.
+
+Pausa lunga.
+
+Ventun canti dopo,
+li zittisce.
+Tutti e due.
+
+Pausa.
+
+Io credo che Dante lo sappia benissimo.
+Perché il canto che viene
+si apre con lui
+che si mette il freno.
+
 ## vv. 124-151 - Buoso, Puccio, Gaville
 
 > Quel ch’era dritto il trasse ver le tempie,
@@ -432,6 +498,69 @@ prende parola.
 
 Pausa lunga.
 
+Ricordi Kafka?
+Nel terzo canto
+ci aveva lasciato davanti a una porta.
+
+Torna con un altro racconto.
+La metamorfosi.
+
+Pausa.
+
+Un uomo si sveglia,
+una mattina,
+trasformato in un insetto.
+
+Senza una colpa.
+Senza una ragione.
+
+Pausa.
+
+E l'orrore è questo:
+dentro, è ancora lui.
+Pensa da uomo.
+Ama la sua famiglia.
+Ma quando parla,
+gli altri sentono solo un verso.
+
+Pausa lunga.
+
+In Dante è il contrario.
+
+C'è una colpa.
+E dell'uomo
+non resta niente.
+
+Pausa.
+
+Ascolta la parola che usa.
+
+L’anima ch’era fiera divenuta
+suffolando si fugge per la valle,
+
+Pausa.
+
+L'anima.
+Non il corpo.
+È l'anima, che è diventata bestia.
+
+Pausa lunga.
+
+E la parola
+passa all'altro.
+
+e l’altro dietro a lui parlando sputa.
+
+Pausa.
+
+In Kafka
+la voce si perde.
+
+Qui
+la voce cambia padrone.
+
+Pausa lunga.
+
 E finalmente
 arrivano i nomi:
 
@@ -451,6 +580,29 @@ Anche questo conta.
 
 In mezzo alla confusione
 resta una prova.
+
+Pausa lunga.
+
+Contali.
+
+Cianfa.
+Agnello.
+Buoso.
+Puccio.
+E Francesco Cavalcanti,
+quello che Gaville piange.
+Lo uccisero gli uomini di Gaville,
+e i Cavalcanti si vendicarono
+con una strage.
+
+Pausa.
+
+Cinque ladri.
+Tutti di Firenze.
+Tutti di grandi famiglie.
+
+Tienili a mente.
+Il canto che viene comincia da loro.
 
 ## Chiusura
 

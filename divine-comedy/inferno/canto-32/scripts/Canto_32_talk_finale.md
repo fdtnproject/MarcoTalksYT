@@ -206,6 +206,20 @@ non si sfoga.
 
 Si blocca.
 
+Pausa lunga.
+
+Ricordi il quattordicesimo canto?
+Il Veglio di Creta.
+Le lacrime che scendono dalla statua
+e diventano i fiumi dell'Inferno.
+Ne mancava uno.
+
+Eccolo.
+L'ultimo.
+Tutte le lacrime finiscono qui.
+
+E qui gelano.
+
 ## vv. 52-69 - La Caina
 
 > Ed un ch’avea perduto ambo gli orecchi
@@ -254,6 +268,44 @@ Pausa lunga.
 
 Eternamente serrati
 l’uno contro l’altro.
+
+Pausa lunga.
+
+Ricordi Francesca?
+
+Caina attende chi a vita ci spense.
+
+Eccola.
+Il posto che aspetta Gianciotto.
+
+Pausa.
+
+E guarda chi c'è.
+Due fratelli
+che si sono uccisi a vicenda.
+Per i soldi.
+E per la politica.
+
+Stretti così.
+
+Pausa lunga.
+
+Là, due amanti
+abbracciati per sempre nel vento.
+
+Qui, due fratelli
+abbracciati per sempre nell'odio.
+
+Pausa.
+
+E poco più in là
+c'è Mordred,
+il traditore di re Artù.
+Lo stesso mondo del libro
+che Paolo e Francesca leggevano.
+
+Là l'amore.
+Qui il tradimento.
 
 Pausa.
 
@@ -371,6 +423,25 @@ Pausa.
 
 Bocca degli Abati.
 
+Pausa.
+
+Eccolo.
+Il guelfo del decimo canto.
+Quello che a Montaperti,
+racconta Villani,
+tagliò la mano al portabandiera.
+La bandiera cadde.
+E l'esercito di Firenze si sfasciò.
+
+Pausa lunga.
+
+Montaperti,
+da tre lati.
+
+Farinata l'ha vinta.
+Tegghiaio l'aveva prevista.
+Bocca l'ha tradita.
+
 Pausa lunga.
 
 Qui Dante
@@ -388,6 +459,37 @@ Pausa.
 È uno dei punti
 più duri
 di tutto l’Inferno.
+
+Pausa.
+
+E guarda perché succede.
+
+Dante gli offre la cosa
+che tanti, all'Inferno, gli hanno chiesto.
+
+se dimandi fama,
+ch’io metta il nome tuo tra l’altre note.
+
+Ciacco voleva essere ricordato.
+Pier della Vigna voleva la sua memoria pulita.
+I tre fiorentini: parla di noi.
+
+Pausa.
+
+Bocca risponde:
+
+Del contrario ho io brama;
+
+Pausa lunga.
+
+Qui in fondo
+i dannati non vogliono più
+essere ricordati.
+Vogliono sparire.
+
+A me sembra
+il segno più chiaro
+di dove siamo arrivati.
 
 Pausa lunga.
 
@@ -408,6 +510,23 @@ Gianni del Soldanier.
 Ganellone.
 
 Tribaldello.
+
+Pausa.
+
+Ganellone è Gano.
+Il traditore di Orlando,
+nel canto di prima.
+
+E ascolta come Bocca dice
+dove sono:
+
+là dove i peccatori stanno freschi.
+
+Pausa.
+
+Stare freschi.
+Secondo alcuni,
+il modo di dire viene da qui.
 
 Pausa lunga.
 
@@ -512,3 +631,15 @@ Il tradimento
 non brucia.
 
 Gela.
+
+Pausa lunga.
+
+Ma laggiù,
+in quella buca,
+uno sta ancora mordendo.
+
+E Dante gli ha fatto una domanda.
+
+dimmi ’l perché,
+
+Lungo silenzio.

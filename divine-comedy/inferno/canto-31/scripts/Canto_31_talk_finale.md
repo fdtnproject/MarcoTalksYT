@@ -109,6 +109,17 @@ E un corno.
 
 Pausa lunga.
 
+Orlando.
+A Roncisvalle suona il corno
+quando è troppo tardi.
+Tradito da Gano.
+
+E Gano
+lo troveremo nel prossimo canto.
+Nel ghiaccio.
+
+Pausa.
+
 Prima l’errore.
 
 Poi la correzione.
@@ -215,6 +226,72 @@ La pena è totale.
 Non capisce.
 
 Non è capito.
+
+Pausa lunga.
+
+Grida, a piena voce. Una volta sola.
+
+Raphel maì amech zabi almi
+
+Pausa lunga.
+
+Non vuol dire niente.
+Suona come una lingua antica.
+Ma non è niente.
+
+Pausa.
+
+Ricordi Pluto, nel settimo canto?
+Pape Satàn.
+Ti avevo detto
+che in fondo all'Inferno
+avremmo sentito un'altra lingua
+che nessuno capisce.
+
+Eccola.
+
+Pausa lunga.
+
+E per Dante
+questa è una ferita personale.
+
+Nel suo trattato sulla lingua,
+quello in cui ascoltava i dialetti
+città per città,
+aveva scritto
+che dopo Babele
+una sola lingua si era salvata.
+L'ebraico.
+La lingua di Adamo.
+
+Pausa.
+
+Nel Paradiso
+incontrerà Adamo in persona.
+E Adamo lo correggerà.
+
+La lingua ch’io parlai fu tutta spenta
+innanzi che all’ovra inconsummabile
+fosse la gente di Nembròt attenta;
+
+Pausa.
+
+La lingua di Adamo
+era già morta
+prima della torre.
+
+Dante cambia idea sulla lingua
+dentro il suo stesso poema.
+
+Pausa lunga.
+
+Nessuna lingua è per sempre.
+Nemmeno la prima.
+Nemmeno questa,
+in cui ti sto parlando.
+
+così è a lui ciascun linguaggio
+come ’l suo ad altrui, ch’ a nullo è noto.
 
 ## vv. 82-111 - Fialte e Briareo
 
@@ -383,6 +460,31 @@ Non sono ancora tradimento.
 
 Sono forza
 senza misura.
+
+Pausa.
+
+Ma Dante, guardandoli,
+dice una cosa che va oltre i giganti.
+
+Gli elefanti e le balene
+la natura continua a farli.
+Sono enormi.
+Ma non ragionano.
+
+Il pericolo vero è un altro.
+
+ché dove l’argomento de la mente
+s’aggiugne al mal volere ed a la possa,
+nessun riparo vi può far la gente.
+
+Pausa.
+
+L'intelligenza.
+La cattiva volontà.
+La forza.
+
+Quando stanno insieme,
+non c'è difesa.
 
 Pausa lunga.
 

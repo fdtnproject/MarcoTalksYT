@@ -182,6 +182,60 @@ Più giù.
 Più stretti.
 Più feroci.
 
+Pausa lunga.
+
+Questa mappa
+qualcuno l'ha presa sul serio.
+Molto sul serio.
+
+Pausa.
+
+Firenze, 1588.
+Un giovane matematico di ventiquattro anni
+tiene due lezioni all'Accademia Fiorentina.
+
+Il titolo:
+la figura, il sito e la grandezza
+dell'Inferno di Dante.
+
+Pausa.
+
+Si chiama Galileo Galilei.
+
+Pausa lunga.
+
+Prende i versi
+e fa i conti.
+La profondità della voragine.
+Lo spessore della volta.
+Perfino l'altezza di Lucifero.
+
+Pausa lunga.
+
+Cinquant'anni dopo,
+nel suo ultimo grande libro,
+Galileo dimostrerà
+che una struttura
+non si può ingrandire a piacere
+senza che crolli.
+
+Alcuni studiosi pensano
+che quel dubbio
+gli fosse nato proprio qui.
+Dalla volta dell'Inferno.
+
+Pausa lunga.
+
+di grado in grado, come quei che lassi.
+
+Pausa.
+
+Siamo qui.
+Sull'orlo che scende al settimo cerchio.
+
+E sotto
+c'è ancora quasi tutto.
+
 Pausa.
 
 Poi dà la regola.
@@ -219,6 +273,45 @@ Si organizza.
 Per questo
 i frodolenti
 stanno più sotto.
+
+Pausa lunga.
+
+Questa distinzione
+Dante la trova in Cicerone.
+
+L'ingiustizia, dice Cicerone,
+si fa in due modi.
+Con la forza,
+come il leone.
+Con l'inganno,
+come la volpe.
+
+E la volpe
+è la più odiosa.
+
+Pausa.
+
+Tienili a mente,
+il leone e la volpe.
+
+Più avanti
+un uomo dirà di sé:
+le mie opere
+non furono di leone.
+Furono di volpe.
+
+Pausa.
+
+E Machiavelli,
+quello del settimo canto,
+rovescerà anche questo.
+Il principe
+deve saper essere
+volpe e leone.
+
+Pausa lunga.
+
+Ma perché frode è de l’uom proprio male
 
 ## vv. 28-51 - A Dio, a sé, al prossimo
 
@@ -557,6 +650,28 @@ Per questo
 sta tra i violenti
 contro Dio.
 
+Pausa lunga.
+
+E pensa a dove lo scrive.
+
+Firenze.
+La città dei banchieri.
+Il fiorino d'oro,
+coniato dal 1252,
+corre per tutta l'Europa.
+
+Pausa.
+
+Dante condanna
+il mestiere
+che ha fatto ricca la sua città.
+
+Pausa lunga.
+
+Li vedremo, gli usurai.
+Seduti sulla sabbia che brucia,
+con una borsa appesa al collo.
+
 ## vv. 112-115 - Si riparte
 
 > Ma seguimi oramai, ché ’l gir mi piace;
@@ -578,6 +693,23 @@ Il Carro è alto.
 
 Sta per venire
 il mattino.
+
+Pausa.
+
+Ma nell'Inferno
+le stelle non si vedono.
+
+Virgilio sa l'ora
+da un cielo
+che nessuno dei due può guardare.
+
+Pausa.
+
+Mancano un paio d'ore all'alba.
+L'alba del sabato santo.
+
+Il viaggio era cominciato
+al tramonto del venerdì.
 
 E più in là
 la scarpata

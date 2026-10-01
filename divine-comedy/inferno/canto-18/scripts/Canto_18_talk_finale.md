@@ -135,6 +135,34 @@ Roma.
 L'anno del giubileo.
 La folla regolata sul ponte.
 
+Pausa lunga.
+
+Ricordi il primo canto?
+Il 1300.
+L'anno santo.
+Il primo giubileo della storia,
+quello di Bonifacio.
+
+Pausa.
+
+Sul ponte di Castel Sant'Angelo
+la folla viene divisa in due corsie.
+Da una parte chi va verso San Pietro.
+Dall'altra chi torna verso il monte.
+
+Pausa lunga.
+
+Il dettaglio è così preciso
+che molti studiosi pensano
+che Dante l'abbia visto con i suoi occhi.
+
+Pausa.
+
+E il papa
+che ha organizzato quel traffico,
+nel prossimo canto,
+qualcuno lo starà aspettando.
+
 Pausa.
 
 Anche qui
@@ -227,6 +255,38 @@ Bologna è piena.
 
 La vergogna
 cerca sempre folla.
+
+Pausa lunga.
+
+E per dire Bologna
+Dante usa una parola del suo dialetto.
+
+a dicer ‘sipa’ tra Sàvena e ’l Reno;
+
+Pausa.
+
+Sipa.
+Sia.
+
+Ci sono più bolognesi qui
+che a Bologna.
+
+Pausa.
+
+È il Dante che ascolta i dialetti.
+In un trattato in latino
+li studierà città per città.
+E il bolognese
+gli sembrerà il più bello di tutti.
+
+Pausa lunga.
+
+E il Marchese
+a cui Venedico ha venduto la sorella?
+Un signore d'Este.
+Forse quell'Obizzo
+che abbiamo visto nel sangue bollente
+del dodicesimo canto.
 
 ## vv. 64-99 - Giasone
 
@@ -328,6 +388,40 @@ La persona
 diventa passaggio,
 mezzo,
 strumento.
+
+Pausa lunga.
+
+Ma Giasone
+è anche il primo navigatore.
+L'uomo della nave Argo,
+partito a cercare il vello d'oro.
+
+Pausa.
+
+E Dante
+non lo dimentica.
+
+Pausa lunga.
+
+Nell'ultimo canto del Paradiso,
+davanti a Dio,
+Dante cerca un'immagine
+per dire lo stupore.
+
+E sceglie questa.
+
+Nettuno,
+dal fondo del mare,
+che guarda passare sopra di sé
+l'ombra della nave Argo.
+
+Pausa lunga.
+
+Il seduttore frustato
+nella prima bolgia
+è un'immagine
+che Dante tiene
+per l'ultimo canto del poema.
 
 ## vv. 100-111 - La seconda bolgia
 
@@ -448,6 +542,46 @@ dire più del vero
 fino a perdere
 qualsiasi rapporto
 col vero.
+
+Pausa lunga.
+
+E qui Dante
+fa un piccolo errore.
+
+Pausa.
+
+La battuta viene da una commedia latina,
+di Terenzio.
+Un soldato chiede al suo adulatore:
+Taide mi ringrazia molto?
+E l'adulatore risponde:
+immensamente.
+
+Taide, in quella scena,
+non c'è nemmeno.
+
+Pausa.
+
+Dante mette la risposta in bocca a lei.
+Probabilmente conosceva quelle due battute
+da una citazione di Cicerone,
+dove i nomi non ci sono.
+
+Pausa lunga.
+
+E poi le parole.
+Merda.
+Puttana.
+
+Pausa.
+
+Non sono una caduta di stile.
+Sono lo stile.
+La lingua bassa
+per la materia bassa.
+
+Il poema si chiama Comedìa
+anche per questo.
 
 ## Chiusura
 

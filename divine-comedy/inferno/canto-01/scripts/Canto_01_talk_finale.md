@@ -445,6 +445,55 @@ Pausa lunga.
 
 Nel mezzo.
 
+Pausa lunga.
+
+E dentro queste due parole
+c'è un'altra voce.
+
+Pausa.
+
+Nella Bibbia
+un re, Ezechia,
+si ammala a morte.
+
+E dice:
+a metà dei miei giorni
+andrò alle porte degli inferi.
+
+Pausa.
+
+In dimidio dierum meorum
+vadam ad portas inferi.
+
+Pausa lunga.
+
+I commentatori
+ci sentono un'eco precisa.
+
+Ed era un cantico
+che nel Medioevo
+si cantava anche per i morti.
+
+Pausa lunga.
+
+A metà dei giorni.
+Alle porte dell'inferno.
+
+Pausa.
+
+Il primo verso della Commedia
+ha già dentro
+la porta del terzo canto.
+
+Pausa lunga.
+
+Nel mezzo.
+
+Pausa.
+
+E a metà dei giorni
+si va alle porte.
+
 ## "Nostra vita"
 
 Pausa lunga.
@@ -534,7 +583,7 @@ L'ultima parte della terzina:
 
 Pausa.
 
-> che la diritta via era smarrita.
+che la diritta via era smarrita.
 
 Pausa lunga.
 
@@ -754,9 +803,9 @@ dell'esistenza.
 
 Pausa lunga.
 
-> Tant'è amara che poco è più morte;
-> ma, per trattar del ben ch'io vi trovai,
-> dirò de l'altre cose ch'io v'ho scorte.
+> Tant’è amara che poco è più morte;
+> ma, per trattar del ben ch’io vi trovai,
+> dirò de l’altre cose ch’io v’ho scorte,
 
 Pausa lunga.
 
@@ -819,8 +868,8 @@ Dirò:
 
 Pausa lunga.
 
-> Io non so ben ridir com'io v'entrai,
-> tant'era pien di sonno in su quel punto
+> Io non so ben ridir com’io v’entrai,
+> tant’era pien di sonno in su quel punto
 > che la verace via abbandonai.
 
 Pausa lunga.
@@ -896,11 +945,11 @@ perché non ricordi il percorso.
 
 Pausa lunga.
 
-> Ma poi ch'io fui al piè d'un colle giunto,
+> Ma poi ch’io fui al piè d’un colle giunto,
 > là dove terminava quella valle
-> che m'avea di paura il cor compunto,
+> che m’avea di paura il cor compunto,
 > guardai in alto, e vidi le sue spalle
-> vestite già de' raggi del pianeta
+> vestite già de’ raggi del pianeta
 > che mena dritto altrui per ogni calle.
 
 Pausa lunga.
@@ -979,8 +1028,8 @@ Ma non è a portata di mano.
 Pausa lunga.
 
 > Allor fu la paura un poco queta
-> che nel lago del cor m'era durata
-> la notte ch'io passai con tanta pièta.
+> che nel lago del cor m’era durata
+> la notte ch’io passai con tanta pièta.
 
 Pausa lunga.
 
@@ -1008,7 +1057,7 @@ Pausa.
 
 > E come quei che con lena affannata
 > uscito fuor del pelago a la riva,
-> si volge a l'acqua perigliosa, e guata,
+> si volge a l’acqua perigliosa, e guata,
 
 Pausa lunga.
 
@@ -1053,11 +1102,37 @@ E distinguere
 è il primo atto
 della mente che torna.
 
+Pausa lunga.
+
+Ricordati di quest'uomo.
+
+Esce dal mare.
+Si volta.
+Guarda l'acqua
+che stava per prenderlo.
+
+Pausa.
+
+Molto più avanti
+sentiremo la storia
+di un altro uomo
+in mezzo al mare.
+
+Pausa.
+
+Lui
+a riva
+non ci arriverà.
+
+Pausa lunga.
+
+si volge a l’acqua perigliosa, e guata.
+
 ## vv. 25-27 - Il passo
 
 Pausa lunga.
 
-> così l'animo mio, ch'ancor fuggiva,
+> così l’animo mio, ch’ancor fuggiva,
 > si volse a retro a rimirar lo passo
 > che non lasciò già mai persona viva.
 
@@ -1105,9 +1180,9 @@ a quello che era prima.
 
 Pausa lunga.
 
-> Poi ch'èi posato un poco il corpo lasso,
+> Poi ch’èi posato un poco il corpo lasso,
 > ripresi via per la piaggia diserta,
-> sì che 'l piè fermo sempre era il più basso.
+> sì che ’l piè fermo sempre era il più basso.
 
 Pausa lunga.
 
@@ -1158,12 +1233,12 @@ Bisogna reggerla.
 
 Pausa lunga.
 
-> Ed ecco, quasi al cominciar de l'erta,
+> Ed ecco, quasi al cominciar de l’erta,
 > una lonza leggiera e presta molto,
 > che di pel macolato era coverta;
-> e non mi si partìa d'innanzi al volto,
+> e non mi si partìa d’innanzi al volto,
 > anzi impediva tanto il mio cammino
-> ch'io fui per ritornar più volte volto.
+> ch’io fui per ritornar più volte volto.
 
 Pausa lunga.
 
@@ -1306,12 +1381,12 @@ che la volontà può ancora regolare.
 Pausa lunga.
 
 > Tempo era dal principio del mattino,
-> e 'l sol montava in su con quelle stelle
-> ch'eran con lui quando l'amor divino
+> e ’l sol montava in su con quelle stelle
+> ch’eran con lui quando l’amor divino
 > mosse da prima quelle cose belle;
-> sì ch'a bene sperar m'era cagione
+> sì ch’a bene sperar m’era cagione
 > di quella fera alla gaetta pelle
-> l'ora del tempo e la dolce stagione;
+> l’ora del tempo e la dolce stagione;
 
 Pausa lunga.
 
@@ -1322,6 +1397,61 @@ Pausa.
 È mattino.
 Il sole sale.
 Le stelle sono quelle della creazione.
+
+Pausa lunga.
+
+Quando l’amor divino
+mosse da prima quelle cose belle.
+
+Pausa.
+
+Quelle cose belle
+sono le stelle.
+
+Pausa lunga.
+
+Tienile a mente.
+
+Pausa.
+
+Alla fine dell'Inferno,
+quando usciremo dall'ultimo buio,
+Dante le chiamerà
+con le stesse parole.
+
+Le cose belle
+che porta il ciel.
+
+Pausa lunga.
+
+E c'è di più.
+
+[Schermo: testo — "l’Amor che move il sole e l’altre stelle."]
+
+Pausa lunga.
+
+Questo
+è l'ultimo verso della Commedia.
+
+Pausa.
+
+Amore.
+Muovere.
+Il sole.
+Le stelle.
+
+Pausa lunga.
+
+Siamo al quarantesimo verso
+della prima pagina.
+
+E Dante
+ci ha già detto
+come andrà a finire.
+
+Pausa lunga.
+
+e ’l sol montava in su con quelle stelle
 
 Pausa lunga.
 
@@ -1348,7 +1478,7 @@ Tu no.
 Pausa lunga.
 
 > ma non sì che paura non mi desse
-> la vista che m'apparve d'un leone.
+> la vista che m’apparve d’un leone.
 
 Pausa lunga.
 
@@ -1365,8 +1495,8 @@ Avanza.
 Pausa.
 
 > Questi parea che contra me venesse
-> con la test'alta e con rabbiosa fame,
-> sì che parea che l'aere ne temesse.
+> con la test’alta e con rabbiosa fame,
+> sì che parea che l’aere ne temesse.
 
 Pausa lunga.
 
@@ -1438,7 +1568,7 @@ Pausa lunga.
 
 > Ed una lupa, che di tutte brame
 > sembiava carca ne la sua magrezza,
-> e molte genti fe' già viver grame,
+> e molte genti fe’ già viver grame,
 
 Pausa lunga.
 
@@ -1482,7 +1612,7 @@ Pausa lunga.
 
 > questa mi porse tanto di gravezza
 > con la paura che uscìa di sua vista,
-> ch'io perdei la speranza de l'altezza.
+> ch’io perdei la speranza de l’altezza.
 
 Pausa lunga.
 
@@ -1567,8 +1697,8 @@ più sei svuotato.
 Pausa lunga.
 
 > E qual è quei che volontieri acquista,
-> e giugne 'l tempo che perder lo face,
-> che in tutti i suoi pensier piange e s'attrista,
+> e giugne ’l tempo che perder lo face,
+> che in tutti i suoi pensier piange e s’attrista,
 
 Pausa lunga.
 
@@ -1608,34 +1738,6 @@ Pausa.
 La lonza devia.
 Il leone domina.
 La lupa svuota.
-
-Pausa lunga.
-
-Tre movimenti diversi.
-Tre tipi di impedimento.
-
-Pausa.
-
-La lonza:
-l'ostacolo che sfugge.
-Non puoi combatterla
-perché non rimane ferma.
-
-Pausa lunga.
-
-Il leone:
-l'ostacolo che fronteggia.
-Puoi vederlo,
-puoi avere paura,
-ma è definito.
-
-Pausa.
-
-La lupa:
-l'ostacolo che penetra dentro.
-Non si vede.
-Non si combatte.
-Si subisce.
 
 Pausa lunga.
 
@@ -1689,7 +1791,7 @@ ciò che si era aperto.
 
 Pausa.
 
-> Mentre ch'io ruvinava in basso loco,
+> Mentre ch’io ruvinava in basso loco,
 > dinanzi a gli occhi mi si fu offerto
 > chi per lungo silenzio parea fioco.
 > Quando vidi costui nel gran diserto
@@ -1746,6 +1848,61 @@ Pausa.
 
 Fioco di silenzio.
 Non di debolezza.
+
+Pausa lunga.
+
+E Dante grida.
+
+Pausa.
+
+«Miserere di me» gridai a lui,
+
+Pausa lunga.
+
+È la prima volta
+che nel poema
+Dante parla a qualcuno.
+
+Pausa.
+
+E cominciano in latino.
+
+Miserere.
+Abbi pietà.
+
+È la parola
+con cui si apre il salmo del pentimento.
+
+Pausa.
+
+Poi, a metà del grido,
+la lingua cambia.
+
+Di me.
+
+Pausa lunga.
+
+Il latino della preghiera
+si spezza
+nel volgare della paura.
+
+Pausa.
+
+E subito dopo:
+
+«qual che tu sii, od ombra od omo certo.»
+
+Pausa.
+
+Chiunque tu sia.
+Un'ombra
+o un uomo vero.
+
+Pausa lunga.
+
+Prima ancora della strada,
+Dante ha bisogno di sapere
+chi ha davanti.
 
 ## Virgilio come scelta storica
 
@@ -1856,8 +2013,8 @@ Pausa lunga.
 > e vissi a Roma sotto il buono Augusto,
 > al tempo de li dei falsi e bugiardi.
 > Poeta fui, e cantai di quel giusto
-> figliuol d'Anchise che venne da Troia,
-> poi che 'l superbo Iliòn fu combusto.
+> figliuol d’Anchise che venne da Troia,
+> poi che ’l superbo Iliòn fu combusto.
 
 Pausa lunga.
 
@@ -2009,9 +2166,9 @@ di tutta la Commedia.
 
 Pausa lunga.
 
-> «Ma tu perché ritorni a tanta noia?
+> Ma tu perché ritorni a tanta noia?
 > perché non sali il dilettoso monte
-> ch'è principio e cagion di tutta gioia?»
+> ch’è principio e cagion di tutta gioia?»
 
 Pausa lunga.
 
@@ -2047,7 +2204,7 @@ E poi la risposta di Dante:
 
 Pausa.
 
-> «Or se' tu quel Virgilio e quella fonte
+> «Or se’ tu quel Virgilio e quella fonte
 > che spandi di parlar sì largo fiume?»
 > rispuosi lui con vergognosa fronte.
 
@@ -2094,11 +2251,11 @@ davanti a chi ti ha formato.
 Pausa lunga.
 
 > «O de gli altri poeti onore e lume,
-> vagliami 'l lungo studio e 'l grande amore
-> che m'ha fatto cercar lo tuo volume.
-> Tu se' lo mio maestro e 'l mio autore;
-> tu se' solo colui da cui io tolsi
-> lo bello stilo che m'ha fatto onore.
+> vagliami ’l lungo studio e ’l grande amore
+> che m’ha fatto cercar lo tuo volume.
+> Tu se’ lo mio maestro e ’l mio autore;
+> tu se’ solo colui da cui io tolsi
+> lo bello stilo che m’ha fatto onore.
 
 Pausa lunga.
 
@@ -2189,7 +2346,7 @@ Pausa lunga.
 
 > Vedi la bestia per cui io mi volsi:
 > aiutami da lei, famoso saggio,
-> ch'ella mi fa tremar le vene e i polsi.»
+> ch’ella mi fa tremar le vene e i polsi.»
 
 Pausa lunga.
 
@@ -2225,10 +2382,10 @@ Pausa lunga.
 
 > «A te convien tenere altro viaggio,»
 > rispuose poi che lacrimar mi vide,
-> «se vuoi campar d'esto loco selvaggio;
+> «se vuoi campar d’esto loco selvaggio;
 > ché questa bestia per la qual tu gride,
 > non lascia altrui passar per la sua via,
-> ma tanto l'impedisce che l'uccide;
+> ma tanto l’impedisce che l’uccide;
 > e ha natura sì malvagia e ria,
 > che mai non empie la bramosa voglia,
 > e dopo il pasto ha più fame che pria,
@@ -2319,17 +2476,17 @@ più ha fame.
 
 Pausa lunga.
 
-> Molti son gli animali a cui s'ammoglia,
-> e più saranno ancora, infin che 'l Veltro
+> Molti son gli animali a cui s’ammoglia,
+> e più saranno ancora, infin che ’l Veltro
 > verrà, che la farà morir con doglia.
 > Questi non ciberà terra né peltro,
 > ma sapienza, amore e virtute,
 > e sua nazion sarà tra feltro e feltro.
-> Di quell'umile Italia fia salute
+> Di quell’umile Italia fia salute
 > per cui morì la vergine Camilla,
 > Eurialo e Turno e Niso, di ferute.
 > Questi la caccerà per ogni villa
-> fin che l'avrà rimessa ne l'Inferno,
+> fin che l’avrà rimessa ne l’Inferno,
 > là onde invidia prima dipartilla.
 
 Pausa lunga.
@@ -2518,9 +2675,9 @@ più che una profezia.
 
 Pausa lunga.
 
-> Questi la caccerà per ogni villa
-> fin che l'avrà rimessa ne l'Inferno,
-> là onde invidia prima dipartilla.
+Questi la caccerà per ogni villa
+fin che l’avrà rimessa ne l’Inferno,
+là onde invidia prima dipartilla.
 
 Pausa lunga.
 
@@ -2593,7 +2750,7 @@ Si tratta di capire l'ordine dell'universo.
 
 Pausa lunga.
 
-> Ond'io per lo tuo me' penso e discerno
+> Ond’io per lo tuo me’ penso e discerno
 > che tu mi segui; ed io sarò tua guida,
 > e trarrotti di qui per loco eterno,
 > ove udirai le disperate strida,
@@ -2698,11 +2855,11 @@ La direzione.
 
 Pausa lunga.
 
-> A le qua' poi se tu vorrai salire,
+> A le qua’ poi se tu vorrai salire,
 > anima fia a ciò più di me degna:
 > con lei ti lascerò nel mio partire;
 > ché quello imperador che là su regna,
-> perch'io fui rebellante a la sua legge,
+> perch’io fui rebellante a la sua legge,
 > non vuol che in sua città per me si vegna.
 > In tutte parti impera e quivi regge;
 > quivi è la sua città e l’alto seggio:
@@ -2786,9 +2943,9 @@ Pausa lunga.
 
 > E io a lui: «Poeta, io ti richieggio
 > per quello Dio che tu non conoscesti,
-> a ciò ch'io fugga questo male e peggio,
-> che tu mi meni là dov'or dicesti,
-> sì ch'io veggia la porta di san Pietro
+> a ciò ch’io fugga questo male e peggio,
+> che tu mi meni là dov’or dicesti,
+> sì ch’io veggia la porta di san Pietro
 > e color cui tu fai cotanto mesti.»
 > Allor si mosse, e io li tenni retro.
 

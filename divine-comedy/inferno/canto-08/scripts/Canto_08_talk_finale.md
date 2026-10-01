@@ -196,11 +196,6 @@ Virgilio lo blocca.
 
 Pausa.
 
-Flegiàs, Flegiàs,
-gridi a vuoto.
-
-Pausa.
-
 A questa volta
 non ci avrai per più tempo
 di quello che serve
@@ -264,6 +259,34 @@ nell'Inferno
 qualcosa registra
 che Dante è vivo
 attraverso il peso del corpo.
+
+Pausa lunga.
+
+E chi conosce Virgilio
+riconosce questa barca.
+
+Pausa.
+
+Nel sesto libro dell'Eneide
+anche Enea sale sulla barca dei morti.
+E la barca
+geme sotto il suo peso
+e imbarca acqua dalle fessure.
+
+Pausa lunga.
+
+Nel secondo canto
+Dante aveva detto:
+io non sono Enea.
+
+Pausa.
+
+La barca
+non è d'accordo.
+
+Pausa lunga.
+
+segando se ne va l’antica prora
 
 Pausa lunga.
 
@@ -371,9 +394,9 @@ che non aveva mai fatto.
 Pausa.
 
 "Con piangere e con lutto,
-spirito maladetto,
-ti rimani;
-ch'i' ti conosco,
+spirito maledetto,
+ti rimani,
+ch'io ti conosco,
 ancor sie lordo tutto."
 
 Pausa.
@@ -662,6 +685,75 @@ Pausa lunga.
 La soglia è lì davanti:
 da qui il male è scelto.
 
+Pausa lunga.
+
+Questa è la lettura morale.
+Ed è giusta.
+
+Pausa.
+
+Ma c'è anche un'altra storia.
+E va detta.
+
+Pausa lunga.
+
+Filippo Argenti
+era un Adimari.
+Una famiglia potente di Firenze,
+di parte nera.
+
+Lo chiamavano Argenti,
+racconta Boccaccio,
+perché ferrava il cavallo
+d'argento.
+
+Pausa.
+
+E gli antichi commentatori
+raccontano che dopo l'esilio
+un fratello di Filippo
+si prese i beni di Dante.
+E che la famiglia
+fece di tutto
+perché non tornasse.
+
+Pausa lunga.
+
+Nel Paradiso
+Dante li chiamerà
+
+l’oltracotata schiatta che s’indraca
+dietro a chi fugge
+
+Pausa.
+
+Una razza arrogante
+che fa il drago
+con chi scappa.
+
+Pausa lunga.
+
+Allora si può leggere anche così.
+
+Pausa.
+
+Lo sdegno che Virgilio benedice
+è anche una vendetta personale.
+E Dante
+ringrazia Dio
+per un uomo fatto a pezzi nel fango.
+
+Pausa lunga.
+
+Io non scelgo
+fra le due letture.
+Le tengo insieme.
+
+È la scena più scomoda
+dell'Inferno.
+E credo che sia giusto
+sentirla scomoda.
+
 Pausa.
 
 E adesso
@@ -689,11 +781,6 @@ che ti lascia spiazzato.
 Pausa.
 
 "Che Dio ancor ne lodo e ne ringrazio."
-
-Pausa.
-
-Ne lodo Dio
-e ancora lo ringrazio.
 
 Pausa.
 
@@ -1043,8 +1130,6 @@ di cui non si discute.
 
 Pausa.
 
-Ma aspettami qui.
-
 E lo spirito stanco
 confortalo
 e nutrilo
@@ -1054,9 +1139,6 @@ Pausa.
 
 "Ch'io non ti lascerò
 nel mondo basso."
-
-Non ti lascerò
-nel mondo basso.
 
 Pausa lunga.
 
@@ -1129,6 +1211,14 @@ Pausa.
 I diavoli
 vincono il primo round.
 
+Pausa.
+
+Io qui sento anche un'altra città.
+
+Una città
+che a un uomo vivo
+ha chiuso le porte.
+
 Pausa lunga.
 
 Virgilio rimane fuori.
@@ -1154,7 +1244,7 @@ Senza più
 quella sicurezza
 che Dante gli conosce.
 
-Pausa lunga.
+Lungo silenzio.
 
 E sospira.
 
@@ -1267,6 +1357,46 @@ era stata aperta
 da chi era venuto
 a portare via le anime
 del Limbo.
+
+Pausa lunga.
+
+Nel quarto canto
+ce lo eravamo detti:
+ogni volta che troveremo
+qualcosa di rotto,
+sapremo perché.
+
+Eccola, la prima.
+Una porta
+senza serratura.
+
+Pausa lunga.
+
+Il Medioevo
+questa scena la conosceva benissimo.
+Da un vangelo apocrifo,
+il Vangelo di Nicodemo.
+
+Pausa.
+
+Quando Cristo arriva agli inferi,
+una voce grida:
+alzate le porte.
+
+E i demoni
+le sbarrano.
+Con sbarre di ferro.
+
+Pausa.
+
+Il re
+le spezza.
+
+Pausa lunga.
+
+Davanti a Dite
+la stessa scena
+sta per ripetersi.
 
 Pausa lunga.
 

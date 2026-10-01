@@ -86,6 +86,16 @@ forse non è la traduzione.
 parla una lingua
 che non si capisce.
 
+Pausa.
+
+Tienila a mente,
+questa voce storpiata.
+
+Nel fondo dell'Inferno
+un gigante
+parlerà un'altra lingua
+che nessuno capisce.
+
 Pausa lunga.
 
 [Schermo: Doré — Pluto, il gran nemico]
@@ -668,8 +678,8 @@ che la ragione umana non capisce.
 
 Pausa lunga.
 
-"Per ch'una gente impera
-e l'altra langue,
+"Per che una gente impera
+ed altra langue,
 seguendo lo giudicio di costei,
 che è occulto come in erba l'angue."
 
@@ -756,6 +766,20 @@ muovere i beni del mondo
 da una mano all'altra
 senza che nessuno capisca perché.
 
+Pausa.
+
+Dante questa Fortuna
+l'aveva letta in Boezio.
+Lì era ancora una dea con la ruota.
+E diceva all'uomo che si lamenta:
+non ti ho mai dato niente
+che fosse tuo.
+
+Pausa.
+
+Dante fa un passo in più.
+La mette fra gli angeli.
+
 Pausa lunga.
 
 E la sua opera
@@ -834,6 +858,108 @@ Niente si tiene.
 
 Pausa lunga.
 
+Due secoli dopo,
+un altro fiorentino
+sconfitto dalla politica
+si mette a pensare alla Fortuna.
+
+Niccolò Machiavelli.
+
+Pausa.
+
+Nel 1513
+lo hanno cacciato dalla Cancelleria.
+Arrestato.
+Torturato.
+
+Si ritira in campagna,
+in una casa poco fuori Firenze.
+
+Pausa lunga.
+
+E scrive a un amico una lettera.
+Forse la più famosa
+della letteratura italiana.
+
+Di giorno,
+racconta,
+va nel bosco
+con un libro sotto il braccio.
+O Dante,
+o Petrarca.
+
+Pausa.
+
+La sera torna a casa.
+E sulla soglia dello studio
+si toglie la veste di tutti i giorni,
+piena di fango e di loto.
+
+Si mette panni reali e curiali.
+
+Ed entra
+nelle antique corti
+delli antiqui uomini.
+A parlare con loro.
+
+Pausa lunga.
+
+Sembra il castello del quarto canto.
+
+Pausa.
+
+In quella lettera
+annuncia un libretto
+che sta scrivendo.
+Il Principe.
+
+Pausa lunga.
+
+E nel Principe
+risponde a Dante.
+
+Pausa.
+
+La Fortuna, scrive,
+decide la metà delle nostre azioni.
+L'altra metà
+la lascia a noi.
+
+È come un fiume in piena.
+Quando arriva
+non lo fermi.
+Ma nei tempi quieti
+puoi costruire gli argini.
+
+Pausa lunga.
+
+Dante:
+il vostro sapere
+contro di lei
+non può niente.
+
+Machiavelli:
+metà è nostra.
+
+Pausa.
+
+Due fiorentini sconfitti.
+Due risposte opposte.
+
+Pausa lunga.
+
+Le sue permutazion non hanno triegue;
+
+Pausa.
+
+Machiavelli, la sera,
+il fango se lo toglieva di dosso.
+
+Noi
+stiamo per scenderci dentro.
+
+Pausa lunga.
+
 E adesso il canto
 fa un movimento
 che non ti aspetti.
@@ -898,9 +1024,14 @@ adesso stanno scendendo.
 Pausa.
 
 Cioè:
-è passata mezzanotte.
-Il viaggio dura
-da diverse ore.
+è passato molto tempo.
+Molti commentatori fanno il conto
+e dicono: mezzanotte.
+
+Il viaggio è cominciato
+al tramonto del venerdì santo.
+E la notte
+è già lunga.
 
 Pausa lunga.
 
@@ -1046,7 +1177,7 @@ Pausa lunga.
 ne l'aere dolce
 che dal sol s'allegra,
 portando dentro
-accidïoso fummo.
+accidioso fummo.
 
 Or ci attristiam
 ne la belletta negra."
@@ -1069,13 +1200,6 @@ Ferma su questo.
 
 Pausa.
 
-In vita
-avevano dentro
-un fumo che li rendeva tristi
-mentre il sole illuminava il mondo.
-
-Pausa.
-
 L'aere dolce.
 Il sole.
 
@@ -1084,28 +1208,47 @@ Pausa.
 Avevano la luce
 e non la prendevano.
 
-Pausa.
-
-Adesso
-stanno sotto un fango nero
-e si attristano
-ancora.
-
 Pausa lunga.
 
 Sono gli accidiosi.
 
-Quelli
-che hanno passato la vita
-portando dentro
-un fumo
-che il sole non scioglieva.
+E qui bisogna dire subito
+una cosa.
 
 Pausa.
 
-E nel fondo dello Stige
-si attristano
-per sempre.
+L'accidia,
+per il Medioevo,
+non è quello che oggi
+chiamiamo depressione.
+
+Pausa.
+
+È un vizio.
+Il tedio davanti al bene.
+Una tristezza
+che si chiude
+e rifiuta la luce che c'è.
+
+I monaci la chiamavano
+il demone di mezzogiorno.
+L'ora in cui il sole è più alto
+e l'anima
+non ne vuole sapere.
+
+Pausa lunga.
+
+Io credo
+che sia il peccato
+più frainteso di tutto l'Inferno.
+
+Pausa.
+
+Non sono qui
+perché hanno sofferto.
+Sono qui
+perché alla luce
+hanno chiuso la porta.
 
 Pausa.
 

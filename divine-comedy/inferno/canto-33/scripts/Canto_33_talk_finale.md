@@ -98,6 +98,85 @@ Non per liberarsi.
 
 Per accusare.
 
+Pausa lunga.
+
+E ascolta come comincia.
+
+Tu vuoi ch’io rinovelli
+disperato dolor,
+
+Pausa.
+
+È Enea.
+Nell'Eneide, quando Didone
+gli chiede di raccontare la fine di Troia,
+comincia così:
+mi chiedi di rinnovare un dolore
+che non si può dire.
+
+E Francesca, nel quinto canto,
+aveva preso la stessa strada.
+
+Ma se a conoscer la prima radice
+del nostro amor tu hai cotanto affetto,
+dirò come colui che piange e dice.
+
+Pausa lunga.
+
+Le due grandi storie dell'Inferno.
+Una d'amore.
+Una d'odio.
+
+E parlano con la stessa voce.
+
+Pausa lunga.
+
+Chi sono questi due?
+
+Pisa.
+Ugolino della Gherardesca
+è il signore della città.
+Dopo una disfatta in mare contro Genova
+ha ceduto alcuni castelli a Firenze e a Lucca.
+Per molti pisani, un tradimento.
+
+Pausa.
+
+L'arcivescovo Ruggieri
+gli finge amicizia.
+Lo chiama a trattare.
+E lo fa arrestare.
+
+Lo chiudono in una torre
+con due figli e due nipoti.
+Dante li chiama tutti figli.
+
+Nel marzo del 1289
+la porta viene inchiodata.
+
+Pausa lunga.
+
+E qui si stringono due fili.
+
+Ruggieri è nipote di quel Cardinale
+che Farinata nominava,
+fra le tombe.
+
+E Nino Visconti,
+il giudice gentile del ventiduesimo canto,
+quello che Dante ritrova salvo,
+era nipote di Ugolino.
+Ugolino aveva aiutato l'arcivescovo
+a cacciarlo da Pisa.
+Pochi mesi dopo,
+l'arcivescovo si è preso anche lui.
+
+Pausa.
+
+Forse anche per questo
+Ugolino è qui.
+Fra i traditori.
+
 ## vv. 22-54 - La torre e il sogno
 
 > Breve pertugio dentro da la muda
@@ -246,16 +325,71 @@ Poi il padre
 cieco
 che tasta i corpi.
 
+Pausa lunga.
+
+Torna un momento indietro.
+Ascolta le parole dei figli.
+
+tu ne vestisti
+queste misere carni, e tu le spoglia
+
+Pausa.
+
+È Giobbe.
+Di pelle e di carne mi hai vestito.
+Il Signore ha dato,
+il Signore ha tolto.
+
+E qualcuno ci sente anche l'ultima cena.
+Un corpo
+offerto da mangiare.
+
+Pausa lunga.
+
+E Gaddo, prima di morire:
+
+Padre mio, ché non m’aiuti?
+
+Padre mio.
+Come il grido sulla croce:
+perché mi hai abbandonato.
+
+Pausa lunga.
+
+E in mezzo, Ugolino:
+
+Ahi, dura terra, perché non t’apristi?
+
+Pausa.
+
+Il terremoto.
+Quando Cristo è morto,
+la terra si è aperta.
+L'abbiamo seguito per tutto l'Inferno.
+La porta senza serratura.
+La frana.
+I ponti crollati.
+
+Qui la terra
+resta chiusa.
+
+Pausa lunga.
+
+Io credo che questa torre
+sia un Calvario rovesciato.
+
+Muoiono gli innocenti.
+E nessuno risorge.
+
 Pausa.
 
 E la frase.
 
 Pausa lunga.
 
-Più che ’l dolor
-potè ’l digiuno.
+poscia, più che ’l dolor potè ’l digiuno.
 
-Pausa.
+Silenzio. Dieci secondi pieni. Nessun gesto.
 
 Dante
 non la spiega.
@@ -263,6 +397,46 @@ non la spiega.
 Non la chiude.
 
 La lascia lì.
+
+Pausa lunga.
+
+È uno dei versi più discussi del poema.
+Ugolino è morto di fame?
+O prima di morire
+ha fatto un'altra cosa?
+
+Pausa.
+
+Il commento che seguiamo è netto:
+il digiuno lo ha ucciso,
+dove il dolore non ci era riuscito.
+Ma la voce dell'altra lettura
+corre fin dal Trecento.
+
+Pausa lunga.
+
+Ricordi Borges?
+Nel dodicesimo canto
+ci aveva fatto entrare
+nel labirinto del Minotauro.
+
+Torna qui.
+Con un saggio che si intitola
+Il falso problema di Ugolino.
+
+Pausa.
+
+Dice, più o meno:
+la domanda è sbagliata.
+Dante non ha voluto che lo sapessimo.
+Ha voluto che lo sospettassimo.
+Nel buio della torre
+le due cose restano vere insieme.
+
+Pausa lunga.
+
+E quel buio
+è la materia del racconto.
 
 Pausa lunga.
 
@@ -296,6 +470,18 @@ Pausa.
 
 Ahi Pisa.
 
+E guarda come chiama l'Italia,
+proprio dentro l'invettiva.
+
+del bel paese là dove ’l sì suona,
+
+Il paese del sì.
+Dante non definisce l'Italia con un confine.
+La definisce con una parola.
+
+Dopo Babele,
+una lingua che tiene insieme.
+
 Pausa lunga.
 
 Qui l’invettiva
@@ -309,7 +495,7 @@ L’Arno sbarrato.
 
 Pausa.
 
-Anneghi ogni persona.
+sì ch’egli annieghi in te ogni persona.
 
 Pausa lunga.
 
@@ -397,7 +583,7 @@ di frate Alberigo.
 Le frutta
 del mal orto.
 
-Dattero per fico.
+Dattero per figo.
 
 Pausa.
 
@@ -486,6 +672,45 @@ Eppure
 la sua anima
 è già qui.
 
+Pausa lunga.
+
+Branca Doria.
+Il genero di Michel Zanche,
+il sardo nella pece del ventiduesimo canto.
+Lo ha ucciso a un banchetto.
+
+Te l'avevo promesso.
+Ecco l'anima che racconta
+come l'assassino
+sia arrivato quaggiù prima della vittima.
+
+E quando Dante scrive,
+Branca Doria è vivo davvero.
+Nel 1325 è ancora vivo.
+Sopravvive a Dante.
+
+Pausa lunga.
+
+E ricordi Buonconte?
+Nel ventisettesimo canto
+si salvava con una lacrima,
+nell'ultimo istante della vita.
+
+Qui il contrario.
+L'anima cade all'Inferno
+prima che il corpo muoia.
+
+Pausa.
+
+Per la dottrina del suo tempo
+è quasi uno scandalo.
+Fino all'ultimo respiro
+ci si può salvare.
+
+Dante lo sa.
+E a questi
+non lascia nemmeno l'ultimo respiro.
+
 Pausa.
 
 Alberigo
@@ -499,6 +724,26 @@ Pausa lunga.
 E cortesia
 fu in lui
 esser villano.
+
+Pausa lunga.
+
+Ricordi la pietà?
+Nel quinto canto
+Dante sveniva per Francesca.
+
+Qui un dannato gli chiede soltanto
+di togliergli il ghiaccio dagli occhi.
+E Dante non lo fa.
+
+Pausa.
+
+Per gli uomini del suo tempo,
+ingannare un traditore
+era quasi un merito.
+
+Il viaggio lo ha cambiato.
+Se in meglio o in peggio,
+lo lascio decidere a te.
 
 Pausa.
 

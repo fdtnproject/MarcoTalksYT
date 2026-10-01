@@ -143,8 +143,8 @@ di rado.
 Ma sì,
 una volta ci sono stato.
 
-"Ver è
-ch'altra fïata
+"Vero è
+ch'altra fiata
 qua giù fui."
 
 Pausa.
@@ -183,6 +183,49 @@ dice che anche lui,
 in questo momento,
 ha bisogno
 di rassicurarsi.
+
+Pausa lunga.
+
+E c'è un'altra cosa
+che il pubblico di Dante sapeva.
+
+Pausa.
+
+Nel Medioevo
+Virgilio aveva fama di mago.
+A Napoli
+gli si attribuivano talismani
+che proteggevano la città.
+
+Più tardi si racconterà perfino
+che avesse murato un uovo
+nelle fondamenta di un castello.
+Se l'uovo si rompe,
+la città crolla.
+
+Pausa lunga.
+
+A me sembra
+che Dante prenda quella fama
+e la rovesci.
+
+Qui il mago
+non comanda nessuno.
+È stato evocato,
+costretto,
+usato da una strega.
+
+Pausa.
+
+E più avanti,
+quando si parlerà di Mantova,
+Virgilio ci terrà moltissimo
+a dire che la sua città
+è nata senza magia.
+
+Pausa lunga.
+
+ben so il cammin, però ti fa sicuro.
 
 ## vv. 34-48 - Le Furie
 
@@ -274,10 +317,14 @@ non spiega.
 
 Ordina.
 
-"Volgiti 'n dietro
+Si copre gli occhi con le mani.
+
+"Volgiti indietro
 e tien lo viso chiuso."
 
-Pausa.
+Pausa lunga.
+
+Abbassa le mani.
 
 Girati.
 Chiudi gli occhi.
@@ -338,6 +385,43 @@ Il racconto
 non basta.
 
 C'è qualcosa sotto.
+
+Pausa lunga.
+
+Velame.
+
+Pausa.
+
+È una parola di san Paolo.
+Il velo.
+
+Paolo dice
+che quando si legge la Scrittura
+solo alla lettera,
+un velo resta sul cuore.
+E cade
+quando il cuore si apre.
+
+La lettera uccide.
+Lo spirito dà vita.
+
+Pausa lunga.
+
+E allora Medusa
+non è soltanto un mostro.
+
+Molti la leggono così:
+è il cuore
+che diventa pietra.
+Che non può più cambiare.
+
+Pausa lunga.
+
+Chi guarda Medusa
+non torna su.
+
+Chi si indurisce
+non si apre più.
 
 ## Qui da dentro non si passa
 
@@ -495,6 +579,21 @@ Una bacchetta basta.
 
 Pausa lunga.
 
+È la scena che avevamo annunciato.
+Le porte sbarrate.
+I demoni dietro.
+
+Ma questa volta
+non arriva il re.
+Arriva un suo messo.
+
+Pausa.
+
+E non ha bisogno
+di spezzare niente.
+
+Pausa lunga.
+
 E poi la frase
 che è il cuore del canto.
 
@@ -624,7 +723,7 @@ Con i loro seguaci.
 
 Pausa.
 
-Simile con simile
+Simile qui con simile
 è sepolto.
 
 Le tombe
@@ -638,6 +737,62 @@ Dentro Dite.
 Fra i sepolcri
 di chi ha pensato male
 l'anima.
+
+Pausa lunga.
+
+Sei secoli dopo,
+Italo Calvino,
+nelle lezioni che stava preparando
+poco prima di morire,
+comincia proprio da Medusa.
+
+Pausa.
+
+Perseo,
+per tagliarle la testa,
+non la guarda mai in faccia.
+La guarda riflessa
+nel suo scudo.
+
+Pausa.
+
+Per Calvino
+è il gesto della letteratura.
+Guardare quello che non si può guardare.
+Ma per via indiretta.
+In uno specchio.
+
+Pausa lunga.
+
+Io ci sento
+il velame di Dante.
+Il verso come scudo.
+
+Pausa lunga.
+
+E nella stessa lezione
+Calvino racconta una novella di Boccaccio.
+
+Un poeta fiorentino,
+circondato da un gruppo di giovani
+fra le tombe di San Giovanni,
+appoggia una mano su un sepolcro,
+salta dall'altra parte
+e se ne va.
+
+Pausa.
+
+Quel poeta
+si chiama Guido Cavalcanti.
+
+Pausa lunga.
+
+Nel prossimo canto,
+da una di queste tombe,
+si alzerà un padre
+a chiedere di suo figlio.
+
+Il figlio è lui.
 
 ## Chiusura da palco
 

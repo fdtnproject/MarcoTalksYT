@@ -260,6 +260,71 @@ abita qui.
 Virgilio non passa per il Limbo.
 Virgilio ci vive.
 
+Pausa lunga.
+
+E qui la Commedia
+farà una cosa crudele.
+
+Pausa.
+
+Nel Medioevo
+una delle egloghe di Virgilio
+si leggeva come una profezia di Cristo.
+Una nuova progenie
+che scende dal cielo.
+
+Pausa.
+
+Nel Purgatorio
+Dante incontrerà un poeta latino,
+Stazio.
+Salvo.
+
+E Stazio dirà a Virgilio:
+
+Per te poeta fui, per te cristiano.
+
+Pausa lunga.
+
+E gli dirà che ha fatto
+come chi cammina di notte
+con la lanterna dietro la schiena.
+
+La luce
+illumina chi viene dopo.
+
+Non lui.
+
+Pausa lunga.
+
+E c'è di peggio.
+
+Nel Paradiso
+Dante metterà un troiano.
+Rifeo.
+
+Nell'Eneide
+compare per un attimo:
+il più giusto dei Troiani.
+
+Pausa.
+
+Il personaggio
+è salvo.
+
+Il poeta che lo ha scritto
+no.
+
+Pausa lunga.
+
+Io credo
+che Dante questa ferita
+non la chiuda mai.
+La tiene aperta.
+
+Ed è una delle cose più oneste
+di tutto il poema.
+
 Pausa.
 
 E poi la riga che apre tutto:
@@ -361,6 +426,63 @@ Non lo nomina.
 Dice "un possente, con segno di vittoria coronato."
 
 Cristo sceso negli inferi.
+
+Pausa lunga.
+
+E non lo nominerà mai.
+
+Pausa.
+
+In tutto l'Inferno,
+in trentaquattro canti,
+il nome di Cristo
+non compare una volta.
+
+Solo perifrasi.
+Un possente.
+Colui che la gran preda levò a Dite.
+
+Pausa lunga.
+
+Qui il nome non entra.
+
+Ma il suo passaggio
+ha lasciato dei segni.
+
+Pausa.
+
+Quando Cristo muore,
+racconta il Vangelo,
+la terra trema
+e le rocce si spaccano.
+
+Nell'Inferno di Dante
+quelle crepe
+ci sono ancora.
+
+Pausa lunga.
+
+Una porta senza serratura.
+Una frana.
+Ponti crollati.
+
+Li incontreremo.
+E ogni volta
+che troveremo una roccia rotta,
+sapremo perché.
+
+Pausa lunga.
+
+Io era novo in questo stato,
+
+Pausa.
+
+Novo.
+Virgilio era morto
+da una cinquantina d'anni.
+
+Per l'eternità,
+un attimo.
 
 Pausa.
 
@@ -663,6 +785,54 @@ Dante,
 nel primo cerchio dell'Inferno,
 si elegge
 accanto ai più grandi poeti mai esistiti.
+
+Pausa lunga.
+
+Pensa a chi lo scrive.
+
+Un esule.
+Senza città.
+Senza una corona di poeta.
+
+Pausa.
+
+Nel Paradiso
+Dante confesserà un sogno.
+Tornare a Firenze
+e prendere la corona d'alloro
+nel battistero
+dove era stato battezzato.
+
+ritornerò poeta, ed in sul fonte
+del mio battesmo prenderò il cappello;
+
+Pausa lunga.
+
+Non succederà.
+Morirà a Ravenna.
+
+Pausa lunga.
+
+Quasi duecento anni dopo,
+in Vaticano,
+Raffaello dipinge il Parnaso.
+
+Omero.
+Virgilio.
+E accanto a loro,
+di profilo,
+vestito di rosso,
+con la corona d'alloro:
+Dante.
+
+Pausa.
+
+Sesto.
+
+Pausa lunga.
+
+La corona
+che Firenze non gli ha mai dato.
 
 Pausa.
 

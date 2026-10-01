@@ -133,6 +133,32 @@ Ma di fuoco.
 
 Pausa lunga.
 
+E Dante ci dice anche
+di che sabbia si tratta.
+
+che fu dai piè di Caton già soppressa.
+
+Pausa.
+
+La sabbia del deserto libico.
+Quella che Catone attraversò a piedi,
+guidando i resti di un esercito sconfitto,
+in un poema di Lucano.
+
+Pausa.
+
+Catone, di nuovo.
+Il romano del canto scorso.
+
+Non è all'Inferno.
+Ma continua ad attraversarlo.
+
+Pausa lunga.
+
+come di neve in alpe sanza vento.
+
+Pausa lunga.
+
 Le anime sono tre posture.
 
 Chi giace.
@@ -210,6 +236,62 @@ Fulminato da Giove.
 E ancora qui
 intatto nel suo disprezzo.
 
+Pausa lunga.
+
+Dante lo ha preso da un poeta latino,
+Stazio.
+Nella Tebaide
+Capaneo sale sulle mura
+sfidando Giove.
+E Giove lo fulmina.
+
+Pausa.
+
+Ricordi Stazio?
+Il poeta che nel Purgatorio
+sarà salvo,
+grazie a Virgilio.
+
+Il poeta del ribelle
+si salva.
+Il ribelle resta nella sabbia.
+
+Pausa lunga.
+
+Molti secoli dopo,
+un altro scrittore
+darà a questa voce
+tutta la grandezza
+che Dante le nega.
+
+Pausa.
+
+Melville.
+Moby Dick.
+
+Il capitano Achab
+dice che colpirebbe anche il sole,
+se il sole lo offendesse.
+
+E mentre la balena
+lo trascina giù,
+grida:
+dal cuore dell'inferno
+ti colpisco.
+
+Pausa lunga.
+
+È la stessa grammatica.
+Qual io fui vivo, tal son morto.
+
+Pausa.
+
+Ma Melville
+ce lo fa ammirare.
+
+Virgilio, adesso,
+ce lo impedirà.
+
 ## vv. 61-75 - Virgilio lo inchioda
 
 > Allora il duca mio parlò di forza
@@ -258,6 +340,14 @@ Ma non è vittoria.
 È il suo modo
 di restare inchiodato
 alla propria forma.
+
+Pausa.
+
+Tienilo a mente.
+Più avanti
+Dante incontrerà un dannato ancora più superbo.
+E per misurarlo
+userà proprio lui.
 
 ## vv. 76-90 - Il rio rosso
 
@@ -387,6 +477,69 @@ scendono lacrime.
 
 E quelle lacrime
 diventano fiumi infernali.
+
+Pausa lunga.
+
+Dante ha messo insieme
+due statue famose.
+
+Quella del sogno di Nabucodonosor,
+nella Bibbia:
+testa d'oro,
+petto d'argento,
+ventre di bronzo,
+gambe di ferro,
+piedi d'argilla.
+
+E le età del mondo di Ovidio:
+l'oro, l'argento, il bronzo, il ferro.
+
+Pausa.
+
+Creta è l'isola di Saturno.
+L'età dell'oro.
+Quando il mondo era innocente.
+
+Pausa lunga.
+
+Il Veglio volta le spalle all'Oriente
+e guarda Roma.
+E poggia di più
+sul piede d'argilla.
+Molti commentatori ci leggono
+una Chiesa che non regge.
+
+Pausa lunga.
+
+E adesso ascolta i nomi.
+
+fanno Acheronte, Stige e Flegetonta;
+
+Pausa.
+
+Acheronte.
+Lo abbiamo passato nel terzo canto.
+
+Lo Stige.
+La palude del fango.
+
+Il Flegetonte.
+Il fiume di sangue.
+
+Pausa lunga.
+
+Erano lacrime.
+
+Pausa.
+
+Ogni fiume che abbiamo attraversato
+era fatto di pianto umano.
+
+Pausa lunga.
+
+E ne manca uno.
+Cocito.
+Lo vedremo in fondo.
 
 ## Le crepe del mondo
 

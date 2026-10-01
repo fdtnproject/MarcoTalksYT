@@ -67,6 +67,25 @@ La bolgia è enorme.
 E Dante
 sta ancora guardando indietro.
 
+Pausa.
+
+E Virgilio aggiunge una cosa.
+
+E già la luna è sotto i nostri piedi:
+
+Pausa.
+
+La luna del ventesimo canto.
+All'alba tramontava.
+Adesso è dall'altra parte del mondo.
+Sotto di noi.
+
+Sulla terra, sopra le nostre teste,
+è passata l'una del pomeriggio.
+Sabato.
+
+lo tempo è poco omai che n’è concesso,
+
 > «Se tu avessi» rispuos’io appresso
 > «atteso a la cagion per ch’io guardava,
 > forse m’avresti ancor lo star dimesso.»
@@ -88,6 +107,15 @@ sta ancora guardando indietro.
 
 Pausa lunga.
 
+Alza l'indice verso la camera.
+Lo tiene fermo.
+
+mostrarti e minacciar forte col dito,
+
+Abbassa il dito, piano.
+
+Pausa.
+
 Geri del Bello.
 
 Un parente.
@@ -103,6 +131,34 @@ si porta dietro
 una cosa antica:
 
 l’obbligo del sangue.
+
+Pausa lunga.
+
+Geri era cugino del padre di Dante.
+Lo aveva ucciso uno dei Sacchetti.
+
+Nella Firenze di allora
+la vendetta privata
+non era un delitto qualunque.
+Era quasi un dovere di famiglia.
+Le leggi la regolavano.
+
+Pausa.
+
+Gli Alighieri
+non l'avevano ancora fatta.
+La faranno decenni dopo.
+Non sappiamo bene quando.
+
+E la pace fra le due famiglie
+verrà firmata nel 1342.
+
+Pausa.
+
+Dante era morto da vent'anni.
+A firmarla,
+anche a nome dei figli di Dante,
+fu suo fratello.
 
 > «O duca mio, la violenta morte,
 > che non gli è vendicata ancor» diss’io
@@ -127,6 +183,21 @@ Il morto se ne va
 sdegnato.
 E proprio quel rifiuto
 rende Dante più pietoso.
+
+Pausa lunga.
+
+ed in ciò m’ha el fatto a sé più pio.
+
+Pausa.
+
+Io credo che sia il verso più onesto del canto.
+
+Dante non dice che la vendetta è giusta.
+Non dice che è sbagliata.
+Dice che quel cugino arrabbiato
+gli fa pena.
+
+E non lo nasconde.
 
 ## vv. 37-57 - Il fetore della decima bolgia
 
@@ -178,6 +249,41 @@ non è ancora
 una teoria morale.
 
 È un odore.
+
+Pausa lunga.
+
+Qual dolor fora, se de li spedali
+di Valdichiana, tra ’l luglio e ’l settembre,
+e di Maremma e di Sardigna i mali
+
+Pausa.
+
+Paludi.
+Febbri d'estate.
+Malaria.
+
+Pausa.
+
+Probabilmente
+è la febbre che ha ucciso Guido Cavalcanti.
+Ricordi il decimo canto?
+Il confino a Sarzana,
+la malattia,
+la morte, alla fine di agosto del 1300.
+
+E probabilmente
+è la febbre che ucciderà Dante.
+Nel 1321,
+di ritorno da un'ambasceria a Venezia,
+attraverso le paludi.
+Muore a Ravenna,
+a metà settembre.
+
+Pausa lunga.
+
+Tra il luglio e il settembre.
+
+Dante non poteva saperlo.
 
 ## vv. 58-84 - I falsatori malati
 
@@ -355,6 +461,33 @@ Uno che si presenta
 così:
 
 buona scimia.
+
+Pausa.
+
+Due letture.
+
+Per alcuni,
+scimmia della natura.
+L'alchimista che copia la natura
+invece di seguirla.
+Nell'undicesimo canto
+Virgilio aveva detto
+che l'arte umana, seguendo la natura,
+è quasi nipote di Dio.
+Questo è il nipote falso.
+
+Pausa.
+
+Per altri,
+e per il commento che seguiamo,
+vuol dire soltanto:
+ero bravissimo a fare le imitazioni.
+Te lo ricordi?
+
+E infatti
+la prima cosa che fa
+è il verso a Dante,
+sui senesi.
 
 Pausa lunga.
 

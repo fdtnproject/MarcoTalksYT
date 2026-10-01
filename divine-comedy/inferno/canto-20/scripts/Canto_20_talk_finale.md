@@ -145,6 +145,53 @@ Qui compatire
 significa protestare
 contro il giudizio.
 
+Pausa lunga.
+
+E c'è un gioco di parole.
+
+Pausa.
+
+Pietà
+vuol dire compassione.
+Ma vuol dire anche devozione.
+Rispetto per Dio.
+
+Qui vive la pietà quand’è ben morta.
+
+Pausa.
+
+Secondo una lettura molto diffusa:
+qui la devozione vive
+quando la compassione è morta.
+
+Pausa lunga.
+
+È un filo che attraversa l'Inferno.
+Davanti a Francesca
+Dante sviene di pietà.
+Davanti a Pier della Vigna
+non riesce a parlare.
+Con Filippo Argenti
+Virgilio lo benedice
+perché non ne ha.
+
+E qui viene rimproverato.
+
+Pausa lunga.
+
+Ma io credo
+che qui Dante pianga
+per qualcosa di più semplice.
+
+quando la nostra imagine da presso
+vidi sì torta
+
+Pausa.
+
+La nostra immagine.
+Il corpo umano,
+storto così.
+
 ## vv. 31-39 - Anfiarao
 
 > Drizza la testa, drizza, e vedi a cui
@@ -175,10 +222,13 @@ Ed eccolo qui.
 
 Pausa lunga.
 
-Perché volle veder
-troppo davante,
+Volta le spalle alla camera.
+Cammina all'indietro.
 
-diretro guarda.
+perché volle veder troppo davante,
+diretro guarda, e fa retroso calle.
+
+Si gira.
 
 Pausa.
 
@@ -363,6 +413,59 @@ la voce della ragione.
 È un mantovano
 che difende Mantova.
 
+Pausa lunga.
+
+E c'è di più.
+Sta correggendo se stesso.
+
+Pausa.
+
+Nell'Eneide
+Virgilio aveva scritto
+che Mantova l'aveva fondata
+un figlio di Manto,
+e le aveva dato il nome della madre.
+
+Qui racconta un'altra storia.
+Manto muore.
+Uomini qualunque
+costruiscono la città sulle sue ossa.
+E la chiamano così
+
+Mantua l’appellar sanz’altra sorte.
+
+Pausa.
+
+Senza sorteggi.
+Senza auspici.
+Senza magia.
+
+Pausa lunga.
+
+Ricordi il nono canto?
+Nel Medioevo
+Virgilio aveva fama di mago.
+
+Qui toglie
+alla sua città
+ogni origine magica.
+
+Il poeta
+corregge il proprio poema.
+
+Pausa lunga.
+
+E poco dopo
+chiamerà l'Eneide così:
+
+l’alta mia tragedia
+
+Pausa.
+
+Nel canto che viene,
+Dante chiamerà il suo poema
+comedìa.
+
 ## vv. 100-123 - Gli altri indovini
 
 > E io «Maestro, i tuoi ragionamenti
@@ -430,6 +533,47 @@ avere piegato il sapere
 alla tentazione
 di violare il limite.
 
+Pausa lunga.
+
+Due di questi nomi
+sono quasi contemporanei.
+
+Michele Scotto,
+astrologo alla corte di Federico II.
+Ancora Federico.
+
+Guido Bonatti,
+astrologo di un condottiero
+che incontreremo fra sette canti.
+
+Pausa lunga.
+
+Ma c'è una domanda.
+
+Dante crede negli influssi delle stelle.
+Perché allora condanna
+chi le legge?
+
+Pausa.
+
+La risposta arriverà nel Purgatorio.
+Il cielo
+dà l'avvio ai nostri movimenti.
+Ma non li decide.
+Resta la libertà.
+
+Pausa lunga.
+
+Prevedere il futuro di un uomo
+vuol dire negare
+che sia libero.
+
+Pausa.
+
+Io credo che sia questo,
+per Dante,
+il vero peccato di questa bolgia.
+
 ## vv. 124-130 - La luna
 
 > Ma vienne omai, ché già tiene ’l confine
@@ -466,6 +610,23 @@ la chiusa arriva
 con il cielo
 che continua
 per conto suo.
+
+Pausa lunga.
+
+E ascolta che cosa dice Virgilio,
+di quella luna.
+
+e già iernotte fu la luna tonda;
+
+Pausa.
+
+La luna piena.
+Quella della selva,
+nel primo canto.
+
+Adesso tramonta.
+È l'alba.
+L'alba del sabato.
 
 ## Chiusura
 

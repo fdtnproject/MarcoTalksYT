@@ -285,6 +285,50 @@ finisce nel pasto.
 
 Pausa lunga.
 
+E Virgilio
+questa scena
+l'aveva già scritta.
+
+Pausa.
+
+Nell'Eneide
+anche Enea passa davanti a Cerbero.
+E la Sibilla che lo guida
+gli getta in bocca una focaccia.
+Miele
+ed erbe che fanno dormire.
+
+Il mostro la inghiotte
+e crolla a terra.
+
+Pausa lunga.
+
+Qui Dante
+fa rifare a Virgilio
+il suo stesso gesto.
+
+Ma al posto del miele
+c'è il fango.
+
+Pausa.
+
+E il Cerbero di Virgilio
+era un cane.
+Quello di Dante
+ha la barba unta,
+la pancia,
+le mani.
+
+Pausa.
+
+È diventato un ghiottone.
+
+Pausa lunga.
+
+che solo a divorarlo intende e pugna,
+
+Pausa lunga.
+
 Fermati su questa scena.
 
 Pausa.
@@ -738,6 +782,29 @@ il proprio esilio.
 
 Pausa lunga.
 
+Ed è solo il primo.
+
+Pausa.
+
+Da qui in avanti
+altri dannati
+gli parleranno del suo futuro.
+
+Farinata.
+Brunetto.
+Vanni Fucci.
+
+Ogni volta
+un po' più preciso.
+Un po' più personale.
+
+Pausa lunga.
+
+Qui, nel fango,
+è appena cominciato.
+
+Pausa lunga.
+
 "Giusti son due,
 e non vi sono intesi."
 
@@ -754,6 +821,31 @@ Due.
 Pausa.
 
 In una città di migliaia di anime.
+
+Pausa lunga.
+
+Io qui sento
+una pagina della Bibbia.
+
+Abramo che tratta con Dio
+la salvezza di Sodoma.
+Se ci sono cinquanta giusti,
+la risparmierai?
+E se sono quaranta?
+Trenta?
+Dieci?
+
+Pausa.
+
+Dieci giusti,
+e Sodoma sarebbe stata salva.
+
+Non c'erano.
+
+Pausa lunga.
+
+Firenze
+di giusti ne ha due.
 
 Pausa lunga.
 
@@ -932,6 +1024,8 @@ dei grandi fiorentini del passato.
 
 Pausa lunga.
 
+[Schermo: testo — "Farinata · Tegghiaio · Iacopo Rusticucci · Arrigo · Mosca"]
+
 Farinata.
 Tegghiaio.
 Iacopo Rusticucci.
@@ -1008,6 +1102,35 @@ Pausa.
 
 I grandi
 sono più in basso.
+
+Pausa lunga.
+
+Tienili a mente,
+questi cinque nomi.
+
+Pausa.
+
+Quattro
+li ritroveremo.
+Più in basso.
+
+Pausa.
+
+Uno no.
+
+Pausa lunga.
+
+Arrigo
+nel poema
+non comparirà mai più.
+
+Chi fosse,
+non lo sappiamo con certezza.
+
+È uno dei piccoli misteri
+della Commedia.
+
+[Schermo: nero pieno]
 
 ## vv. 88-93 - La memoria di chi è vivo
 
@@ -1242,6 +1365,43 @@ quando riprenderà il corpo,
 sentirà la pioggia meglio.
 Sentirà Cerbero meglio.
 Sentirà il fango meglio.
+
+Pausa lunga.
+
+Ma la stessa regola
+vale anche al contrario.
+
+Pausa.
+
+Nel Paradiso
+Dante sentirà parlare i beati
+del giorno in cui riavranno il corpo.
+
+E li vedrà mostrare
+un desiderio così forte
+dei loro corpi morti,
+
+forse non pur per lor, ma per le mamme,
+per li padri e per gli altri che fuor cari
+
+Pausa lunga.
+
+Non per sé.
+Per le mamme.
+Per poter riabbracciare.
+
+Pausa lunga.
+
+Lo stesso corpo.
+
+A Ciacco
+servirà per soffrire di più.
+Ai beati
+per amare di più.
+
+Pausa.
+
+più senta il bene, e così la doglienza.
 
 ## vv. 115-fine - Pluto
 

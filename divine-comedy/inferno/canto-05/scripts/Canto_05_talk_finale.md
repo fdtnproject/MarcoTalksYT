@@ -938,6 +938,19 @@ il fratello.
 
 Pausa.
 
+E guarda il verbo.
+Attende.
+
+Nella primavera del 1300,
+chi li ha uccisi
+è ancora vivo.
+
+E all'Inferno
+il suo posto
+è già pronto.
+
+Pausa.
+
 Lei te lo dice
 senza dire i nomi.
 
@@ -993,6 +1006,51 @@ se la morte è una sola,
 allora la colpa
 non è di chi ama.
 La colpa è dell'amore.
+
+Pausa lunga.
+
+E adesso
+una cosa che cambia tutto.
+
+Pausa.
+
+Questa teoria
+Dante la conosce benissimo.
+È la sua scuola.
+
+Pausa lunga.
+
+Guido Guinizelli,
+il poeta che Dante
+chiamerà padre,
+aveva scritto:
+Foco d'amore in gentil cor s'apprende.
+
+Pausa.
+
+E Dante stesso,
+nella Vita Nova:
+Amore e 'l cor gentil sono una cosa.
+
+Pausa lunga.
+
+Francesca
+non sta improvvisando.
+
+Parla con le poesie
+che Dante ha amato.
+E con quelle
+che Dante ha scritto.
+
+Pausa lunga.
+
+Io credo
+che sia per questo
+che tra poco crollerà.
+
+Non per una pietà generica.
+Perché in quella voce
+sente la sua.
 
 Pausa lunga.
 
@@ -1159,6 +1217,66 @@ ascolti il nome.
 E lo dice Dante.
 Non lei.
 
+Pausa lunga.
+
+Francesca da Polenta.
+Figlia del signore di Ravenna.
+
+Sposata, intorno al 1275,
+a Giovanni Malatesta,
+signore di Rimini.
+Lo chiamavano Gianciotto:
+Gianni lo sciancato.
+
+Pausa.
+
+E l'ombra che le sta accanto
+è Paolo.
+Il fratello del marito.
+
+Pausa lunga.
+
+Nel 1282
+Paolo era a Firenze,
+capitano del popolo.
+Dante era un ragazzo.
+Quasi certamente l'aveva visto.
+
+Pausa lunga.
+
+Sul delitto
+le cronache del tempo tacciono.
+La prima testimonianza
+che ci resta
+è questo canto.
+
+Pausa.
+
+Più tardi Boccaccio
+aggiungerà una leggenda:
+che al matrimonio
+Francesca fosse stata ingannata,
+che le avessero mandato Paolo
+al posto del fratello.
+
+Forse per assolverla.
+
+Pausa lunga.
+
+E un'ultima cosa.
+
+Negli ultimi anni della sua vita
+Dante vivrà a Ravenna.
+Ospite di Guido Novello da Polenta.
+
+Il nipote di Francesca.
+
+Pausa lunga.
+
+È lì che morirà.
+Nella città
+che lei non ha voluto nominare.
+
 Pausa.
 
 "Francesca, i tuoi martìri
@@ -1303,22 +1421,9 @@ E senza nessun sospetto.
 
 Pausa lunga.
 
-Tre cose:
-leggevamo.
-Eravamo soli.
-Non sospettavamo niente.
-
-Pausa.
-
 Sospetto qui significa
 timore.
 Non si erano messi in guardia.
-
-Pausa.
-
-Non eravamo
-in guardia
-da quello che stava per succedere.
 
 Pausa lunga.
 
@@ -1383,10 +1488,40 @@ tutto tremante.
 
 Pausa lunga.
 
-"Questi, che mai da me non fia diviso."
+Ma nel libro
+non era andata così.
 
-Lui,
-che mai più sarà separato da me.
+Pausa.
+
+Nel romanzo di Lancillotto
+è Ginevra
+a prendere Lancillotto per il mento.
+È lei a baciarlo.
+
+Pausa lunga.
+
+Francesca racconta il contrario.
+Il sorriso di lei,
+baciato dall'amante.
+
+Pausa.
+
+A me sembra
+che anche il libro,
+nella sua memoria,
+si sia piegato.
+
+Anche lì
+lei non è più chi fa.
+È chi riceve.
+
+Pausa lunga.
+
+la bocca mi baciò tutto tremante.
+
+Pausa lunga.
+
+"Questi, che mai da me non fia diviso."
 
 Pausa.
 
@@ -1438,13 +1573,6 @@ quel giorno più non vi leggemmo avante."
 
 Pausa.
 
-Galeotto fu il libro
-e chi lo scrisse.
-Quel giorno
-non leggemmo oltre.
-
-Pausa.
-
 Galeotto, nel romanzo francese,
 era il personaggio
 che fece da intermediario
@@ -1463,6 +1591,27 @@ fece da Galeotto.
 
 Una pagina
 ha cambiato il loro destino.
+
+Pausa lunga.
+
+Qualche decennio dopo,
+Boccaccio
+darà al suo Decameron
+un sottotitolo.
+
+Prencipe Galeotto.
+
+Pausa.
+
+Il libro come intermediario.
+Per le sue lettrici.
+
+Pausa lunga.
+
+Boccaccio questo canto
+lo conosceva parola per parola.
+E sapeva benissimo
+che cosa può fare un libro.
 
 Pausa.
 

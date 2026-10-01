@@ -174,6 +174,45 @@ Dante
 Un’immagine tenera
 nel mezzo dell’Inferno.
 
+Pausa lunga.
+
+portandosene me sovra ’l suo petto,
+come suo figlio, non come compagno.
+
+Pausa.
+
+Non un compagno di viaggio.
+Un figlio.
+
+Pausa lunga.
+
+Tienila a mente, questa madre.
+Perché tornerà.
+
+In cima al Purgatorio,
+quando apparirà Beatrice,
+Dante si volterà verso Virgilio
+
+volsimi a la sinistra col rispitto
+col quale il fantolin corre a la mamma,
+quand’ha paura o quand’egli è afflitto,
+
+Pausa lunga.
+
+E Virgilio non ci sarà più.
+
+ma Virgilio n’avea lasciati scemi
+di sé, Virgilio, dolcissimo patre
+
+Pausa lunga.
+
+Qui la madre
+lo prende in braccio
+e lo porta via dal fuoco.
+
+Lì il bambino si volta.
+E non c'è nessuno.
+
 ## vv. 58-90 - Gli ipocriti
 
 [Schermo: Doré — la processione degli ipocriti]
@@ -247,6 +286,79 @@ che luccica.
 
 Pausa lunga.
 
+Là giù trovammo una gente dipinta
+
+Pausa.
+
+Dipinta.
+Truccata.
+
+Pausa.
+
+In greco,
+ipocrita
+vuol dire attore.
+
+Indica se stesso.
+
+Uno come me.
+
+Pausa.
+
+Ma l'attore
+il trucco lo dichiara.
+L'ipocrita no.
+
+Pausa lunga.
+
+Il greco, Dante non lo leggeva.
+Usava i dizionari latini.
+E in uno dei più diffusi,
+quello di Uguccione da Pisa,
+ipocrita si spiegava così:
+sopra, e oro.
+Dorato sopra.
+
+Pausa.
+
+È un'etimologia sbagliata.
+Ma molto probabilmente
+da lì viene
+l'oro di queste cappe.
+
+Di fuor dorate son, sì ch’egli abbaglia;
+ma dentro tutte piombo
+
+Pausa lunga.
+
+E il piombo
+l'avevamo già incontrato.
+
+Quaranta versi prima,
+Virgilio aveva detto a Dante:
+ti leggo dentro
+meglio di uno specchio.
+
+S’io fossi di piombato vetro,
+
+Pausa.
+
+Vetro piombato.
+Lo specchio, scrive Dante nel Convivio,
+è vetro terminato con piombo.
+
+Pausa lunga.
+
+Lo stesso metallo.
+
+Nello specchio,
+il piombo fa vedere.
+
+Nella cappa,
+il piombo nasconde.
+
+Pausa lunga.
+
 E i due che si avvicinano
 fanno fatica
 anche solo
@@ -294,15 +406,42 @@ Sopra le parti.
 Neutri.
 Garanti.
 
-Eppure
-ancor si pare
-dal Gardingo.
+Eppure, dice il frate:
+
+e fummo tali
+ch’ancor si pare intorno dal Gardingo.
 
 Pausa.
 
 La pace promessa
 è diventata
 macerie.
+
+Pausa lunga.
+
+E quelle macerie
+le conosciamo.
+
+Il Gardingo
+era la zona
+delle case e delle torri degli Uberti.
+La famiglia di Farinata.
+
+Sotto il governo di questi due frati,
+nel 1266,
+furono rase al suolo.
+
+Pausa.
+
+È il vuoto del decimo canto.
+Quello che oggi
+è piazza della Signoria.
+
+Pausa lunga.
+
+Due uomini chiamati a garantire la pace.
+E la piazza più famosa di Firenze
+nasce da quelle macerie.
 
 ## vv. 109-126 - Caifasso
 
@@ -366,6 +505,30 @@ E chi passa
 gli fa sentire
 quanto pesa.
 
+Pausa lunga.
+
+E quando vede Dante,
+si contorce.
+
+Quando mi vide, tutto si distorse
+
+Pausa.
+
+Perché?
+
+Un antico commentatore,
+Francesco da Buti,
+risponde così.
+
+Vede un cristiano.
+Salvato da quella morte
+che lui aveva voluto.
+
+Pausa lunga.
+
+L'uomo del calcolo
+vede il risultato.
+
 ## vv. 127-148 - Malacoda bugiardo
 
 > Poscia drizzò al frate cotal voce:
@@ -403,19 +566,63 @@ Il frate glielo indica.
 
 Pausa.
 
-E solo allora
-si scopre davvero
+E solo adesso
+Virgilio scopre
 la menzogna di Malacoda.
+
+Noi lo sapevamo
+dal ventunesimo canto.
 
 Pausa lunga.
 
 I ponti
 non erano intatti.
 
-Lo sapeva.
+Nessuno.
+Sopra questa bolgia
+sono crollati tutti.
+
+Pausa.
+
+Lo stesso terremoto.
+La morte di Cristo.
+
+E qui,
+sopra Caifasso,
+non ha lasciato in piedi
+neanche un ponte.
+
+Pausa.
+
+Forse non è un caso.
+
+Pausa lunga.
+
+Malacoda lo sapeva.
 
 Ha mentito
 con perfetta naturalezza.
+
+Pausa.
+
+E il frate ci mette il carico.
+
+Io udi’ già dire a Bologna
+del diavol vizi assai; tra i quali udi’
+ch’egli è bugiardo e padre di menzogna.
+
+Pausa.
+
+A Bologna.
+Dove si studia teologia.
+Come a dire:
+queste cose le sa ogni studente.
+
+Pausa.
+
+E lo dice con le parole del Vangelo.
+Un ipocrita che cita Gesù,
+a due passi da Caifasso.
 
 Pausa.
 

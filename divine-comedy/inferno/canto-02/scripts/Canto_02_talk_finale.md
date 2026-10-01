@@ -184,6 +184,83 @@ Non è falsa modestia.
 È una domanda reale:
 chi sono io per stare in questa storia?
 
+Pausa lunga.
+
+Pensa a chi sono quei due.
+
+Roma e la fede.
+L'Impero e la Chiesa.
+
+Pausa.
+
+Le due autorità
+che per Dante
+devono guidare il mondo.
+
+Pausa.
+
+E lui?
+Un fiorentino.
+Né l'una né l'altra cosa.
+
+Pausa lunga.
+
+La risposta arriverà.
+Ma bisognerà aspettare il Paradiso.
+
+Pausa.
+
+Nel quindicesimo canto del Paradiso
+Dante incontra un suo antenato,
+Cacciaguida.
+
+E per raccontare come lo accoglie
+usa un paragone preciso:
+così l'ombra di Anchise,
+nei Campi Elisi,
+andò incontro al figlio.
+
+Pausa.
+
+Il figlio è Enea.
+
+Pausa lunga.
+
+Poi Cacciaguida gli parla in latino.
+
+O sanguis meus
+
+Pausa.
+
+Sangue mio.
+A chi, come a te,
+la porta del cielo
+è stata aperta due volte?
+
+Pausa.
+
+Adesso, da vivo.
+E poi, dopo la morte.
+
+I commentatori ci sentono Paolo:
+l'unico che in cielo
+c'era salito da vivo.
+
+Pausa lunga.
+
+Io non Enea.
+Io non Paolo.
+
+Ottanta canti più avanti,
+il poema lo accoglie
+come tutti e due.
+
+Pausa lunga.
+
+Ma qui,
+nel secondo canto,
+la domanda resta aperta.
+
 E poi la chiave:
 "me degno a ciò né io né altri crede."
 
@@ -193,6 +270,27 @@ Non ha ricevuto una chiamata.
 
 E senza chiamata,
 l'impresa diventa folle.
+
+Pausa lunga.
+
+Folle.
+
+Lungo silenzio.
+
+Ricordatela,
+questa parola.
+
+Pausa.
+
+Tornerà,
+molto più avanti.
+Sulla bocca di un uomo
+che la chiamata
+non l'ha aspettata.
+
+Pausa lunga.
+
+se’ savio; intendi me’ ch’i’ non ragiono.
 
 Pausa.
 
@@ -346,6 +444,58 @@ Chi è amato in alto
 > amor mi mosse, che mi fa parlare.  
 > Quando sarò dinanzi al signor mio,  
 > di te mi loderò sovente a lui.’
+
+Io son Beatrice, che ti faccio andare;
+
+Pausa.
+
+È la prima volta
+che il suo nome
+compare nel poema.
+
+Pausa lunga.
+
+Chi era Beatrice?
+
+Pausa.
+
+Una ragazza fiorentina.
+Secondo una tradizione
+che comincia con Boccaccio,
+Bice Portinari.
+
+Muore nel 1290,
+giovanissima.
+
+Pausa lunga.
+
+Dopo la sua morte
+Dante scrive un libro,
+la Vita Nova.
+
+E lo chiude con una promessa.
+Se la vita mi basterà,
+spero di dicer di lei
+quello che mai non fue detto d'alcuna.
+
+Pausa lunga.
+
+Dieci anni dopo,
+nel tempo del viaggio,
+eccola.
+
+Pausa.
+
+La promessa
+comincia a essere mantenuta
+qui.
+
+In una donna che scende
+dal cielo fino al Limbo
+per un uomo
+che si è perso.
+
+Pausa lunga.
 
 Qui bisogna fermarsi.
 

@@ -84,14 +84,27 @@ Pausa lunga.
 
 Il Minotauro.
 
-Pasifae.
-Il toro.
-Dedalo.
+Pasifae,
+la regina di Creta,
+si innamora di un toro.
 
-Basta questo.
+Dedalo le costruisce
+una vacca di legno
+per nascondersi dentro.
+
+Da quell'unione
+nasce lui.
+
+Pausa.
 
 Mezzo uomo,
 mezzo toro.
+
+Lo chiudono in un labirinto.
+Gli mandano giovani da divorare.
+Finché arriva Teseo,
+col filo di Arianna,
+e lo uccide.
 
 Pausa.
 
@@ -113,6 +126,45 @@ Non c'è grandezza qui.
 
 Solo violenza
 che si divora.
+
+Pausa lunga.
+
+Nel Novecento
+Jorge Luis Borges
+prova a guardarlo dall'altra parte.
+
+Pausa.
+
+In un racconto di poche pagine
+fa parlare il Minotauro.
+In prima persona.
+
+Non sa di essere un mostro.
+È solo.
+Non capisce perché la gente
+scappa quando lo vede.
+E aspetta qualcuno
+che venga a liberarlo.
+
+Pausa lunga.
+
+Quando arriva Teseo,
+il Minotauro
+quasi non si difende.
+
+Pausa.
+
+Borges ne fa una vittima.
+Dante ne fa la violenza
+che si morde da sola.
+
+Ma tutti e due
+lo vedono solo.
+E rivolto contro se stesso.
+
+Pausa lunga.
+
+e quando vide noi se stesso morse
 
 ## vv. 16-30 - Virgilio lo ferma
 
@@ -241,6 +293,59 @@ Come un segno.
 La morte di Cristo
 ha lasciato anche questo
 dentro l'Inferno.
+
+Pausa lunga.
+
+Nel quarto canto
+ce lo eravamo detti.
+Ogni volta che troveremo una roccia rotta,
+sapremo perché.
+
+Ecco la seconda.
+
+Pausa lunga.
+
+Ma ascolta come lo spiega Virgilio.
+
+Pausa.
+
+tremò sì, ch’io pensai che l’universo
+sentisse amor
+
+Pausa.
+
+Virgilio non sa chi è morto.
+Lui era nel Limbo.
+
+Per spiegarsi quel tremore
+usa un filosofo
+che abbiamo visto proprio nel Limbo.
+Empedocle.
+
+Per Empedocle
+il mondo sta in piedi
+fra due forze:
+l'amore e la discordia.
+Quando vince l'amore,
+tutto si confonde
+e torna caos.
+
+Pausa lunga.
+
+Virgilio ha sentito
+l'universo tremare d'amore.
+E l'ha spiegato
+con la filosofia sbagliata.
+
+Pausa lunga.
+
+Io credo che in questa terzina
+ci sia tutta la sua tragedia.
+
+Pausa.
+
+ed in quel punto questa vecchia roccia
+qui ed altrove tal fece riverso.
 
 Pausa lunga.
 
@@ -451,6 +556,27 @@ non è generica.
 > quel sangue, sì che cocea pur li piedi;
 > e quindi fu del fosso il nostro passo.
 
+Chirone è il più saggio dei centauri.
+Il maestro di Achille.
+
+E Dante gli dà un gesto da pensatore:
+prende una freccia
+e con la cocca
+si scosta la barba dalla bocca.
+Prima di parlare.
+
+Pausa.
+
+Virgilio gli risponde
+stando proprio lì,
+all'altezza del petto,
+dove le due nature son consorti.
+
+Dove l'uomo
+diventa cavallo.
+
+Pausa lunga.
+
 Chirone capisce subito
 che Dante è vivo.
 
@@ -493,11 +619,42 @@ Opizzo.
 
 Pausa.
 
-Dante e i suoi contemporanei
-sanno chi sono.
+Uno di questi nomi
+fermiamolo.
 
-A noi basta questo:
-sono nomi di tirannia
+Azzolino.
+Ezzelino da Romano.
+Il tiranno più temuto
+del Duecento italiano.
+Le sue crudeltà
+erano leggenda già da vivo.
+
+Qui è nel sangue
+fino agli occhi.
+
+Pausa lunga.
+
+Nel Paradiso,
+nel cielo di Venere,
+Dante incontrerà sua sorella.
+Cunizza.
+
+E Cunizza parlerà di lui
+come di una fiaccola
+scesa a incendiare la sua terra.
+
+D’una radice nacqui e io ed ella:
+
+Pausa lunga.
+
+Stesso sangue.
+Lui nel sangue che bolle.
+Lei nella luce.
+
+Pausa.
+
+Gli altri
+sono nomi di tirannia,
 immersi fino a dove
 il loro sangue li porta.
 
@@ -506,14 +663,25 @@ Pausa lunga.
 Poi una terzina sola
 chiude un delitto intero:
 
-Un omicidio in chiesa.
-Un cuore portato
-fino al Tamigi.
+Viterbo, 1271.
+Durante la messa,
+Guido di Montfort
+uccide in chiesa
+un principe inglese,
+Enrico di Cornovaglia.
+Per vendicare il padre.
 
-Dante lo chiude
+Il cuore della vittima
+viene portato in Inghilterra.
+In una coppa d'oro,
+racconta Villani,
+su una colonna
+in capo al ponte sul Tamigi.
+
+Pausa.
+
+Dante chiude tutto
 in una terzina.
-
-Basta quella.
 
 Pausa.
 

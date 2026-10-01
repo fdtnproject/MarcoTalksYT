@@ -50,6 +50,17 @@ anche non scegliere è una condanna.
 > SE NON ETERNE, E IO ETERNO DURO:  
 > LASCIATE OGNI SPERANZA, VOI CH’ENTRATE.
 
+Eccola.
+
+Pausa.
+
+A metà dei giorni,
+si va alle porte.
+Il primo verso del poema
+la annunciava già.
+
+Pausa lunga.
+
 È la porta che parla.
 Non Virgilio. Non Dante.
 La porta.
@@ -111,6 +122,58 @@ Dante ha paura.
 Dice: "Maestro, il senso lor m'è duro."
 Il senso mi è duro.
 Pesante. Da digerire.
+
+Pausa lunga.
+
+Duro anche per noi.
+
+Pausa.
+
+Perché quella porta
+ha appena detto chi l'ha fatta.
+E fra chi l'ha fatta
+c'è il primo amore.
+
+Pausa lunga.
+
+Come può l'amore
+costruire un luogo
+di dolore senza fine?
+
+Pausa.
+
+La risposta del Medioevo
+passa per la libertà.
+
+Un Dio che ama davvero
+prende sul serio
+le scelte di chi ama.
+Anche quella
+di voltargli le spalle.
+
+Pausa lunga.
+
+E alla fine di questo canto
+vedremo una cosa terribile.
+
+Sulla riva del fiume
+i dannati
+vogliono passare.
+
+Pausa.
+
+Io credo
+che sia questo
+il senso duro.
+
+L'Inferno non è un posto
+dove qualcuno ti trascina.
+È il posto dove arriva
+chi ci ha camminato da solo.
+
+Pausa lunga.
+
+«Maestro, il senso lor m’è duro.»
 
 Pausa.
 
@@ -199,7 +262,7 @@ chi sono questi?
 
 Virgilio risponde lentamente.
 
-"Le anime triste di coloro
+"L’anime triste di coloro
 che visser sanza infamia e sanza lodo."
 
 Pausa lunga.
@@ -385,12 +448,99 @@ Ma la indica.
 
 Pausa lunga.
 
-Per secoli si è discusso chi fosse.
-Celestino V, il papa che abdicò.
-O altri personaggi della storia di Dante.
+Dante non fa il nome.
+Per secoli se ne è discusso.
 
-Non importa chi è.
-Importa la formula.
+Ma quasi certamente
+è un papa.
+
+Celestino V.
+
+Pausa lunga.
+
+Pietro da Morrone.
+Un eremita
+dei monti d'Abruzzo.
+
+Nel luglio del 1294
+lo eleggono papa.
+È un uomo anziano,
+lontanissimo dal mondo di Roma.
+
+Pausa.
+
+Cinque mesi dopo
+rinuncia.
+
+Pausa lunga.
+
+Undici giorni più tardi
+viene eletto il suo successore.
+
+Benedetto Caetani.
+
+Pausa.
+
+Bonifacio VIII.
+
+Pausa lunga.
+
+Lo abbiamo già incontrato.
+È il papa che,
+secondo il racconto tradizionale,
+nel 1301 trattiene Dante a Roma
+mentre Firenze cade.
+
+Pausa.
+
+E circolava una voce:
+che a spingere Celestino a rinunciare
+fosse stato proprio lui.
+
+Pausa lunga.
+
+Quel rifiuto
+apre la strada a Bonifacio.
+
+E per Dante
+la strada di Bonifacio
+porta all'esilio.
+
+Pausa.
+
+Per Dante,
+il gran rifiuto
+non è un'idea astratta.
+È il primo anello
+della catena
+che lo porterà via da Firenze.
+
+Pausa lunga.
+
+Nel 1313
+la Chiesa proclamerà santo Celestino.
+
+Nel poema di Dante
+resta qui.
+Senza nome.
+Nel vestibolo.
+
+Pausa.
+
+E Bonifacio?
+Nel 1300
+è vivo.
+È lui che regna.
+
+Non lo vedremo.
+Ma lo sentiremo nominare.
+
+Pausa lunga.
+
+Eppure il verso
+non accusa un uomo malvagio.
+
+Accusa una paura.
 
 "Per viltà"
 "il gran rifiuto."
@@ -706,6 +856,72 @@ Ed è questo che fa paura:
 non resistono.
 Vanno.
 
+Pausa lunga.
+
+Tutta questa scena,
+la riva,
+la barca,
+Caronte,
+viene dal sesto libro dell'Eneide.
+
+Virgilio l'aveva scritta.
+Adesso ci cammina dentro.
+Accanto a Dante.
+
+Pausa lunga.
+
+Anche le foglie vengono da lì.
+
+Pausa.
+
+Prima ancora, da Omero.
+Come le foglie,
+così le generazioni degli uomini.
+Il vento le butta a terra,
+il bosco ne fa nascere altre.
+
+Pausa.
+
+Poi Virgilio,
+proprio su questa riva:
+le anime sono tante
+quante le foglie
+che cadono nei boschi
+al primo freddo d'autunno.
+
+Pausa lunga.
+
+Dante riscrive la sua scena
+davanti a lui.
+
+E cambia una cosa.
+
+Pausa.
+
+In Omero
+le foglie sono le generazioni.
+In Virgilio
+sono una folla.
+
+In Dante
+cadono
+l'una appresso de l'altra.
+
+Pausa.
+
+Una per volta.
+
+Pausa lunga.
+
+Io qui sento questo:
+nessuno si perde in massa.
+Ognuno
+ha la sua caduta.
+
+Pausa lunga.
+
+gìttansi di quel lito ad una ad una
+
 ## vv. 121-129 - La tema si volve in disio
 
 > «Figliuol mio» disse ’l maestro cortese,  
@@ -736,6 +952,11 @@ diventa voglia di passare.
 Non perché la pena sia dolce.
 Perché ormai coincide
 con ciò che sono diventati.
+
+Pausa lunga.
+
+Ecco il senso duro
+della porta.
 
 Pausa.
 
@@ -789,25 +1010,82 @@ qui,
 non si attraversa per forza.
 Si subisce.
 
-## Gli ignavi e noi
+## Davanti alla legge
+
+Pausa lunga.
+
+Seicento anni dopo,
+Kafka scrive una storia di una pagina.
 
 Pausa.
 
-Questo canto brucia ancora
-perché la tiepidezza oggi
-somiglia a una virtù.
+Un uomo di campagna
+arriva davanti a una porta.
+La porta della Legge.
 
-"Non mi espongo."
-"Non scelgo."
-"Resto fuori."
+È aperta.
+Ma davanti c'è un guardiano
+che gli dice:
+adesso no.
 
 Pausa.
 
-Dante dice l'opposto.
-Restare fuori
-non ti salva.
+L'uomo aspetta.
 
-Ti lascia nel vestibolo.
+Giorni.
+Anni.
+Tutta la vita.
+
+Pausa lunga.
+
+Alla fine,
+vecchio e quasi cieco,
+fa l'ultima domanda:
+perché in tanti anni
+nessun altro
+è venuto a chiedere di entrare?
+
+Pausa.
+
+E il guardiano gli grida all'orecchio:
+nessun altro poteva entrare qui.
+Questa porta
+era solo per te.
+Adesso vado a chiuderla.
+
+Pausa lunga.
+
+Due porte aperte.
+
+Pausa.
+
+L'uomo di Kafka
+resta fuori
+perché spera.
+Aspetta il permesso.
+
+Pausa.
+
+Sulla porta di Dante
+per entrare
+la speranza bisogna lasciarla.
+
+Pausa lunga.
+
+E quell'uomo
+passa la vita sulla soglia.
+Non entra.
+Non se ne va.
+
+Pausa.
+
+Io lo vedo qui.
+Nel vestibolo.
+Dietro l'insegna vuota.
+
+Pausa lunga.
+
+Mai non fur vivi.
 
 ## Chiusura da palco
 
