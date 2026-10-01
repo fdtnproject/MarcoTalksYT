@@ -509,17 +509,15 @@ Segnò.
 
 Pausa lunga.
 
-Le colonne d'Ercole
-non sono soltanto un confine sulla carta.
+È difficile non sentire
+la stessa struttura.
 
-Sono la stessa linea
-che il primo uomo
-ha già oltrepassato.
+Un segno.
+Un limite.
 
-Pausa.
-
-E Ulisse
-la oltrepassa di nuovo.
+E l'uomo
+che decide
+di oltrepassarlo.
 
 Pausa lunga.
 
