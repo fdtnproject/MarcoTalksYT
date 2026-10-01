@@ -333,6 +333,38 @@ prima della ragione.
 
 Pausa.
 
+E non è la prima volta,
+in questo canto.
+
+Pausa.
+
+Appena arrivato sul ponte,
+per guardare giù
+si era sporto tanto che,
+dice,
+
+s’io non avessi un ronchion preso,
+caduto sarei giù sanz’esser urto.
+
+Pausa lunga.
+
+Senza che nessuno lo spinga.
+
+Solo per vedere.
+
+Pausa lunga.
+
+Il ronchion,
+una sporgenza della roccia,
+è il primo appiglio.
+
+Pausa.
+
+Il secondo
+sta per arrivare.
+
+Pausa.
+
 Virgilio lo vede.
 
 E interviene.
@@ -816,6 +848,43 @@ che non è il suo.
 
 Pausa lunga.
 
+E Dante l'ha capito.
+
+Pausa.
+
+Nel decimo canto,
+da un sepolcro aperto,
+si affaccia Cavalcante,
+il padre di Guido,
+il suo primo amico.
+
+E gli chiede:
+
+Se per questo cieco
+carcere vai per altezza d’ingegno,
+mio figlio ov’è? e perché non è ei teco?
+
+Pausa lunga.
+
+Se qui si entra per ingegno,
+dov'è mio figlio?
+
+Pausa.
+
+Dante risponde
+con quattro parole.
+
+Da me stesso non vegno.
+
+Pausa lunga.
+
+Non vengo da me.
+
+L'ingegno
+non è un lasciapassare.
+
+Pausa lunga.
+
 Ulisse invece
 la spinta se la dà da solo.
 
@@ -834,6 +903,14 @@ Fec'io.
 Pausa.
 
 Io.
+
+Pausa lunga.
+
+Dante dice:
+da me stesso non vegno.
+
+Ulisse dice:
+fec'io.
 
 Pausa lunga.
 
@@ -897,6 +974,40 @@ ne l'alto passo.
 
 Pausa lunga.
 
+Ma Dante non guarda Ulisse
+dall'alto di chi è al sicuro.
+
+Pausa.
+
+Quando uscirà dall'Inferno,
+Virgilio lo presenterà
+al guardiano del Purgatorio,
+Catone,
+con queste parole:
+
+Questi non vide mai l’ultima sera,
+ma per la sua follia le fu sì presso
+che molto poco tempo a volger era.
+
+Pausa lunga.
+
+Per la sua follia.
+
+Pausa.
+
+Dante folle
+lo è stato.
+
+E per poco
+non ci è rimasto.
+
+Pausa.
+
+Questa possibilità
+la conosce da dentro.
+
+Pausa lunga.
+
 Molto più avanti,
 nel Paradiso,
 Dante guarderà la Terra
@@ -923,6 +1034,41 @@ la montagna.
 
 Ma non sa
 che cosa sta guardando.
+
+Pausa.
+
+Noi sì.
+
+È la montagna del Purgatorio.
+
+E in cima
+c'è l'Eden.
+
+Pausa lunga.
+
+Lassù
+Adamo ha trapassato il segno.
+
+Quaggiù
+Ulisse ha passato quello di Ercole.
+
+E muore
+guardando la montagna
+che ha in cima
+il primo segno.
+
+Pausa lunga.
+
+Dante,
+su quella montagna,
+salirà.
+
+Per un'altra strada.
+
+Pausa.
+
+alta tanto
+quanto veduta non avea alcuna.
 
 Pausa.
 
@@ -1625,7 +1771,7 @@ un momento.
 Pausa lunga.
 
 Quella montagna,
-nel mondo di Dante,
+l'abbiamo detto,
 è il Purgatorio.
 
 Dante
@@ -1684,6 +1830,88 @@ E il mare si è chiuso.
 Dante ci mette piede.
 E la prima cosa che accetta
 è un gesto di umiltà.
+
+Pausa lunga.
+
+E in cima a quella montagna,
+davanti all'Eden,
+Virgilio gli parla per l'ultima volta.
+
+Pausa.
+
+Tratto t’ho qui con ingegno e con arte;
+lo tuo piacere omai prendi per duce:
+
+Pausa.
+
+Ti ho portato fin qui.
+Da adesso
+la tua guida
+è il tuo desiderio.
+
+Pausa lunga.
+
+libero, dritto e sano è tuo arbitrio,
+
+Pausa.
+
+per ch’io te sovra te corono e mitrio.
+
+Pausa lunga.
+
+Ti incorono
+signore di te stesso.
+
+Pausa lunga.
+
+Ecco il punto.
+
+Dante non deve scegliere
+fra obbedire
+ed essere libero.
+
+Pausa.
+
+Alla libertà
+ci arriva.
+
+Dopo l'Inferno.
+Dopo la montagna.
+Dopo essere stato guidato
+passo per passo.
+
+Pausa lunga.
+
+Ulisse
+quella corona
+se l'era messa da solo.
+All'inizio.
+
+Pausa.
+
+Per Dante
+la padronanza di sé
+è il traguardo.
+
+Per Ulisse
+era il punto di partenza.
+
+Pausa lunga.
+
+E nel canto dopo
+Dante entra nell'Eden così:
+
+Vago già di cercar dentro e dintorno
+la divina foresta spessa e viva
+
+Pausa.
+
+Vago di cercare.
+
+La stessa sete di Ulisse.
+
+Adesso
+può seguirla.
 
 Pausa.
 
