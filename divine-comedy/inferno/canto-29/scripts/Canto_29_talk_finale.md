@@ -9,33 +9,50 @@ Linea guida: "Il falsario alla fine è la propria opera"
 
 Pausa lunga.
 
-Allora, il ventinovesimo canto.
+Allora,
+il ventinovesimo canto.
 
 Pausa.
 
 Il ventottesimo
 si era chiuso
-con Bertran de Born
-e la sua testa-lanterna.
+con Bertran de Born.
 
 Pausa lunga.
 
-Il ventinovesimo
-non apre
-su un’altra ferita spettacolare.
+Una testa
+portata in mano.
+
+Una divisione
+che si vedeva
+sul corpo.
 
 Pausa.
 
-Apre
-su una fissazione privata.
+Il ventinovesimo
+cambia ancora.
 
 Pausa lunga.
 
-Dante
-si ferma.
+Qui il corpo
+non viene tagliato.
 
-Per cercare
-qualcuno.
+Si corrompe.
+
+Pausa.
+
+Si ammala.
+
+Si sfalda.
+
+Pausa lunga.
+
+Ma prima
+Dante si volta
+indietro.
+
+Per un problema
+molto più privato.
 
 ## vv. 1-36 - Geri del Bello
 
@@ -51,41 +68,6 @@ qualcuno.
 > E già la luna è sotto i nostri piedi:
 > lo tempo è poco omai che n’è concesso,
 > e altro è da veder che tu non vedi.»
-
-Pausa lunga.
-
-Virgilio
-lo richiama
-alla misura.
-
-Pausa.
-
-Il tempo è poco.
-
-La bolgia è enorme.
-
-E Dante
-sta ancora guardando indietro.
-
-Pausa.
-
-E Virgilio aggiunge una cosa.
-
-E già la luna è sotto i nostri piedi:
-
-Pausa.
-
-La luna del ventesimo canto.
-All'alba tramontava.
-Adesso è dall'altra parte del mondo.
-Sotto di noi.
-
-Sulla terra, sopra le nostre teste,
-è passata l'una del pomeriggio.
-Sabato.
-
-lo tempo è poco omai che n’è concesso,
-
 > «Se tu avessi» rispuos’io appresso
 > «atteso a la cagion per ch’io guardava,
 > forse m’avresti ancor lo star dimesso.»
@@ -104,62 +86,6 @@ lo tempo è poco omai che n’è concesso,
 > Tu eri allor sì del tutto impedito
 > sovra colui che già tenne Altaforte,
 > che non guardasti in là, sì fu partito.»
-
-Pausa lunga.
-
-Alza l'indice verso la camera.
-Lo tiene fermo.
-
-mostrarti e minacciar forte col dito,
-
-Abbassa il dito, piano.
-
-Pausa.
-
-Geri del Bello.
-
-Un parente.
-
-Ucciso.
-
-Non vendicato.
-
-Pausa.
-
-E qui Dante
-si porta dietro
-una cosa antica:
-
-l’obbligo del sangue.
-
-Pausa lunga.
-
-Geri era cugino del padre di Dante.
-Lo aveva ucciso uno dei Sacchetti.
-
-Nella Firenze di allora
-la vendetta privata
-non era un delitto qualunque.
-Era quasi un dovere di famiglia.
-Le leggi la regolavano.
-
-Pausa.
-
-Gli Alighieri
-non l'avevano ancora fatta.
-La faranno decenni dopo.
-Non sappiamo bene quando.
-
-E la pace fra le due famiglie
-verrà firmata nel 1342.
-
-Pausa.
-
-Dante era morto da vent'anni.
-A firmarla,
-anche a nome dei figli di Dante,
-fu suo fratello.
-
 > «O duca mio, la violenta morte,
 > che non gli è vendicata ancor» diss’io
 > «per alcun che de l’onta sia consorte,
@@ -169,35 +95,289 @@ fu suo fratello.
 
 Pausa lunga.
 
-È un punto
-molto umano
-e molto duro.
+Virgilio
+lo richiama.
 
 Pausa.
 
-Nel mezzo di Malebolge
-Dante pensa ancora
-a un debito di famiglia.
-
-Il morto se ne va
-sdegnato.
-E proprio quel rifiuto
-rende Dante più pietoso.
+Che cosa
+stai ancora guardando?
 
 Pausa lunga.
 
-ed in ciò m’ha el fatto a sé più pio.
+La bolgia
+fa ventidue miglia.
+
+Non puoi
+contarli tutti.
 
 Pausa.
 
-Io credo che sia il verso più onesto del canto.
+E il tempo
+sta passando.
 
-Dante non dice che la vendetta è giusta.
-Non dice che è sbagliata.
-Dice che quel cugino arrabbiato
-gli fa pena.
+Pausa lunga.
 
-E non lo nasconde.
+La luna
+è sotto i piedi.
+
+Pausa.
+
+Quella luna
+che nel ventesimo canto
+stava tramontando.
+
+Pausa lunga.
+
+Il viaggio
+continua
+anche quando Dante
+vorrebbe fermarsi.
+
+Pausa.
+
+Ma Dante
+non sta guardando
+un dannato qualunque.
+
+Pausa lunga.
+
+Sta cercando
+uno del suo sangue.
+
+Pausa.
+
+Geri del Bello.
+
+Pausa lunga.
+
+E Virgilio
+lo aveva visto.
+
+Pausa.
+
+Alza l’indice
+verso la camera.
+
+Lo tiene fermo.
+
+Pausa lunga.
+
+Mostrarti
+e minacciar forte
+col dito.
+
+Abbassa il dito.
+
+Pausa.
+
+Nessuna parola.
+
+Solo il gesto.
+
+Pausa lunga.
+
+Geri
+era parente
+di Dante.
+
+Ucciso.
+
+E,
+nel tempo del viaggio,
+non ancora vendicato.
+
+Pausa.
+
+Nella Firenze
+di allora,
+una morte così
+non finiva
+con il funerale.
+
+Pausa lunga.
+
+Restava
+un debito
+di famiglia.
+
+Pausa.
+
+Un’onta.
+
+Pausa lunga.
+
+Dante
+non dice:
+la vendetta è giusta.
+
+Non dice:
+la vendetta è sbagliata.
+
+Pausa.
+
+Dice qualcosa
+di più scomodo.
+
+Pausa lunga.
+
+Capisco
+perché è arrabbiato
+con me.
+
+Pausa.
+
+E proprio
+la sua rabbia
+me lo rende
+più caro.
+
+Pausa lunga.
+
+Ed in ciò
+m’ha el fatto
+a sé più pio.
+
+Pausa.
+
+È un momento
+in cui Dante
+non fa il giudice.
+
+Pausa lunga.
+
+È un uomo
+che sente
+il peso
+di un morto
+della propria famiglia.
+
+Pausa.
+
+E deve
+continuare a camminare.
+
+## Un morto che resta nella famiglia
+
+Pausa lunga.
+
+Geri
+non parla.
+
+Pausa.
+
+E proprio questo
+rende il gesto
+più pesante.
+
+Pausa lunga.
+
+Non chiede
+che Dante
+porti il suo nome
+nel mondo.
+
+Pausa.
+
+Non racconta
+la propria versione.
+
+Pausa lunga.
+
+Indica.
+
+Minaccia.
+
+Se ne va.
+
+Pausa.
+
+È un rapporto
+di sangue
+che non ha bisogno
+di presentazioni.
+
+Pausa lunga.
+
+Dante sa
+perché è arrabbiato.
+
+Pausa.
+
+E questo
+ci mette davanti
+a un problema
+che il poema
+non risolve
+con una formula facile.
+
+Pausa lunga.
+
+Dante cristiano
+sta andando
+verso una montagna
+in cui la vendetta privata
+non sarà una virtù.
+
+Pausa.
+
+Ma Dante uomo
+appartiene
+a una società
+in cui lasciare
+un parente ucciso
+senza risposta
+può essere vissuto
+come vergogna.
+
+Pausa lunga.
+
+Le due cose
+sono nello stesso uomo.
+
+Pausa.
+
+E il canto
+non finge
+che una cancelli
+l’altra.
+
+Pausa lunga.
+
+Per questo
+quel verso
+è così forte.
+
+Pausa.
+
+Più pio.
+
+Pausa lunga.
+
+Non più vendicativo.
+
+Non più giusto.
+
+Più pio.
+
+Pausa.
+
+La rabbia del morto
+produce in Dante
+non una decisione,
+ma una pietà.
+
+Pausa lunga.
+
+E poi Virgilio
+lo porta via.
+
+Pausa.
+
+Perché anche
+un debito di sangue
+non può fermare
+il viaggio.
 
 ## vv. 37-57 - Il fetore della decima bolgia
 
@@ -228,62 +408,268 @@ E non lo nasconde.
 Pausa lunga.
 
 La decima bolgia
-arriva prima al naso
-che agli occhi.
+arriva
+prima alle orecchie.
+
+Pausa.
+
+Lamenti.
+
+Pausa lunga.
+
+Dante
+si copre gli orecchi.
+
+Pausa.
+
+Poi arriva
+al naso.
+
+Pausa lunga.
+
+Il puzzo.
+
+Pausa.
+
+Solo dopo,
+agli occhi.
+
+Pausa lunga.
+
+Questo ordine
+è importante.
+
+Pausa.
+
+Non stiamo
+osservando
+un quadro.
+
+Pausa lunga.
+
+Stiamo entrando
+in un ambiente
+che il corpo
+rifiuta.
 
 Pausa.
 
 Spedali.
 
-Luglio.
+Estate.
+
+Valdichiana.
 
 Maremma.
 
-Marcite membre.
+Sardegna.
 
 Pausa lunga.
 
-Il falso,
+Malattia.
+
+Caldo.
+
+Aria cattiva.
+
+Corpi
+che marciscono.
+
+Pausa.
+
+Dante
+prende luoghi reali
+in cui la malattia
+era esperienza comune.
+
+Pausa lunga.
+
+Luglio.
+
+Agosto.
+
+Settembre.
+
+Pausa.
+
+La stagione
+delle febbri.
+
+Pausa lunga.
+
+È difficile
+non pensare
+a Guido Cavalcanti.
+
+Pausa.
+
+Sarzana.
+
+Fine estate del 1300.
+
+La malattia.
+
+La morte.
+
+Pausa lunga.
+
+E noi,
+che veniamo dopo,
+sappiamo un’altra cosa.
+
+Pausa.
+
+Dante stesso
+morirà
+a Ravenna,
+nel settembre 1321,
+dopo un viaggio
+a Venezia.
+
+Pausa lunga.
+
+Lui,
 qui,
-non è ancora
-una teoria morale.
-
-È un odore.
-
-Pausa lunga.
-
-Qual dolor fora, se de li spedali
-di Valdichiana, tra ’l luglio e ’l settembre,
-e di Maremma e di Sardigna i mali
+non può saperlo.
 
 Pausa.
 
-Paludi.
-Febbri d'estate.
-Malaria.
-
-Pausa.
-
-Probabilmente
-è la febbre che ha ucciso Guido Cavalcanti.
-Ricordi il decimo canto?
-Il confino a Sarzana,
-la malattia,
-la morte, alla fine di agosto del 1300.
-
-E probabilmente
-è la febbre che ucciderà Dante.
-Nel 1321,
-di ritorno da un'ambasceria a Venezia,
-attraverso le paludi.
-Muore a Ravenna,
-a metà settembre.
+Ma quando scrive
+di quelle febbri,
+la morte
+ha già il clima
+della sua ultima stagione.
 
 Pausa lunga.
 
-Tra il luglio e il settembre.
+Non serve
+farne una profezia.
 
-Dante non poteva saperlo.
+Pausa.
+
+Basta sentire
+quanto è fisica
+questa bolgia.
+
+## Un Inferno che si sente col corpo
+
+Pausa lunga.
+
+Prima di scendere,
+resta un momento
+sul puzzo.
+
+Pausa.
+
+Dante
+non dice soltanto:
+è disgustoso.
+
+Pausa lunga.
+
+Costruisce
+un’esperienza.
+
+Pausa.
+
+Prima
+le urla.
+
+Poi
+il gesto
+di coprirsi
+le orecchie.
+
+Pausa lunga.
+
+Poi l’odore.
+
+Pausa.
+
+Poi gli occhi
+che finalmente
+vedono meglio
+il fondo.
+
+Pausa lunga.
+
+È quasi
+un ingresso
+per strati.
+
+Pausa.
+
+Udito.
+
+Olfatto.
+
+Vista.
+
+Pausa lunga.
+
+E questo canto
+ha bisogno
+del corpo
+per parlare
+del falso.
+
+Pausa.
+
+Perché il falso
+sembra spesso
+una cosa astratta.
+
+Una bugia.
+
+Una sostituzione.
+
+Pausa lunga.
+
+Qui invece
+ha un odore.
+
+Pausa.
+
+Ha una pelle.
+
+Ha una febbre.
+
+Ha un’unghia.
+
+Pausa lunga.
+
+La materia
+che è stata manipolata
+ritorna
+come materia
+che non obbedisce più.
+
+Pausa.
+
+È questo
+che rende
+la decima bolgia
+diversa
+dalle precedenti.
+
+Pausa lunga.
+
+La frode
+non è più
+soltanto un rapporto
+fra persone.
+
+Pausa.
+
+Entra
+nelle cose.
+
+Pausa lunga.
+
+E quando entra
+nelle cose,
+Dante la fa entrare
+nel corpo.
 
 ## vv. 58-84 - I falsatori malati
 
@@ -319,29 +705,94 @@ Dante non poteva saperlo.
 
 Pausa lunga.
 
-Adesso la bolgia
-si fa vedere.
+Adesso
+li vediamo.
 
 Pausa.
 
-Corpi malati.
+Non camminano
+come gli indovini.
 
-Corpi corrosi.
-
-Corpi che si grattano
-fino a staccarsi
-di dosso.
+Non corrono
+come i ladri.
 
 Pausa lunga.
 
-Il falsario
-ha toccato
-la materia.
+Languono.
 
-E adesso
-la materia
-si vendica
-sul suo corpo.
+Pausa.
+
+A mucchi.
+
+Appoggiati
+uno all’altro.
+
+Pausa lunga.
+
+Tegghia a tegghia.
+
+Pausa.
+
+Come due padelle
+messe vicine
+per scaldarsi.
+
+Pausa lunga.
+
+È un’immagine
+quasi domestica.
+
+E proprio per questo
+fa più male.
+
+Pausa.
+
+Il corpo
+che dovrebbe
+sostenerti
+è diventato
+un peso.
+
+Pausa lunga.
+
+Le mani
+non servono
+a lavorare.
+
+Pausa.
+
+Servono
+a grattare.
+
+Pausa lunga.
+
+Le unghie
+diventano strumenti
+contro il proprio corpo.
+
+Pausa.
+
+E la pelle
+viene via
+come scaglie
+di pesce.
+
+Pausa lunga.
+
+Qui il falso
+non è qualcosa
+che puoi tenere
+fuori da te.
+
+Pausa.
+
+È entrato
+nella materia.
+
+Pausa lunga.
+
+E la materia
+non regge più.
 
 ## vv. 85-120 - Griffolino d’Arezzo
 
@@ -384,32 +835,254 @@ sul suo corpo.
 
 Pausa lunga.
 
-Griffolino
-è un caso perfetto.
+Virgilio
+fa una battuta
+nerissima.
 
 Pausa.
 
-Bruciato nel mondo
-per una beffa.
-
-Dannato qui
-per un’altra cosa.
+Se l’unghia
+ti basta
+eternamente.
 
 Pausa lunga.
 
-Non per aver detto
-che sapeva volare.
-
-Per l’alchimia.
-
-Per aver falsato
-i metalli.
+Poi dice:
+questo è vivo.
 
 Pausa.
 
-È il canto
-in cui il falso
-si fa corpo.
+E succede
+la stessa cosa
+che abbiamo visto
+altrove.
+
+Pausa lunga.
+
+I dannati
+si girano.
+
+Tremano.
+
+Pausa.
+
+La vita,
+qui dentro,
+continua
+a essere
+una notizia.
+
+Pausa lunga.
+
+Griffolino.
+
+Pausa.
+
+Dice una cosa
+fondamentale.
+
+Pausa lunga.
+
+Il motivo
+per cui sono morto
+non è il motivo
+per cui sono qui.
+
+Pausa.
+
+Nel mondo
+mi hanno bruciato
+per una beffa.
+
+Pausa lunga.
+
+Avevo detto
+di saper volare.
+
+Un altro
+mi ha creduto.
+
+Pausa.
+
+Non sono riuscito
+a farlo Dedalo.
+
+E sono finito
+sul rogo.
+
+Pausa lunga.
+
+Ma Minosse
+non giudica
+la sentenza degli uomini.
+
+Pausa.
+
+Giudica
+l’alchimia.
+
+Pausa lunga.
+
+Questa distinzione
+è importante.
+
+Pausa.
+
+Il mondo
+può condannarti
+per una cosa.
+
+L’Inferno,
+nel sistema di Dante,
+per un’altra.
+
+Pausa lunga.
+
+Le due giustizie
+non coincidono
+automaticamente.
+
+Pausa.
+
+E qui
+il falso
+è nella materia.
+
+Pausa lunga.
+
+Metallo
+che vuole sembrare
+un altro metallo.
+
+Pausa.
+
+Una sostanza
+che finge
+una sostanza diversa.
+
+## Morire per una cosa, essere dannati per un’altra
+
+Pausa lunga.
+
+Griffolino
+ha detto
+una frase
+che vale la pena
+di fermare.
+
+Pausa.
+
+Ma quel
+per ch’io mori’
+qui non mi mena.
+
+Pausa lunga.
+
+È quasi
+una lezione
+di metodo
+per leggere
+l’Inferno.
+
+Pausa.
+
+La biografia
+non basta.
+
+Pausa lunga.
+
+Sapere
+come è morto
+un uomo
+non ci dice
+perché Dante
+lo mette qui.
+Pausa.
+
+Le due cose
+possono coincidere.
+
+Oppure no.
+
+Pausa lunga.
+
+Griffolino
+è morto
+perché un uomo potente
+ha creduto
+a una vanteria.
+
+Pausa.
+
+Volare.
+
+Dedalo.
+
+Pausa lunga.
+
+Ma il peccato
+che Minosse giudica
+è l’alchimia.
+
+Pausa.
+
+Questo crea
+una distanza
+fra la giustizia
+degli uomini
+e la giustizia
+del poema.
+
+Pausa lunga.
+
+Gli uomini
+possono colpire
+per il motivo sbagliato.
+
+Pausa.
+
+Possono perfino
+avere ragione
+sul fatto
+che qualcuno
+ha ingannato.
+
+E torto
+su ciò
+per cui lo puniscono.
+
+Pausa lunga.
+
+Dante
+non ci chiede
+di identificare
+la pena eterna
+con la sentenza
+che quell’uomo
+ha ricevuto
+in vita.
+
+Pausa.
+
+Sono due giudizi
+diversi.
+
+Pausa lunga.
+
+E in mezzo
+c’è un uomo
+che racconta
+entrambi.
+
+Pausa.
+
+Quasi ridendo
+del primo.
+
+Pausa lunga.
+
+E piangendo
+nel secondo.
 
 ## vv. 121-139 - Capocchio e i Senesi
 
@@ -435,67 +1108,226 @@ si fa corpo.
 
 Pausa lunga.
 
-Il finale
-si restringe.
+Poi cambia tono.
 
 Pausa.
 
 Siena.
 
-La sua fama
-di vanità.
+La vanità.
 
-I suoi nomi propri.
+La brigata.
+
+Le spese.
 
 Pausa lunga.
 
-E poi,
-all’improvviso,
-Capocchio.
+Dante
+sembra quasi
+respirare
+in mezzo al fetore
+attraverso una battuta
+municipale.
 
 Pausa.
 
-Uno che Dante conosceva.
+E allora
+arriva Capocchio.
 
-Uno che si presenta
-così:
+Pausa lunga.
 
-buona scimia.
+Uno che
+Dante riconosce.
 
 Pausa.
 
-Due letture.
+Buona scimia.
 
-Per alcuni,
-scimmia della natura.
-L'alchimista che copia la natura
-invece di seguirla.
-Nell'undicesimo canto
+Pausa lunga.
+
+La parola
+è perfetta.
+
+Pausa.
+
+Una scimmia
+imita.
+
+Pausa lunga.
+
+Può imitare
+un gesto.
+
+Una voce.
+
+Una faccia.
+
+Pausa.
+
+L’alchimista,
+qui,
+imita la materia.
+
+Pausa lunga.
+
+Fa sembrare
+una cosa
+quello che non è.
+
+Pausa.
+
+Nel canto XI
 Virgilio aveva detto
-che l'arte umana, seguendo la natura,
-è quasi nipote di Dio.
-Questo è il nipote falso.
-
-Pausa.
-
-Per altri,
-e per il commento che seguiamo,
-vuol dire soltanto:
-ero bravissimo a fare le imitazioni.
-Te lo ricordi?
-
-E infatti
-la prima cosa che fa
-è il verso a Dante,
-sui senesi.
+che l’arte umana
+segue la natura
+come il discepolo
+segue il maestro.
 
 Pausa lunga.
 
-Non creatore.
+Qui il rapporto
+si è storto.
 
-Imitatore.
+Pausa.
 
-Contraffattore.
+Non seguire.
+
+Contraffare.
+
+Pausa lunga.
+
+E Capocchio,
+prima ancora
+di essere spiegato,
+fa già
+una piccola imitazione.
+
+Pausa.
+
+Seconda Dante
+contro i senesi.
+
+Pausa lunga.
+
+È come se
+il carattere
+dell’imitatore
+continuasse
+a funzionare
+anche qui.
+
+## Imitare non è creare
+
+Pausa lunga.
+
+Buona scimia.
+
+Pausa.
+
+Torna ancora
+su questa formula.
+
+Pausa lunga.
+
+Perché Capocchio
+non dice
+semplicemente:
+ero bravo
+con i metalli.
+
+Pausa.
+
+Dice:
+ero bravo
+a imitare.
+
+Pausa lunga.
+
+La differenza
+fra imitare
+e creare
+è il cuore
+della bolgia.
+
+Pausa.
+
+Un falso
+funziona
+soltanto se
+assomiglia abbastanza
+al vero.
+
+Pausa lunga.
+
+Se fosse
+completamente diverso,
+non ingannerebbe nessuno.
+
+Pausa.
+
+Deve prendere
+la forma
+del vero.
+
+Pausa lunga.
+
+Il colore.
+
+Il peso.
+
+Il segno.
+
+Pausa.
+
+E poi
+spostare qualcosa
+dentro.
+
+Pausa lunga.
+
+Tre carati.
+
+Una lega.
+
+Una sostanza.
+
+Pausa.
+
+È poco.
+
+Abbastanza
+perché il falso
+resti credibile.
+
+Pausa lunga.
+
+E questa
+è una forma
+di frode
+più silenziosa
+di Gerione.
+
+Pausa.
+
+Non ha
+la coda di scorpione.
+
+Pausa lunga.
+
+Ha quasi
+la forma giusta.
+
+Pausa.
+
+Quasi.
+
+Pausa lunga.
+
+Ed è proprio
+quel quasi
+che manda
+il falsario
+nell’ultima bolgia.
 
 ## Chiusura
 
@@ -503,39 +1335,54 @@ Contraffattore.
 
 Pausa lunga.
 
-La decima bolgia
-punisce anche
-chi ha mentito
-con la lingua.
+Il ventinovesimo canto
+non ha
+un grande eroe dannato.
 
 Pausa.
 
-Qui incontriamo
-chi ha messo il falso
+Ha corpi
+che non reggono.
+
+Pausa lunga.
+
+Un parente
+che non parla.
+
+Una bolgia
+che puzza.
+
+Una pelle
+che si stacca.
+
+Un uomo
+bruciato
+per una colpa
+e dannato
+per un’altra.
+
+Pausa.
+
+E un falsario
+che si definisce
+scimmia.
+
+Pausa lunga.
+
+Il falso
+ha provato
+a entrare
 nella materia.
 
-Pausa lunga.
-
-Metalli.
-
-Corpi.
-
-Sostanze.
-
 Pausa.
 
-Contraffece la natura
-con sua arte.
+Qui la materia
+entra nel falso.
 
 Pausa lunga.
 
-E adesso
-la sua opera
-gli torna addosso
-come corpo corrotto.
-
-Pausa.
-
-Il falsario
-alla fine
+Il falsario,
+alla fine,
 è la propria opera.
+
+[Schermo: nero pieno]
