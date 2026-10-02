@@ -9,28 +9,44 @@ Linea guida: "La dismisura porta le proprie catene"
 
 Pausa lunga.
 
-Allora, il trentunesimo canto.
+Allora,
+il trentunesimo canto.
 
 Pausa.
 
 Il trentesimo
 si era chiuso
-con la vergogna di Dante
-e la mano di Virgilio
-che lo raccoglie.
+con Virgilio
+che ferisce Dante
+con una parola.
 
 Pausa lunga.
 
-Il trentunesimo
-apre
-proprio da lì.
+E poi,
+con la stessa voce,
+lo rimette in piedi.
 
 Pausa.
 
+Il trentunesimo
+parte da lì.
+
+Pausa lunga.
+
+Una lingua
+può mordere.
+
 La stessa lingua
-che ferisce
-è la stessa
-che cura.
+può curare.
+
+Pausa.
+
+E poco dopo
+incontreremo
+un uomo
+che ha perso
+la possibilità stessa
+di farsi capire.
 
 ## vv. 1-15 - La lingua che morde e risana
 
@@ -52,27 +68,62 @@ che cura.
 
 Pausa lunga.
 
-Virgilio
-ha ferito Dante.
-
-Virgilio
-ha guarito Dante.
+Prima
+la lingua.
 
 Pausa.
 
-La stessa voce.
-
-Lo stesso gesto.
+Poi il silenzio.
 
 Pausa lunga.
 
-Poi non parlano più.
+Camminano
+senza parlare.
 
-Camminano.
+Pausa.
 
-Buio.
+E nel buio
+arriva un suono.
 
-E un corno.
+Pausa lunga.
+
+Un corno.
+
+Pausa.
+
+Più forte
+di un tuono.
+
+Pausa lunga.
+
+Dante
+non vede ancora
+chi lo suona.
+
+Pausa.
+
+Il suono
+arriva prima
+del corpo.
+
+Pausa lunga.
+
+È una cosa
+che il poema
+fa spesso.
+
+Prima senti.
+
+Poi immagini.
+
+Poi vedi.
+
+Pausa.
+
+E quasi sempre,
+fra immaginare
+e vedere,
+c’è un errore.
 
 ## vv. 16-45 - Orlando, le torri, i giganti
 
@@ -110,48 +161,172 @@ E un corno.
 Pausa lunga.
 
 Orlando.
-A Roncisvalle suona il corno
-quando è troppo tardi.
-Tradito da Gano.
 
-E Gano
-lo troveremo nel prossimo canto.
-Nel ghiaccio.
+Roncisvalle.
 
 Pausa.
 
-Prima l’errore.
-
-Poi la correzione.
-
-Pausa.
-
-Dante vede torri.
-
-Virgilio dice:
-no.
-
-Giganti.
+Il corno
+che arriva
+troppo tardi.
 
 Pausa lunga.
 
-E il canto
-fa una cosa precisissima:
+E dentro
+quel ricordo
+c’è già
+un tradimento.
 
-più si chiarisce la vista,
-più cresce la paura.
+Pausa.
+
+Gano.
+
+Pausa lunga.
+
+Lo ritroveremo
+nel ghiaccio.
+
+Pausa.
+
+Ma adesso
+Dante alza gli occhi.
+
+Pausa lunga.
+
+Torri.
+
+Pausa.
+
+Una città?
+
+Pausa lunga.
+
+Virgilio lo corregge.
+
+Non torri.
+
+Giganti.
+
+Pausa.
+
+E la frase
+più importante
+non è nemmeno
+questa.
+
+Pausa lunga.
+
+Quanto il senso
+s’inganna
+di lontano.
+
+Pausa.
+
+Dante
+sta guardando
+qualcosa di vero.
+
+Pausa lunga.
+
+Non inventa
+le forme verticali.
+
+Le vede.
+
+Pausa.
+
+Sbaglia
+la scala.
+
+Pausa lunga.
+
+È questo
+che rende
+la scena potente.
+
+Pausa.
+
+Da lontano,
+il gigante
+può sembrare
+architettura.
+
+Pausa lunga.
+
+Poi ti avvicini.
+
+Pausa.
+
+La torre
+ha una faccia.
+
+Pausa.
+
+Ha spalle.
+
+Ha braccia.
+
+Pausa lunga.
+
+E mentre
+l’errore diminuisce,
+la paura cresce.
+
+Pausa.
+
+Fuggìemi errore
+e cresce’mi paura.
+
+Pausa lunga.
+
+È quasi
+una legge
+di questo canto.
+
+Pausa.
+
+Conoscere meglio
+non tranquillizza.
+
+Pausa lunga.
+
+Rende la cosa
+più reale.
 
 Pausa.
 
 Montereggioni
-serve a questo.
+serve proprio a questo.
 
-Non a fare sfoggio.
+Pausa lunga.
 
-A far sentire
-il passaggio
-da architettura
-a mostruosità.
+Dante prende
+una cinta di torri
+che si può vedere
+in Toscana.
+
+Pausa.
+
+E poi dice:
+immagina
+che ogni torre
+sia un uomo.
+
+Pausa lunga.
+
+Non un uomo intero.
+
+Solo metà.
+
+Pausa.
+
+Il resto
+è dentro il pozzo.
+
+Pausa lunga.
+
+La misura
+si rompe.
 
 ## vv. 46-81 - Nembrotto
 
@@ -196,102 +371,218 @@ a mostruosità.
 
 Pausa lunga.
 
-Il primo
-è Nembrotto.
+Prima del nome,
+Dante costruisce
+un problema.
 
 Pausa.
 
-Corno.
+Forza.
 
-Catena.
+Intelligenza.
 
-Lingua rotta.
+Cattiva volontà.
 
 Pausa lunga.
 
-Aveva voluto
-una torre fino al cielo.
+Un elefante
+è enorme.
+
+Una balena
+è enorme.
 
 Pausa.
 
-E adesso
-non ha più
-nemmeno una lingua
-che qualcuno possa capire.
-
-Pausa.
-
-La pena è totale.
-
-Non capisce.
-
-Non è capito.
+Ma non costruiscono
+una guerra
+contro il cielo.
 
 Pausa lunga.
 
-Grida, a piena voce. Una volta sola.
+Il pericolo,
+dice Dante,
+arriva quando
+la potenza
+riceve un progetto.
 
-Raphel maì amech zabi almi
+Pausa.
+
+Quando la mente
+dà una direzione
+alla forza.
 
 Pausa lunga.
 
-Non vuol dire niente.
-Suona come una lingua antica.
-Ma non è niente.
+Argomento
+della mente.
+
+Mal volere.
+
+Possanza.
 
 Pausa.
 
-Ricordi Pluto, nel settimo canto?
-Pape Satàn.
-Ti avevo detto
-che in fondo all'Inferno
-avremmo sentito un'altra lingua
-che nessuno capisce.
-
-Eccola.
+Tre cose.
 
 Pausa lunga.
 
-E per Dante
-questa è una ferita personale.
-
-Nel suo trattato sulla lingua,
-quello in cui ascoltava i dialetti
-città per città,
-aveva scritto
-che dopo Babele
-una sola lingua si era salvata.
-L'ebraico.
-La lingua di Adamo.
+Insieme,
+nessun riparo.
 
 Pausa.
 
-Nel Paradiso
-incontrerà Adamo in persona.
-E Adamo lo correggerà.
+Poi la scala.
 
-La lingua ch’io parlai fu tutta spenta
-innanzi che all’ovra inconsummabile
-fosse la gente di Nembròt attenta;
+Pausa lunga.
+
+La pigna
+di San Pietro.
+
+Tre uomini
+uno sopra l’altro
+non arriverebbero
+ai capelli.
 
 Pausa.
 
-La lingua di Adamo
-era già morta
+E finalmente
+la voce.
+
+Pausa lunga.
+
+Raphel maì amech zabi almi.
+
+Lungo silenzio.
+
+Pausa.
+
+Non cercare
+di tradurla.
+
+Pausa lunga.
+
+Il punto
+è che non funziona.
+
+Pausa.
+
+Una lingua
+che non collega
+più nessuno
+a nessuno.
+
+Pausa lunga.
+
+Nembrotto
+può avere
+un corpo enorme.
+
+Pausa.
+
+Può avere
+un corno
+che copre il tuono.
+
+Pausa lunga.
+
+Ma non può
+fare la cosa
+più semplice
+che il canto
+sta facendo
+con noi.
+
+Pausa.
+
+Farsi capire.
+
+Pausa lunga.
+
+Babele
+è tutta qui.
+
+Pausa.
+
+Non soltanto
+molte lingue.
+
+Pausa lunga.
+
+L’impossibilità
+di condividere
+un senso.
+
+Pausa.
+
+Virgilio dice:
+lasciamolo stare.
+
+Pausa lunga.
+
+Parlargli
+sarebbe parlare
+a vuoto.
+
+Pausa.
+
+E questo
+è forse
+la catena
+più stretta
+di tutte.
+
+Pausa lunga.
+
+Non il ferro.
+
+L’isolamento.
+
+Pausa.
+
+Dante,
+quando aveva scritto
+sulla lingua,
+aveva pensato
+che almeno una
+fosse rimasta
+intatta da Babele.
+
+Pausa lunga.
+
+L’ebraico.
+
+La lingua
+di Adamo.
+
+Pausa.
+
+Nel Paradiso,
+Adamo stesso
+gli dirà:
+no.
+
+Pausa lunga.
+
+Anche quella lingua
+era morta
 prima della torre.
 
-Dante cambia idea sulla lingua
-dentro il suo stesso poema.
+Pausa.
+
+Dante
+correggerà
+Dante.
 
 Pausa lunga.
 
-Nessuna lingua è per sempre.
-Nemmeno la prima.
-Nemmeno questa,
-in cui ti sto parlando.
+Nessuna lingua
+è eterna.
 
-così è a lui ciascun linguaggio
-come ’l suo ad altrui, ch’ a nullo è noto.
+Pausa.
+
+E proprio per questo
+parlare
+è una responsabilità.
 
 ## vv. 82-111 - Fialte e Briareo
 
@@ -328,33 +619,95 @@ come ’l suo ad altrui, ch’ a nullo è noto.
 
 Pausa lunga.
 
-Fialte
-è la forza
-che non è sparita.
-
-È stata solo
-legata.
+Fialte.
 
 Pausa.
 
 Cinque giri
 di catena.
 
-Eppure basta
-un fremito
-per far tremare tutto.
+Pausa lunga.
+
+Il corpo
+è ancora lì.
+
+La forza
+è ancora lì.
+
+Pausa.
+
+Quello che manca
+è la libertà
+di usarla.
 
 Pausa lunga.
 
-Questa è la verità
-dei giganti:
+E Dante,
+anche davanti
+a questa cosa,
+vuole vedere
+di più.
 
-la dismisura
-non smette
-d’essere potente.
+Pausa.
 
-Smette solo
-d’essere libera.
+Briareo.
+
+Pausa lunga.
+
+La curiosità
+non si spegne
+nemmeno qui.
+
+Pausa.
+
+Virgilio
+lo riporta
+al viaggio.
+
+Pausa lunga.
+
+Vedrai Anteo.
+
+Basta.
+
+Pausa.
+
+Poi Fialte
+si scuote.
+
+Pausa lunga.
+
+E la scena
+torna immediatamente
+fisica.
+
+Pausa.
+
+Una torre
+che trema.
+
+Pausa lunga.
+
+Dante
+ha paura
+di morire.
+
+Pausa.
+
+E quello
+che lo tranquillizza
+non è una teoria.
+
+Pausa lunga.
+
+Vede le catene.
+
+Pausa.
+
+La forza
+è terribile.
+
+Ma è legata.
 
 ## vv. 112-145 - Anteo
 
@@ -398,48 +751,143 @@ d’essere libera.
 Pausa lunga.
 
 Anteo
-è diverso.
-
-Non è incatenato.
+non è incatenato.
 
 Pausa.
 
 E Virgilio
-non lo sfida.
-
-Lo lusinga.
+cambia tecnica.
 
 Pausa lunga.
 
-Leoni.
+Con Fialte
+spiega.
 
-Libia.
+Con Nembrotto
+rinuncia a parlare.
 
-Scipione.
+Pausa.
 
-Fama.
+Con Anteo
+negozia.
+
+Pausa lunga.
+
+E lo fa
+con una cosa
+che Dante
+ha incontrato
+per tutto l’Inferno.
+
+Pausa.
+
+La fama.
+
+Pausa lunga.
+
+Tu ci metti giù.
+
+Lui,
+dice Virgilio,
+può parlare di te
+nel mondo.
 
 Pausa.
 
 Funziona.
 
-Anteo li prende.
-Poi si china.
+Pausa lunga.
 
-La Garisenda
-diventa la misura
-di quel piegarsi.
+Anteo
+stende le mani.
+
+Pausa.
+
+E Virgilio,
+appena viene preso,
+prende Dante.
 
 Pausa lunga.
 
-Li depone.
+Un fascio.
 
-Non li scaglia.
+Pausa.
 
-Li posa.
+I due uomini
+insieme
+nelle mani
+del gigante.
 
-E si rialza
-come albero in nave.
+Pausa lunga.
+
+Poi Anteo
+si piega.
+
+Pausa.
+
+La Garisenda.
+
+Pausa lunga.
+
+Dante guarda
+una torre
+che sembra cadere
+verso di lui.
+
+Pausa.
+
+Di nuovo,
+architettura
+e corpo
+si confondono.
+
+Pausa lunga.
+
+Ma questa volta
+sa che cosa
+sta guardando.
+
+Pausa.
+
+Ed è peggio.
+
+Pausa lunga.
+
+Vorrebbe
+un’altra strada.
+
+Pausa.
+
+Non c’è.
+
+Pausa lunga.
+
+Anteo
+li depone.
+
+Pausa.
+
+Lievemente.
+
+Pausa lunga.
+
+Una parola
+quasi dolce
+per un gesto
+così enorme.
+
+Pausa.
+
+E si rialza.
+
+Come albero
+in nave.
+
+Pausa lunga.
+
+Il viaggio
+è arrivato
+al ghiaccio.
 
 ## Chiusura
 
@@ -447,55 +895,57 @@ come albero in nave.
 
 Pausa lunga.
 
-I giganti
-stanno tra Malebolge
-e Cocito
-come una soglia.
+Il trentunesimo canto
+è un canto
+di misure sbagliate.
 
 Pausa.
 
-Non sono frode.
-
-Non sono ancora tradimento.
-
-Sono forza
-senza misura.
+Un corno
+più forte
+del tuono.
 
 Pausa.
 
-Ma Dante, guardandoli,
-dice una cosa che va oltre i giganti.
-
-Gli elefanti e le balene
-la natura continua a farli.
-Sono enormi.
-Ma non ragionano.
-
-Il pericolo vero è un altro.
-
-ché dove l’argomento de la mente
-s’aggiugne al mal volere ed a la possa,
-nessun riparo vi può far la gente.
+Uomini
+scambiati per torri.
 
 Pausa.
 
-L'intelligenza.
-La cattiva volontà.
-La forza.
-
-Quando stanno insieme,
-non c'è difesa.
+Torri
+usate per misurare
+uomini.
 
 Pausa lunga.
 
-E il loro corpo
-dice già tutto:
+Una lingua
+che nessuno capisce.
 
-chi ha voluto
-più altezza,
-più spazio,
-più potenza
-di quanta ne reggesse,
+Una forza
+che nessuno
+potrebbe fermare.
 
-si porta addosso
-le proprie catene.
+Pausa.
+
+E catene
+che la fermano.
+
+Pausa lunga.
+
+Dante dice
+che il pericolo vero
+non è essere grandi.
+
+Pausa.
+
+È mettere insieme
+potenza,
+intelligenza
+e cattiva volontà.
+
+Pausa lunga.
+
+La dismisura
+porta le proprie catene.
+
+[Schermo: nero pieno]
