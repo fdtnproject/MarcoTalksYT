@@ -9,7 +9,8 @@ Linea guida: "Il peccato furbo è ancora peccato"
 
 Pausa lunga.
 
-Allora, il ventisettesimo canto.
+Allora,
+il ventisettesimo canto.
 
 Pausa.
 
@@ -23,14 +24,37 @@ del calcolo.
 
 Pausa lunga.
 
-Non il peccatore grandioso
-che si perde
-spingendo oltre.
+Ulisse
+si spinge oltre.
 
-Ma il peccatore furbo
-che prova
-a portarsi dietro
-una via d’uscita.
+Guido,
+invece,
+prova a fermarsi.
+
+Pausa.
+
+Si pente.
+
+Si confessa.
+
+Indossa il saio.
+
+E poi,
+all’ultimo momento,
+prova ancora
+una scorciatoia.
+
+Pausa lunga.
+
+Non il peccatore
+che non vede il limite.
+
+Il peccatore
+che il limite lo vede.
+
+E cerca
+un modo furbo
+per passarci accanto.
 
 ## vv. 1-15 - Il toro di Falari
 
@@ -53,7 +77,7 @@ una via d’uscita.
 Pausa lunga.
 
 La fiamma di Ulisse
-se ne va.
+si allontana.
 
 Subito
 ne arriva un’altra.
@@ -70,17 +94,64 @@ Pausa lunga.
 Il toro di Falari.
 
 Bronzo.
-Fuoco.
-Urlo umano
-trasformato
-in verso di bestia.
+
+Vuoto dentro.
+
+Un uomo chiuso lì dentro.
 
 Pausa.
 
-Qui le parole
-devono prima
-farsi strada
-dentro il fuoco.
+Il fuoco sotto.
+
+La voce dentro.
+
+E fuori,
+non più una voce umana.
+
+Un muggito.
+
+Pausa lunga.
+
+Dante sceglie
+questa immagine
+prima ancora
+di dirci
+chi c’è nella fiamma.
+
+Pausa.
+
+Perché qui
+la parola
+non esce libera.
+
+Deve trovare
+una strada
+nel fuoco.
+
+Pausa lunga.
+
+Prima il suono.
+
+Poi il linguaggio.
+
+Prima il dolore.
+
+Poi il racconto.
+
+Pausa.
+
+E anche questo
+conta.
+
+Guido
+ha passato la vita
+a usare bene
+le parole.
+
+Qui,
+per farsi capire,
+deve quasi
+ricostruirle.
 
 ## vv. 16-30 - La domanda sulla Romagna
 
@@ -103,28 +174,66 @@ dentro il fuoco.
 Pausa lunga.
 
 Appena può parlare,
-quest’anima
-non chiede chi sia Dante.
+Guido
+non chiede
+chi sia Dante.
+
+Pausa.
 
 Non chiede
 se è vivo.
 
-Pausa.
-
-Chiede notizie
-di casa.
-
-Della Romagna.
+Non chiede
+come uscirà.
 
 Pausa lunga.
 
-È già un segno.
+Chiede della Romagna.
 
-Perfino nel fuoco
-resta attaccato
-alla sua terra,
-alle sue guerre,
-ai suoi giochi di potere.
+Pace
+o guerra?
+
+Pausa.
+
+È ancora lì.
+
+Nel fuoco.
+
+E pensa
+alle città,
+ai signori,
+alle fazioni.
+
+Pausa lunga.
+
+La terra
+da cui,
+dice,
+porta tutta la colpa.
+
+Pausa.
+
+Questo è importante.
+
+Perché Guido
+si è fatto frate.
+
+Ha provato
+a lasciare
+quella vita.
+
+Pausa.
+
+Ma la prima domanda
+che gli esce
+è ancora politica.
+
+Pausa lunga.
+
+Il saio
+non gli ha cancellato
+la memoria
+dell’uomo d’armi.
 
 ## vv. 31-57 - Dante risponde
 
@@ -158,35 +267,199 @@ ai suoi giochi di potere.
 
 Pausa lunga.
 
-Qui Dante
-risponde
-con nomi propri.
+Virgilio
+tocca Dante
+di fianco.
+
+Parla tu.
 
 Pausa.
 
-Ravenna.
-Forlì.
-Rimini.
-Faenza.
-Cesena.
+Perché questa volta
+la geografia
+è contemporanea.
+
+È politica viva.
 
 Pausa lunga.
 
-Non è
-un bollettino.
+Ravenna.
 
-È una mappa
-di signorie,
-tradimenti,
-tirannia.
+Forlì.
 
-E poi Dante
-gli chiede il nome.
+Rimini.
 
-Se vuoi
-che il tuo nome
-resti in fronte
-nel mondo.
+Faenza.
+
+Cesena.
+
+Pausa.
+
+Dante
+non risponde
+con una teoria.
+
+Risponde
+con stemmi.
+
+Aquile.
+
+Mastini.
+
+Leoni.
+
+Pausa lunga.
+
+La Romagna
+sembra quasi
+un bestiario politico.
+
+Pausa.
+
+Ogni città
+ha un animale
+sopra di sé.
+
+Ogni animale
+ha denti,
+branche,
+ali.
+
+Pausa lunga.
+
+E sotto,
+la gente.
+
+Pausa.
+
+Guido aveva chiesto:
+pace o guerra?
+
+Dante risponde:
+nessuna guerra aperta,
+ma la guerra
+è ancora nei cuori.
+
+Pausa lunga.
+
+È una risposta
+più inquietante
+di un elenco di battaglie.
+
+La guerra
+può tacere.
+
+E restare.
+
+## Prima del nome: la Romagna che Guido ascolta
+
+Pausa lunga.
+
+Prima che Guido
+si presenti,
+resta un momento
+sulla risposta di Dante.
+
+Pausa.
+
+Perché Guido
+non ha chiesto
+una notizia qualunque.
+
+Ha chiesto:
+pace o guerra?
+
+Pausa lunga.
+
+E Dante
+non gli dà
+né pace
+né guerra.
+
+Gli dà
+una situazione
+più ambigua.
+
+Pausa.
+
+Fuori,
+nessuna guerra aperta.
+
+Dentro,
+i cuori
+sono ancora in guerra.
+
+Pausa lunga.
+
+È quasi
+la definizione
+della politica
+che Guido conosceva.
+
+Pausa.
+
+Non serve
+che le armi
+siano fuori.
+
+Basta sapere
+chi sta aspettando
+che l’altro
+faccia un passo falso.
+
+Pausa lunga.
+
+E guarda
+la risposta di Dante.
+
+Ravenna
+non è Ravenna.
+
+È l’aquila.
+
+Rimini
+non è Rimini.
+
+Sono i mastini.
+
+Faenza
+è un leone.
+
+Pausa.
+
+Le città
+sono diventate
+le famiglie
+che le tengono.
+
+Pausa lunga.
+
+E Guido,
+che quelle famiglie
+le ha combattute,
+trattate,
+ingannate,
+capisce perfettamente
+questa lingua.
+
+Pausa.
+
+Dante
+sta parlando
+a un uomo
+che legge la politica
+come un campo
+di forze.
+
+Pausa lunga.
+
+E proprio per questo,
+quando Guido
+comincerà a raccontarsi,
+la parola decisiva
+sarà una sola.
+
+Volpe.
 
 ## vv. 58-84 - Guido si presenta
 
@@ -220,120 +493,280 @@ nel mondo.
 
 Pausa lunga.
 
+Adesso
+il nome.
+
 Guido da Montefeltro.
 
 Pausa.
 
-E adesso torna indietro di qualche verso.
+E torna indietro
+di qualche verso.
 
-La terra che fe’ già la lunga prova
-e di Franceschi sanguinoso mucchio,
+La terra
+che fe’ già
+la lunga prova.
 
 Forlì.
+
 1282.
-I francesi assediano la città,
-e vengono massacrati.
-A comandare i forlivesi
-c'era lui.
 
 Pausa.
 
-Dante, senza saperlo,
+I francesi
+assediano la città.
+
+E vengono massacrati.
+
+A comandare
+i forlivesi
+c’era lui.
+
+Pausa lunga.
+
+Dante,
+senza saperlo,
 gli ha appena raccontato
-la sua vittoria più famosa.
+la sua vittoria
+più famosa.
+
+Pausa.
 
 E al suo servizio
-c'era un astrologo di Forlì
-che abbiamo visto nel ventesimo canto.
+c’era anche
 Guido Bonatti.
 
+L’astrologo
+del ventesimo canto.
+
 Pausa lunga.
 
-Parla
+Ma Guido
+parla soltanto
+perché pensa
+che Dante
+non tornerà mai su.
+
+Pausa.
+
+Sanza tema d’infamia.
+
+Pausa lunga.
+
+È magnifico.
+
+Sta raccontando
+la propria vita
 perché crede
-che nessuno
-torni vivo di qui.
-
-Parla
-senza tema d’infamia.
+di essere al sicuro
+dalla reputazione.
 
 Pausa.
 
-E invece
-eccoci qui.
-Più di settecento anni dopo.
+E invece,
+proprio così,
+la sua storia
+arriva fino a noi.
 
 Pausa lunga.
 
-E si definisce
-subito
-in due tempi:
+Poi si divide
+in due.
 
-uom d’arme.
-Poi cordigliero.
+Uomo d’armi.
+
+Cordigliero.
 
 Pausa.
 
-Ma il punto vero
-sta in questo:
+Prima la volpe.
 
-non furon leonine,
-ma di volpe.
+Poi il saio.
 
 Pausa lunga.
 
-Forza no.
+Non furon leonine.
 
-Astuzia.
+Di volpe.
+
+Pausa.
 
 Accorgimenti.
+
 Coperte vie.
+
+Strategie.
+
+Pausa lunga.
+
+E poi,
+a un certo punto,
+la stanchezza.
 
 Pausa.
 
-E poi,
-arrivato all’età
-in cui si dovrebbero
-calar le vele,
+Calar le vele.
 
-si pente davvero.
+Raccogliere le sarte.
 
-Confessa.
-Si rende.
+Pausa lunga.
+
+È una bellissima
+immagine di vecchiaia.
+
+Non affondare.
+
+Non strappare le vele.
+
+Rientrare.
+
+Pausa.
+
+E Guido,
+dice,
+l’aveva fatto.
+
+Pentuto.
+
+Confesso.
+
+Pausa lunga.
 
 E giovato
 sarebbe.
 
-Pausa lunga.
-
-Calar le vele.
-
 Pausa.
 
-Questa immagine
-Dante l'aveva già usata.
-Per lo stesso uomo.
+Questa frase
+fa male
+proprio perché
+la strada d’uscita
+c’era.
 
-Nel Convivio
-aveva scritto di Guido da Montefeltro:
-nobilissimo.
-Un esempio.
-Uno che da vecchio
-aveva saputo calare le vele
-e rendersi a Dio.
+## Calare le vele
 
 Pausa lunga.
 
-Qui Dante gli mette in bocca
-la sua stessa lode.
-E la rovescia.
-
-ahi miser lasso! e giovato sarebbe.
+Prima di Bonifacio,
+resta ancora
+un momento
+su quelle vele.
 
 Pausa.
 
-Che cosa è successo, in mezzo?
-Lo sentiremo fra poco.
+Guido
+non dice:
+sono diventato buono.
+
+Non dice:
+ho dimenticato
+chi ero.
+
+Pausa lunga.
+
+Dice:
+mi è venuto a noia
+quello che prima
+mi piaceva.
+
+Pausa.
+
+È diverso.
+
+Pausa lunga.
+
+L’uomo d’armi
+non viene cancellato.
+
+La volpe
+non sparisce.
+
+Smette
+di voler vivere
+così.
+
+Pausa.
+
+E allora
+si rende.
+
+Pausa lunga.
+
+Questa parola
+ha qualcosa
+di militare.
+
+Arrendersi.
+
+Pausa.
+
+Guido
+che aveva passato
+la vita
+a vincere
+con l’astuzia,
+alla fine
+si arrende.
+
+Pausa lunga.
+
+Non a un nemico.
+
+A Dio.
+
+Pausa.
+
+E per un momento
+sembra davvero
+che la storia
+possa finire lì.
+
+Pausa lunga.
+
+Questo rende
+Bonifacio
+più grave.
+
+Non incontra
+un uomo
+che non ha mai provato
+a cambiare.
+
+Pausa.
+
+Incontra
+un uomo
+che ha già
+cambiato rotta.
+
+E gli chiede
+di tornare,
+per una sola manovra,
+alla vecchia arte.
+
+Pausa lunga.
+
+Una volta sola.
+
+Un consiglio.
+
+Una frase.
+
+Pausa.
+
+È così
+che spesso
+le vecchie abitudini
+rientrano.
+
+Non dicendo:
+torna a essere
+quello di prima.
+
+Pausa lunga.
+
+Dicendo:
+solo questa volta.
 
 ## vv. 85-105 - Bonifacio
 
@@ -366,78 +799,177 @@ Bonifacio.
 
 Pausa.
 
-Lo principe de’ novi Farisei,
-
-Pausa.
-
-Farisei.
-Il concilio di Caifasso,
-crocifisso per terra
-quattro canti fa.
-
-Bonifacio è il principe dei nuovi.
+Ancora una volta
+fuori scena.
 
 Pausa lunga.
 
-Fa guerra
-non contro infedeli,
-ma contro cristiani.
-
-Non guarda
-né il proprio ufficio
-né il capestro di Guido.
+Lo principe
+de’ novi Farisei.
 
 Pausa.
 
-Gli chiede consiglio.
+La guerra
+non contro infedeli.
+
+Contro cristiani.
+
+Pausa.
+
+Palestrina.
+
+La roccaforte
+dei Colonna.
+
+Pausa lunga.
+
+Bonifacio
+non chiede a Guido
+di combattere.
+
+Gli chiede
+di pensare.
+
+Pausa.
+
+Questo è il punto.
+
+La volpe
+non deve mordere.
+
+Deve consigliare.
+
+Pausa lunga.
 
 Guido tace.
 
-Perché le parole
+Ha capito.
+
+Le parole
 gli sembrano ebbre.
 
+Pausa.
+
+E allora
+Bonifacio
+fa la proposta.
+
 Pausa lunga.
 
-Allora Bonifacio
-scopre il trucco:
-
-finor t’assolvo.
+Ti assolvo prima.
 
 Poi tu
-mi dici come fare.
+mi dici
+come peccare bene.
 
 Pausa lunga.
 
-sì come Penestrino in terra getti.
+È una frase
+che tenta
+di mettere
+la misericordia
+prima del pentimento.
 
-Palestrina.
-La fortezza dei Colonna,
-la grande famiglia romana
-nemica di Bonifacio.
+Come un lasciapassare.
 
-Pausa.
-
-E guarda come Bonifacio
-presenta le sue chiavi.
-
-son due le chiavi
-che ’l mio antecessor non ebbe care
+Come un permesso.
 
 Pausa.
 
-L'antecessore
-è Celestino.
-Il papa del gran rifiuto,
-nel terzo canto.
+E le chiavi,
+qui,
+non aprono.
+
+Vengono usate
+come argomento.
+
+## Le chiavi usate come garanzia
 
 Pausa lunga.
 
-Il filo di Bonifacio
-era cominciato lì.
-E finisce qui.
+Guarda ancora
+Bonifacio.
 
-Sempre fuori scena.
-Sempre con le chiavi in mano.
+Pausa.
+
+Non dice
+a Guido:
+quello che faremo
+è giusto.
+
+Pausa lunga.
+
+Gli dice:
+non avere paura.
+
+Ti assolvo.
+
+Pausa.
+
+Cioè:
+il problema
+non sarebbe
+l’azione.
+
+Sarebbe
+la conseguenza
+per la tua anima.
+
+Pausa lunga.
+
+E quella,
+sostiene il papa,
+posso cancellarla io.
+
+Pausa.
+
+Lo ciel poss’io
+serrare e diserrare.
+
+Pausa lunga.
+
+Le chiavi
+che dovrebbero
+legare e sciogliere
+diventano qui
+una garanzia
+prima del fatto.
+
+Pausa.
+
+Come se
+la responsabilità
+potesse essere
+spostata.
+
+Pausa lunga.
+
+Tu dammi
+il consiglio.
+
+La colpa
+la gestisco io.
+
+Pausa.
+
+E Guido,
+che sa benissimo
+come funziona
+un accordo,
+accetta.
+
+Pausa lunga.
+
+È quasi
+un contratto.
+
+Pausa.
+
+Ma il canto
+sta per mostrarci
+che quel contratto
+ha una clausola
+impossibile.
 
 ## vv. 106-111 - Il consiglio
 
@@ -450,17 +982,29 @@ Sempre con le chiavi in mano.
 
 Pausa lunga.
 
-Qui Guido
+E Guido
 cede.
 
 Pausa.
 
-Non perché abbia dimenticato
-il male.
+Sa che è peccato.
 
-Perché cerca
-di starci dentro
-senza pagarlo.
+Lo dice.
+
+Pausa.
+
+Quel peccato
+in cui
+sto per cadere.
+
+Pausa lunga.
+Non c’è ignoranza.
+
+Non c’è confusione.
+
+Pausa.
+
+C’è il calcolo.
 
 Pausa lunga.
 
@@ -468,28 +1012,32 @@ Lunga promessa.
 
 Attender corto.
 
+Pausa.
+
 Prometti molto.
 
 Mantieni poco.
 
 Pausa lunga.
 
-E nella storia è andata così.
-Nel 1298 i Colonna si arrendono,
-con la promessa del perdono.
-E Palestrina viene rasa al suolo.
+È quasi
+una formula.
 
 Pausa.
 
-Che il consiglio fosse di Guido,
-non è provato.
-Lo racconta anche un cronista di quegli anni,
-Riccobaldo da Ferrara.
-Era una voce.
+Ed è proprio questo
+che rende
+il consiglio
+così freddo.
 
-E Dante l'ha creduta.
-Per questo il nobilissimo Guido del Convivio
-è finito qui.
+Pausa lunga.
+
+Guido,
+che aveva provato
+a uscire
+dalla frode,
+la ricostruisce
+in sei parole.
 
 ## vv. 112-129 - Il diavolo loico
 
@@ -516,48 +1064,64 @@ Per questo il nobilissimo Guido del Convivio
 
 Pausa lunga.
 
-Questo
-è il punto perfetto
-del canto.
+Poi Guido muore.
 
 Pausa.
 
 Arriva Francesco.
 
-Ma il nero cherubino
-lo ferma.
+Pausa.
+
+E arriva
+un nero cherubino.
 
 Pausa lunga.
 
-E ha ragione.
+Non litigano
+sulla forza.
 
-Non per crudeltà.
-
-Per logica.
+Litigano
+sulla logica.
 
 Pausa.
 
-Conta sulle dita, come un professore.
+Il diavolo
+fa tre passaggi.
 
-Uno.
+Pausa lunga.
+
+Primo.
+
 Non si può assolvere
 chi non si pente.
 
-Due.
-Non si può
-volere il peccato
-e pentirsene
-insieme.
+Pausa.
 
-per la contradizion che nol consente.
+Secondo.
 
-Tre.
-Dunque l'assoluzione data prima del peccato
-non vale niente.
+Non puoi
+pentirti davvero
+di una cosa
+che nello stesso momento
+vuoi fare.
 
 Pausa.
 
-E poi il colpo:
+Terzo.
+
+Quindi
+l’assoluzione anticipata
+non cambia nulla.
+
+Pausa lunga.
+
+Per la contradizion
+che nol consente.
+
+Pausa.
+
+E poi
+la battuta perfetta.
 
 Forse
 tu non pensavi
@@ -566,15 +1130,22 @@ ch’io loico fossi.
 Pausa lunga.
 
 Il diavolo
-vince Guido
-con un sillogismo.
+sa di logica.
 
-Il principio di non contraddizione.
-Aristotele.
+Pausa.
 
-Il più astuto degli uomini
-battuto da un diavolo
-che ha studiato logica.
+E l’uomo
+che aveva costruito
+una vita
+sull’astuzia
+viene battuto
+da una cosa
+che non puoi aggirare
+con l’astuzia.
+
+Pausa lunga.
+
+Una contraddizione.
 
 Pausa.
 
@@ -586,83 +1157,376 @@ Foco furo.
 
 Pausa lunga.
 
-E adesso
-ti racconto il figlio.
+E qui,
+per me,
+arriva il confronto
+più forte del canto.
 
 Pausa.
 
-Guido aveva un figlio.
-Buonconte.
-Capitano degli aretini a Campaldino,
-la battaglia del ventiduesimo canto.
-Quella in cui Dante combatteva
-dall'altra parte.
+Non un filosofo.
+
+Non un autore moderno.
+
+Suo figlio.
+
+Pausa lunga.
+
+Buonconte da Montefeltro.
+
+Pausa.
+
+Capitano degli aretini
+a Campaldino.
+
+La battaglia
+in cui Dante
+combatteva
+dall’altra parte.
+
+Pausa lunga.
 
 Buonconte muore lì.
+
 Il suo corpo
-non verrà mai trovato.
+non verrà trovato.
 
-Pausa lunga.
+Pausa.
 
-Dante lo ritroverà nel Purgatorio.
+Nel Purgatorio,
+Dante lo incontra.
+
 Salvo.
 
-Io fui da Montefeltro, io son Buonconte;
-
-Pausa.
-
-Gli racconterà come è morto.
-Ferito alla gola,
-scappando a piedi,
-insanguinando la pianura.
-E con l'ultimo fiato,
-il nome di Maria.
-
 Pausa lunga.
 
-E allora arrivano in due.
-Un angelo
-e un diavolo.
+Il padre aveva:
 
-Come per suo padre.
+il saio.
 
-Pausa.
-
-Ma questa volta
-l'angelo se lo prende.
-E il diavolo grida:
-
-Tu te ne porti di costui l’eterno
-per una lagrimetta che ’l mi toglie;
-
-Pausa lunga.
-
-Il padre aveva il saio.
 La confessione.
-L'assoluzione di un papa.
-E si è perso.
 
-Il figlio aveva una lacrima.
-E si è salvato.
+L’assoluzione
+di un papa.
 
-Pausa lunga.
-
-Io credo che qui
-ci sia tutta la teologia di Dante.
-Non conta la forma.
-Conta dove guarda il cuore,
-nell'ultimo istante.
+E si perde.
 
 Pausa.
 
-E c'è un'ultima cosa.
-A Campaldino
-Buonconte era un nemico.
-Dante lo salva.
+Il figlio,
+all’ultimo respiro,
+ha una parola.
+
+Maria.
+
+E una lacrima.
 
 Pausa lunga.
 
-ch’assolver non si può chi non si pente,
+E il diavolo,
+questa volta,
+perde.
+
+Pausa.
+
+Non perché
+la logica sia cambiata.
+
+Perché è cambiato
+il cuore
+dell’uomo
+nell’ultimo istante.
+
+Pausa lunga.
+
+Questo,
+per me,
+è il centro.
+
+Non il rito
+come assicurazione.
+
+Il pentimento
+come movimento reale.
+
+## Padre e figlio
+
+Pausa lunga.
+
+Fermati ancora
+su Guido
+e Buonconte.
+
+Pausa.
+
+Perché il contrasto
+non funziona
+se lo riduciamo
+a questo:
+uno cattivo,
+uno buono.
+
+Pausa lunga.
+
+Buonconte
+era un uomo d’armi.
+
+Muore
+in battaglia.
+
+Ferito.
+
+In fuga.
+
+Pausa.
+
+Guido,
+il padre,
+aveva lasciato
+le armi.
+
+Aveva scelto
+il convento.
+
+Pausa lunga.
+
+Eppure
+il padre
+si perde.
+
+Il figlio
+si salva.
+
+Pausa.
+
+Non è
+una classifica
+delle vite.
+
+Pausa lunga.
+
+È il rifiuto
+di una contabilità
+esteriore.
+
+Pausa.
+
+Saio:
+non basta.
+
+Assoluzione:
+non basta.
+
+Reputazione religiosa:
+non basta.
+
+Pausa lunga.
+
+E dall’altra parte,
+una vita
+che dall’esterno
+non sembra
+preparata alla salvezza.
+
+Pausa.
+
+Ma nell’ultimo istante
+cambia direzione.
+
+Pausa lunga.
+
+Il padre
+ha provato
+a garantire in anticipo
+il proprio finale.
+
+Il figlio
+non garantisce niente.
+
+Pausa.
+
+Chiede.
+
+Pausa lunga.
+
+È la stessa differenza
+che abbiamo visto
+nel ventiseiesimo canto.
+
+Non possedere
+il viaggio.
+
+Non autorizzarsi
+da soli.
+
+Pausa.
+
+Qui però
+non serve tornare
+a Ulisse.
+
+Basta guardare
+questi due uomini.
+
+Pausa lunga.
+
+Il padre
+vuole una certezza
+prima del peccato.
+
+Il figlio
+ha soltanto
+un ultimo movimento
+dopo il peccato.
+
+Pausa.
+
+E per Dante,
+fra le due cose,
+c’è un abisso.
+
+## Il processo dopo la morte
+
+Pausa lunga.
+
+C’è un dettaglio
+che rende
+questa scena
+quasi teatrale.
+
+Pausa.
+
+Guido muore.
+
+E subito
+comincia una disputa
+su di lui.
+
+Pausa lunga.
+
+Francesco
+arriva per prenderlo.
+
+Il cherubino nero
+lo ferma.
+
+Pausa.
+
+Non c’è
+una lunga inchiesta.
+
+Non c’è
+un processo
+con testimoni.
+
+Pausa lunga.
+
+C’è una frase
+di Guido.
+
+Un consiglio.
+
+E una contraddizione.
+
+Pausa.
+
+Basta.
+
+Pausa lunga.
+
+Questo è terribile
+perché Guido
+aveva costruito
+la propria sicurezza
+su un’autorità esterna.
+
+Pausa.
+
+Il papa
+mi ha assolto.
+
+Pausa lunga.
+
+Ma il diavolo
+non discute
+l’autorità del papa.
+
+Discute
+la possibilità stessa
+di quell’assoluzione.
+
+Pausa.
+
+Se non c’è pentimento,
+che cosa
+stai assolvendo?
+
+Pausa lunga.
+
+E se vuoi
+il peccato
+nel momento
+in cui dici
+di pentirtene,
+che cosa significa
+pentirsi?
+
+Pausa.
+
+Guido
+non viene sconfitto
+perché il diavolo
+è più astuto.
+
+Pausa lunga.
+
+Viene sconfitto
+perché ha provato
+a far convivere
+due cose
+che non stanno insieme.
+
+Pausa.
+
+Volere.
+
+E pentirsi
+dello stesso atto
+prima ancora
+di compierlo.
+
+Pausa lunga.
+
+È per questo
+che la parola
+contradizion
+qui pesa così tanto.
+
+Pausa.
+
+Non è
+un dettaglio scolastico.
+
+È la porta
+che Guido
+non riesce
+a forzare.
+
+Pausa lunga.
+
+E dopo
+tutta una vita
+di coperte vie,
+questa volta
+non c’è
+una via coperta.
+
+Pausa.
+
+La frase
+è davanti a lui.
+
+Intera.
 
 ## vv. 130-136 - Si passa oltre
 
@@ -677,18 +1541,28 @@ ch’assolver non si può chi non si pente,
 Pausa lunga.
 
 La fiamma
-se ne va
-dolorando.
+si allontana.
 
-Torcendo
-il corno acuto.
+Pausa.
+
+Torcendo.
+
+Dibattendo.
+
+Pausa lunga.
+
+All’inizio
+la parola
+usciva a fatica.
+
+Alla fine
+resta il movimento
+del fuoco.
 
 Pausa.
 
 E Dante
-passa oltre.
-
-Verso un’altra frode.
+va avanti.
 
 ## Chiusura
 
@@ -700,42 +1574,44 @@ Guido
 non è
 un peccatore stupido.
 
-È un peccatore
-intelligentissimo.
-
 Pausa.
 
-Ha capito
-che la sua vita
-aveva bisogno
-di ammenda.
-
-L’ha cercata davvero.
+È questo
+che lo rende
+più inquietante.
 
 Pausa lunga.
 
-Poi ha creduto
-di poter portare
-dentro il sacramento
-la stessa astuzia
-con cui aveva vissuto.
+Capisce
+il bene.
+
+Capisce
+il male.
+
+Capisce
+il pentimento.
 
 Pausa.
 
-Una scorciatoia.
-
-Una furbizia
-spirituale.
+E poi prova
+un’ultima volta
+a trattare
+anche quello.
 
 Pausa lunga.
 
-Ma non funziona.
-
-Non con la teologia soltanto.
-
-Con la logica.
+Come se
+una formula
+potesse sostituire
+una scelta.
 
 Pausa.
+
+Non può.
+
+Pausa lunga.
 
 Il peccato furbo
 è ancora peccato.
+
+[Schermo: nero pieno]
