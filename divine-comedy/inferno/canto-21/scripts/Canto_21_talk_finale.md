@@ -9,7 +9,8 @@ Linea guida: "Anche i diavoli hanno una gerarchia"
 
 Pausa lunga.
 
-Allora, il ventunesimo canto.
+Allora,
+il ventunesimo canto.
 
 Pausa.
 
@@ -22,7 +23,11 @@ Pausa lunga.
 
 Entra il comico.
 
-Ma non per alleggerire il male.
+Ma non
+per alleggerire
+il male.
+
+Pausa.
 
 Per mostrarlo
 in un'altra forma.
@@ -50,66 +55,197 @@ in un'altra forma.
 
 Pausa lunga.
 
-Torna al secondo verso.
-
-che la mia comedìa cantar non cura,
+Torna
+al secondo verso.
 
 Pausa.
+
+che la mia comedìa
+cantar non cura.
+
+Pausa lunga.
 
 Eccola.
 
-Nel sedicesimo canto
-il poema aveva detto il suo nome
-per la prima volta.
-Questa è la seconda.
-E sarà l'ultima.
+Comedìa.
+
+Pausa.
+
+Il poema
+aveva già detto
+il proprio nome.
+
+Qui lo ripete.
 
 Pausa lunga.
 
-E cade nemmeno venti versi
-dopo la tragedia di Virgilio.
+E guarda
+che cosa sta
+per raccontare.
 
-l’alta mia tragedia
+Non un eroe.
 
-la mia comedìa
+Non un re.
+
+Non un mito.
 
 Pausa.
 
-Tutti e due dicono
-mia.
-
-Solo uno
-dice alta.
+Un cantiere.
 
 Pausa lunga.
 
-E adesso
-guarda come comincia,
-la comedìa.
-
-Pausa.
-
-L'apertura del canto
-non è mitologica.
-
-È industriale.
-
-Pausa.
-
-L'arzanà dei Viniziani.
+L'arzanà
+dei Veneziani.
 
 Pece.
-Riparazioni.
-Legni malati.
+
+Legno.
+
+Remi.
+
+Corde.
+
+Scafi
+da riparare.
+
+Pausa.
+
+In inverno
+le navi
+non partono.
+
+Allora
+si lavora.
 
 Pausa lunga.
 
-Dante prende
-una delle cose più concrete
-del suo mondo
+Chi ripara
+una costa.
 
-e la porta
-nel cuore della frode.
+Chi costruisce
+un remo.
+
+Chi sistema
+le vele.
+
+Pausa.
+
+Dante
+non ci fa vedere
+la pece infernale
+con un'immagine
+astratta.
+
+Pausa lunga.
+
+Ci porta
+in un luogo
+dove uomini veri
+lavorano
+con la pece.
+
+Pausa.
+
+Solo che qui
+non ripara niente.
+
+Pausa lunga.
+
+Qui invischia.
+
+Pausa lunga.
+
+E l'immagine
+è piena
+di lavoro.
+
+Pausa.
+
+Nessuno
+sta fermo.
+
+Uno batte
+la prua.
+
+Uno
+la poppa.
+
+Uno gira
+le sartie.
+
+Uno sistema
+una vela.
+
+Pausa lunga.
+
+È quasi
+un montaggio.
+
+Taglio.
+
+Mani.
+
+Pece.
+
+Legno.
+
+Corda.
+
+Pausa.
+
+Poi Dante
+porta tutto
+nel fosso.
+
+Pausa lunga.
+
+La pece
+è la stessa
+materia.
+
+Ma qui
+non c'è
+un mestiere
+da compiere.
+
+Pausa.
+
+C'è qualcosa
+da nascondere.
+
+Pausa lunga.
+
+La baratteria
+è proprio questo:
+
+usare
+un ufficio
+pubblico
+per un guadagno
+privato.
+
+Pausa.
+
+Sotto
+la superficie
+dell'ufficio
+si muove
+qualcos'altro.
+
+Pausa lunga.
+
+E la pece
+fa esattamente
+quello.
+
+Copre.
+
+Invischia.
+
+Nasconde.
+
+Pausa lunga.
 
 ## vv. 19-36 - Il demonio col peccatore
 
@@ -136,28 +272,144 @@ nel cuore della frode.
 
 Pausa lunga.
 
-Dante guarda la pece.
+Dante guarda
+la pece.
 
-Virgilio
-lo tira indietro.
+Non vede
+chi c'è dentro.
 
-Guarda, guarda.
+Solo bolle.
 
 Pausa.
 
-E allora entra
-il primo diavolo.
+La superficie
+gonfia.
 
-Non simbolico.
+Poi si richiude.
 
-Fisico.
+Pausa lunga.
 
-Svelto.
-Feroce.
+Come se
+il luogo stesso
+nascondesse
+quello che contiene.
 
-Con un uomo
-portato addosso
-come un carico.
+Pausa.
+
+Poi Virgilio
+dice:
+
+Guarda.
+
+Guarda.
+
+Pausa lunga.
+
+E lo tira
+indietro.
+
+Pausa.
+
+Il pericolo
+non arriva
+dal fondo.
+
+Arriva
+dietro di loro.
+
+Pausa lunga.
+
+Un diavolo
+nero.
+
+Ali aperte.
+
+Piedi leggeri.
+
+E un uomo
+portato addosso.
+
+Pausa.
+
+Non come
+una persona.
+
+Come un carico.
+
+Pausa lunga.
+
+Lo tiene
+per le gambe.
+
+Lo porta
+alla bolgia.
+
+E lo consegna.
+
+Pausa lunga.
+
+E guarda
+come arriva
+il barattiere.
+
+Pausa.
+
+Testa in giù.
+
+Gambe prese.
+
+Il corpo
+non decide
+niente.
+
+Pausa lunga.
+
+Il diavolo
+lo trasporta
+come una merce.
+
+Pausa.
+
+È ironico.
+
+Uno che
+ha trattato
+le cose pubbliche
+come merce
+
+adesso
+è lui
+il pacco
+da consegnare.
+
+Pausa lunga.
+
+E il diavolo
+non resta
+a guardare.
+
+Lo butta.
+
+Poi riparte.
+
+Pausa.
+
+Dice
+che Lucca
+ne ha altri.
+
+Come se
+ci fosse
+una produzione
+continua.
+
+Pausa lunga.
+
+Non un caso.
+
+Una filiera.
+
+Pausa lunga.
 
 ## vv. 37-57 - Santa Zita e il Santo Volto
 
@@ -185,36 +437,93 @@ come un carico.
 
 Pausa lunga.
 
-Il diavolo
-parla di Lucca
-come di un magazzino
-sempre pieno.
+Lucca.
+
+Santa Zita.
+
+Bonturo.
+
+Il Serchio.
+
+Il Santo Volto.
 
 Pausa.
 
-Santa Zita.
-Bonturo.
-Il Serchio.
-Il Santo Volto.
+I diavoli
+parlano
+come gente
+di strada.
 
 Pausa lunga.
 
-Anche qui
-il locale
-non abbassa il canto.
+Prendono
+una città
+intera
 
-Lo rende più cattivo.
+e la riducono
+a una battuta.
 
-Più preciso.
+Pausa.
 
-E i diavoli
-si comportano
-come cuochi.
+Tutti barattieri.
 
-La pece è una caldaia.
+Tranne Bonturo.
 
-I corpi
-sono roba da rigirare sotto.
+Pausa lunga.
+
+Che è proprio
+il contrario
+di quello
+che intendono.
+
+Pausa.
+
+Anche il linguaggio
+qui bara.
+
+Pausa lunga.
+
+Il dannato
+cade nella pece.
+
+Riemerge.
+
+E subito
+gli urlano:
+
+qui non è
+il Serchio.
+
+Pausa.
+
+Qui si nuota
+in un altro modo.
+
+Pausa lunga.
+
+Poi arrivano
+i raffi.
+
+Pausa.
+
+La similitudine
+è domestica.
+
+Cuochi.
+
+Caldaia.
+
+Carne
+da tenere sotto.
+
+Pausa lunga.
+
+Il comico
+non toglie
+l'orrore.
+
+Lo rende
+più vicino.
 
 ## vv. 58-78 - Virgilio si fa avanti
 
@@ -242,33 +551,99 @@ sono roba da rigirare sotto.
 
 Pausa lunga.
 
-Dante si nasconde.
-
-Virgilio no.
+Virgilio
+fa una cosa
+molto precisa.
 
 Pausa.
 
-Questa è la parte
-più viva del canto.
-
-Perché la guida
-non commenta il male.
-
-Ci tratta.
+Prima
+nasconde Dante.
 
 Pausa lunga.
 
+Giù.
+
+Dietro
+uno scheggio.
+
+Pausa.
+
+Non dice:
+resta vicino.
+
+Dice:
+sparisci.
+
+Pausa lunga.
+
+Poi lui
+va avanti.
+
+Solo.
+
+Pausa.
+
+Gerione
+lo aveva visto
+mettersi
+fra Dante
+e la coda.
+
+Qui fa
+qualcosa
+di simile.
+
+Pausa lunga.
+
+Prende
+su di sé
+il primo contatto.
+
+Pausa.
+
 I diavoli
-escono addosso a lui
+escono
 come cani.
 
-E lui
-li blocca con la voce.
+Raffi davanti.
 
-Prima uno.
-Poi gli altri.
+Pausa lunga.
 
-Gerarchia.
+E Virgilio
+non scappa.
+
+Non combatte.
+
+Parla.
+
+Pausa.
+
+Prima
+uno solo.
+
+Pausa lunga.
+
+Tutti gli altri
+fermi.
+
+Pausa.
+
+Ed ecco
+la cosa strana.
+
+Questi diavoli
+hanno una catena
+di comando.
+
+Pausa lunga.
+
+Vada Malacoda.
+
+Uno avanza.
+
+Gli altri
+aspettano.
 
 ## vv. 79-99 - Malacoda e la paura di Dante
 
@@ -296,65 +671,223 @@ Gerarchia.
 
 Pausa lunga.
 
-Virgilio vince
-non per forza.
-
-Per mandato.
-
-Nel cielo è voluto.
+Virgilio
+usa la sola
+carta
+che conta.
 
 Pausa.
 
+Nel cielo
+è voluto.
+
+Pausa lunga.
+
 Malacoda
-abbassa l'uncino.
+lascia cadere
+l'uncino.
+
+Pausa.
 
 Obbedisce.
 
 Pausa lunga.
 
-Ma Dante
-non si fida per niente.
+Poi Virgilio
+chiama Dante.
 
-Caprona
-è l'immagine giusta:
+Puoi uscire.
 
-uscire salvi
-fra gente
-che potrebbe sbranarti.
+Pausa.
+
+E Dante
+corre da lui.
 
 Pausa lunga.
 
-E qui Dante
-non prende la similitudine dai libri.
+Ma non crede
+che sia finita.
 
-Così vid’io
+Pausa.
+
+I diavoli
+si fanno avanti.
+
+E Dante
+si incolla
+al maestro.
+
+Pausa lunga.
+
+Con tutta
+la persona.
+
+Pausa.
+
+Non gli prende
+la mano.
+
+Non resta
+a un passo.
+
+Gli si mette
+addosso.
+
+Pausa lunga.
+
+E non toglie
+gli occhi
+dai diavoli.
+
+Pausa.
+
+Qui arriva
+Caprona.
+
+Pausa lunga.
+
+Soldati
+che hanno ottenuto
+salva la vita.
+
+Ma per uscire
+devono attraversare
+la fila
+dei nemici.
+
+Pausa.
+
+Il patto
+esiste.
+
+La paura
+anche.
+
+Pausa lunga.
+
+Così vid'io.
+
+Pausa.
+
+Dante
+non prende
+questa immagine
+da un libro.
+
+L'ha vista.
+
+Pausa lunga.
+
+E adesso
+è lui
+quello che passa
+fra i nemici.
+
+Pausa lunga.
+
+Caprona
+non è
+un dettaglio
+ornamentale.
 
 Pausa.
 
 Agosto 1289.
-Fiorentini e lucchesi
-assediano Caprona,
-un castello dei pisani.
 
-La guarnigione si arrende.
-Patti chiari:
-avranno salva la vita.
-Ma per uscire
-devono sfilare in mezzo ai nemici.
-
-Pausa.
-
-Quasi certamente
-Dante era lì.
-Fra quelli che guardavano.
+Pochi mesi
+dopo Campaldino.
 
 Pausa lunga.
 
-Adesso
-in mezzo ai nemici
-c'è lui.
+Fiorentini
+e Lucchesi
+assediano
+un castello
+pisano.
 
-veggendo sé tra nemici cotanti.
+Pausa.
+
+La guarnigione
+si arrende.
+
+Ottiene
+un patto.
+
+Salva la vita.
+
+Pausa lunga.
+
+Ma poi
+deve uscire.
+
+Pausa.
+
+E per uscire
+deve passare
+in mezzo
+agli uomini
+che fino a un momento
+prima
+volevano ucciderla.
+
+Pausa lunga.
+
+Il patto
+è una cosa.
+
+Le facce
+dei nemici
+un'altra.
+
+Pausa.
+
+Le armi
+sono ancora lì.
+
+Gli sguardi
+sono ancora lì.
+
+Pausa lunga.
+
+Così vid'io.
+
+Pausa.
+
+Quella parola
+ci dice
+che Dante
+sta pescando
+dalla propria memoria.
+
+Pausa lunga.
+
+E la memoria
+non gli dice:
+
+se c'è un patto
+sei tranquillo.
+
+Pausa.
+
+Gli dice:
+
+anche con un patto
+puoi avere paura.
+
+Pausa lunga.
+
+Per questo
+si accosta
+a Virgilio
+con tutta la persona.
+
+Pausa.
+
+Non è codardia.
+
+È esperienza.
+
+Pausa lunga.
 
 ## vv. 100-126 - La scorta dei Malebranche
 
@@ -390,168 +923,380 @@ veggendo sé tra nemici cotanti.
 
 Pausa lunga.
 
-Qui il canto
-diventa quasi una scena militare.
+E adesso
+Malacoda
+fa il capo.
 
 Pausa.
 
-C'è un ponte rotto.
+Prima blocca
+Scarmiglione.
 
-C'è una deviazione.
+Poi dà
+informazioni.
 
-C'è una scorta assegnata.
+Pausa lunga.
+
+Il ponte
+è rotto.
+
+Pausa.
+
+Questo è vero.
 
 Pausa lunga.
 
-Il ponte rotto.
+E dice anche
+quando
+si è rotto.
 
-Malacoda non dice soltanto
-che è crollato.
-Dice quando.
-
-Ier, più oltre cinqu’ore che quest’otta,
-mille dugento con sessantasei
-anni compiè che qui la via fu rotta.
-
-Pausa lunga.
+Pausa.
 
 Milleduecentosessantasei anni.
 
-Pausa.
+E cinque ore.
 
-Il ponte è crollato nel terremoto
-della morte di Cristo.
+Pausa lunga.
 
-E nel Convivio
-Dante scrive che Cristo è morto
-nel suo trentaquattresimo anno.
-A mezzogiorno.
+Un conto
+quasi assurdo
+per precisione.
 
 Pausa.
 
-Milleduecentosessantasei più trentaquattro.
-Milletrecento.
-
-E l'ora.
-Ieri,
-cinque ore più tardi di adesso.
-Cioè a mezzogiorno.
-
-Quindi adesso
-sono le sette del mattino.
-Di sabato.
-
-Pausa.
-
-Che giorno fosse, ieri,
-si discute ancora:
-il venerdì santo del 1300,
-o il 25 marzo,
-che allora si credeva
-il giorno della morte di Cristo.
-Erano venerdì tutti e due.
+Il terremoto
+della morte
+di Cristo.
 
 Pausa lunga.
 
 Nel dodicesimo canto
-Virgilio aveva detto:
-qui ed altrove.
+Virgilio aveva visto
+le rocce crollare.
 
-Questo è l'altrove.
-
-Pausa.
-
-Ma Virgilio quel terremoto
-l'aveva spiegato con un filosofo.
-
-Il diavolo
-sa l'anno.
-E l'ora.
+Qui un diavolo
+tiene il conto.
 
 Pausa.
 
-Io credo che un conto così preciso
-lo tenga soltanto
-chi ha perso.
+Anno.
+
+Ora.
 
 Pausa lunga.
 
-E con la stessa voce,
-mente.
+Poi aggiunge:
 
-Dice che poco più in là
+più avanti
 c'è un altro ponte.
+
 Intero.
 
-Non c'è.
-Virgilio lo scoprirà
-fra due canti.
+Pausa lunga.
+
+Questa parte
+è falsa.
 
 Pausa.
-
-Una data esatta,
-per vendere una bugia.
-È il trucco
-di un truffatore di strada.
-
-costor sien salvi infino a l’altro scheggio
-che tutto intero va sovra le tane.
+Il dato preciso
+serve
+a vendere
+la bugia.
 
 Pausa lunga.
 
-E ci sono i nomi.
+È una frode
+molto semplice.
 
-Come un sergente che fa l'appello.
+Ti dico
+una cosa vera.
+
+Molto precisa.
+
+Pausa.
+
+E mentre
+abbassi la guardia,
+ci appoggio
+la menzogna.
+
+Pausa lunga.
+
+Virgilio
+ci crede.
+
+Dante
+ha paura.
+
+Malacoda
+sorride,
+per così dire,
+con la propria
+catena di comando.
+
+Pausa.
+
+Poi l'appello.
 
 Alichino.
+
 Calcabrina.
+
 Cagnazzo.
+
 Barbariccia.
+
 Libicocco.
+
 Draghignazzo.
+
 Ciriatto.
+
 Graffiacane.
+
 Farfarello.
+
 Rubicante.
 
 Pausa lunga.
 
-Quasi tutti,
-probabilmente,
-Dante li ha presi dalla strada.
-Nei documenti di quegli anni
-ci sono un Malebranca,
-un Raffacani,
-perfino un Malacoda.
+Dieci.
 
 Pausa.
 
-Uno invece viene da lontano.
+E Barbariccia
+guida la decina.
 
-Alichino.
-In Francia, Hellequin.
-Il diavolo comico
-del teatro medievale francese.
+Pausa lunga.
 
-Pausa.
-
-Quasi tre secoli dopo,
-da quel nome
-nascerà una maschera.
-
-Arlecchino.
+Anche i nomi
+fanno qualcosa.
 
 Pausa.
 
-Nomi sporchi.
-Comici.
-Bestiali.
+Non sono
+solenni.
 
-Ma ordinati.
+Non sono
+Minosse.
 
-Anche i diavoli
-hanno una gerarchia.
+Non sono
+Cerbero.
 
+Pausa lunga.
+
+Sembrano
+soprannomi
+da strada.
+
+Graffiacane.
+
+Cagnazzo.
+
+Draghignazzo.
+
+Rubicante.
+
+Pausa.
+
+Li senti
+prima ancora
+di vederli.
+
+Pausa lunga.
+
+Dante
+li rende
+ridicoli.
+
+Ma non
+innocui.
+
+Pausa.
+
+È questo
+il tono
+che dobbiamo
+tenere.
+
+Pausa lunga.
+
+Puoi ridere
+di una cosa
+che resta
+pericolosa.
+
+Pausa lunga.
+
+Pausa lunga.
+
+Non un mucchio
+di mostri.
+
+Una squadra.
+
+Pausa lunga.
+
+E c'è
+un'altra ragione
+per cui
+questa scena
+fa ridere
+e paura
+insieme.
+
+Pausa.
+
+I diavoli
+parlano
+fra loro
+come una squadra
+che lavora
+da tempo.
+
+Pausa lunga.
+
+Si interrompono.
+
+Si chiamano.
+
+Si minacciano
+per scherzo.
+
+Aspettano
+il segnale.
+
+Pausa.
+
+Non c'è
+la solennità
+di Minosse.
+
+Non c'è
+il silenzio
+di Flegiàs.
+
+Pausa lunga.
+
+Qui il male
+ha abitudini.
+
+Routine.
+
+Pausa.
+
+Ed è forse
+questo
+che lo rende
+più inquietante.
+
+Pausa lunga.
+
+Non serve
+che ogni momento
+sia eccezionale.
+
+Per loro
+è un turno
+di lavoro.
+
+Pausa.
+
+Per Dante
+è una delle scene
+più pericolose
+del viaggio.
+
+Pausa lunga.
+
+Pausa lunga.
+
+E la pece
+continua
+a bollire
+sotto tutta
+questa commedia.
+
+Pausa.
+
+Non dimenticarla.
+
+Ogni volta
+che qualcuno
+prova a salire,
+
+un raffio
+lo rimette sotto.
+
+Pausa lunga.
+
+I barattieri
+vivono
+nel gesto
+di affiorare
+e nascondersi.
+
+Pausa.
+
+Esattamente
+come facevano
+nel mondo.
+
+Pausa lunga.
+
+Un accordo
+sottobanco.
+
+Un favore.
+
+Una decisione
+che non deve
+vedersi.
+
+Pausa.
+
+Qui tutto
+è diventato
+fisico.
+
+Pausa lunga.
+
+Sotto
+la superficie.
+
+Fuori
+solo per un attimo.
+
+Poi di nuovo
+sotto.
+
+Pausa.
+
+La bolgia
+non spiega
+la baratteria.
+
+La mette
+in movimento.
+
+Pausa lunga.
+
+E Dante
+cammina
+lungo il bordo
+di questo sistema
+con una scorta
+che appartiene
+proprio al sistema.
+
+Pausa.
+
+È questo
+che rende
+il finale
+così instabile.
+
+Pausa lunga.
 ## vv. 127-139 - La trombetta
 
 > «Ohmè, maestro, che è quel ch’i’ veggio?»
@@ -572,56 +1317,223 @@ hanno una gerarchia.
 
 Pausa lunga.
 
-Dante dice la cosa più sana del mondo:
-
-andiamocene soli.
-
-Pausa.
-
-Guarda i denti.
-Guarda le ciglia.
-
-Capisce benissimo
-che questa gente
-non promette niente di buono.
+Dante dice
+la cosa
+più sensata
+del canto.
 
 Pausa.
 
-Virgilio lo tranquillizza:
-digrignano per i dannati.
-
-Pausa.
-
-Non è così.
-Si strizzano l'occhio.
-Sanno della bugia.
-
-Quello che ha paura
-ha visto meglio
-di quello che sa.
+Andiamocene
+senza scorta.
 
 Pausa lunga.
 
-E poi
-il segnale di partenza.
+Guarda
+i denti.
 
-Non una tromba vera.
+Guarda
+le ciglia.
 
-Non una parola.
+Pausa.
+
+Non ti sembrano
+proprio
+tranquilli.
+
+Pausa lunga.
+
+Virgilio
+lo rassicura.
+
+Pausa.
+
+Digrignano
+per i dannati.
+
+Pausa lunga.
+
+Ma Dante
+ha visto
+qualcosa
+che Virgilio
+non sta leggendo.
+
+Pausa.
+
+Una complicità.
+
+Pausa lunga.
+
+I diavoli
+si fanno cenno.
+
+Lingua
+fra i denti.
+
+Pausa.
+
+Sanno
+qualcosa.
+
+Pausa lunga.
+
+Il pellegrino
+che ha paura
+ha letto
+meglio la scena
+della guida
+che sa la strada.
+
+Pausa.
+
+E questa cosa
+avrà un prezzo.
+
+Pausa lunga.
+
+Pausa lunga.
+
+E questa
+è una delle rare volte
+in cui Dante
+vede qualcosa
+prima della guida.
+
+Pausa.
+
+Virgilio
+conosce
+la struttura
+dell'Inferno.
+
+Sa trattare
+con i custodi.
+
+Sa usare
+il mandato
+dall'alto.
+
+Pausa lunga.
+
+Ma qui
+si fida
+di una lettura
+troppo semplice.
+
+Pausa.
+
+Hanno abbassato
+i raffi.
+
+Quindi
+possiamo andare.
+
+Pausa lunga.
+
+Dante invece
+guarda
+le facce.
+
+I denti.
+
+Le ciglia.
+
+I cenni.
+
+Pausa.
+
+Non ha
+la spiegazione.
+
+Ha un disagio.
+
+Pausa lunga.
+
+E il disagio
+qui vede
+qualcosa di vero.
+
+Pausa.
+
+È importante
+perché Virgilio
+non deve diventare
+infalibile.
+
+Pausa lunga.
+
+È una guida.
+
+Non Dio.
+
+Pausa.
+
+Può sapere
+più di Dante.
+
+Può anche
+essere ingannato.
+
+Pausa lunga.
+
+E proprio
+nel regno
+della frode
+questa differenza
+diventa decisiva.
+
+Pausa.
+
+La ragione
+serve.
+
+Ma la ragione
+può essere
+raggirata
+se prende
+una premessa falsa
+per vera.
+
+Pausa lunga.
+
+Non è
+un fallimento
+del viaggio.
+
+È il motivo
+per cui il viaggio
+deve continuare.
+
+Pausa lunga.
+Poi
+il segnale
+di partenza.
+
+Pausa.
+
+Non una tromba.
+
+Non un ordine.
+
+Pausa lunga.
 
 Il culo.
 
+Pausa.
+
+Dante
+non cerca
+una parola elegante.
+
 Pausa lunga.
 
-Dante lo scrive
-senza proteggersi.
+La volgarità
+è parte
+della scena.
 
-Perché vuole
-che il canto finisca
-esattamente così:
-
-con la volgarità
-fatta ordine di servizio.
+È il codice
+della squadra.
 
 ## Chiusura
 
@@ -630,39 +1542,290 @@ fatta ordine di servizio.
 Pausa lunga.
 
 Il ventunesimo canto
-non abbassa l'Inferno.
+non abbassa
+l'Inferno.
 
 Lo sporca.
 
 Pausa.
 
-E proprio così
-lo fa vedere meglio.
-
-La quinta bolgia
-non è solo un luogo di pena.
-
-È un cantiere di pece.
-
-Una caserma di diavoli.
-
-Una gerarchia
-che esegue ordini
-anche dentro il caos.
+E così
+lo fa vedere
+meglio.
 
 Pausa lunga.
 
-Dante ha paura.
+Pece.
 
-Virgilio tratta.
+Raffi.
 
-Malacoda obbedisce.
+Cani.
 
-E mente.
+Battute.
 
-La squadra si mette in moto.
+Ordini.
 
 Pausa.
 
+Dante
+ha paura.
+
+Virgilio
+tratta.
+
+Malacoda
+obbedisce.
+
+E mente.
+
+Pausa lunga.
+
+La cosa
+più interessante
+è proprio questa.
+
+Pausa.
+
+Il caos
+ha un capo.
+
+La violenza
+ha turni.
+
+Pausa lunga.
+
+Facciamo
+il conto.
+
+Pausa.
+
+Malacoda dice:
+
+ieri,
+cinque ore
+più tardi
+di questa ora,
+
+la via
+ha compiuto
+milleduecentosessantasei anni
+da quando
+si è rotta.
+
+Pausa lunga.
+
+Siamo nel 1300.
+
+Dante colloca
+la morte di Cristo
+nel trentaquattresimo anno
+della sua vita.
+
+Pausa.
+
+1266
+più 34.
+
+1300.
+
+Pausa lunga.
+
+E l'ora
+porta
+verso mezzogiorno
+del giorno precedente.
+
+Pausa.
+
+Il terremoto.
+
+La roccia
+che crolla.
+
+Pausa lunga.
+
+Nel dodicesimo canto
+Virgilio
+aveva detto:
+
+qui ed altrove.
+
+Pausa.
+
+Questo
+è l'altrove.
+
+Pausa lunga.
+
+E la cosa
+quasi comica
+è questa.
+
+Virgilio
+quel terremoto
+lo aveva spiegato
+con Empedocle.
+
+Pausa.
+
+Il diavolo
+invece
+sa il calendario.
+
+Pausa lunga.
+
+Non significa
+che capisca
+meglio
+il senso.
+
+Ma conosce
+il dato.
+
+Pausa.
+
+È una lezione
+importante.
+
+Pausa lunga.
+
+Avere
+un'informazione
+precisa
+non significa
+dire la verità.
+
+Pausa.
+
+Perché subito dopo
+Malacoda
+usa quella precisione
+per rendere
+credibile
+la bugia.
+
+Pausa lunga.
+
+Il ponte
+intero
+non c'è.
+
+Pausa.
+
+La frase
+è costruita
+come una truffa.
+
+Un pezzo vero.
+
+Un pezzo falso.
+
+Pausa lunga.
+
+E proprio
+in una bolgia
+di barattieri
+Virgilio
+si compra
+la parte sbagliata.
+
+Pausa lunga.
+La menzogna
+ha una procedura.
+
+Pausa lunga.
+
+E quando
+la squadra
+si mette in moto,
+
+Dante non torna
+tranquillo.
+
+Pausa.
+
+Cammina
+con loro.
+
+Pausa lunga.
+
+Dieci diavoli
+attorno.
+
+Virgilio
+accanto.
+
+Pausa.
+
+Il canto
+non risolve
+la tensione.
+
+La porta
+nel successivo.
+
+Pausa lunga.
+
+Pausa lunga.
+
 Anche i diavoli
-hanno una gerarchia.
+hanno
+una gerarchia.
+
+Pausa lunga.
+
+E il canto
+si chiude
+prima di sapere
+come andrà.
+
+Pausa.
+
+La squadra
+parte.
+
+Dante
+non vuole andarci.
+
+Virgilio
+sì.
+
+Pausa lunga.
+
+Uno dei due
+ha ragione.
+
+Ma per ora
+non sappiamo
+quale.
+
+Pausa.
+
+È una piccola
+sospensione
+perfetta.
+
+Pausa lunga.
+
+Il ventiduesimo canto
+comincerà
+con questa compagnia
+già in marcia.
+
+E lì
+la frode
+non sarà più
+solo nei dannati.
+
+Pausa.
+
+Entrerà
+nel gioco
+fra dannati
+e diavoli.
+
+Pausa lunga.
+
+Pausa.
+
+[Schermo: nero pieno]
