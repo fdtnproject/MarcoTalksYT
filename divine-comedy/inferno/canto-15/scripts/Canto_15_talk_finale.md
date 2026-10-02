@@ -343,7 +343,7 @@ Pausa lunga.
 Il volto bruciato
 invece è rimasto.
 
-[Schermo: testo — DA SCEGLIERE (Marco): la riga di Eliot da Little Gidding, II, con "Londra, 1942"]
+[Schermo: testo — "T. S. Eliot · Little Gidding · Londra, 1942"]
 
 Pausa lunga.
 
