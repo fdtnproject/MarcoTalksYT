@@ -9,31 +9,44 @@ Linea guida: "Si è ancora chi si è stati"
 
 Pausa lunga.
 
-Allora, il decimo canto.
+Allora,
+il decimo canto.
 
 Pausa.
 
 Dentro Dite
-non trovano un palazzo.
+non trovano
+un palazzo.
 
-Trovano un cimitero.
+Trovano
+un cimitero.
 
 Pausa.
 
 Sepolcri aperti.
-Fuoco dentro.
 
-E in uno di quei sepolcri
-due uomini
-che stanno bruciando
-nello stesso modo
-senza essere
-la stessa persona.
+Fuoco dentro.
 
 Pausa lunga.
 
-Uno parla come un capo politico.
-L'altro come un padre.
+E in uno
+di quei sepolcri,
+due uomini.
+
+Stesso fuoco.
+
+Stessa eresia.
+
+Pausa.
+
+Ma non
+la stessa persona.
+
+Uno parla
+come un capo politico.
+
+L'altro
+come un padre.
 
 ## vv. 1-21 - Le tombe aperte
 
@@ -60,61 +73,136 @@ L'altro come un padre.
 > e tu m’hai non pur mo a ciò disposto.»
 
 Camminano
-per un passaggio stretto
-fra il muro della città
-e i martìri.
+per un secreto calle.
 
 Pausa.
 
-Dante guarda
-queste tombe aperte
-e fa la domanda più naturale:
+Un passaggio
+stretto.
 
-si possono vedere
-quelli che stanno dentro?
+Da una parte,
+il muro
+di Dite.
+
+Dall'altra,
+le tombe.
 
 Pausa lunga.
 
-Virgilio risponde
-con una calma secca.
+Dante
+non guarda
+una distesa
+da lontano.
 
-Adesso sì.
+Ci passa
+dentro.
 
-Dopo il giudizio finale
+Pausa.
+
+E fa
+la domanda
+più naturale.
+
+Si possono
+vedere
+quelli
+che stanno dentro?
+
+Pausa lunga.
+
+I coperchi
+sono aperti.
+
+Nessuno
+fa la guardia.
+
+Pausa.
+
+Virgilio
+risponde:
+
+adesso,
+sì.
+
+Pausa lunga.
+
+Dopo il giudizio
+finale,
 no.
 
-I coperchi si chiuderanno
-quando le anime
-torneranno qui
-coi corpi
-che hanno lasciato lassù.
+I corpi
+torneranno.
+
+Le tombe
+si chiuderanno.
 
 Pausa.
 
-E poi spiega
-chi abita questo cimitero.
-
-Epicuro
-e tutti i suoi seguaci.
-
-Quelli che fanno morire
-l'anima col corpo.
+Quello che
+adesso
+permette a Dante
+di vedere
+dentro,
+un giorno
+sparirà.
 
 Pausa lunga.
 
-L'eresia qui
+È una finestra
+temporanea
+sulla pena.
+
+Pausa.
+
+Poi Virgilio
+spiega
+chi abita
+quel cimitero.
+
+Epicuro
+e i suoi
+seguaci.
+
+Pausa lunga.
+
+Quelli
+che fanno
+morire
+l'anima
+con il corpo.
+
+Pausa.
+
+L'errore,
+qui,
 non è genericamente
 una cattiva idea.
 
 È un errore
-sul destino dell'uomo.
+sul destino
+dell'uomo.
+
+Pausa lunga.
 
 Hanno pensato
-che tutto finisse
+che tutto
+finisse
 nel corpo.
 
-E per questo
-stanno in tombe di fuoco.
+E adesso
+sono in tombe
+che non riescono
+a finire
+nulla.
+
+Pausa.
+
+Aperte.
+
+Accese.
+
+Piene
+di voci.
 
 ## vv. 22-42 - Farinata si alza
 
@@ -140,21 +228,49 @@ stanno in tombe di fuoco.
 > guardommi un poco, e poi, quasi sdegnoso,
 > mi dimandò: «Chi fuor li maggior tui?»
 
-Poi una voce.
+Poi,
+una voce.
 
 Pausa lunga.
 
-Ha riconosciuto Dante
-dal modo di parlare.
-
-Dall'accento.
-
-Prima ancora del volto
-arriva la patria.
+Prima ancora
+di vedere
+il volto,
+Farinata
+ha riconosciuto
+Dante.
 
 Pausa.
 
-E Virgilio dice:
+Dalla lingua.
+
+Dalla loquela.
+
+Dall'accento.
+
+Pausa lunga.
+
+Prima del nome,
+arriva Firenze.
+
+Pausa.
+
+O Tosco.
+
+Pausa lunga.
+
+È bellissimo.
+
+Dentro un luogo
+che dovrebbe
+aver cancellato
+la città,
+la città
+arriva subito.
+
+Pausa.
+
+Virgilio dice:
 
 girati.
 
@@ -162,42 +278,86 @@ Guarda.
 
 Quello è Farinata.
 
-Pausa.
+Pausa lunga.
 
-Ricordi i cinque nomi di Ciacco?
-Il primo era lui.
+Ricordi
+i cinque nomi
+di Ciacco?
+
+Il primo
+era lui.
 
 [Schermo: Doré — Farinata che si alza dalla tomba]
 
-Farinata degli Uberti.
+Farinata
+degli Uberti.
 
-Capo ghibellino.
-Vincitore di Montaperti.
+Capo
+ghibellino.
+
+Vincitore
+di Montaperti.
+
 Nemico storico
-della parte di Dante.
+della parte
+di Dante.
 
 Pausa lunga.
 
-Ma la prima cosa
-che conta
-non è la biografia.
-
-È la postura.
-
-Pausa.
-
-Come se l'Inferno
-gli facesse poco.
-
-Sta dritto
-dentro la dannazione.
+Ma prima
+della biografia,
+guarda
+la postura.
 
 Pausa.
 
-Virgilio lo avverte
-di pesare ogni parola.
+Petto.
 
-Davanti a quest'uomo
+Fronte.
+
+Dritto.
+
+Pausa lunga.
+
+Come se
+l'Inferno
+gli facesse
+poco.
+
+Pausa.
+
+Non esce
+dalla tomba.
+
+Non può.
+
+Ma il modo
+in cui si alza
+sembra volerlo
+negare.
+
+Pausa lunga.
+
+Virgilio
+spinge Dante
+verso di lui.
+
+E gli dà
+un ordine:
+
+le parole tue
+sien conte.
+
+Pausa.
+
+Misurate.
+
+Precise.
+
+Pausa lunga.
+
+Davanti
+a quest'uomo
 non si improvvisa.
 
 ## vv. 43-51 - Lo scontro
@@ -213,46 +373,95 @@ non si improvvisa.
 > ma i vostri non appreser ben quell’arte.»
 
 Farinata
-non chiede il nome di Dante.
+non chiede:
 
-Chiede la famiglia.
+chi sei?
+
+Pausa.
+
+Chiede:
+
+chi furono
+i tuoi?
 
 Pausa lunga.
 
-Per lui
-le persone
-si misurano dalla casata.
-
-Dante risponde.
-
-Farinata capisce subito.
-
-E alza appena
-le sopracciglia.
+La persona
+entra
+attraverso
+la famiglia.
 
 Pausa.
 
-Siamo stati nemici feroci.
-Li ho dispersi due volte.
+Dante
+risponde.
+
+Farinata
+capisce subito.
+
+Alza appena
+le ciglia.
+
+Pausa lunga.
+
+Fieramente
+furono avversi
+ai miei.
 
 Pausa.
+
+Li ho dispersi
+due volte.
+
+Pausa lunga.
 
 E Dante,
 giovane guelfo,
-risponde con una stoccata
+risponde
+con una stoccata
 perfetta.
+
+Pausa.
+
+I miei
+sono tornati.
+
+I tuoi,
+no.
 
 Pausa lunga.
 
-I miei sono tornati.
-I tuoi no.
-
 È politica
-detta davanti a una tomba.
+detta
+davanti
+a una tomba.
 
-E proprio lì,
-accanto a Farinata,
-si alza un'altra ombra.
+Pausa.
+
+E la cosa
+impressionante
+è che nessuno
+dei due
+abbassa il tono
+perché si trova
+all'Inferno.
+
+Pausa lunga.
+
+Firenze
+continua
+a essere
+abbastanza importante
+da litigare
+anche qui.
+
+Pausa.
+
+Poi,
+proprio accanto
+a Farinata,
+si alza
+un'altra ombra.
 
 ## vv. 52-60 - Cavalcante
 
@@ -271,17 +480,28 @@ si alza un'altra ombra.
 Non si alza
 come Farinata.
 
-Arriva solo
-fino al mento.
+Pausa.
 
-Credo che sia
-sulle ginocchia.
+Arriva
+solo
+fino al mento.
 
 Pausa lunga.
 
+Credo,
+dice Dante,
+che fosse
+in ginocchio.
+
+Pausa.
+
 Stesso sepolcro.
+
 Stesso fuoco.
+
 Stessa eresia.
+
+Pausa lunga.
 
 Altra postura.
 
@@ -289,25 +509,69 @@ Pausa.
 
 E altra domanda.
 
-Non la famiglia.
-Non la parte politica.
-
 Pausa lunga.
 
-Questo padre
-vede Dante
-e pensa subito a Guido.
+Cavalcante
+non guarda
+Dante
+per capire
+la parte politica.
 
-Se il viaggio è concesso
-all'altezza d'ingegno,
-allora dov'è mio figlio?
+Guarda
+attorno a Dante.
 
 Pausa.
 
-Non dice Guido.
+Cerca
+qualcun altro.
+
+Pausa lunga.
+
+Mio figlio
+dov'è?
+
+Pausa.
+
+Non dice:
+Guido.
 
 Dice:
+
 mio figlio.
+
+Pausa lunga.
+
+È tutto lì.
+
+Farinata
+vede una casata.
+
+Cavalcante
+vede un'assenza.
+
+Pausa.
+
+E la domanda
+è quasi logica.
+
+Se tu
+sei qui
+per altezza
+d'ingegno,
+perché Guido
+non è
+con te?
+
+Pausa lunga.
+
+Per un padre,
+la grandezza
+del figlio
+è talmente ovvia
+che diventa
+la misura
+del viaggio
+di Dante.
 
 ## vv. 61-72 - L'"ebbe"
 
@@ -328,190 +592,345 @@ Dante risponde.
 
 Pausa lunga.
 
-Tre cose in una.
+Da me stesso
+non vegno.
+
+Pausa.
 
 Non sono qui
-per merito mio.
-
-Mi guida Virgilio.
-
-E mi porta da qualcuno
-che forse Guido
-ha disdegnato.
+perché il mio ingegno
+mi ha aperto
+la porta.
 
 Pausa lunga.
 
-forse, cui Guido vostro ebbe a disdegno.
+Mi guida
+Virgilio.
+
+E mi porta
+da qualcuno
+che forse Guido
+ha avuto
+a disdegno.
 
 Pausa.
+
+Forse,
+cui Guido vostro
+ebbe a disdegno.
+
+Pausa lunga.
 
 Cui.
-Chi?
 
-Su questa parola
-si discute da secoli.
+Chi?
 
 Pausa.
 
-Per una lettura antica
-è Virgilio:
-la grande poesia latina,
-che Guido non amava.
-
-Per molti, oggi,
-è Beatrice.
-La donna verso cui Virgilio
-sta portando Dante.
-Guido l'aveva conosciuta.
-Ma non l'aveva mai guardata
-come la guardava Dante.
+Su questa parola
+si discute
+da secoli.
 
 Pausa lunga.
 
-Due amici poeti.
-E una donna
-che uno dei due
-ha fatto diventare un cielo.
+Per una lettura
+antica,
+Virgilio.
 
-L'altro no.
+La poesia
+latina.
+
+Pausa.
+
+Per molti
+commentatori moderni,
+Beatrice.
+
+Pausa lunga.
+
+Non possiamo
+trasformare
+questa lettura
+in una biografia
+di Guido.
+
+Pausa.
+
+La formula
+sicura
+è più semplice.
+
+In questa lettura,
+Guido rifiuta
+ciò che Beatrice
+rappresenta
+nel viaggio
+di Dante.
 
 Pausa lunga.
 
 Ma il punto
-è un altro.
+della scena
+non è
+questo dibattito.
+
+È una parola.
 
 [Schermo: testo — "ebbe"]
 
-"Ebbe."
+Ebbe.
 
 Lungo silenzio.
 
+Pausa.
+
 Passato remoto.
 
-Cavalcante lo sente
-e si raddrizza.
-
-Pausa.
-
-Da un solo verbo
-al passato remoto
-Cavalcante deduce
-che il figlio è morto.
-
-Pausa lunga.
-
-E Dante,
-sorpreso,
-esita
-prima di rispondere.
-
-E quell'esitazione
-diventa risposta.
-
-Pausa.
-
-Ricade dentro la tomba.
-
-Non per la risposta.
-
-Per il silenzio
-prima della risposta.
-
-Pausa lunga.
-
 Cavalcante
-è ancora vivo
-solo per il figlio.
+lo sente.
 
-E quando crede
-che il figlio sia morto,
-crolla.
+E si raddrizza.
 
 Pausa lunga.
 
-Adesso bisogna sapere
+Come dicesti?
+
+Egli ebbe?
+
+Non vive
+ancora?
+
+Pausa.
+
+Da un verbo
+al passato,
+il padre
+deduce
+che il figlio
+sia morto.
+
+Pausa lunga.
+
+E Dante
+non risponde
+subito.
+
+Pausa.
+
+Non perché
+voglia ferire.
+
+Perché
+non capisce
+la domanda.
+
+Pausa lunga.
+
+Ma Cavalcante
+non può sapere
+che Dante
+sta pensando.
+
+Vede
+solo il ritardo.
+
+Pausa.
+
+E quel ritardo
+per lui
+è una risposta.
+
+Pausa lunga.
+
+Ricade
+nella tomba.
+
+Supino.
+
+E non appare
+più.
+
+Pausa.
+
+Non è stata
+una frase
+a farlo crollare.
+
+È stato
+il silenzio
+fra due frasi.
+
+Pausa lunga.
+
+Una delle scene
+più crudeli
+dell'Inferno
+sta tutta
+in un tempo verbale
+e in un'esitazione.
+
+## Guido
+
+Pausa lunga.
+
+Adesso,
+solo adesso,
+serve sapere
 chi era Guido.
 
 Pausa.
 
 Guido Cavalcanti.
-Il poeta più ammirato
-della Firenze di quegli anni.
 
-E l'amico più caro di Dante.
-A lui Dante dedica la Vita Nova.
-Lo chiama
-primo de li miei amici.
+Poeta.
+
+Amico
+di Dante.
 
 Pausa lunga.
 
-Il viaggio è ambientato
-nella primavera del 1300.
-Guido è vivo.
+Nella Vita Nova,
+Dante lo chiama
+primo
+de li miei amici.
 
 Pausa.
 
-Il 15 giugno
-Dante diventa uno dei priori di Firenze.
+Il viaggio
+è ambientato
+nella primavera
+del 1300.
 
-Pochi giorni dopo,
-per fermare gli scontri tra le fazioni,
-i priori mandano al confino
-i capi delle due parti.
+Guido
+è vivo.
+
+Pausa lunga.
+
+Il 15 giugno,
+Dante diventa
+uno dei priori
+di Firenze.
+
+Pausa.
+
+Poco dopo,
+per fermare
+gli scontri,
+i priori
+mandano
+al confino
+i capi
+delle due parti.
+
+Pausa lunga.
 
 Fra i Bianchi
 c'è Guido.
 
-Pausa lunga.
+Pausa.
 
-Lo mandano a Sarzana.
-Lì si ammala.
-Torna a Firenze.
+Sarzana.
 
-Alla fine di agosto
-muore.
+Malattia.
+
+Ritorno
+a Firenze.
+
+Fine agosto.
+
+Muore.
 
 Pausa lunga.
 
 Fra i priori
-che avevano deciso quel confino
+che avevano deciso
+quel confino
 c'era Dante.
+
+Pausa.
+
+Quando il poeta
+scrive questa scena,
+sa tutto questo.
 
 Pausa lunga.
 
-Quando Dante scrive
-quel passato remoto,
-sa tutto questo.
+Il personaggio,
+nel marzo-aprile
+del 1300,
+no.
 
 Pausa.
 
 A me sembra
-che quell'esitazione
-davanti al padre
-non sia solo un equivoco sui tempi dei verbi.
-
-È l'autore che sa,
-dentro il personaggio
-che non sa ancora.
+che qui
+si sentano
+insieme
+due tempi.
 
 Pausa lunga.
 
-supin ricadde, e più non parve fora.
+Dante-personaggio
+che non capisce
+perché Cavalcante
+sia crollato.
+
+E Dante-autore
+che sa
+che Guido
+morirà
+pochi mesi dopo.
 
 Pausa.
 
-Ricordi la storia di Boccaccio?
-Guido,
-circondato fra le tombe di San Giovanni,
-ci saltava sopra.
+Non serve dire
+che il poeta
+abbia costruito
+ogni esitazione
+per questo.
+
+Pausa lunga.
+
+Basta sentire
+quanto pesa,
+per chi scrive,
+quel padre
+che chiede
+se il figlio
+sia ancora vivo.
+
+Pausa.
+
+E poi
+un'altra immagine.
+
+Boccaccio
+racconterà
+Guido
+fra le tombe
+di San Giovanni.
+
+Pausa lunga.
+
+Circondato
+da giovani.
+
+Una mano
+sul sepolcro.
+
+Un salto.
+
+E via.
 
 Pausa.
 
 Il figlio
-le tombe le scavalcava.
+le tombe
+le scavalca.
 
 Il padre
-ci ricade dentro.
+ci ricade
+dentro.
 
 ## Due persone nello stesso fuoco
 
@@ -523,89 +942,121 @@ Fermati qui.
 
 Pausa.
 
-Dentro lo stesso sepolcro
-stanno due uomini.
-
-Stessa eresia.
-Stesso fuoco.
-Stessa pena.
+Dentro
+lo stesso sepolcro
+stanno
+due uomini.
 
 Pausa lunga.
 
-Ma non la stessa persona.
+Stessa eresia.
+
+Stesso fuoco.
+
+Stessa pena.
+
+Pausa.
+
+Ma non
+la stessa persona.
+
+Pausa lunga.
 
 Farinata
 sta dritto.
 
 Cavalcante
-è in ginocchio.
-
-Farinata
-parla di casate,
-partiti,
-ritorni a Firenze.
-
-Cavalcante
-parla di un figlio.
+in ginocchio.
 
 Pausa.
 
 Farinata
-non muta aspetto
-quando Cavalcante crolla.
+parla
+di casate.
+
+Cavalcante
+di un figlio.
+
+Pausa lunga.
+
+Farinata
+continua
+anche dopo
+che Cavalcante
+crolla.
+
+Pausa.
+
+Non gira
+il collo.
+
+Non piega
+la costa.
+
+Pausa lunga.
+
+È terribile.
+
+Ma coerente.
+Pausa.
 
 Ognuno
-porta nella pena
-quello che era prima.
+porta
+nella pena
+quello
+che era stato.
 
 Pausa lunga.
 
-Il fuoco
-non li appiattisce.
-
-Pausa lunga.
-
-Durante la seconda guerra mondiale,
-a Istanbul,
-uno studioso tedesco
-cacciato dalla sua università
-perché ebreo,
-lontano dai suoi libri,
-scrive un capitolo
-proprio su questi due uomini.
-
-Erich Auerbach.
+Auerbach,
+secoli dopo,
+leggerà proprio
+questa forza
+dei personaggi
+di Dante.
 
 Pausa.
 
 Un esule
-che legge un esule.
+che legge
+un esule.
 
 Pausa lunga.
 
-Dice una cosa
-che a me sembra vera.
+La sua idea,
+detta in breve,
+è questa:
 
-Nell'aldilà di Dante
-gli uomini non svaniscono.
-Diventano
-ancora più intensamente
-quello che erano.
+nell'aldilà
+di Dante,
+la persona
+non si dissolve.
 
 Pausa.
 
-E aggiunge:
-a forza di realtà,
-l'uomo
-finisce per riempire tutta la scena.
-Più ancora di Dio
-che lo ha giudicato.
+Si concentra.
 
 Pausa lunga.
 
-Farinata è dannato.
-Ma è lui
-che non riusciamo a smettere di guardare.
+Farinata,
+dannato,
+resta Farinata
+con una forza
+quasi eccessiva.
+
+Cavalcante,
+dannato,
+resta padre.
+
+Pausa.
+
+La pena
+non li rende
+intercambiabili.
+
+Li rende
+ancora più
+riconoscibili.
 
 ## vv. 73-84 - Farinata immutato
 
@@ -622,108 +1073,100 @@ che non riusciamo a smettere di guardare.
 > dimmi: perché quel popolo è sì empio
 > incontr’a’ miei in ciascuna sua legge?»
 
-E infatti
-Farinata non cambia.
+E infatti,
+Farinata
+non cambia.
 
-Non muove il collo.
-Non piega il fianco.
+Pausa.
 
-Pausa lunga.
-
-Cavalcante è ricaduto
+Cavalcante
+è sparito
 accanto a lui.
 
-Farinata continua
-da dove era stato interrotto.
+Farinata
+riprende
+la frase
+interrotta.
+
+Pausa lunga.
+
+Come se
+la scena
+del padre
+fosse passata
+accanto
+alla sua ossessione
+senza spostarla.
 
 Pausa.
 
-Mi tormenta di più
-che la mia famiglia
-non sappia tornare a Firenze
-del letto di fuoco
+La famiglia.
+
+Firenze.
+
+Il ritorno.
+
+Pausa lunga.
+
+Mi tormenta
+di più,
+dice,
+che i miei
+non sappiano
+tornare a Firenze
+del letto
+di fuoco
 in cui giaccio.
 
+Pausa.
+
+È una frase
+quasi impossibile.
+
 Pausa lunga.
 
-Poi la profezia.
+La dannazione
+non cancella
+la politica.
+
+La politica
+sembra ancora
+più urgente
+della dannazione.
 
 Pausa.
 
-Non passeranno cinquanta lune
-e saprai anche tu
+Poi Farinata
+si gira
+su Dante.
+
+Pausa lunga.
+
+Non passeranno
+cinquanta lune,
+e anche tu
+saprai
 quanto pesa
-l'arte di ritornare
+l'arte
+di tornare
 e non riuscirci.
 
-Sta parlando
-dell'esilio di Dante.
-
 Pausa.
 
-Ciacco era stato il primo.
-Farinata è il secondo.
-E questa volta
-la profezia lo tocca da vicino.
+Ciacco
+era stato
+il primo.
 
-Pausa lunga.
-
-E subito dopo
-torna alla sua ossessione.
-
-Perché Firenze
-continua a essere
-così empia
-contro gli Uberti?
-
-Pausa lunga.
-
-E Firenze, con gli Uberti,
-è stata davvero senza pietà.
-
-Pausa.
-
-Farinata muore nel 1264.
-Diciannove anni dopo,
-l'Inquisizione
-processa per eresia
-lui e sua moglie.
-Da morti.
-
-Le loro ossa
-vengono tolte dalla sepoltura.
-
-Pausa lunga.
-
-Le case degli Uberti,
-nel cuore di Firenze,
-erano già state rase al suolo.
-E un decreto aveva stabilito
-che su quel terreno maledetto
-non si costruisse mai più.
-
-Pausa.
-
-Quel vuoto
-oggi lo conosciamo.
-
-È piazza della Signoria.
-
-Pausa lunga.
-
-Chi è stato a Firenze
-ha camminato
-sulle case di Farinata.
-
-Pausa lunga.
-
-ciò mi tormenta più che questo letto.
-
-Anche da dannato
 Farinata
-fa ancora politica.
+è il secondo.
 
-## vv. 85-99 - La domanda sul vedere
+Pausa lunga.
+
+La profezia
+dell'esilio
+si avvicina.
+
+## vv. 85-99 - Firenze e Montaperti
 
 > Ond’io a lui: «Lo strazio e ’l grande scempio
 > che fece l’Arbia colorata in rosso
@@ -742,63 +1185,104 @@ fa ancora politica.
 > e nel presente tenete altro modo.»
 
 Dante risponde
-che il sangue di Montaperti
-non è stato dimenticato.
-
-L'Arbia colorata in rosso
-parla ancora
-nelle leggi di Firenze.
+con Montaperti.
 
 Pausa.
 
-E quel giorno, a Montaperti,
-racconta il cronista Villani,
-un guelfo tradì la sua parte.
-Tagliò la mano
-a chi portava la bandiera.
-
-Lo ritroveremo.
-Molto più giù.
-Nel ghiaccio.
+L'Arbia
+colorata
+in rosso.
 
 Pausa lunga.
 
-E Farinata
-concede una cosa
-che pesa.
-
-Non c'ero solo io.
-
-Ma fui io solo,
-quando tutti volevano
-distruggere Firenze,
-a difenderla
-a viso aperto.
+Una battaglia
+che Firenze
+non ha dimenticato.
 
 Pausa.
 
-Ha sterminato i nemici.
+Farinata
+non nega.
+
+Non dice:
+non c'ero.
+
+Pausa lunga.
+
+Dice:
+non c'ero
+solo io.
+
+Pausa.
+
+E poi
+rivendica
+un'altra cosa.
+
+Quando si propose
+di distruggere
+Firenze,
+io fui
+quello che
+la difese.
+
+Pausa lunga.
+
+È questa
+la grandezza
+inquietante
+di Farinata.
+
+Pausa.
+
+Può essere
+nemico feroce
+della parte
+di Dante.
 
 E insieme
-ha salvato la città.
+può aver difeso
+la città
+dalla distruzione.
 
 Pausa lunga.
 
-Allora Dante
-torna al punto
-che lo tormenta davvero.
-
-Come fate
-a vedere il futuro
-e a non vedere il presente?
+Dante
+non lo riduce
+alla categoria
+che gli serve.
 
 Pausa.
 
-Cavalcante non sa
-se Guido viva ora.
+Lo lascia
+contraddittorio.
 
-Farinata sa
-che Dante sarà esiliato.
+Pausa lunga.
+
+E poi torna
+al punto
+che davvero
+non capisce.
+
+Pausa.
+
+Come fate
+a vedere
+il futuro
+e a non vedere
+il presente?
+
+Pausa lunga.
+
+Cavalcante
+non sa
+se Guido
+sia vivo.
+
+Farinata
+sa
+che Dante
+sarà esiliato.
 
 Come funziona?
 
@@ -820,65 +1304,136 @@ Come funziona?
 > fate i saper che ’l feci che pensava
 > già ne l’error che m’avete soluto.»
 
-Farinata risponde.
-
-Pausa.
-
-Vediamo da lontano.
-
-Come una vista debole
-che prende il remoto
-e perde il vicino.
+Farinata
+risponde.
 
 Pausa lunga.
 
-Quando le cose
-si avvicinano
-o sono presenti,
-il loro intelletto
-diventa vano.
-
-E se nessuno porta notizie,
-non sanno nulla
-di quello che accade adesso.
+Vediamo,
+dice,
+come chi
+ha una vista
+debole.
 
 Pausa.
 
-Ecco perché
-Cavalcante non sapeva.
+Meglio
+le cose lontane.
 
-Ecco perché
-Farinata invece sa.
-
-Lontano sì.
-Presente no.
+Peggio
+le vicine.
 
 Pausa lunga.
 
-Poi l'ultimo colpo.
+Il futuro
+lo intravedono.
 
-Quando il futuro
-si chiuderà,
-si chiuderà anche
-la loro conoscenza.
-
-Dopo il giudizio finale
-non sapranno più nulla
-del mondo dei vivi.
+Il presente,
+se nessuno
+porta notizie,
+no.
 
 Pausa.
 
-E Dante capisce
-la propria colpa.
+È una conoscenza
+strana.
 
-Chiede che si dica
-a Cavalcante
-che Guido
-è ancora tra i vivi.
+Pausa lunga.
 
-Che il suo silenzio
-era nato dall'errore,
-non dalla crudeltà.
+Sanno
+ciò che
+non è ancora
+successo.
+
+Ma possono
+ignorare
+ciò che sta
+succedendo
+adesso.
+
+Pausa.
+
+E la scena
+di Cavalcante,
+all'improvviso,
+si ricompone.
+
+Pausa lunga.
+
+Il padre
+non era
+cieco d'amore.
+
+Era davvero
+cieco
+sul presente.
+
+Pausa.
+
+Poi Farinata
+aggiunge
+l'ultima conseguenza.
+
+Pausa lunga.
+
+Quando
+il futuro
+sarà finito,
+finirà anche
+questa conoscenza.
+
+Pausa.
+
+Dopo il giudizio
+finale,
+non avranno
+più nulla
+da vedere
+in avanti.
+
+Pausa lunga.
+
+Il loro sapere
+si spegnerà
+con il tempo
+che lo alimenta.
+
+Pausa.
+
+E Dante,
+capito l'errore,
+fa subito
+una cosa.
+
+Pausa lunga.
+
+Chiede
+che Cavalcante
+sappia.
+
+Guido
+è vivo.
+
+Pausa.
+
+Il mio silenzio
+non era
+una risposta.
+
+Stavo
+capendo.
+
+Pausa lunga.
+
+È una piccola
+riparazione.
+
+Arriva tardi
+per la scena.
+
+Ma Dante
+la chiede
+lo stesso.
 
 ## vv. 115-136 - Il commiato
 
@@ -905,100 +1460,196 @@ non dalla crudeltà.
 > per un sentier ch’ad una valle fiede,
 > che infin là su facea spiacer suo lezzo.
 
-Virgilio richiama Dante.
+Virgilio
+richiama Dante.
+
+Pausa.
 
 Bisogna andare.
 
-Pausa.
+Pausa lunga.
 
 Prima di sparire,
-Farinata aggiunge solo questo:
-
-Con me
-ci sono più di mille altri.
+Farinata
+aggiunge
+pochi nomi.
 
 Federico II.
+
 Il Cardinale.
-E gli altri
-li lascia perdere.
 
 Pausa.
 
-Federico II,
-l'imperatore.
-Fra tre canti
-incontreremo il suo cancelliere.
+Più di mille,
+dice.
+
+Gli altri
+li lascia
+nel buio.
 
 Pausa lunga.
 
-Poi si nasconde.
-
-Dante torna da Virgilio
-con la profezia addosso.
-
-Virgilio lo vede smarrito.
-
-Ricordatelo.
+Poi scompare.
 
 Pausa.
 
-E il resto
-lo saprai da Beatrice.
-
-Non qui.
-
-Più in alto.
+Dante torna
+da Virgilio
+con la profezia
+addosso.
 
 Pausa lunga.
 
-Poi girano a sinistra.
+E Virgilio
+vede subito
+che qualcosa
+è cambiato.
 
-Lasciano il muro.
+Perché sei
+tanto smarrito?
 
-E tornano
-verso il cammino,
-con già nell'aria
-il lezzo
-del cerchio successivo.
+Pausa.
+
+Dante racconta.
+
+Pausa lunga.
+
+Virgilio
+non gli dice:
+
+dimentica.
+
+Pausa.
+
+Gli dice
+il contrario.
+
+Conserva.
+
+Pausa lunga.
+
+La mente tua
+conservi
+quel che hai udito
+contro di te.
+
+Pausa.
+
+Tienilo.
+
+Pausa lunga.
+
+Ma non pensare
+di sapere già
+tutto.
+
+Pausa.
+
+Il resto
+lo saprai
+da Beatrice.
+
+Pausa lunga.
+
+Ancora una volta,
+Virgilio
+riconosce
+un limite.
+
+Può portare
+Dante
+fino a un punto.
+
+Pausa.
+
+Non può
+spiegargli
+tutta la sua vita.
+
+Pausa lunga.
+
+Poi girano
+a sinistra.
+
+Lasciano
+il muro.
+
+Pausa.
+
+E l'odore
+del cerchio
+successivo
+arriva già
+fin lassù.
 
 ## Chiusura da palco
+
+[Schermo: nero pieno]
 
 Pausa lunga.
 
 Il Canto X
-mette due uomini
-nello stesso sepolcro
-e non li confonde.
+mette
+due uomini
+nello stesso
+sepolcro.
 
 Pausa.
+
+E non li confonde.
+
+Pausa lunga.
 
 Farinata
-resta dritto
-e parla ancora di Firenze.
+resta dritto.
+
+Parla
+di Firenze.
 
 Cavalcante
-si alza in ginocchio
-e cerca un figlio.
+si alza
+in ginocchio.
 
-Pausa lunga.
-
-Uno regge l'Inferno
-come un avversario.
-
-L'altro crolla
-per un verbo.
+Cerca
+un figlio.
 
 Pausa.
 
-Il fuoco
-non cancella
-quello che erano stati.
+Uno
+regge l'Inferno
+come un avversario.
+
+L'altro
+crolla
+per un verbo.
 
 Pausa lunga.
+
+E il fuoco
+non cancella
+quello che erano.
+
+Pausa.
+
+La pena
+non produce
+personaggi uguali.
+
+Li concentra.
+
+Pausa lunga.
+
+Farinata
+è ancora
+Farinata.
+
+Cavalcante
+è ancora
+padre.
+
+Pausa.
 
 Si è ancora
 chi si è stati.
-
-Pausa.
 
 [Schermo: nero pieno]
