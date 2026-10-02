@@ -9,36 +9,45 @@ Linea guida: "Non si cambia neanche bruciando"
 
 Pausa lunga.
 
-Allora, il quattordicesimo canto.
+Allora,
+il quattordicesimo canto.
 
 Pausa.
 
-Escono dalla selva.
+Escono
+dalla selva.
 
-Dante ha ancora addosso
-il gesto appena fatto:
-ha raccolto i rami
-di chi era stato straziato.
+Dante
+ha ancora addosso
+il gesto
+appena fatto.
+
+Ha raccolto
+i rami
+di chi era stato
+straziato.
 
 Pausa.
 
 Poi Virgilio dice:
+
 andiamo.
+
+Pausa lunga.
 
 Fuori dal bosco
 non c'è sollievo.
 
-Pausa.
-
 C'è il contrario.
 
 Sabbia.
-Fuoco.
-E un uomo
-che continua a bestemmiare
-anche da morto.
 
-Pausa lunga.
+Fuoco.
+
+E un uomo
+che continua
+a bestemmiare
+anche da morto.
 
 ## vv. 1-12 - Dalla selva alla landa
 
@@ -57,22 +66,70 @@ Pausa lunga.
 
 Pausa.
 
-Il passaggio è netto.
+Il passaggio
+è netto.
 
-La selva resta dietro,
-ma non scompare.
+La selva
+resta dietro.
+
+Ma non scompare.
+
+Pausa lunga.
 
 Fa da corona
-a questa terra vuota.
+a questa terra
+vuota.
 
 Pausa.
 
-La violenza del settimo cerchio
-non è finita.
+È come se
+il canto precedente
+restasse
+sul bordo.
 
-Ha solo cambiato forma.
+Gli alberi
+finiscono.
+
+La violenza,
+no.
 
 Pausa lunga.
+
+Ha solo
+cambiato forma.
+
+Prima:
+legno.
+
+Adesso:
+sabbia.
+
+Pausa.
+
+Prima:
+ombra.
+
+Adesso:
+nessun riparo.
+
+Pausa lunga.
+
+Dante
+si ferma
+proprio sul confine.
+
+A randa a randa.
+
+Pausa.
+
+Quasi sul bordo.
+
+Come se
+anche il piede
+avesse bisogno
+di capire
+che cosa
+sta iniziando.
 
 ## vv. 13-42 - Il terzo girone
 
@@ -109,76 +166,189 @@ Pausa lunga.
 > de le misere mani, or quindi or quinci
 > escotendo da sé l’arsura fresca.
 
-Pausa.
+Pausa lunga.
 
-È il contrario di un bosco.
+È il contrario
+di un bosco.
 
 Non un albero.
+
 Non ombra.
+
 Non acqua.
 
 Pausa.
 
 Solo sabbia.
 
-E sopra la sabbia:
-fiocchi di fuoco.
+Pausa lunga.
+
+E sopra
+la sabbia:
+
+fiocchi
+di fuoco.
+
+Pausa.
 
 Lenti.
+
 Continui.
 
 Come neve.
 
-Ma di fuoco.
-
 Pausa lunga.
 
-E Dante ci dice anche
-di che sabbia si tratta.
+Dante usa
+una delle immagini
+più strane
+della cantica.
 
-che fu dai piè di Caton già soppressa.
+Fuoco
+che cade
+come neve.
 
 Pausa.
 
-La sabbia del deserto libico.
-Quella che Catone attraversò a piedi,
-guidando i resti di un esercito sconfitto,
-in un poema di Lucano.
+Il gesto
+è dolce.
+
+La materia,
+no.
+
+Pausa lunga.
+
+E la lentezza
+peggiora tutto.
+
+Non una fiammata.
+
+Non un colpo.
+
+Una caduta
+continua.
 
 Pausa.
 
-Catone, di nuovo.
-Il romano del canto scorso.
+Il fuoco
+arriva.
 
-Non è all'Inferno.
-Ma continua ad attraversarlo.
+La sabbia
+si accende.
+
+Il calore
+rimbalza
+dal basso.
 
 Pausa lunga.
 
-come di neve in alpe sanza vento.
+Sopra:
+il fuoco.
+
+Sotto:
+la sabbia
+che brucia.
+
+Pausa.
+
+Il corpo
+sta in mezzo.
 
 Pausa lunga.
 
-Le anime sono tre posture.
+E le anime
+non reagiscono
+tutte allo stesso modo.
 
 Chi giace.
-Chi siede.
-Chi corre.
 
-Bestemmiatori.
-Usurai.
-Sodomiti.
+Chi siede.
+
+Chi corre.
 
 Pausa.
 
+Tre posture.
+
+Tre gruppi.
+
+Bestemmiatori.
+
+Usurai.
+
+Sodomiti.
+
+Pausa lunga.
+
 Stessa pioggia.
+
 Stessa sabbia.
 
-Pene diverse.
+Ma il corpo
+sta dentro
+la pena
+in modo diverso.
 
-## vv. 43-60 - Capaneus
+Pausa.
 
-[Schermo: Doré — Capaneus sotto la pioggia di fuoco]
+Chi corre
+cerca almeno
+un movimento.
+
+Chi siede
+resta raccolto.
+
+Chi giace
+prende il fuoco
+in pieno.
+
+Pausa lunga.
+
+E Dante
+ci dice anche
+che sabbia
+sta immaginando.
+
+Quella
+del deserto
+libico.
+
+La sabbia
+che Catone
+attraversa
+nel poema
+di Lucano.
+
+Pausa.
+
+Catone,
+di nuovo.
+
+Pausa lunga.
+
+Non è
+all'Inferno.
+
+Ma continua
+a comparire
+nell'Inferno
+degli altri.
+
+Pausa.
+
+Qui,
+però,
+lo tengo breve.
+
+Il punto
+non è Catone.
+
+È questa landa
+senza riparo.
+
+## vv. 43-60 - Capaneo
+
+[Schermo: Doré — Capaneo sotto la pioggia di fuoco]
 
 > Io cominciai: «Maestro, tu che vinci
 > tutte le cose, fuor che i dimon duri
@@ -202,95 +372,175 @@ Pene diverse.
 Pausa lunga.
 
 Dante lo vede
-prima ancora di saperne il nome.
+prima ancora
+di saperne
+il nome.
 
 Grande.
+
 Steso.
+
 Sguardo torvo.
 
+Pausa.
+
 E soprattutto:
+
 dispettoso.
 
-Pausa.
+Pausa lunga.
 
-Non chiede pietà.
-Non cerca riparo.
+Non chiede
+pietà.
+
+Non cerca
+riparo.
+
+Non prova
+a scansare
+il fuoco.
+
+Pausa.
 
 Parla
-come se stesse ancora sfidando il cielo.
+come se
+la battaglia
+non fosse
+mai finita.
 
-Pausa.
+Pausa lunga.
 
 Qual io fui vivo,
 tal son morto.
 
+Pausa.
+
+È forse
+la frase
+più importante
+del canto.
+
 Pausa lunga.
 
-Capaneus.
+Perché Capaneo
+sta dicendo:
+
+non mi avete
+cambiato.
+
+Pausa.
+
+Non il fulmine.
+
+Non la morte.
+
+Non l'Inferno.
+
+Pausa lunga.
+
+Capaneo.
 
 Uno dei sette re
 contro Tebe.
 
-Fulminato da Giove.
+Pausa.
 
-E ancora qui
-intatto nel suo disprezzo.
-
-Pausa lunga.
-
-Dante lo ha preso da un poeta latino,
-Stazio.
 Nella Tebaide
-Capaneo sale sulle mura
+di Stazio
+sale sulle mura
 sfidando Giove.
-E Giove lo fulmina.
 
-Pausa.
-
-Ricordi Stazio?
-Il poeta che nel Purgatorio
-sarà salvo,
-grazie a Virgilio.
-
-Il poeta del ribelle
-si salva.
-Il ribelle resta nella sabbia.
+Giove
+lo fulmina.
 
 Pausa lunga.
 
-Molti secoli dopo,
-un altro scrittore
-darà a questa voce
-tutta la grandezza
-che Dante le nega.
+Qui,
+Dante non ha
+bisogno
+di rifare
+la scena.
+
+Gli basta
+dargli
+la stessa voce.
 
 Pausa.
+
+Giove
+può stancare
+Vulcano.
+
+Può lanciare
+quante folgori
+vuole.
+
+Non avrà
+vendetta allegra.
+
+Pausa lunga.
+
+Perché Capaneo
+considera
+la propria volontà
+ancora intatta.
+
+Pausa.
+
+Ed è proprio lì
+che Virgilio
+lo colpirà.
+
+Pausa lunga.
+
+Un lampo esterno,
+qui,
+può servire.
 
 Melville.
-Moby Dick.
 
-Il capitano Achab
-dice che colpirebbe anche il sole,
-se il sole lo offendesse.
-
-E mentre la balena
-lo trascina giù,
-grida:
-dal cuore dell'inferno
-ti colpisco.
-
-Pausa lunga.
-
-È la stessa grammatica.
-Qual io fui vivo, tal son morto.
+Achab.
 
 Pausa.
 
-Ma Melville
-ce lo fa ammirare.
+Achab dice,
+prima della fine,
+che colpirebbe
+anche il sole
+se il sole
+lo offendesse.
 
-Virgilio, adesso,
-ce lo impedirà.
+Pausa lunga.
+
+La parentela
+con Capaneo
+si sente.
+
+Non perché
+siano lo stesso
+personaggio.
+
+Non perché
+Melville
+stia riscrivendo
+questa scena.
+
+Pausa.
+
+Ma perché
+in entrambi
+c'è una volontà
+che preferisce
+rompersi
+piuttosto che
+piegarsi.
+
+Pausa lunga.
+
+Tre righe.
+
+Poi torniamo
+a Virgilio.
 
 ## vv. 61-75 - Virgilio lo inchioda
 
@@ -320,34 +570,116 @@ Colpisce.
 Pausa lunga.
 
 Nullo martiro,
-fuor che la tua rabbia.
+fuor che
+la tua rabbia.
 
 Pausa.
 
-La pena non è solo
-quella che cade dall'alto.
+Capaneo
+crede che
+il fuoco
+non l'abbia
+vinto.
+
+Virgilio
+gli risponde:
+
+è proprio
+questo
+il punto.
+
+Pausa lunga.
+
+La tua superbia
+non si spegne.
+
+E proprio
+per questo
+continua
+a punirti.
+
+Pausa.
+
+La pena
+non è soltanto
+quella che
+cade dall'alto.
 
 È quella
-che lui continua ad alimentare
-da dentro.
+che Capaneo
+continua
+a produrre
+dentro di sé.
+
+Pausa lunga.
+
+Non si piega.
+
+Ma non è
+una vittoria.
 
 Pausa.
 
-Capaneus non si piega.
+È immobilità.
 
-Ma non è vittoria.
+Pausa lunga.
 
-È il suo modo
-di restare inchiodato
-alla propria forma.
+Qual io fui vivo,
+tal son morto.
+
+La frase
+che lui usa
+come vanto
+Virgilio
+la trasforma
+in condanna.
 
 Pausa.
 
-Tienilo a mente.
-Più avanti
-Dante incontrerà un dannato ancora più superbo.
-E per misurarlo
-userà proprio lui.
+Non sei cambiato.
+
+Appunto.
+
+Pausa lunga.
+
+E poi,
+quasi subito,
+Virgilio cambia
+tono.
+
+Con miglior labbia.
+
+Pausa.
+
+A Capaneo
+la voce forte.
+
+A Dante,
+di nuovo,
+la guida.
+
+Pausa lunga.
+
+E una cosa
+molto pratica:
+
+non mettere
+i piedi
+sulla sabbia.
+
+Pausa.
+
+Resta
+sul bordo
+del bosco.
+
+Anche dopo
+una grande
+lezione morale,
+la guida
+deve ancora
+dire dove
+mettere i piedi.
 
 ## vv. 76-90 - Il rio rosso
 
@@ -369,39 +701,105 @@ userà proprio lui.
 
 Pausa.
 
-Si allontanano da Capaneus
-camminando sul bordo.
+Si allontanano
+da Capaneo.
 
-Sulla sabbia
-non si cammina.
-
-Si cammina
-al margine.
-
-Pausa.
-
-E lì compare questo rio.
-
-Piccolo.
-Rosso.
-
-Così rosso
-che Dante dice:
-mi fa ancora rabbrividire
-solo a ricordarlo.
+In silenzio.
 
 Pausa lunga.
 
-Virgilio gli dice:
-tra tutto quello che hai visto,
-questo è il segno
-più notevole.
+Tacendo.
 
-Perché?
+Dopo tutta
+quella voce,
+Dante scrive
+proprio questo.
 
-Perché spegne
+Pausa.
+
+Poi compare
+un rio.
+
+Piccolo.
+
+Rosso.
+
+Pausa lunga.
+
+Così rosso,
+dice,
+che ancora
+lo raccapriccia
+ricordarlo.
+
+Pausa.
+
+E ha i bordi
+di pietra.
+
+Pausa lunga.
+
+Finalmente
+un passaggio.
+
+La sabbia
+brucia.
+
+La pietra,
+no.
+
+Pausa.
+
+Virgilio
+dice che
+fra tutto
+quello visto
+finora
+questo rio
+è particolarmente
+notevole.
+
+Pausa lunga.
+
+Perché
+spegne
 le fiamme
 sopra di sé.
+
+Pausa.
+
+Acqua rossa
+che passa
+in mezzo
+al fuoco.
+
+E crea
+una strada.
+
+Pausa lunga.
+
+La cosa
+più importante
+della scena
+non è soltanto
+che il rio
+esista.
+
+È che Dante
+capisca:
+
+il passo
+è lì.
+
+Pausa.
+
+Ancora una volta,
+un luogo
+che sembrava
+impossibile
+da attraversare
+contiene
+il proprio margine.
 
 ## vv. 91-120 - Il Veglio di Creta
 
@@ -440,32 +838,56 @@ sopra di sé.
 
 Pausa lunga.
 
-Da dove viene questo rio?
+Da dove
+viene
+questo rio?
 
-Virgilio risponde
-allargando tutto.
+Pausa.
 
-Non solo il cerchio.
+Virgilio
+risponde
+allargando
+tutto.
+
+Non solo
+il cerchio.
+
 Il mondo.
+
 La storia.
 
-Pausa.
+Pausa lunga.
 
 Creta.
-Il monte Ida.
-Un gran veglio.
 
-Dritto.
-Le spalle verso l'Egitto.
-Gli occhi verso Roma.
+Il monte Ida.
+
+Un gran veglio.
 
 Pausa.
 
+Dritto.
+
+Le spalle
+verso Oriente.
+
+Lo sguardo
+verso Roma.
+
+Pausa lunga.
+
 Testa d'oro.
-Petto d'argento.
+
+Petto
+d'argento.
+
 Rame.
+
 Ferro.
+
 Terracotta.
+
+Pausa.
 
 E quasi tutto
 spaccato.
@@ -473,73 +895,168 @@ spaccato.
 Pausa lunga.
 
 Dalle fessure
-scendono lacrime.
-
-E quelle lacrime
-diventano fiumi infernali.
-
-Pausa lunga.
-
-Dante ha messo insieme
-due statue famose.
-
-Quella del sogno di Nabucodonosor,
-nella Bibbia:
-testa d'oro,
-petto d'argento,
-ventre di bronzo,
-gambe di ferro,
-piedi d'argilla.
-
-E le età del mondo di Ovidio:
-l'oro, l'argento, il bronzo, il ferro.
+scendono
+lacrime.
 
 Pausa.
 
-Creta è l'isola di Saturno.
-L'età dell'oro.
-Quando il mondo era innocente.
+E quelle
+lacrime
+forano
+la montagna.
 
 Pausa lunga.
 
-Il Veglio volta le spalle all'Oriente
-e guarda Roma.
-E poggia di più
-sul piede d'argilla.
-Molti commentatori ci leggono
-una Chiesa che non regge.
+Scendono.
 
-Pausa lunga.
+Si raccolgono.
 
-E adesso ascolta i nomi.
-
-fanno Acheronte, Stige e Flegetonta;
-
-Pausa.
+Diventano
+fiumi.
 
 Acheronte.
-Lo abbiamo passato nel terzo canto.
 
-Lo Stige.
-La palude del fango.
+Stige.
 
-Il Flegetonte.
-Il fiume di sangue.
+Flegetonte.
+
+Cocito.
 
 Pausa lunga.
 
-Erano lacrime.
+Fermati
+un secondo.
+
+I fiumi
+dell'Inferno
+sono lacrime.
 
 Pausa.
 
-Ogni fiume che abbiamo attraversato
-era fatto di pianto umano.
+Quello
+che Dante
+ha attraversato
+come acqua,
+fango,
+sangue,
+ghiaccio,
+ha origine
+in un pianto.
 
 Pausa lunga.
 
-E ne manca uno.
-Cocito.
-Lo vedremo in fondo.
+Non un pianto
+individuale.
+
+Una figura
+della storia
+umana
+che perde
+lacrime
+da tutte
+le proprie crepe.
+
+Pausa.
+
+Dante
+sta mettendo
+il dolore
+del mondo
+nella geografia
+dell'Inferno.
+
+Pausa lunga.
+
+E il Veglio
+non è
+una statua
+inventata
+dal nulla.
+
+Pausa.
+
+Dante unisce
+il sogno
+di Nabucodonosor
+nel libro
+di Daniele
+con le età
+del mondo
+di Ovidio.
+
+Pausa lunga.
+
+Oro.
+
+Argento.
+
+Bronzo.
+
+Ferro.
+
+Argilla.
+
+Pausa.
+La storia
+come un corpo
+che scende
+verso materiali
+sempre più duri
+e insieme
+più fragili.
+
+Pausa lunga.
+
+La testa d'oro
+non è rotta.
+
+Tutto il resto,
+sì.
+
+Pausa.
+
+E il peso
+sta soprattutto
+sul piede
+di terracotta.
+
+Pausa lunga.
+
+Molti commentatori
+hanno letto
+in quel piede
+anche una figura
+della Chiesa
+temporale.
+
+Pausa.
+
+La tengo
+come lettura.
+
+Non come
+etichetta certa.
+
+Pausa lunga.
+
+Quello che
+il testo
+dice con certezza
+è più semplice.
+
+Il Veglio
+sta in piedi.
+
+Ma è
+pieno di crepe.
+
+Pausa.
+
+Non crolla.
+
+Non guarisce.
+
+Piange.
 
 ## Le crepe del mondo
 
@@ -547,44 +1064,65 @@ Lo vedremo in fondo.
 
 Pausa lunga.
 
-Il Veglio di Creta
-non è un mostro da incontrare.
-
-È una figura da capire.
-
-Pausa.
-
-Sta in piedi.
-Ma perde da ogni parte.
-
-Non crolla.
-Non si ricompone.
+Questa immagine
+per me
+è il centro
+della seconda metà
+del canto.
 
 Pausa.
 
-La testa d'oro
-non piange.
+Capaneo
+dice:
 
-Piange tutto il resto.
-
-Pausa.
-
-Come se la storia umana,
-via via che scende,
-si facesse più dura
-e più fragile insieme.
-
-E da ogni crepa
-venisse giù
-qualcosa.
+io sono
+ancora quello
+di prima.
 
 Pausa lunga.
 
-Fuoco che cade dall'alto.
-Lacrime che cadono dall'interno.
+Il Veglio,
+invece,
+mostra un mondo
+che non riesce
+più a essere
+quello di prima.
 
-Tutto qui
-va verso il basso.
+Pausa.
+
+Uno
+non cambia
+per superbia.
+
+L'altro
+non riesce
+a ricomporsi.
+
+Pausa lunga.
+
+Uno
+brucia.
+
+L'altro
+piange.
+
+Pausa.
+
+E tutto
+va verso
+il basso.
+
+Fuoco
+dall'alto.
+
+Lacrime
+dall'interno.
+
+Pausa lunga.
+
+Niente,
+qui,
+risale.
 
 ## vv. 121-142 - Letè e i margini
 
@@ -613,40 +1151,121 @@ va verso il basso.
 
 Pausa.
 
-Dante ha ancora una domanda.
-
-Anzi, due.
-
-Perché questo rio appare qui?
-E dov'è il Letè?
+Dante
+ha ancora
+domande.
 
 Pausa.
 
-Virgilio risponde
-come una guida che tiene insieme
-geografia
-e teologia.
+Perché
+il rio
+appare qui?
 
-Il luogo è tondo.
-Non avete ancora chiuso il cerchio.
-
-E il Letè
-non sta qui.
-
-Sta altrove.
-
-Dove si lava
-quello che è stato davvero pentito.
+E dov'è
+il Letè?
 
 Pausa lunga.
 
-Qui no.
+Virgilio
+risponde
+prima con
+la geometria.
 
-Qui si passa
-sui margini di pietra.
+Il luogo
+è tondo.
+
+Hai camminato
+molto.
+
+Ma non hai
+chiuso il cerchio.
+
+Pausa.
+
+Quello che
+appare nuovo
+non deve
+sorprenderti.
+
+Pausa lunga.
+
+Poi il Letè.
+
+Pausa.
+
+Non qui.
+
+Pausa lunga.
+
+Il Letè
+sta fuori
+da questa fossa.
+
+Dove le anime
+vanno
+a lavarsi
+quando la colpa
+è stata
+pentita.
+
+Pausa.
+
+È un dettaglio
+piccolo.
+
+Ma apre
+una differenza
+enorme.
+
+Pausa lunga.
+
+Qui,
+le lacrime
+del mondo
+scendono
+fino al fondo.
+
+Altrove,
+l'acqua
+servirà
+a lasciare
+andare
+la colpa.
+
+Pausa.
+
+Qui,
+no.
+
+Pausa lunga.
+
+Qui si cammina
+sui margini
+di pietra.
 
 Perché solo lì
-il vapore si spegne.
+il fuoco
+non arriva.
+
+Pausa.
+
+Virgilio
+ha spiegato
+la storia
+del mondo.
+
+E subito dopo
+dice:
+
+seguimi.
+
+Pausa lunga.
+
+Ancora una volta,
+la cosmologia
+finisce
+in un'indicazione
+di passo.
 
 ## Chiusura
 
@@ -654,39 +1273,74 @@ il vapore si spegne.
 
 Pausa lunga.
 
-Due figure restano addosso
-alla fine di questo canto.
+Due figure
+restano addosso
+alla fine
+di questo canto.
 
-Capaneus.
+Capaneo.
+
 Il Veglio.
 
 Pausa.
 
-Uno bestemmia ancora.
+Uno
+continua
+a sfidare.
 
-L'altro piange
-da ogni fessura.
+L'altro
+continua
+a piangere.
+
+Pausa lunga.
+
+Uno dice:
+
+sono ancora
+quello di prima.
 
 Pausa.
 
-Uno resta uguale
-per sfida.
-
-L'altro resta in piedi
-come una rovina
-che non si ricompone.
-
-Pausa lunga.
-
-Intorno a loro
-il fuoco scende.
-
-Sotto di loro
-le lacrime scendono.
-
-Qui niente risale.
-Niente si corregge.
+L'altro
+è un corpo
+che porta
+le crepe
+della storia.
 
 Pausa lunga.
 
-Non si cambia neanche bruciando.
+Intorno,
+il fuoco
+scende.
+
+Sotto,
+le lacrime
+scendono.
+
+Pausa.
+
+E Dante
+può passare
+soltanto
+su un margine.
+
+Pausa lunga.
+
+Non tutto
+ciò che resta
+uguale
+è forte.
+
+A volte,
+non cambiare
+è la pena.
+
+Pausa lunga.
+
+Non si cambia
+neanche
+bruciando.
+
+Pausa.
+
+[Schermo: nero pieno]
