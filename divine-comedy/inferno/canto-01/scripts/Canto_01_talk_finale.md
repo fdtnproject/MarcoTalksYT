@@ -7,335 +7,80 @@ Linea guida: "Senza misura non c'è via"
 
 [Schermo: Doré / selva]
 
-Allora, il primo canto.
-
-Pausa.
-
-Ma prima del testo
-voglio che tu sappia
-chi stava scrivendo.
+Allora,
+il primo canto.
 
 Pausa lunga.
 
-Perché la Commedia
-non nasce in un momento di pace.
+Prima del testo,
+una cosa sola.
 
 Pausa.
 
-Nasce in esilio.
-
-## Chi era Dante
-
-Dante Alighieri nasce a Firenze
-nel 1265.
-
-Pausa.
-
-Non nasce principe.
-Non nasce santo.
-
-Nasce dentro una città
-che divora i suoi uomini migliori.
-
-Studia presto.
-Impara tutto.
-Filosofia, teologia, retorica.
+Dante
+scrive da esule.
 
 Pausa lunga.
 
-A trent'anni è già un nome.
-Ha scritto la Vita Nova.
-Ha inventato un linguaggio nuovo.
+Firenze.
+
+Guelfi Bianchi.
+Guelfi Neri.
+
+Bonifacio VIII.
 
 Pausa.
 
-Ma Dante non è solo un poeta.
+Nel 1302
+Dante viene condannato.
+
+Se torna,
+può essere
+bruciato vivo.
 
 Pausa lunga.
 
-È un uomo politico.
-Entra nel governo della città.
-Diventa priore di Firenze.
+Non tornerà.
 
 Pausa.
 
-Uno dei sei magistrati
-che governano la città.
-
-## Firenze, i Guelfi, la spaccatura
-
-[Schermo: nero pieno]
-
-Firenze non è una città in pace.
-È una città che si spacca di continuo.
+La Commedia
+nasce anche
+da questa frattura.
 
 Pausa lunga.
 
-La vecchia guerra
-tra guelfi e ghibellini
-è già passata.
+Ma il viaggio
+non è ambientato
+nel 1302.
+
+È nel 1300.
 
 Pausa.
 
-Adesso i guelfi
-si sono spezzati da soli.
+Prima
+della condanna.
+
+Prima
+dell'esilio.
 
 Pausa lunga.
 
-Da una parte i Guelfi Neri.
-Dall'altra i Guelfi Bianchi.
+Quando Dante
+ha ancora
+la sua città.
 
-Pausa.
-
-I Neri stanno col papa.
-I Bianchi vogliono che Firenze
-resti Firenze.
-
-Pausa lunga.
-
-Dante sta lì.
-Con i Bianchi.
-
-Pausa.
-
-Nel 1301 arriva a Firenze
-Carlo di Valois,
-mandato da papa Bonifacio VIII.
+Eppure
+è già
+smarrito.
 
 Pausa lunga.
 
-Carlo non combatte.
-Non serve combattere.
-Entra in città
-e apre le porte ai Neri.
-
-Pausa.
-
-In pochi giorni
-cambiano tutto.
-
-Pausa lunga.
-
-Dante in quel momento
-è in missione a Roma.
-È stato inviato proprio là
-per trattare con Bonifacio.
-
-Pausa.
-
-Secondo la ricostruzione tradizionale,
-il papa lo tiene fermo.
-La trappola è già scattata.
-
-## Il 27 gennaio 1302
-
-Pausa lunga.
-
-Il 27 gennaio 1302
-viene emessa la sentenza.
-
-Pausa.
-
-Dante Alighieri:
-condannato per baratteria,
-per corruzione,
-per opposizione al papa.
-
-Pausa lunga.
-
-Cinquemila lire di fiorini piccoli.
-Due anni di esilio.
-Esclusione perpetua da ogni ufficio pubblico.
-
-Pausa.
-
-Lui non paga.
-
-Pausa lunga.
-
-Il 10 marzo arriva la seconda sentenza.
-
-Pausa.
-
-Se mai tornerà a Firenze,
-potrà essere bruciato vivo.
-
-Pausa lunga.
-
-Dante non tornerà mai più.
-
-Pausa.
-
-Vivrà altri vent'anni.
-Ospite di corti, di signorie.
-Verona, Lucca, Ravenna.
-
-Pausa lunga.
-
-Senza una casa.
-Senza una città.
-Senza un luogo che sia suo.
-
-Pausa.
-
-Muore a Ravenna nel 1321.
-
-## La Commedia come risposta
-
-[Schermo: nero pieno]
-
-Pausa lunga.
-
-Adesso fai questa domanda:
-cosa fa un uomo
-quando gli tolgono tutto?
-
-Pausa.
-
-Quando ti tolgono la città,
-la famiglia,
-il ruolo,
-il futuro?
-
-Pausa lunga.
-
-Dante scrive.
-
-Pausa.
-
-Ma non scrive solo per sé.
-
-Pausa lunga.
-
-Scrive un'opera
-che vuole essere universale.
-
-Pausa.
-
-Un viaggio nell'aldilà
-che è anche una mappa del mondo.
-
-Pausa lunga.
-
-La chiama Commedia
-perché parte dal basso
-e finisce in alto.
-
-Pausa.
-
-Boccaccio aggiungerà Divina.
-Ma questo è dopo.
-
-Pausa lunga.
-
-Dante la inizia
-probabilmente intorno al 1306.
-Forse 1307.
-La porta avanti per quindici anni.
-La conclude pochi mesi prima di morire.
-
-Pausa.
-
-È la risposta a Firenze.
-È la risposta al papa.
-È la risposta all'esilio.
-
-Pausa lunga.
-
-Mette in Inferno i suoi nemici reali.
-Per nome.
-Con la loro storia.
-
-Pausa.
-
-Nessuno prima di lui
-aveva avuto questo coraggio.
-
-## L'anno 1300
-
-[Schermo: Doré / selva]
-
-Pausa lunga.
-
-Ora capisci una scelta
-che sembra tecnica
-ma non lo è.
-
-Pausa.
-
-Dante ambienta il viaggio nel 1300.
-
-Pausa lunga.
-
-Perché il 1300?
-
-Pausa.
-
-Prima di tutto:
-il 1300 è l'Anno Santo.
-Bonifacio VIII lo ha indetto.
-A Roma arrivano due milioni di pellegrini.
-
-Pausa lunga.
-
-Il giubileo.
-L'anno della remissione.
-L'anno in cui il pellegrino
-ottiene il perdono.
-
-Pausa.
-
-Dante usa questa struttura.
-Il viaggio come pellegrinaggio.
-
-Pausa lunga.
-
-Ma c'è un'altra ragione.
-Più personale.
-
-Pausa.
-
-Nel 1300 Dante non è ancora esiliato.
-Non è ancora condannato.
-
-Pausa lunga.
-
-Anzi:
-quell'anno diventerà priore.
-È dentro la politica della città.
-Ha ancora tutto.
-
-Pausa.
-
-Eppure è già smarrito.
-
-Pausa lunga.
-
-Il 1300 è il momento
-in cui il percorso
-ha già cominciato a rompersi
-— senza che lui lo sapesse ancora.
-
-Pausa.
-
-È il presente del viaggio.
-Ma è il passato della scrittura.
-
-Pausa lunga.
-
-Dante scrive guardando indietro.
-Sa già com'è andata.
-Sa già che da lì
-partiva la discesa.
-
-Pausa.
-
-Questa consapevolezza
-cambia tutto il peso del testo.
+Questo basta
+per entrare
+nel primo verso.
 
 ## vv. 1-3 - Terzina iniziale
-
-[Schermo: Doré / selva]
 
 > Nel mezzo del cammin di nostra vita
 > mi ritrovai per una selva oscura,
@@ -347,298 +92,102 @@ Tre versi.
 
 Pausa.
 
-Nessun altro inizio nella letteratura
-ha questa densità.
-
-Pausa lunga.
-
-La prima parola:
 Nel mezzo.
-
-Pausa.
-
-Non all'inizio.
-Non alla fine.
-
-Pausa lunga.
-
-Nel mezzo.
-
-Pausa.
-
-E qui c'è già tutto.
-
-Pausa lunga.
-
-Perché il mezzo non è un luogo neutro.
-
-Pausa.
-
-Il mezzo è il momento
-in cui dovresti sapere già.
-
-Pausa lunga.
-
-Non sei più giovane
-da poter dire:
-non sapevo ancora.
-
-Pausa.
-
-Non sei ancora vecchio
-da poter dire:
-ho fatto quello che ho potuto.
-
-Pausa lunga.
-
-Sei nel mezzo.
-
-Pausa.
-
-E nel mezzo
-non c'è più l'alibi dell'inesperienza.
-Non c'è ancora il congedo della vecchiaia.
-
-Pausa lunga.
-
-C'è solo la domanda:
-a che punto sei?
-
-Pausa.
-
-Dante risponde:
-sono perso.
 
 Pausa lunga.
 
 Trentacinque anni.
-La metà di settanta.
-Il numero che la Bibbia dà
-alla vita umana completa.
+
+La metà simbolica
+di una vita
+di settanta.
 
 Pausa.
 
-Dante è nato nel 1265.
-Il viaggio è nel 1300.
+Dante è nato
+nel 1265.
+
+Il viaggio
+è nel 1300.
 
 Pausa lunga.
 
-Ha calcolato tutto.
+Ma dice:
+
+nostra vita.
 
 Pausa.
 
-Non è una coincidenza.
-È una dichiarazione.
+Non soltanto
+la mia.
 
 Pausa lunga.
 
-Faccio cominciare questo viaggio
-dall'esatto centro della vita.
-Dal momento in cui non si può più fingere
-di non sapere dove si sta andando.
+La selva
+è sua.
+
+La domanda
+è anche nostra.
 
 Pausa.
 
-E non lo so.
+A che punto
+sei?
 
 Pausa lunga.
 
-Nel mezzo.
+Poi:
 
-Pausa lunga.
-
-E dentro queste due parole
-c'è un'altra voce.
-
-Pausa.
-
-Nella Bibbia
-un re, Ezechia,
-si ammala a morte.
-
-E dice:
-a metà dei miei giorni
-andrò alle porte degli inferi.
-
-Pausa.
-
-In dimidio dierum meorum
-vadam ad portas inferi.
-
-Pausa lunga.
-
-I commentatori
-ci sentono un'eco precisa.
-
-Ed era un cantico
-che nel Medioevo
-si cantava anche per i morti.
-
-Pausa lunga.
-
-A metà dei giorni.
-Alle porte dell'inferno.
-
-Pausa.
-
-Il primo verso della Commedia
-ha già dentro
-la porta del terzo canto.
-
-Pausa lunga.
-
-Nel mezzo.
-
-Pausa.
-
-E a metà dei giorni
-si va alle porte.
-
-## "Nostra vita"
-
-Pausa lunga.
-
-Poi fai caso a una cosa.
-
-Pausa.
-
-Non dice:
-nel mezzo del cammin
-della mia vita.
-
-Pausa lunga.
-
-Dice: di nostra vita.
-
-Pausa.
-
-Un plurale.
-
-Pausa lunga.
-
-Dal primo verso
-Dante include il lettore.
-
-Pausa.
-
-Questo smarrimento
-non è solo suo.
-
-Pausa lunga.
-
-È una condizione umana.
-
-Pausa.
-
-Il mezzo della vita
-come momento di crisi universale.
-
-Pausa lunga.
-
-Non una biografia.
-Una mappa.
-
-Pausa.
-
-E poi:
 mi ritrovai.
 
-Pausa lunga.
-
-Ritrovai.
-Non trovai.
-
 Pausa.
 
-Io in quel ri-
-sento già
-lo smarrimento.
+Non sappiamo
+quando
+ha perso la strada.
 
-Pausa lunga.
-
-E ci sento anche
-un momento di ritorno
-alla consapevolezza.
-
-Pausa.
-
-Prima non sapeva di essere perso.
-Adesso lo sa.
+Quando se ne accorge,
+è già successo.
 
 Pausa lunga.
 
-Questo è il salto.
-Questo è l'inizio.
+E la diritta via
+non è soltanto
+una strada.
 
-Pausa.
+È una direzione.
 
-Non lo smarrimento.
-La coscienza dello smarrimento.
-
-## "La diritta via era smarrita"
-
-Pausa lunga.
-
-L'ultima parte della terzina:
-
-Pausa.
-
-che la diritta via era smarrita.
+Morale.
+Esistenziale.
 
 Pausa lunga.
 
-Diritta via.
+Dentro
+"nel mezzo"
+
+alcuni commentatori
+sentono anche
+un'eco biblica.
 
 Pausa.
 
-Per Dante e per un uomo del Medioevo
-la via non è solo un percorso fisico.
+A metà
+dei miei giorni,
+
+dice Ezechia,
+
+andrò
+alle porte
+degli inferi.
 
 Pausa lunga.
 
-La via è la direzione morale.
-La via è la conformità all'ordine.
-La via è il cammino verso Dio.
-
-Pausa.
-
-In latino: recta via.
-La via retta.
-
-Pausa lunga.
-
-Smarrire la via retta
-è smarrire la verità.
-
-Pausa.
-
-Non solo una strada.
-Un'ontologia.
-
-Pausa lunga.
-
-E qui c'è qualcosa di preciso:
-era smarrita.
-
-Pausa.
-
-Imperfetto.
-Non: si smarrì in questo momento.
-
-Pausa lunga.
-
-Era smarrita già.
-Da prima.
-Da quanto tempo?
-
-Pausa.
-
-Non lo sappiamo.
-Non lo sa nemmeno Dante.
+Il primo verso
+ha già
+una porta
+davanti.
 
 ## vv. 4-6 - La selva
-
-Pausa lunga.
 
 > Ahi quanto a dir qual era è cosa dura
 > esta selva selvaggia e aspra e forte,
@@ -646,158 +195,76 @@ Pausa lunga.
 
 Pausa lunga.
 
-La selva non è descrivibile.
+Ahi quanto a dir
+qual era
+è cosa dura.
 
 Pausa.
 
-E questo non è un modo di dire.
+Prima ancora
+di raccontare,
+
+il linguaggio
+fa fatica.
 
 Pausa lunga.
 
-Dante sta facendo una cosa precisa:
-il linguaggio cede
-prima ancora di cominciare.
+Selvaggia.
 
-Pausa.
-
-"Quanto a dir qual era è cosa dura."
-
-Pausa lunga.
-
-Dura.
-Non impossibile.
-Dura.
-
-Pausa.
-
-Ma questo cedere vale più
-di qualsiasi descrizione.
-
-Pausa lunga.
-
-Perché nel Medioevo
-nominare e conoscere
-sono la stessa cosa.
-
-Pausa.
-
-Se non riesci a dirlo,
-non riesci a misurarlo.
-
-Pausa lunga.
-
-E se non lo misuri,
-sei ancora dentro.
-
-Pausa.
-
-La selva resiste alla parola.
-La selva non si lascia ordinare.
-
-Pausa lunga.
-
-Poi i tre aggettivi:
-selvaggia.
 Aspra.
+
 Forte.
 
 Pausa.
 
-Selvaggia: spazio senza regola.
-Aspra: che graffia, che resiste.
-Forte: che ti supera, che non cede.
+Spazio
+senza regola.
+
+Qualcosa
+che graffia.
+
+Qualcosa
+che ti supera.
 
 Pausa lunga.
 
-Non sono sinonimi.
-Sono tre direzioni della stessa cosa.
+Per un uomo
+del Medioevo
+
+la selva
+non è
+un parco.
 
 Pausa.
 
-E nel pensier rinova la paura.
+È ciò
+che comincia
+quando finisce
+l'ordine.
 
 Pausa lunga.
 
-Scrivere è ricordare.
-E ricordare è rivivere.
+Strade incerte.
+
+Bestie.
+
+Fuorilegge.
 
 Pausa.
 
-Il pericolo passato
-ha ancora forza nel presente.
-
-## La foresta medievale
-
-[Schermo: nero pieno]
+Materia
+non ancora
+messa in forma.
 
 Pausa lunga.
 
-Per un uomo medievale
-la foresta non è paesaggio.
+Per questo
+la parola
+gli resiste.
 
-È ciò che comincia
-appena finisce la città.
-
-Pausa.
-
-Non è un parco.
-Non è un bosco romantico.
-
-Pausa lunga.
-
-È lo spazio fuori dalla città.
-Fuori dall'ordine.
-Fuori dalla legge.
-
-Pausa.
-
-La città è civiltà.
-È l'ordine umano.
-È il diritto.
-
-Pausa lunga.
-
-La foresta è l'opposto.
-Spazio senza nome.
-Senza confini.
-Senza regole.
-
-Pausa.
-
-Gli animali selvatici.
-I fuorilegge.
-I pazzi.
-I demoni.
-
-Pausa lunga.
-
-Entrare nella foresta
-è uscire dalla misura.
-
-Pausa.
-
-E non è un caso
-che Dante usi la parola selva
-e non bosco o foresta.
-
-Pausa lunga.
-
-Selva viene da silva.
-E silva, in latino,
-può voler dire anche
-materia grezza,
-massa informe,
-caos primordiale.
-
-Pausa.
-
-Prima che la forma arrivi.
-Prima che la ragione ordini.
-
-Pausa lunga.
-
-Dante è nella materia grezza
-dell'esistenza.
+E nel pensiero
+la paura
+torna.
 
 ## vv. 7-9 - Il primo ordine
 
@@ -866,78 +333,50 @@ Dirò:
 
 ## vv. 10-12 - Il sonno
 
-Pausa lunga.
-
 > Io non so ben ridir com’io v’entrai,
 > tant’era pien di sonno in su quel punto
 > che la verace via abbandonai.
 
 Pausa lunga.
 
-Questo è il punto
-più inquietante del canto.
+Dante
+non sa
+come sia entrato.
 
 Pausa.
 
-Dante non sa com'è entrato.
+Era
+pieno di sonno.
 
 Pausa lunga.
 
-Non dice:
-ho commesso un errore.
-Ho preso la strada sbagliata.
-Ho ceduto a qualcosa.
+Non è
+una strada sbagliata
+presa in un istante.
+
+È una perdita
+di vigilanza.
 
 Pausa.
 
-Dice:
-non lo so.
+Ci si perde
+prima di sapere
+di essersi persi.
 
 Pausa lunga.
 
-Perché era pieno di sonno.
+Il punto
+non è
+che ha scelto
+una via falsa.
 
 Pausa.
 
-Il sonno non è stanchezza fisica.
-Non è un momento di crisi.
+È che
+si è svegliato
 
-Pausa lunga.
-
-Il sonno è
-perdita di vigilanza progressiva.
-
-Pausa.
-
-Il modo in cui ci si perde
-senza accorgersene.
-
-Pausa lunga.
-
-Giorno dopo giorno.
-Scelta dopo scelta.
-Cedimento dopo cedimento.
-
-Pausa.
-
-E ad un certo punto
-sei già dentro.
-
-Pausa lunga.
-
-E non sai da quando.
-
-Pausa.
-
-Questo è il motivo per cui
-la selva è così difficile da uscire.
-
-Pausa lunga.
-
-Non sai dove hai lasciato la strada.
-Non hai un punto di riferimento.
-Non puoi tornare indietro
-perché non ricordi il percorso.
+quando era
+già dentro.
 
 ## vv. 13-18 - Il colle e la direzione
 
@@ -1025,15 +464,19 @@ Ma non è a portata di mano.
 
 ## vv. 19-24 - La paura contenuta, il naufrago
 
-Pausa lunga.
-
 > Allor fu la paura un poco queta
 > che nel lago del cor m’era durata
 > la notte ch’io passai con tanta pièta.
+> E come quei che con lena affannata
+> uscito fuor del pelago a la riva,
+> si volge a l’acqua perigliosa, e guata,
 
 Pausa lunga.
 
-Un poco queta.
+La paura
+si quieta.
+
+Un poco.
 
 Pausa.
 
@@ -1041,92 +484,56 @@ Non sparisce.
 
 Pausa lunga.
 
-Si riduce.
+Poi
+il naufrago.
 
 Pausa.
 
-Dal caos totale
-si passa a un disordine contenuto.
+È uscito
+dal mare.
+
+Respira.
+
+Si volta.
 
 Pausa lunga.
 
-E poi arriva una delle immagini
-più precise del canto.
-
-Pausa.
-
-> E come quei che con lena affannata
-> uscito fuor del pelago a la riva,
-> si volge a l’acqua perigliosa, e guata,
-
-Pausa lunga.
-
-Il naufrago.
-
-Pausa.
-
-Ha due spazi davanti.
-La riva dove si trova.
-Il mare da cui è uscito.
-
-Pausa lunga.
-
-Uno è stabile.
-L'altro è senza forma.
-
-Pausa.
-
-E si volta.
-
-Pausa lunga.
-
-Non per nostalgia.
 Non per tornare.
 
-Pausa.
-
-Per guardare.
-
-Pausa lunga.
-
-Guardare ciò da cui si è scampati
-è già un atto di conoscenza.
+Per guardare
+ciò da cui
+è scampato.
 
 Pausa.
 
-Dante ricomincia a distinguere.
+Guardare
+è già
+ricominciare
+a distinguere.
 
 Pausa lunga.
 
-E distinguere
-è il primo atto
-della mente che torna.
-
-Pausa lunga.
-
-Ricordati di quest'uomo.
-
-Esce dal mare.
-Si volta.
-Guarda l'acqua
-che stava per prenderlo.
+Tienilo
+a mente.
 
 Pausa.
 
-Molto più avanti
-sentiremo la storia
-di un altro uomo
-in mezzo al mare.
+Un uomo
+esce dal mare
 
-Pausa.
-
-Lui
-a riva
-non ci arriverà.
+e guarda
+l'acqua
+che stava
+per prenderlo.
 
 Pausa lunga.
 
-si volge a l’acqua perigliosa, e guata.
+Più avanti
+un altro uomo
+
+da quel mare
+
+non uscirà.
 
 ## vv. 25-27 - Il passo
 
@@ -1229,10 +636,6 @@ Bisogna reggerla.
 
 ## vv. 31-36 - La lonza
 
-[Schermo: Doré / lonza]
-
-Pausa lunga.
-
 > Ed ecco, quasi al cominciar de l’erta,
 > una lonza leggiera e presta molto,
 > che di pel macolato era coverta;
@@ -1246,139 +649,53 @@ La prima bestia.
 
 Pausa.
 
-Quasi all'inizio della salita.
-Non in cima.
-Non a metà.
+Leggera.
+
+Rapida.
+
+Maculata.
 
 Pausa lunga.
 
-All'inizio.
+Non lo travolge.
+
+Gli occupa
+la strada.
 
 Pausa.
 
-Questo è preciso.
-La difficoltà non è alla fine
-del percorso.
+Ogni volta
+che prova
+a salire,
+
+lei
+è davanti.
 
 Pausa lunga.
 
-È al primo passo.
+I commentatori
+non sono d'accordo
+su ciò che rappresenta.
 
 Pausa.
 
-La lonza.
-Un animale che gli studiosi discutono da secoli.
+Lussuria,
+per molti.
+
+Frode,
+per altri.
 
 Pausa lunga.
 
-Leopardo, secondo alcuni.
-Lince, secondo altri.
-Pantera, secondo altri ancora.
+Ma il gesto
+è chiarissimo.
 
-Pausa.
+Non ti abbatte.
 
-Non importa l'animale esatto.
-Importa come si comporta.
-
-Pausa lunga.
-
-Leggiera e presta molto.
-Rapida e leggera.
-
-Pausa.
-
-Non frontale.
-Non statica.
-
-Pausa lunga.
-
-Si muove.
-
-Pausa.
-
-"Non mi si partìa d'innanzi al volto."
-
-Pausa lunga.
-
-Sta davanti.
-Occupa la linea dello sguardo.
-Intercetta il cammino.
-
-Pausa.
-
-Non ti attacca.
-Ti blocca.
-
-Pausa lunga.
-
-Ti fa deviare.
-Ti fa perdere la direzione.
-
-Pausa.
-
-È l'ostacolo che si sposta
-ogni volta che ti sposti.
-
-Pausa lunga.
-
-Non la forza che ti abbatte.
-La sfuggevolezza che ti stanca.
-
-## La lonza come lussuria o come frode
-
-Pausa lunga.
-
-Quale peccato rappresenta?
-
-Pausa.
-
-I commentatori hanno litigato
-per settecento anni su questo.
-
-Pausa lunga.
-
-La tradizione principale:
-la lonza è la lussuria.
-
-Pausa.
-
-Il desiderio che si muove veloce,
-che sfugge alla misura,
-che non si afferra mai davvero.
-
-Pausa lunga.
-
-Una lettura più moderna:
-la lonza è la frode.
-Il manto maculato come l'inganno che muta.
-
-Pausa.
-
-Entrambe funzionano.
-
-Pausa lunga.
-
-Ma per Dante lettore:
-la lonza è la prima bestia
-che incontra sulla salita.
-
-Pausa.
-
-Non la peggiore.
-La prima.
-
-Pausa lunga.
-
-E il fatto che si possa
-tenere a bada
-con le condizioni giuste
-— l'ora, la stagione —
-la mette nel gruppo dei vizi
-che la volontà può ancora regolare.
+Ti impedisce
+di avanzare.
 
 ## vv. 37-48 - Il tempo giusto, la speranza, il leone
-
-Pausa lunga.
 
 > Tempo era dal principio del mattino,
 > e ’l sol montava in su con quelle stelle
@@ -1387,343 +704,142 @@ Pausa lunga.
 > sì ch’a bene sperar m’era cagione
 > di quella fera alla gaetta pelle
 > l’ora del tempo e la dolce stagione;
-
-Pausa lunga.
-
-Le condizioni sono perfette.
-
-Pausa.
-
-È mattino.
-Il sole sale.
-Le stelle sono quelle della creazione.
-
-Pausa lunga.
-
-Quando l’amor divino
-mosse da prima quelle cose belle.
-
-Pausa.
-
-Quelle cose belle
-sono le stelle.
-
-Pausa lunga.
-
-Tienile a mente.
-
-Pausa.
-
-Alla fine dell'Inferno,
-quando usciremo dall'ultimo buio,
-Dante le chiamerà
-con le stesse parole.
-
-Le cose belle
-che porta il ciel.
-
-Pausa lunga.
-
-E c'è di più.
-
-[Schermo: testo — "l’Amor che move il sole e l’altre stelle."]
-
-Pausa lunga.
-
-Questo
-è l'ultimo verso della Commedia.
-
-Pausa.
-
-Amore.
-Muovere.
-Il sole.
-Le stelle.
-
-Pausa lunga.
-
-Siamo al quarantesimo verso
-della prima pagina.
-
-E Dante
-ci ha già detto
-come andrà a finire.
-
-Pausa lunga.
-
-e ’l sol montava in su con quelle stelle
-
-Pausa lunga.
-
-Dante sta dicendo:
-il cosmo è allineato.
-È il momento giusto.
-Tutto dice: adesso si sale.
-
-Pausa.
-
-E per un momento
-sembra che funzioni.
-
-Pausa lunga.
-
-L'ora del tempo e la dolce stagione
-danno speranza.
-
-Pausa.
-
-Ma il cosmo può essere pronto.
-Tu no.
-
-Pausa lunga.
-
 > ma non sì che paura non mi desse
 > la vista che m’apparve d’un leone.
-
-Pausa lunga.
-
-Il leone.
-
-Pausa.
-
-Non devia.
-
-Pausa lunga.
-
-Avanza.
-
-Pausa.
-
 > Questi parea che contra me venesse
 > con la test’alta e con rabbiosa fame,
 > sì che parea che l’aere ne temesse.
 
 Pausa lunga.
 
-La testa alta.
-La fame rabbiosa.
-Persino l'aria ha paura.
+Le condizioni
+sembrano perfette.
 
 Pausa.
 
-Questo cambia la qualità del pericolo.
+Mattino.
+
+Primavera.
+
+Il sole
+con le stelle
+della creazione.
 
 Pausa lunga.
 
-La lonza deviava.
-Il leone avanza.
+quelle cose belle.
 
 Pausa.
 
-Non è lo stesso tipo di paura.
+Sono
+le stelle.
 
 Pausa lunga.
 
-La lonza era elusiva.
-Il leone è dominante.
+Tienile
+a mente.
+
+Le rivedremo
+all'uscita
+dall'Inferno.
+
+Pausa lunga.
+
+Per un momento
+Dante spera.
+
+Poi
+arriva il leone.
 
 Pausa.
 
-Non ti fa girare.
-Ti ferma.
+La lonza
+si spostava.
 
-## Il leone come superbia
-
-Pausa lunga.
-
-La tradizione interpreta il leone
-come la superbia.
-Come la violenza.
+Il leone
+viene incontro.
 
 Pausa lunga.
 
-La testa alta:
-chi guarda dall'alto.
-Chi non si piega.
-Chi non riconosce limite.
+Testa alta.
+
+Fame.
 
 Pausa.
 
-Ma nota che anche il leone
-non è il peggio.
+La tradizione
+ci legge
+la superbia.
 
 Pausa lunga.
 
-Dante lo vede.
-Se ne spaventa.
-Ma è ancora capace di guardarlo.
-
-Pausa.
-
-L'animale peggiore
-è quello che viene dopo.
-Perché non si fronteggia.
-Si subisce.
+Qui basta
+la postura.
 
 ## vv. 49-57 - La lupa
-
-[Schermo: nero pieno]
-
-Pausa lunga.
 
 > Ed una lupa, che di tutte brame
 > sembiava carca ne la sua magrezza,
 > e molte genti fe’ già viver grame,
-
-Pausa lunga.
-
-La lupa.
-
-Pausa.
-
-Guarda come è costruita.
-
-Pausa lunga.
-
-È magra.
-Eppure è carca di tutte le brame.
-
-Pausa.
-
-Non è piena di quello che ha.
-È piena di quello che vuole.
-
-Pausa lunga.
-
-Il corpo consunto
-dalla brama continua.
-
-Pausa.
-
-E molte genti fe' già viver grame.
-
-Pausa lunga.
-
-Non è la prima.
-Ha già fatto danni.
-Ha già distrutto vite.
-
-Pausa.
-
-È una forza storica.
-Non un incidente isolato.
-
-Pausa lunga.
-
 > questa mi porse tanto di gravezza
 > con la paura che uscìa di sua vista,
 > ch’io perdei la speranza de l’altezza.
 
 Pausa lunga.
 
-Perdei la speranza.
+Poi
+la lupa.
 
 Pausa.
 
-Non la strada.
-Non la forza.
+Carica
+di tutte le brame.
+
+Eppure
+magra.
 
 Pausa lunga.
 
-La speranza.
+È il paradosso
+dell'insaziabile.
 
 Pausa.
 
-La lupa non ti abbatte.
-Non ti prende.
-Non ti morde.
+Più prende.
+
+Più manca.
 
 Pausa lunga.
 
-Ti toglie lo slancio.
+La tradizione
+la chiama
+avarizia.
 
 Pausa.
 
-La gravezza.
+Ma qui
+avarizia
+è più larga
+del denaro.
 
 Pausa lunga.
 
-Un peso che si accumula.
-Senza un colpo preciso.
-Senza un momento definito.
+È il desiderio
+che non arriva
+mai a:
+
+basta.
 
 Pausa.
 
-E quando il peso supera una soglia,
-la salita non è più possibile.
+Ed è lei
+a togliere
+a Dante
+non soltanto
+la strada.
 
-Pausa lunga.
-
-Non perché manchi la forza.
-Perché manca il senso del perché farcela.
-
-## La lupa come avarizia
-
-Pausa lunga.
-
-La tradizione:
-la lupa è l'avarizia.
-
-Pausa.
-
-Ma avarizia nel senso più largo.
-Non solo il denaro.
-
-Pausa lunga.
-
-La cupidigia di tutto.
-Il desiderio che non si satura.
-
-Pausa.
-
-Dante probabilmente pensa
-alla cupidigia politica.
-Alla Chiesa che vuole territorio e potere.
-Ai signori che divorano i comuni.
-A Firenze che si consuma per i soldi.
-
-Pausa lunga.
-
-E la fa magra
-perché chi brama tutto
-non si nutre mai davvero.
-
-Pausa.
-
-Il paradosso dell'insaziabilità:
-più prendi,
-più sei svuotato.
-
-Pausa lunga.
-
-> E qual è quei che volontieri acquista,
-> e giugne ’l tempo che perder lo face,
-> che in tutti i suoi pensier piange e s’attrista,
-
-Pausa lunga.
-
-L'immagine è netta.
-Chi guadagna tutto e poi perde.
-
-Pausa.
-
-La perdita della speranza
-è peggio della perdita materiale.
-
-Pausa lunga.
-
-Dante non dice: ho perso la via.
-Dice: ho perso la speranza dell'altezza.
-
-Pausa.
-
-L'altezza.
-Il colle con il sole.
-
-Pausa lunga.
-
-Non solo un luogo.
-Una possibilità.
+La speranza
+dell'altezza.
 
 ## La sintesi delle tre fiere
 
@@ -1731,28 +847,22 @@ Una possibilità.
 
 Pausa lunga.
 
-Adesso guarda le tre bestie insieme.
+La lonza
+devia.
 
-Pausa.
+Il leone
+fronteggia.
 
-La lonza devia.
-Il leone domina.
-La lupa svuota.
-
-Pausa lunga.
-
-Ed è la progressione che conta.
-
-Pausa.
-
-Dalla paura che puoi tenere a bada
-alla paura che non riesci a guardare
-all'impossibilità di sperare.
+La lupa
+svuota.
 
 Pausa lunga.
 
-Questo è il percorso
-della perdita completa della direzione.
+Tre ostacoli.
+
+Tre modi
+di perdere
+la direzione.
 
 ## vv. 58-66 - L'urto e il silenzio
 
@@ -1904,103 +1014,55 @@ Prima ancora della strada,
 Dante ha bisogno di sapere
 chi ha davanti.
 
-## Virgilio come scelta storica
+## Perché Virgilio?
 
 Pausa lunga.
 
-Perché Virgilio?
+Perché
+Virgilio?
 
 Pausa.
 
-Dante non sceglie un santo.
-Non sceglie Pietro.
-Non sceglie Paolo.
+Poeta.
 
-Sceglie un pagano.
+Roma.
+
+Enea.
 
 Pausa lunga.
 
-Sceglie Virgilio.
-Un poeta pagano.
-Morto prima di Cristo.
+E soprattutto
+un uomo
+che aveva già scritto
+una discesa
+nell'aldilà.
 
 Pausa.
 
-Questa non è una scelta neutra.
-È una scelta rischiosa.
-Teologica.
-E politica.
+Ma è pagano.
 
 Pausa lunga.
 
-Virgilio per Dante
-non è solo un autore amato.
+Può guidare
+Dante
+molto lontano.
+
+Non fino
+a Dio.
 
 Pausa.
 
-È la ragione umana
-quando regge ancora.
-
-È Roma.
-È il diritto.
-È la civiltà.
+Questo
+è il suo limite.
 
 Pausa lunga.
 
-L'Eneide racconta
-la fondazione di Roma.
+La ragione
+può indicare
+la strada.
 
-Enea che salva i Penati da Troia.
-Enea che porta un'origine
-fino a un impero.
-
-Pausa.
-
-Per Dante
-Roma non è solo una città.
-
-È il progetto di Dio
-dentro la storia.
-
-Pausa lunga.
-
-Roma come forma storica
-dell'ordine universale.
-
-Pausa.
-
-E Virgilio ne è il poeta.
-Il cantore.
-L'interprete.
-
-Pausa lunga.
-
-Ma c'è di più.
-
-Pausa.
-
-Nell'Eneide,
-Enea scende agli Inferi.
-
-Pausa lunga.
-
-È uno dei pochi testi antichi
-in cui qualcuno scende nell'aldilà
-con una guida,
-con una struttura,
-con un ordine.
-
-Pausa.
-
-Dante prende questa struttura
-e la trasforma.
-
-Pausa lunga.
-
-Ma sceglie Virgilio
-anche per questo:
-perché è il modello del viaggio.
-Perché è già stato.
+Non basta
+a compierla.
 
 ## vv. 67-75 - Virgilio si presenta
 
@@ -2087,80 +1149,6 @@ Pausa.
 
 Questo è il nodo teologico
 che Dante deve risolvere.
-
-## Virgilio pagano: il problema
-
-Pausa lunga.
-
-Qui senti il nervo vero del canto.
-
-La guida necessaria
-non può arrivare fino in fondo.
-
-Pausa.
-
-Per la dottrina medievale,
-senza battesimo
-e senza la grazia di Cristo
-non c'è salvezza.
-
-Pausa lunga.
-
-E Virgilio è morto
-nell'anno 19 prima di Cristo.
-Non è stato battezzato.
-Non ha potuto esserlo.
-
-Pausa.
-
-Dove sta allora?
-
-Pausa lunga.
-
-Nel Limbo.
-
-Pausa.
-
-Non soffre come i dannati.
-Non è punito come i colpevoli.
-Ma non può salire.
-
-Pausa lunga.
-
-Questo è il limite
-che Virgilio porta dentro di sé:
-
-può guidare Dante
-attraverso l'Inferno
-e attraverso il Purgatorio.
-
-Pausa.
-
-Ma non in Paradiso.
-
-Pausa lunga.
-
-Lì serve un'altra guida.
-
-Pausa.
-
-La ragione
-ti porta lontanissimo.
-
-Ma non ti salva da sola.
-
-Pausa lunga.
-
-Virgilio è la ragione umana.
-Beatrice è ciò che la supera.
-Rivelazione.
-Grazia.
-
-Pausa.
-
-Questa è la ferita
-e insieme la struttura
-di tutta la Commedia.
 
 ## vv. 76-81 - La domanda e la fonte
 
@@ -2378,8 +1366,6 @@ Da soli non si regge.
 
 ## vv. 91-99 - L'altro viaggio e la natura della lupa
 
-Pausa lunga.
-
 > «A te convien tenere altro viaggio,»
 > rispuose poi che lacrimar mi vide,
 > «se vuoi campar d’esto loco selvaggio;
@@ -2396,85 +1382,48 @@ Altro viaggio.
 
 Pausa.
 
-Non un'aggiunta.
-Non una deviazione temporanea.
+La via
+verso l'alto
+esiste.
+
+Ma non
+da qui.
 
 Pausa lunga.
 
-Altro viaggio.
+La lupa
+non lascia
+passare.
 
 Pausa.
 
-La via retta esiste.
-Ma non è percorribile adesso.
+E non si sazia.
 
 Pausa lunga.
 
-Con la lupa davanti,
-non si può salire direttamente.
+Dopo il pasto
+ha più fame
+di prima.
 
 Pausa.
 
-Bisogna scendere
-per poter salire.
+Per questo
+non basta
+spingerla via.
 
 Pausa lunga.
 
-Questo è il paradosso
-al cuore della Commedia.
+Bisogna
+cambiare
+strada.
 
 Pausa.
 
-La via verso il Paradiso
-passa attraverso l'Inferno.
-
-Pausa lunga.
-
-Non c'è un percorso diretto.
-Non esiste la scorciatoia.
-
-Pausa.
-
-E poi la natura della lupa:
-
-Pausa lunga.
-
-Mai non empie la bramosa voglia.
-
-Pausa.
-
-Non è mai sazia.
-
-Pausa lunga.
-
-E dopo il pasto ha più fame che pria.
-
-Pausa.
-
-Ogni soddisfazione
-aumenta il desiderio.
-
-Pausa lunga.
-
-La struttura dell'insaziabilità.
-
-Pausa.
-
-Non è solo un vizio.
-È una legge fisica.
-
-Pausa lunga.
-
-Non si può vincerla
-con la forza di volontà.
-Perché più la nutri,
-più ha fame.
+Scendere
+per poter
+salire.
 
 ## vv. 100-111 - Il Veltro
-
-[Schermo: nero pieno]
-
-Pausa lunga.
 
 > Molti son gli animali a cui s’ammoglia,
 > e più saranno ancora, infin che ’l Veltro
@@ -2495,254 +1444,81 @@ Il Veltro.
 
 Pausa.
 
-Settecento anni di dibattito.
+Qui
+la sicurezza
+finisce.
 
 Pausa lunga.
 
-Chi è?
+Da settecento anni
+si discute
+su chi sia.
+
+Un sovrano.
+
+Un riformatore.
+
+Una figura
+messianica.
 
 Pausa.
 
-Cangrande della Scala?
-L'imperatore Enrico VII?
-Un pontefice futuro?
-Una figura mistica?
-Cristo stesso al ritorno?
+Dante
+non mette
+un nome.
 
 Pausa lunga.
 
-Non lo chiudo nemmeno io.
-
-Pausa.
-
-E forse è giusto così.
-
-Pausa lunga.
-
-Perché la polisemia del Veltro
-è parte del testo.
-
-Pausa.
-
-Se Dante avesse voluto un nome,
-avrebbe messo un nome.
-
-Pausa lunga.
-
-Ha messo una cifra enigmatica.
-Un profilo.
-Non un'identità.
-
-Pausa.
-
-E questo è un gesto deliberato.
-
-Pausa lunga.
-
-Ma alcune cose le dice.
-
-## Cosa nutre il Veltro
-
-Pausa lunga.
-
-Questi non ciberà terra né peltro.
-
-Pausa.
-
-Non terra.
-Non peltro.
-
-Pausa lunga.
-
-La terra è il potere terreno.
-I territori.
-La politica delle frontiere.
-
-Pausa.
-
-Il peltro è il metallo di poco valore.
-Ma qui sta per il denaro in generale.
-La ricchezza.
-
-Pausa lunga.
-
-Non potere.
-Non ricchezza.
-
-Pausa.
-
-E invece:
-
-Pausa lunga.
+Ma mette
+tre parole.
 
 Sapienza.
+
 Amore.
+
 Virtute.
 
-Pausa.
-
-Tre cose.
-
 Pausa lunga.
 
-Non una bestia più forte.
-Non un potere più grande.
-
-Pausa.
-
-Una forma più alta.
-Un ordine
-che la lupa
-non può divorare.
-
-Pausa lunga.
-
-Perché la lupa si nutre di terra e peltro.
-E il Veltro no.
+E dice
+che non si nutrirà
+di terra
+né di peltro.
 
 Pausa.
 
-Si nutrono di cose diverse.
-Non parlano la stessa lingua.
+Non territorio.
+
+Non denaro.
 
 Pausa lunga.
 
-Il Veltro non può essere consumato
-dalla lupa.
+Tra feltro
+e feltro
 
-## "Tra feltro e feltro"
-
-Pausa lunga.
-
-Poi c'è la frase più oscura.
+resta
+un enigma.
 
 Pausa.
 
-"E sua nazion sarà tra feltro e feltro."
+Non lo chiudo.
 
 Pausa lunga.
 
-Da qui
-le letture si moltiplicano.
+La cosa
+che ci serve
+adesso
+è più semplice.
+
+La lupa
+non è eterna.
 
 Pausa.
 
-C'è chi sente il feltro
-come il panno dei poveri:
-un salvatore che nasce basso,
-quasi francescano.
-
-Pausa lunga.
-
-C'è chi ci vede Feltro
-e Montefeltro:
-una geografia,
-un uomo che viene da quella zona d'Italia.
-
-Pausa.
-
-C'è chi ci sente
-il cappello dei cardinali:
-un papa riformatore,
-una correzione che nasce dal conclave.
-
-Pausa lunga.
-
-Ognuna di queste letture
-cambia il soggetto politico.
-
-Pausa.
-
-Ma forse
-la molteplicità è il punto.
-
-Pausa lunga.
-
-Il Veltro è la forma futura
-del bene politico.
-
-Pausa.
-
-Non ancora definita.
-Non ancora incarnata.
-
-Pausa lunga.
-
-Una promessa
-più che una profezia.
-
-## La cacciata della lupa
-
-Pausa lunga.
-
-Questi la caccerà per ogni villa
-fin che l’avrà rimessa ne l’Inferno,
-là onde invidia prima dipartilla.
-
-Pausa lunga.
-
-La caccerà.
-
-Pausa.
-
-La farà morire con dolore.
-La ricaccerà.
-
-Pausa lunga.
-
-Fin che l'avrà rimessa ne l'Inferno.
-
-Pausa.
-
-"Rimessa" — rimessa, rimpiazzata al suo posto.
-
-Pausa lunga.
-
-Là onde invidia prima dipartilla.
-
-Pausa.
-
-Là dove l'invidia
-per prima la mandò fuori.
-
-Pausa lunga.
-
-L'invidia.
-
-Pausa.
-
-La lupa non ha creato sé stessa.
-Qualcuno la ha spinta fuori.
-
-Pausa lunga.
-
-E quell'invidia originaria
-è l'invidia di Lucifero.
-
-Pausa.
-
-Il peccato che ha iniziato tutto.
-
-Pausa lunga.
-
-La lupa è una creatura di Lucifero.
-Non autonoma.
-Dipendente.
-
-Pausa.
-
-E questo apre
-tutta l'architettura della Commedia.
-
-Pausa lunga.
-
-Il viaggio non è solo morale.
-È cosmologico.
-
-Pausa.
-
-Non si tratta solo di curarsi.
-Si tratta di capire l'ordine dell'universo.
+Qualcosa
+può
+ricacciarla
+indietro.
 
 ## vv. 112-117 - La decisione della guida
 
@@ -3045,133 +1821,77 @@ Una sola direzione.
 Pausa lunga.
 
 Il primo canto
-non racconta ancora l'Inferno.
+non racconta
+ancora
+l'Inferno.
 
 Pausa.
 
-Racconta la condizione per entrarci.
+Racconta
+lo smarrimento.
+
+Una strada
+vista
+
+e non ancora
+percorribile.
 
 Pausa lunga.
 
-C'è uno smarrimento.
-Non drammatico.
-Avvenuto nel sonno.
-Senza che se ne conosca l'inizio.
+Tre ostacoli.
+
+E poi
+una guida.
 
 Pausa.
 
-C'è una via che si vede
-ma non si riesce a reggere.
+Non una soluzione.
+
+Una guida.
 
 Pausa lunga.
 
-Ci sono tre ostacoli.
-Uno sfugge.
-Uno fronteggia.
-Uno svuota.
+Virgilio
+non dice:
+
+andiamo
+in cima.
 
 Pausa.
 
-E quando tutto è perduto —
-anche la speranza —
-appare una guida.
+Dice:
+
+altro viaggio.
 
 Pausa lunga.
 
-Non per caso.
+Prima
+bisogna
+scendere.
 
 Pausa.
 
-E non perché Dante
-l'abbia chiamato.
-
-Pausa.
-
-Quando Dante chiede aiuto,
-l'aiuto è già arrivato.
+Dante
+non capisce
+ancora tutto.
 
 Pausa lunga.
 
-E chiedere
-è già ordine.
+Ma fa
+la cosa
+che prima
+non riusciva
+a fare.
 
 Pausa.
 
-Poi la guida dice:
-la via retta adesso è bloccata.
-Bisogna fare altro viaggio.
+Si muove.
 
 Pausa lunga.
 
-E Dante accetta.
+E segue.
 
 Pausa.
-
-Non capisce ancora tutto.
-Non sa ancora dove va.
-
-Pausa lunga.
-
-Ma si fida della forma.
-Si fida di chi sa come si cammina.
-
-Pausa.
-
-Si mosse.
-E io li tenni retro.
-
-Pausa lunga.
-
-Il viaggio nasce in questo gesto.
-
-Pausa.
-
-Non nella visione.
-Non nella beatitudine.
-
-Pausa lunga.
-
-Nel passo.
-
-Pausa.
-
-Il primo passo
-dopo la perdita totale
-della direzione.
-
-Pausa lunga.
-
-E il primo passo
-è il più difficile.
-
-Pausa.
-
-Non perché la strada sia lunga.
-Non perché il peso sia grande.
-
-Pausa lunga.
-
-Ma perché richiede
-qualcosa di preciso.
-
-Pausa.
-
-Richiede misura.
-
-Pausa lunga.
-
-La misura di chi sa
-dov'è il proprio limite.
-La misura di chi sa
-che da soli non si può salire.
-La misura di chi chiede.
-
-Pausa.
-
-E così
-si mosse.
-
-Pausa lunga.
 
 Senza misura
 non c'è via.
