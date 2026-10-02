@@ -646,35 +646,40 @@ Pausa lunga.
 Quella dote
 è un documento.
 La donazione di Costantino.
-L'imperatore che, convertito,
-avrebbe dato al papa
-Roma e l'Occidente.
-
-Dante ci crede.
-Ci crede tutto il Medioevo.
 
 Pausa.
 
-Nel 1440
-un umanista, Lorenzo Valla,
-lo legge da filologo.
-Parole, titoli, formule
-che al tempo di Costantino
-non potevano esistere.
+Dante la crede autentica.
 
-È un falso.
+Molti nel suo tempo
+la consideravano autentica.
+
+Pausa.
+
+Nel Quattrocento,
+Lorenzo Valla
+la smonterà
+con la filologia.
+
+Parole.
+Titoli.
+Formule
+che al tempo di Costantino
+non potevano esserci.
 
 Pausa lunga.
 
-Il male di cui Dante
-accusa Costantino
-viene da un documento
-che Costantino
-non ha mai scritto.
+Il documento
+era un falso.
 
 Pausa.
 
-che da te prese il primo ricco patre!
+Ma per Dante
+il problema politico
+restava reale:
+
+che da te prese
+il primo ricco patre.
 
 ## vv. 118-133 - Virgilio lo rialza
 
@@ -686,7 +691,7 @@ che da te prese il primo ricco patre!
 > lo suon de le parole vere espresse.
 > Però con ambo le braccia mi prese,
 > e poi che tutto su mi s’ebbe al petto,
-> rimontò per la Ma onde discese.
+> rimontò per la via onde discese.
 > Né si stancò d’avermi a sé distretto,
 > sì men portò sovra ’l colmo de l’arco
 > che dal quarto al quinto argine è tragetto.
@@ -703,110 +708,104 @@ Forse coscienza.
 
 Pausa lunga.
 
-Virgilio ascolta tutto.
+Virgilio
+ascolta tutto.
 
 Con labbra contente.
 
-Non è una carezza generica.
+Pausa.
 
 Gli piace
 il suono
 delle parole vere espresse.
 
-Pausa.
+Pausa lunga.
 
-Poi lo riprende in braccio.
+Poi
+lo riprende
+in braccio.
 
 Lo stringe.
 
 Lo porta su.
 
-Pausa lunga.
-
-Non è solo trasporto.
-
-È quasi un riconoscimento.
+Pausa.
 
 Il maestro
-ha sentito l'allievo
+ha sentito
+l'allievo
+
 dire il vero
 contro il falso sacro.
 
 ## Chiusura
 
+[Schermo: nero pieno]
+
 Pausa lunga.
 
 Il diciannovesimo canto
-capovolge il sacro
-e poi lo rimette diritto
-con la parola.
+capovolge
+il sacro.
 
 Pausa.
 
-I papi simoniaci
-stanno a testa in giù.
+Papi
+a testa in giù.
 
-Le chiavi di Pietro
-sono finite
-sotto la pietra.
+Piedi
+in fiamme.
+
+Chiavi
+vendute.
 
 Pausa lunga.
 
 E Dante,
-che davanti a tanti dannati
+che tante volte
 ha ascoltato,
-qui parla.
+
+qui
+parla.
+
+Pausa.
 
 Accusa.
+
 Argomenta.
+
 Condanna.
 
 Pausa lunga.
 
-Più di cinque secoli dopo,
-Dostoevskij
-immagina che Cristo
-torni sulla terra.
-A Siviglia.
-Ai tempi dell'Inquisizione.
+Ma non distrugge
+l'ufficio.
 
 Pausa.
 
-Il Grande Inquisitore
-lo fa arrestare.
-E di notte, in prigione,
-gli spiega
-che la Chiesa ha dovuto correggere la sua opera.
-Ha preso il miracolo,
-il mistero,
-l'autorità.
-Ha preso la spada di Cesare.
+È proprio
+perché prende sul serio
+le chiavi
+
+che non sopporta
+chi le vende.
 
 Pausa lunga.
 
-Cristo non risponde.
-Lo ascolta fino in fondo.
-Poi lo bacia.
-E se ne va.
+Quanto tesoro
+volle Cristo
+da Pietro?
+
+Pausa.
+
+Niente.
 
 Pausa lunga.
 
-Quanto tesoro volle Cristo da Pietro?
+Chi ha capovolto
+il sacro
 
-Certo non chiese se non: ‘Viemmi retro.
-
-Pausa.
-
-Dante e Dostoevskij
-danno la stessa risposta.
-Una frase sola.
-Oppure un bacio.
-
-Pausa.
-
-Chi ha capovolto il sacro
-viene capovolto.
-
-Pausa.
+viene
+capovolto.
 
 [Schermo: nero pieno]

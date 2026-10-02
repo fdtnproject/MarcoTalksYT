@@ -9,32 +9,53 @@ Linea guida: "Anche dall'Inferno si ama ancora la propria città"
 
 Pausa lunga.
 
-Allora, il sedicesimo canto.
+Allora,
+il sedicesimo canto.
 
 Pausa.
 
-Brunetto è appena sparito
+Brunetto
+è appena sparito
 nel fuoco.
 
 Dante cammina ancora
 con addosso
 quella voce.
 
+Pausa lunga.
+
+E intanto
+ne arriva un'altra.
+
+Non una voce.
+
+Un rumore.
+
 Pausa.
 
-E intanto sente un altro suono.
+Acqua.
 
-Non lo vede ancora.
+Molto più sotto.
 
-Lo sente.
+Un rombo
+che cresce
+mentre camminano.
 
 Pausa lunga.
 
-Il rombo dell'acqua
-che cade più sotto.
-
 Il precipizio
 sta arrivando.
+
+Ma prima,
+tre uomini
+corrono verso Dante.
+
+Tre fiorentini.
+
+Tre uomini
+che nell'Inferno
+vogliono ancora sapere
+come sta Firenze.
 
 ## vv. 1-12 - Il rombo e l'argine
 
@@ -53,34 +74,91 @@ sta arrivando.
 
 Pausa.
 
-Il canto apre con un suono.
+Il canto apre
+con un suono.
 
 Non una figura.
 Non una porta.
 
 Un rombo.
 
+Pausa lunga.
+
+Dante lo paragona
+alle arnie.
+
+Un ronzio continuo.
+
+Solo che qui
+non sono api.
+
+È acqua
+che precipita.
+
 Pausa.
 
-E subito dentro quel rombo
-tre ombre
-si staccano dalla schiera.
+Il suono
+arriva prima
+del vuoto.
 
-Corrono verso Dante
-e lo chiamano.
+Lo senti
+prima di vederlo.
 
 Pausa lunga.
 
-Sòstati.
+Poi,
+dentro quel rumore,
+tre ombre
+si staccano
+dalla schiera.
 
-Dall'abito
-sembri uno
-della nostra terra prava.
+Corrono verso Dante.
 
 Pausa.
 
-Prima ancora del nome
-arriva la città.
+E non dicono:
+chi sei?
+
+Dicono:
+fermati.
+
+Dall'abito
+sembri uno
+della nostra terra.
+
+Pausa lunga.
+
+Prima ancora
+del nome,
+arriva Firenze.
+
+Pausa.
+
+E Dante
+vede le ferite.
+
+Vecchie.
+Nuove.
+
+Il fuoco
+continua a scrivere
+sui loro corpi.
+
+E lui dice
+che ancora,
+ricordandole,
+prova dolore.
+
+Pausa lunga.
+
+Quindi attenzione.
+
+Il canto
+non comincia
+col disprezzo.
+
+Comincia
+con il riconoscimento.
 
 ## vv. 13-27 - Le tre ombre girano
 
@@ -102,46 +180,165 @@ arriva la città.
 
 [Schermo: Doré — le tre ombre che girano]
 
-Pausa lunga.
-
-Virgilio dice una cosa semplice:
+Virgilio dice:
 
 Aspetta.
+
+Pausa.
 
 A costor
 si vuol essere cortese.
 
-Pausa.
+Pausa lunga.
 
 Sono dannati.
 
-Ma meritano riguardo.
-
-Pausa lunga.
-
-E quando arrivano,
-non si fermano.
-
-Fanno una rota.
-
-Girano
-come i campioni
-prima di afferrarsi.
+Ma non per questo
+Dante deve trattarli
+senza riguardo.
 
 Pausa.
 
-Non possono smettere di correre.
-Non possono fermarsi.
+Anzi.
 
-Allora tengono il viso verso Dante
-e i piedi
-vanno nell'altro senso.
+Virgilio dice
+che se il fuoco
+non rendesse impossibile
+avvicinarsi,
+forse dovrebbe essere Dante
+a correre verso di loro.
 
 Pausa lunga.
 
-Tre uomini
-che continuano a bruciare
-senza smettere di guardare.
+Poi arrivano.
+
+E non possono fermarsi.
+
+Pausa.
+
+La pena continua
+anche mentre parlano.
+
+Allora
+si organizzano.
+
+Tre uomini.
+
+Una rota.
+
+Pausa lunga.
+
+Dante li paragona
+a lottatori.
+
+Campioni nudi,
+unti,
+che girano
+prima dello scontro.
+
+Pausa.
+
+Ma qui
+non stanno cercando
+una presa.
+
+Stanno cercando
+un modo
+per continuare a correre
+e continuare a guardare Dante.
+
+Pausa lunga.
+
+Il corpo
+va da una parte.
+
+Il viso
+resta su di lui.
+
+Collo e piedi
+lavorano
+in direzioni opposte.
+
+Pausa.
+
+È una conversazione
+che non può stare ferma.
+
+Pausa lunga.
+
+E guarda
+un altro dettaglio.
+
+Non parlano
+uno alla volta
+restando fermi.
+
+Pausa.
+
+Devono costruire
+una geometria
+per poter parlare.
+
+Tre corpi
+che girano.
+
+Tre visi
+che cercano
+lo stesso punto.
+
+Dante.
+
+Pausa lunga.
+
+Ogni volta
+che uno avanza,
+il collo deve compensare.
+
+Il passo
+non può seguire
+lo sguardo.
+
+Pausa.
+
+È una pena
+che entra
+anche nella conversazione.
+
+Non esiste
+un momento neutro
+in cui smette il fuoco
+e comincia il dialogo.
+
+Pausa lunga.
+
+Il dialogo
+accade dentro la pena.
+
+E forse
+è proprio per questo
+che la cortesia di Virgilio
+colpisce tanto.
+
+Pausa.
+
+Aspetta.
+
+Non perché
+il viaggio
+si sia fermato.
+
+Ma perché
+questi tre uomini
+meritano
+che il viaggio
+rallenti.
+
+Come Firenze,
+forse.
+
+Come la memoria
+che questi uomini
+si portano dietro.
 
 ## vv. 28-45 - Guido, Tegghiaio, Iacopo
 
@@ -164,23 +361,39 @@ senza smettere di guardare.
 > Iacopo Rusticucci fui; e certo
 > la fiera moglie più ch’altro mi nuoce.»
 
+Pausa lunga.
+
+La prima paura
+è questa:
+
+forse ci disprezzi.
+
 Pausa.
 
-Non dicono:
-abbi pietà.
-
-Dicono:
-se questo posto ci rende spregevoli,
-almeno la nostra fama
-ti pieghi ad ascoltarci.
+Forse questo posto,
+questi corpi bruciati,
+questa pelle,
+ci hanno tolto
+anche il diritto
+di essere ascoltati.
 
 Pausa lunga.
 
-E allora i nomi.
+E allora
+mettono davanti
+la fama.
+
+Non la pena.
+
+La fama.
+
+Pausa.
+
+E arrivano i nomi.
 
 [Schermo: testo — "Guido Guerra — Tegghiaio Aldobrandi — Iacopo Rusticucci"]
 
-Pausa.
+Pausa lunga.
 
 Guido Guerra.
 
@@ -190,54 +403,86 @@ Iacopo Rusticucci.
 
 Pausa.
 
-Tre nomi
-che per Dante
-non sono qualunque.
+Non sono nomi nuovi.
 
-Due di questi nomi
-erano già emersi
-nel sesto canto,
-nella Firenze di Ciacco.
+Due erano già comparsi
+nel sesto canto.
+
+Ciacco
+li aveva messi
+fra gli uomini degni
+della vecchia Firenze.
 
 Pausa lunga.
 
-E ascolta come Dante presenta Tegghiaio.
+Dante adesso
+li trova davvero.
 
-la cui voce
-nel mondo su dovria esser gradita.
+Non in una piazza.
+
+Non in una casa.
+
+Nel fuoco.
 
 Pausa.
 
+E ascolta
+come viene presentato Tegghiaio.
+
+la cui voce
+nel mondo su
+dovria esser gradita.
+
+Pausa lunga.
+
 Una voce
-che avrebbero dovuto ascoltare.
+che avrebbe meritato
+ascolto.
 
 Pausa.
 
 Nel 1260
-Tegghiaio aveva sconsigliato a Firenze
+Tegghiaio aveva sconsigliato
 la spedizione contro Siena.
+
 Non lo ascoltarono.
 
 E fu Montaperti.
 
 Pausa lunga.
 
-La stessa battaglia,
-da tre lati.
+Quella battaglia
+continua ad attraversare
+l'Inferno.
 
-Farinata l'ha vinta.
-Tegghiaio l'aveva prevista.
-E più giù, nel ghiaccio,
-troveremo chi l'ha tradita.
+Farinata
+l'ha vinta.
+
+Tegghiaio
+l'aveva prevista.
+
+Più giù,
+nel ghiaccio,
+arriverà
+chi l'ha tradita.
+
+Pausa.
+
+Tre posizioni
+dentro una sola ferita
+fiorentina.
 
 Pausa lunga.
 
-Adesso hanno un volto.
+E adesso
+quella storia politica
+non è più
+una cronaca.
 
-O meglio:
-tre corpi feriti
-che girano nel fuoco
-senza perdere il nome.
+Sono tre uomini
+che continuano
+a correre
+sotto il fuoco.
 
 ## vv. 46-63 - Dante risponde da sopra
 
@@ -262,32 +507,139 @@ senza perdere il nome.
 
 Pausa lunga.
 
-Dante vorrebbe scendere.
-
-Abbracciarli.
+Dante
+vorrebbe scendere.
 
 Lo dice.
 
-Se non ci fosse il fuoco,
-mi sarei buttato giù da loro.
+Pausa.
+
+Vorrebbe
+abbracciarli.
+
+Pausa lunga.
+
+Questo conta.
+
+Perché il corpo
+dice una cosa
+prima ancora
+del giudizio.
+
+Dante
+non prova repulsione.
+
+Prova vicinanza.
 
 Pausa.
 
-Ma resta sopra.
+Ma non può
+mettere il piede
+sulla sabbia.
+
+Il fuoco
+lo fermerebbe.
+
+Pausa lunga.
+
+C'è qualcosa
+di quasi impossibile
+in questa scena.
+
+Pausa.
+
+Dante
+è sopra di loro.
+
+Letteralmente.
 
 Sull'argine.
 
 Pausa.
 
-E risponde con la parola giusta:
+E moralmente
+sta andando
+verso una salvezza
+che loro
+non avranno.
 
-non dispetto.
+Pausa lunga.
+
+Eppure
+non usa quella posizione
+per guardare dall'alto.
+
+Vorrebbe scendere.
+
+Pausa.
+
+Vorrebbe
+mettere il proprio corpo
+accanto ai loro.
+
+Pausa lunga.
+
+Il fuoco
+gli impedisce
+il gesto.
+
+Allora deve fare
+con le parole
+quello che non può fare
+con le braccia.
+
+Pausa.
+
+Non dispetto.
 
 Doglia.
 
 Pausa lunga.
 
-Sono della vostra terra.
+È quasi
+un abbraccio verbale.
+
+Non cancella
+la distanza.
+
+La attraversa.
+
+Pausa lunga.
+
+E allora
+resta sopra.
+
+Loro sotto.
+
+Lui vivo.
+
+Loro dannati.
+
+Eppure
+per un momento
+il gesto desiderato
+è un abbraccio.
+
+Pausa lunga.
+
+Poi arriva
+la parola giusta.
+
+Non dispetto.
+
+Doglia.
+
+Pausa.
+
+Non vi disprezzo.
+
+Mi fate male.
+
+Pausa lunga.
+
+E aggiunge:
+
+sono della vostra terra.
 
 I vostri nomi
 li ho ascoltati
@@ -295,15 +647,26 @@ con affezione.
 
 Pausa.
 
-È una risposta
-di appartenenza.
+Non sta cancellando
+la condanna.
 
-E insieme
-di distanza:
+Sta dicendo
+che la condanna
+non cancella
+la relazione.
 
-io vado ancora giù.
+Pausa lunga.
 
-Voi no.
+E subito dopo
+ricorda la distanza.
+
+Io devo ancora
+scendere.
+
+Fino al centro.
+
+Voi
+restate qui.
 
 ## vv. 64-72 - La domanda su Firenze
 
@@ -321,35 +684,135 @@ Voi no.
 
 Pausa lunga.
 
-Ed eccola,
-la vera domanda del canto.
+Ed eccola.
+
+La domanda
+che tiene insieme
+il canto.
+
+Pausa.
 
 Cortesia e valor
-dimorano ancora
-nella nostra città?
+vivono ancora
+a Firenze?
 
-Oppure se ne sono andati del tutto?
+Pausa lunga.
+
+Fermati
+su quello che
+non chiedono.
+
+Pausa.
+
+Non chiedono:
+
+la mia famiglia
+come sta?
+
+La mia casa
+è ancora in piedi?
+
+Chi governa?
+
+Chi ha vinto?
+
+Pausa lunga.
+
+Chiedono
+se una qualità morale
+della città
+esiste ancora.
+
+Pausa.
+
+Cortesia.
+
+Valor.
+
+Pausa lunga.
+
+Non è nostalgia
+generica.
+
+È una domanda
+sul carattere
+di Firenze.
+
+Pausa.
+
+La città
+può conservare
+il proprio nome
+e perdere
+il proprio modo
+di vivere?
 
 Pausa lunga.
 
 Questi tre uomini
-corrono nell'Inferno.
+sono all'Inferno.
 
-Bruciano.
+Eppure
+la ferita
+che vogliono misurare
+è ancora quella
+lassù.
 
-E la prima cosa
-che vogliono sapere
-non è delle loro case,
-non è dei loro figli,
-non è del loro nome.
+Pausa lunga.
 
-È di Firenze.
+E i tre nomi
+restano insieme
+fino all'ultimo.
 
 Pausa.
 
-Anche dall'Inferno
-guardano ancora
-verso la città.
+Non c'è
+un protagonista
+che prende
+tutto il canto.
+
+Guido.
+Tegghiaio.
+Iacopo.
+
+Pausa lunga.
+
+Tre uomini
+che Dante
+non separa
+quando arriva
+la domanda decisiva.
+
+Pausa.
+
+Firenze
+non appartiene
+a uno di loro.
+
+È la cosa
+che hanno in comune.
+
+Pausa lunga.
+
+E per questo
+anche la risposta
+di Dante
+non è privata.
+
+È detta
+a voce alta.
+
+Con la faccia levata.
+
+Pausa.
+
+Quasi
+non stesse parlando
+solo ai tre.
+
+Quasi
+la città stessa
+dovesse sentirlo.
 
 ## vv. 73-90 - Dante risponde e loro capiscono
 
@@ -374,77 +837,221 @@ verso la città.
 
 Pausa lunga.
 
-Dante non addolcisce nulla.
+Dante risponde
+senza diplomazia.
+
+Pausa.
 
 La gente nova.
+
 I sùbiti guadagni.
 
 Orgoglio.
+
+Dismisura.
+
+Pausa lunga.
+
+È la diagnosi
+di Dante.
+
+Non una statistica
+sulla Firenze del Trecento.
+
+La sua diagnosi.
+
+Pausa.
+
+La città
+è cresciuta.
+
+È cambiata.
+
+Il denaro
+si muove più in fretta.
+
+E Dante
+vede in quel cambiamento
+una perdita
+di misura.
+
+Pausa lunga.
+
+E ascolta
+la forma della risposta.
+
+Non è
+un discorso lungo.
+
+Tre colpi.
+
+Pausa.
+
+Gente nova.
+
+Sùbiti guadagni.
+
+Dismisura.
+
+Pausa lunga.
+
+Dante
+non sta raccontando
+tutta l'economia di Firenze.
+
+Sta scegliendo
+le parole
+con cui spiegare
+una trasformazione morale.
+
+Pausa.
+
+Nuovi uomini.
+
+Ricchezze rapide.
+
+Una città
+che secondo lui
+non sa più
+dove mettere il limite.
+
+Pausa lunga.
+
+E la parola
+che mi interessa
+è proprio questa.
+
 Dismisura.
 
 Pausa.
 
-Firenze è già dentro
-la propria ferita.
+Perché questi tre
+non avevano chiesto:
+Firenze è ricca?
+
+Avevano chiesto:
+ha ancora valore?
 
 Pausa lunga.
 
-I tre si guardano
-tra loro
-come si guarda il vero
-quando fa male.
+La risposta di Dante
+mette le due cose
+in tensione.
+
+Puoi crescere.
+
+Puoi arricchirti.
+
+E insieme
+perdere misura.
 
 Pausa.
 
-Poi chiedono solo questo:
+È la sua accusa.
 
-se torni fra le stelle,
+Non serve
+renderla più assoluta
+di quanto sia.
+
+Pausa lunga.
+
+Basta vedere
+come reagiscono loro.
+
+Non protestano.
+
+Si guardano.
+
+Pausa lunga.
+
+I tre
+non discutono.
+
+Si guardano.
+
+Pausa.
+
+come al ver
+si guata.
+
+Pausa lunga.
+
+Non dicono:
+hai ragione.
+
+Il gesto
+basta.
+
+Pausa.
+
+Poi chiedono
+una cosa soltanto.
+
+Se torni,
 parla di noi.
 
 Pausa lunga.
 
-Ascolta come lo dicono.
+E lo dicono
+con una frase
+bellissima.
 
-Però, se campi d’esti lochi bui
-e torni a riveder le belle stelle,
-quando ti gioverà dicere ‘I’ fui
+se torni a riveder
+le belle stelle,quando ti gioverà
+dicere "I' fui"
 
 Pausa.
 
-Quando ti farà piacere dire:
+Un giorno,
+forse,
+ti farà bene
+dire:
+
 io c'ero.
 
 Pausa lunga.
 
-È Virgilio.
-Nell'Eneide,
-dopo il naufragio,
-Enea consola i compagni:
-forse un giorno
-ricordare anche questo
-ci farà piacere.
+È l'eco
+di Enea.
+
+Dopo il naufragio,
+Virgilio gli fa dire
+che forse
+un giorno
+ricordare il dolore
+farà bene.
 
 Pausa.
 
-Tre dannati
-augurano a Dante
-la consolazione di Enea.
+Qui sono tre dannati
+a consegnare
+a Dante
+quella possibilità.
 
 Pausa lunga.
 
-E ascolta le altre parole.
-Riveder le belle stelle.
+E poi:
 
-Le stelle del primo canto.
-Nessuno, quaggiù,
-gli aveva ancora augurato
-di rivederle.
+le belle stelle.
 
 Pausa.
 
-E spariscono.
+Le stelle
+che avevamo visto
+nel primo canto.
 
-Veloci.
+Le stelle
+che qui
+non si vedono.
+
+Pausa lunga.
+
+Gliele augurano.
+
+Poi rompono
+la rota.
+
+E spariscono.
 
 Più veloci
 di un amen.
@@ -469,36 +1076,142 @@ di un amen.
 
 Pausa.
 
-Adesso il canto cambia.
+I tre
+sono spariti.
 
-I tre sono spariti.
-
-Resta il rombo.
+Resta
+il rumore.
 
 Pausa lunga.
 
-L'acqua è così vicina
-che non si riesce quasi più a parlare.
-
-E Dante trova un'altra similitudine
-geografica,
-precisa,
-terrestre.
-
-L'Acquacheta.
-
-Una cascata vera,
-sull'Appennino.
-C'è ancora.
+Quello che
+all'inizio del canto
+era un rombo lontano,
+adesso
+copre quasi la voce.
 
 Pausa.
 
-Il salto
-che stanno per raggiungere
-non è più solo immaginato.
+Per parlare
+bisogna quasi
+gridare.
+
+Pausa lunga.
+
+Dante
+non descrive il salto
+con qualcosa di mitico.
+
+Usa
+una cascata reale.
+
+L'Acquacheta.
+
+Pausa.
+
+Appennino.
+
+San Benedetto.
+
+Acqua
+che precipita.
+
+Pausa lunga.
+
+Il mondo reale
+entra dentro
+la topografia dell'Inferno.
+
+Pausa.
+
+E soprattutto
+cambia il modo
+di ascoltare.
+
+Prima
+ascoltavamo
+le voci dei fiorentini.
 
 Adesso
-si sente tutto.
+la natura infernale
+le coprirebbe.
+
+Pausa lunga.
+
+La conversazione
+è finita.
+
+Pausa lunga.
+
+E c'è
+un'altra cosa
+che il rumore fa.
+
+Pausa.
+
+Cancella
+la possibilità
+di continuare
+quella conversazione.
+
+Pausa.
+
+Se i tre fiorentini
+fossero rimasti
+ancora pochi passi,
+quasi non si sarebbero
+più sentiti.
+
+Pausa lunga.
+
+Il paesaggio
+chiude il dialogo.
+
+Non con una risposta.
+
+Con un fragore.
+
+Pausa.
+
+E Dante
+continua a camminare
+verso qualcosa
+che ancora
+non vede.
+
+Pausa lunga.
+
+Questa è
+la posizione del canto.
+
+Dietro:
+Firenze.
+
+Davanti:
+la frode.
+
+Pausa.
+
+In mezzo:
+una cascata
+che impedisce
+di parlare piano.
+
+Pausa lunga.
+
+È quasi
+un cambio di atto.
+
+Le voci civili
+restano indietro.
+
+Da adesso
+cominciano
+i meccanismi
+dell'inganno.
+
+Davanti,
+resta il burrato.
 
 ## vv. 106-123 - La corda
 
@@ -531,72 +1244,226 @@ la corda.
 
 Pausa.
 
-Dante l'aveva intorno.
+Dante
+ce l'aveva addosso.
 
-E dice anche perché
-l'aveva pensata:
+Da quando?
 
-una volta
-per prendere la lonza
-all'inizio del viaggio.
+Non lo sappiamo.
 
 Pausa lunga.
 
-Virgilio gliela chiede.
+Lui ci dice
+che aveva pensato
+di usarla
+contro la lonza.
 
-La prende.
-La getta giù.
-
-Nel burrato.
+All'inizio
+del viaggio.
 
 Pausa.
 
-Dante capisce
-che quel gesto
-è un segnale.
+Non ci era riuscito.
 
-Una novità
-deve rispondere
-a un cenno nuovo.
+La corda
+è ancora lì.
 
 Pausa lunga.
 
-E pensa a che cosa sta per salire
-da quel buio.
-La frode.
+Virgilio
+gliela chiede.
+
+Dante
+la scioglie.
+
+La raccoglie.
+
+Gliela porge.
+
+Pausa.
+
+Virgilio
+si volta.
+
+Fa qualche passo
+lontano dal bordo.
+
+E la lancia
+nel vuoto.
+
+Pausa lunga.
+
+Nessuna spiegazione.
+
+Solo un gesto.
+
+Pausa.
+
+Dante
+lo guarda.
+
+E capisce
+che è un segnale.
+
+Pausa lunga.
+
+Una novità
+deve rispondere
+al nuovo cenno.
+
+Pausa.
+
+È interessante
+che proprio qui,
+alla soglia della frode,
+Virgilio
+non spieghi tutto
+in anticipo.
+
+Pausa lunga.
+
+Dante deve
+aspettare.
+
+Guardare.
+
+Fidarsi
+che il maestro
+sappia
+che cosa sta chiamando.
+
+Pausa.
+
+Sulla lonza
+e sulla corda
+le letture
+sono molte.
+
+Una vedeva
+nella lonza
+proprio la frode.
+
+Pausa.
+
+Qui il poema
+non la chiude
+con una definizione.
+
+Fa una cosa
+più forte.
+
+Pausa lunga.
+
+Getta
+un oggetto
+nel buio.
+
+E aspetta
+che il buio
+risponda.
+
+Pausa lunga.
+
+E qui
+la scena rallenta.
 
 Pausa.
 
 La corda
-che doveva servire contro la lonza
-adesso chiama la frode.
+non sparisce
+semplicemente
+dal costume di Dante.
 
-Nel primo canto
-c'era chi leggeva la lonza
-proprio come la frode.
-Qui quella lettura
-trova un argomento.
-
-Pausa lunga.
-
-E la corda
-ha un seguito.
-
-Sulla spiaggia del Purgatorio
-Catone,
-il romano che abbiamo già incontrato due volte,
-ordinerà di cingere Dante
-con un giunco.
-
-Una pianta umile.
-Che si piega
-e non si spezza.
+Passa
+dalle sue mani
+a quelle di Virgilio.
 
 Pausa.
 
-La corda finisce nell'abisso.
-Al suo posto
-arriverà l'umiltà.
+Poi
+dalle mani di Virgilio
+al vuoto.
+
+Pausa lunga.
+
+Tre passaggi.
+
+Dante.
+
+Virgilio.
+
+Abisso.
+
+Pausa.
+
+E per qualche secondo
+non succede niente.
+
+Pausa lunga.
+
+Questo
+è il punto.
+
+Il canto
+ci fa aspettare
+la risposta.
+
+Pausa.
+
+Dante guarda
+il maestro.
+
+Il maestro
+segue con gli occhi
+qualcosa
+che Dante
+non può ancora vedere.
+
+Pausa lunga.
+
+Ahi quanto cauti
+gli uomini esser denno
+presso a color
+che non veggion pur l'ovra,
+ma per entro i pensier
+miran col senno.
+
+Pausa lunga.
+
+Virgilio
+sta leggendo
+Dante.
+
+Dante
+sta cercando
+di leggere Virgilio.
+
+Pausa.
+
+E sotto entrambi
+c'è qualcosa
+che sta risalendo.
+
+Pausa lunga.
+
+Il rapporto
+fra guida e allievo
+qui cambia
+per un momento.
+
+Virgilio sa.
+
+Dante no.
+
+E deve accettare
+quel dislivello.
+
+Pausa.
+
+Fra poco
+quel dislivello
+diventerà
+un volo.
 
 ## vv. 124-136 - Sale qualcosa
 
@@ -616,24 +1483,30 @@ arriverà l'umiltà.
 
 Pausa lunga.
 
-Qui Dante fa una cosa rara.
-
-Giura.
+Dante
+sa già
+che quello che sta per dire
+sembra falso.
 
 Pausa.
 
-Giura al lettore
-che quello che sta per dire
-è vero.
-
-Perché ha faccia di menzogna.
+Ha faccia
+di menzogna.
 
 Pausa lunga.
 
+E allora
+giura.
+
 Alza la mano destra.
 
-Ma qui tacer nol posso; e per le note
-di questa comedìa, lettor, ti giuro,
+Ma qui tacer
+nol posso;
+
+e per le note
+di questa comedìa,
+lettor,
+ti giuro.
 
 Pausa lunga.
 
@@ -641,51 +1514,142 @@ Comedìa.
 
 Pausa.
 
-È la prima volta
-che il poema
-dice il proprio nome.
-
-E lo dice dentro un giuramento.
-Dante giura
-sulla sua finzione
-che il mostro
-esiste davvero.
+Il poema
+pronuncia
+il proprio nome.
 
 Pausa lunga.
 
-Divina,
-lo sappiamo,
-non l'ha scritto lui.
-Lo aggiungerà Boccaccio.
-E sul frontespizio di un libro stampato
-comparirà solo nel 1555.
+E lo fa
+mentre sta chiedendo
+al lettore
+di credere
+all'incredibile.
 
 Pausa.
 
-Per Dante
-era la Comedìa.
-E basta.
+Non in un prologo.
+
+Non in una dedica.
+
+Nel momento
+in cui dal fondo
+sale un mostro.
 
 Pausa lunga.
 
-Dal buio grosso e scuro
+È quasi
+un patto.
+
+Io ti sto raccontando
+una cosa
+che sembra menzogna.
+
+E giuro
+sul libro stesso
+che la sto vedendo.
+
+Pausa.
+
+"Divina"
+non è ancora
+nel titolo di Dante.
+
+Per lui
+è la Comedìa.
+
+Pausa lunga.
+
+Poi guarda.
+
+Dal buio
 sale una figura.
 
-Viene nuotando in su.
+Pausa.
 
-Come chi torna dall'acqua
+Non vola.
+
+Nuota
+nell'aria.
+
+Come uno
+che risale dall'acqua
 dopo aver liberato
-un'ancora impigliata sul fondo.
+un'ancora
+sul fondo.
 
 Pausa lunga.
 
-E il canto si ferma qui.
+Non sappiamo ancora
+che faccia abbia.
 
-Non su ciò che la figura è.
+Non sappiamo ancora
+che corpo abbia.
 
-Ma su ciò che fa:
+Sappiamo solo
+che sta salendo.
 
-sale.
+Pausa.
+
+E il canto
+si ferma lì.
+
+Pausa lunga.
+
+E prima
+che quella figura
+arrivi davvero,
+c'è un tempo strano.
+
+Pausa.
+
+Dante
+ha già giurato.
+
+Il lettore
+sa che qualcosa
+sta salendo.
+
+Ma non ha ancora
+un nome.
+
+Pausa lunga.
+
+È soltanto
+una forma
+che nuota
+nel buio.
+
+Pausa.
+
+Il canto
+potrebbe mostrarcela.
+
+Non lo fa.
+
+Pausa lunga.
+
+Taglia qui.
+
+Ci obbliga
+a portare
+quella figura
+nel canto successivo.
+
+Pausa.
+
+Prima il movimento.
+
+Poi il volto.
+
+Pausa lunga.
+
+Prima
+la paura
+di ciò che sale.
+
+Poi
+Gerione.
 
 ## Chiusura
 
@@ -694,38 +1658,53 @@ sale.
 Pausa lunga.
 
 Il sedicesimo canto
-sta fra due attrazioni.
-
-Da una parte
-la città.
-
-Dall'altra
-l'abisso.
+sta fra due richiami.
 
 Pausa.
 
-Tre uomini dannati
-vogliono sapere
-se Firenze
-ha ancora dentro di sé
-cortesia e valor.
+Da una parte
+Firenze.
 
-E mentre Dante risponde,
-più sotto,
-qualcosa
-si prepara a salire.
+Dall'altra
+il burrato.
 
 Pausa lunga.
 
-È un canto
-che tiene insieme
-fedeltà civile
-e vertigine.
-
-Amore di città
-e ingresso nel nuovo mostro.
+Tre uomini
+continuano ad amare
+una città
+che secondo Dante
+ha perso misura.
 
 Pausa.
+
+Poi spariscono.
+
+E resta
+il rumore dell'acqua.
+
+Pausa lunga.
+
+Dante scioglie
+una corda.
+
+Virgilio
+la getta nel vuoto.
+
+Qualcosa
+risponde.
+
+Pausa.
+
+Prima
+la città
+chiama Dante.
+
+Poi
+l'abisso
+chiama Gerione.
+
+Pausa lunga.
 
 Anche dall'Inferno
 si ama ancora

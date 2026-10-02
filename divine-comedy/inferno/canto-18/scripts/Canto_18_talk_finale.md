@@ -9,26 +9,35 @@ Linea guida: "La frode mette tutto a mercato"
 
 Pausa lunga.
 
-Allora, il diciottesimo canto.
+Allora,
+il diciottesimo canto.
 
 Pausa.
 
-Gerione li ha depositati
-in fondo all'abisso
-e se n'è andato.
+Gerione
+li ha lasciati
+a terra.
 
-Pausa.
-
-Adesso
-l'Inferno cambia forma.
+È sparito.
 
 Pausa lunga.
 
+E adesso
+l'Inferno
+cambia forma.
+
+Pausa.
+
 Fin qui
-avevamo visto cerchi,
-argini,
-selve,
-lande.
+cerchi.
+
+Argini.
+
+Selve.
+
+Lande.
+
+Pausa lunga.
 
 Qui no.
 
@@ -63,39 +72,217 @@ una macchina.
 
 Pausa lunga.
 
-Malebolge
-non è un paesaggio.
+Malebolge.
 
-È un impianto.
+Pausa.
+
+Già il nome
+suona costruito.
+
+Male.
+
+Bolge.
+
+Sacche.
+
+Fosse.
+
+Pausa lunga.
+
+Dante
+non ci porta
+in un paesaggio.
+
+Ci porta
+in un impianto.
 
 Pausa.
 
 Pozzo al centro.
-Dieci fossi concentrici.
+
+Dieci fossi.
+
 Argini.
+
 Ponti.
 
 Pausa lunga.
 
-La violenza
-nei cerchi prima
-stava ancora
-nel registro della forza.
+Tutto
+separato.
 
-Qui la frode
-entra in un luogo
-che sembra progettato.
+Tutto
+collegato.
 
 Pausa.
 
-Ordine.
-Ripartizione.
-Specializzazione.
+La frode
+non viene più
+rappresentata
+da una sola bestia.
+
+Adesso
+ha reparti.
+
+Pausa lunga.
+
+Dieci bolge.
+
+Dieci modi
+di usare
+la ragione
+contro qualcuno.
+
+Pausa.
+
+E Dante
+le rende quasi
+un'opera d'ingegneria.
+
+Pausa lunga.
+
+Guarda
+come ci si muove.
+
+Non si scende
+semplicemente
+verso il centro.
+
+Si attraversano
+argini.
+
+Si salgono
+ponti.
+
+Si guarda
+in basso.
+
+Poi si scende
+ancora.
+
+Pausa.
+
+Il corpo
+del viaggiatore
+è costretto
+a seguire
+la struttura
+del peccato.
+
+Pausa lunga.
+
+Prima
+Gerione.
 
 La frode
-non esplode.
+con una faccia.
 
-Si organizza.
+Adesso
+Malebolge.
+
+La frode
+con un'architettura.
+
+Pausa.
+
+E Virgilio
+riprende subito
+la sua posizione.
+
+A sinistra.
+
+Dante dietro.
+
+Il viaggio
+ricomincia.
+
+Pausa lunga.
+
+E questa
+non è soltanto
+una bella mappa.
+
+Pausa.
+
+Cambia
+come Dante
+guarda.
+
+Fin qui
+spesso incontrava
+una pena
+standoci dentro.
+
+Pausa lunga.
+
+Qui invece
+la vede
+anche dall'alto.
+
+Ponti.
+
+Fossi.
+
+Linee.
+
+Pausa.
+
+Può confrontare
+un gruppo
+con l'altro.
+
+Può vedere
+la ripetizione.
+
+Pausa lunga.
+
+Malebolge
+è il luogo
+in cui il male
+sembra quasi
+classificabile
+a colpo d'occhio.
+
+Pausa.
+
+E proprio per questo
+fa impressione.
+
+Non è caos.
+
+Pausa lunga.
+
+Funziona.
+
+Ha percorsi.
+
+Ha sorveglianza.
+
+Ha passaggi.
+
+Pausa.
+
+Quello che Gerione
+portava sul corpo,
+qui diventa
+spazio.
+
+Pausa lunga.
+
+Nodi.
+
+Rotelle.
+
+Adesso:
+argini
+e ponti.
+
+Pausa.
+
+La frode
+si lascia disegnare
+perché sa
+organizzarsi.
 
 ## vv. 22-39 - Prima bolgia
 
@@ -118,71 +305,191 @@ Si organizza.
 > a le prime percosse! già nessuno
 > le seconde aspettava né le terze.
 
-Pausa.
+Pausa lunga.
 
 La prima bolgia
 è già piena.
 
+Pausa.
+
 Nudi.
+
 In fila.
-Due sensi di marcia.
+
+Due sensi
+di marcia.
 
 Pausa lunga.
 
-Dante cerca un paragone urbano.
+Dante
+vede il traffico
+dell'Inferno.
 
-Roma.
-L'anno del giubileo.
-La folla regolata sul ponte.
-
-Pausa lunga.
-
-Ricordi il primo canto?
-Il 1300.
-L'anno santo.
-Il primo giubileo della storia,
-quello di Bonifacio.
+E pensa
+al traffico di Roma.
 
 Pausa.
 
-Sul ponte di Castel Sant'Angelo
-la folla viene divisa in due corsie.
-Da una parte chi va verso San Pietro.
-Dall'altra chi torna verso il monte.
+Anno 1300.
+
+Giubileo.
+
+Pellegrini.
+
+Ponte
+verso San Pietro.
 
 Pausa lunga.
 
-Il dettaglio è così preciso
-che molti studiosi pensano
-che Dante l'abbia visto con i suoi occhi.
+Una corsia
+va.
+
+Una corsia
+torna.
 
 Pausa.
 
-E il papa
-che ha organizzato quel traffico,
-nel prossimo canto,
-qualcuno lo starà aspettando.
+Il paragone
+è quasi amministrativo.
 
-Pausa.
-
-Anche qui
-c'è traffico.
-
-Ma invece di pellegrini
-ci sono peccatori.
-
-Invece di ordine sacro
-c'è ordine infernale.
+Come fai
+passare molta gente
+in uno spazio stretto?
 
 Pausa lunga.
 
-E sopra:
-diavoli cornuti
-con grandi ferze.
+La risposta:
 
-La frode qui
-ha già trovato
-la sua polizia.
+la separi.
+
+La ordini.
+
+Le assegni
+una direzione.
+
+Pausa.
+
+E Malebolge
+fa la stessa cosa.
+
+Pausa lunga.
+
+Solo che qui
+non ci sono
+pellegrini.
+
+Ci sono
+peccatori.
+
+Pausa.
+
+E al posto
+dell'ordine civile,
+ci sono diavoli
+con le fruste.
+
+Pausa lunga.
+
+La fila
+non rallenta.
+
+Nessuno
+aspetta
+la seconda percossa.
+
+Pausa.
+
+Il corpo
+impara subito
+la velocità
+richiesta.
+
+Pausa lunga.
+
+Questo è
+il primo volto
+di Malebolge.
+
+Una macchina
+che fa muovere
+le persone.
+
+Pausa lunga.
+
+E il paragone
+col Giubileo
+fa anche
+un'altra cosa.
+
+Pausa.
+
+Prende
+un movimento
+che dovrebbe condurre
+verso un luogo santo
+
+e lo usa
+per descrivere
+una fila
+di sfruttatori.
+
+Pausa lunga.
+
+Stesso principio.
+
+Persone
+che devono passare.
+
+Direzioni
+separate.
+
+Un flusso
+che non deve bloccarsi.
+
+Pausa.
+
+Ma la destinazione
+è opposta.
+
+Pausa lunga.
+
+A Roma
+si va
+verso San Pietro.
+
+Qui
+si cammina
+sotto la frusta.
+
+Pausa.
+
+È quasi
+un'immagine
+del rovesciamento
+che Malebolge
+farà continuamente.
+
+Pausa lunga.
+
+Cose vere.
+
+Parole vere.
+
+Gesti veri.
+
+Usati
+per uno scopo storto.
+
+Pausa.
+
+La frode
+raramente inventa
+tutto da zero.
+
+Prende
+qualcosa che funziona
+
+e lo piega.
 
 ## vv. 40-63 - Venedico
 
@@ -213,80 +520,278 @@ la sua polizia.
 
 Pausa lunga.
 
-Dante lo riconosce
-subito.
+Poi succede
+una cosa diversa.
 
-Non è uno sconosciuto.
-
-È Venedico Caccianemico.
+Dante
+riconosce qualcuno.
 
 Pausa.
 
-E la colpa
-non è vaga.
+Non dal nome.
+
+Dalla faccia.
+
+Pausa lunga.
+
+Già di veder costui
+non son digiuno.
+
+Pausa.
+
+L'ho già visto.
+
+Pausa lunga.
+
+E allora
+si ferma.
+
+Virgilio
+si ferma con lui.
+
+Anzi,
+gli permette
+di tornare
+qualche passo indietro.
+
+Pausa.
+
+In una bolgia
+che costringe
+a camminare,
+Dante
+si gira.
+
+Pausa lunga.
+
+Venedico
+fa l'opposto.
+
+Abbassa
+il viso.
+
+Pausa.
+
+Prova
+a nascondersi.
+
+Pausa lunga.
+
+Non può
+uscire dalla fila.
+
+Non può
+cambiare pena.
+
+Può solo
+provare
+a non essere
+riconosciuto.
+
+Pausa.
+
+Ma Dante
+lo riconosce.
+
+E lo chiama
+per nome.
+
+Pausa lunga.
+
+Venedico
+Caccianemico.
+
+Pausa.
+
+Il cognome
+sembra quasi
+scritto per il canto.
+
+Ma la colpa
+è precisa.
+
+Pausa lunga.
 
 Ha condotto
 Ghisolabella,
 sua sorella,
-a far la voglia del Marchese.
+a fare la volontà
+del Marchese.
+
+Pausa.
+
+Non la desidera.
+
+La consegna.
 
 Pausa lunga.
 
-L'ha consegnata.
+Una persona
+trattata
+come mezzo.
 
-Non ha sedotto lui.
-Non ha amato lui.
-
-Ha trafficato
-il corpo di un'altra persona.
-
-Pausa.
-
-E quando parla
-non prova nemmeno
-a negare.
-
-Prova a distribuire la vergogna.
+Come qualcosa
+che può essere
+spostato
+fra due uomini.
 
 Pausa.
 
-Non sono il solo.
-Bologna è piena.
+La frode
+mette in circolazione
+anche i corpi.
+
+Pausa lunga.
+
+E Venedico,
+quando viene scoperto,
+fa una cosa
+molto umana.
+
+Allarga
+la colpa.
+
+Pausa.
+
+Non sono
+solo io.
+
+Bologna
+è piena.
+
+Pausa lunga.
 
 La vergogna
-cerca sempre folla.
-
-Pausa lunga.
-
-E per dire Bologna
-Dante usa una parola del suo dialetto.
-
-a dicer ‘sipa’ tra Sàvena e ’l Reno;
+cerca compagnia.
 
 Pausa.
+
+E per dire
+Bologna,
+Dante usa
+una parola bolognese.
 
 Sipa.
-Sia.
-
-Ci sono più bolognesi qui
-che a Bologna.
-
-Pausa.
-
-È il Dante che ascolta i dialetti.
-In un trattato in latino
-li studierà città per città.
-E il bolognese
-gli sembrerà il più bello di tutti.
 
 Pausa lunga.
 
-E il Marchese
-a cui Venedico ha venduto la sorella?
-Un signore d'Este.
-Forse quell'Obizzo
-che abbiamo visto nel sangue bollente
-del dodicesimo canto.
+Sia.
+
+Pausa.
+
+Una sillaba
+basta
+a localizzare
+una città.
+
+Pausa lunga.
+
+La lingua
+entra nella pena
+come uno stemma.
+
+Ti dice
+da dove vieni.
+
+Anche quando
+vorresti sparire.
+
+Pausa lunga.
+
+E c'è
+un dettaglio
+che rende Venedico
+più vicino.
+
+Pausa.
+
+Dante
+non lo riconosce
+come riconosce
+un personaggio
+da un libro.
+
+Lo ha visto.
+
+Pausa lunga.
+
+Nel mondo.
+
+Con la faccia
+non abbassata.
+
+Con i vestiti.
+
+Con un posto
+fra gli altri uomini.
+
+Pausa.
+
+Adesso
+quello stesso uomo
+prova a diventare
+uno fra tanti.
+
+Pausa lunga.
+
+E Dante
+fa il contrario.
+
+Lo separa
+dalla folla.
+
+Lo nomina.
+
+Pausa.
+
+È una forma
+di esposizione
+terribile.
+
+Pausa lunga.
+
+La pena
+lo spinge avanti.
+
+La memoria di Dante
+lo tira fuori
+dalla fila.
+
+Pausa.
+
+Per pochi minuti
+Venedico
+non può più
+essere anonimo.
+
+Pausa lunga.
+
+E quello che dice
+non migliora
+la sua posizione.
+
+Anzi.
+
+Pausa.
+
+Conferma
+che il gesto
+non era soltanto
+un cedimento.
+
+Era mediazione.
+
+Pausa lunga.
+
+Ha messo
+una persona
+tra un desiderio altrui
+e un vantaggio.
+
+Pausa.
+
+È il primo
+mercato del canto.
 
 ## vv. 64-99 - Giasone
 
@@ -328,100 +833,258 @@ del dodicesimo canto.
 > sapere, e di color che in sé assanna.
 
 Il demonio
-lo chiude subito.
+chiude Venedico
+con una frustata.
 
-Via, ruffian.
+Pausa.
 
-Qui non son femmine da conio.
+Via,
+ruffian.
 
 Pausa lunga.
 
-È una frase perfetta.
+La conversazione
+non appartiene
+a Venedico.
 
-Io qui ci sento
-anche questo:
-qui non puoi più
-spendere nessuno.
-
-Pausa.
-
-Poi Dante e Virgilio
-si alzano sul ponte
-e guardano
-l'altra fila.
+La bolgia
+lo rimette
+in movimento.
 
 Pausa.
 
-Arriva uno
-che ha ancora
+Dante torna
+da Virgilio.
+
+Salgono
+sul ponte.
+
+Pausa lunga.
+
+E da sopra
+la scena
+cambia ancora.
+
+Pausa.
+
+Prima
+Dante era quasi
+nella fila.
+
+Adesso
+guarda
+dall'alto.
+
+Pausa lunga.
+
+Arriva
+un uomo
+che non sembra
+come gli altri.
+
+Pausa.
+
+Ha ancora
 aspetto reale.
 
-Non piange.
-
 Pausa lunga.
+
+E non piange.
 
 Giasone.
 
 [Schermo: testo — "Giasone"]
 
-Il nome mitico
-qui entra
-nel registro della frode.
+Pausa.
+
+Il grande navigatore.
+
+Il vello d'oro.
+
+L'Argo.
+
+Pausa lunga.
+
+Ma Virgilio
+non comincia
+dalla nave.
+
+Comincia
+dalle parole.
 
 Pausa.
 
-Isifile.
-Medea.
+Segni.
 
 Parole ornate.
-Promesse.
-Abbandono.
 
 Pausa lunga.
 
-La seduzione
-qui non è desiderio.
+Isifile.
 
-È strategia.
-
-La persona
-diventa passaggio,
-mezzo,
-strumento.
-
-Pausa lunga.
-
-Ma Giasone
-è anche il primo navigatore.
-L'uomo della nave Argo,
-partito a cercare il vello d'oro.
+Medea.
 
 Pausa.
 
+La seduzione
+qui non è
+semplicemente desiderio.
+
+È una tecnica.
+
+Pausa lunga.
+
+Dire
+quello che serve.
+
+Ottenere
+quello che serve.
+
+Andarsene.
+
+Pausa.
+
+La persona
+resta dietro.
+
+Pausa lunga.
+
+E la cosa
+più strana
+è che Giasone
+conserva
+la forma del re.
+
+Pausa.
+
+Quanto aspetto reale
+ancor ritiene.
+
+Pausa lunga.
+
+La pena
+non gli ha tolto
+la postura.
+
+Ma quella postura
+non lo salva
+dalla frusta.
+
+Pausa.
+
+Anzi.
+
+Rende più visibile
+la distanza
+fra quello che appare
+e quello che ha fatto.
+
+Pausa lunga.
+
 E Dante
-non lo dimentica.
+non dimenticherà
+la nave Argo.
+
+Molto più avanti,
+nel Paradiso,
+la userà ancora
+come immagine
+di uno stupore
+impossibile.
+
+Pausa.
+
+Non serve
+trasformare questo
+in un'assoluzione.
+Pausa lunga.
+
+Il mito
+può restare grande.
+
+L'uomo
+può restare dannato.
 
 Pausa lunga.
 
-Nell'ultimo canto del Paradiso,
-davanti a Dio,
-Dante cerca un'immagine
-per dire lo stupore.
+E il fatto
+che non pianga
+conta.
 
-E sceglie questa.
+Pausa.
 
-Nettuno,
-dal fondo del mare,
-che guarda passare sopra di sé
-l'ombra della nave Argo.
+Intorno a lui
+la frusta
+continua.
+
+Lui conserva
+quell'aspetto reale.
 
 Pausa lunga.
 
-Il seduttore frustato
-nella prima bolgia
-è un'immagine
-che Dante tiene
-per l'ultimo canto del poema.
+Non sappiamo
+che cosa pensi.
+
+Dante
+non glielo chiede.
+
+Pausa.
+
+Non gli concede
+una difesa.
+
+Pausa lunga.
+
+Virgilio
+lo racconta
+da fuori.
+
+Cuore.
+
+Senno.
+
+Parole ornate.
+
+Pausa.
+
+Le qualità
+che lo hanno reso grande
+sono anche
+quelle che hanno reso
+possibile l'inganno.
+
+Pausa lunga.
+
+Non manca
+l'intelligenza.
+
+È proprio lì.
+
+Pausa.
+
+Usata
+per portare qualcuno
+dove lui voleva.
+
+Pausa lunga.
+
+Questo è
+un passaggio decisivo
+per Malebolge.
+
+Non siamo
+nel luogo
+in cui la ragione
+si spegne.
+
+Pausa.
+
+Siamo nel luogo
+in cui la ragione
+lavora.
+
+Ma lavora
+contro l'altro.
 
 ## vv. 100-111 - La seconda bolgia
 
@@ -440,30 +1103,161 @@ per l'ultimo canto del poema.
 
 Pausa lunga.
 
-Si passa
-alla seconda bolgia.
-
-E il canto
-cambia subito odore.
+Seconda bolgia.
 
 Pausa.
 
-Prima ancora di vedere
-si sente.
-
-Alito.
-Muffa.
-Zuffa col naso
-e con gli occhi.
+E prima
+di vedere,
+Dante sente.
 
 Pausa lunga.
 
-Qui la frode
-non ha più
-il movimento della frusta.
+Lamenti.
 
-Ha la viscosità
-del residuo.
+Respiri.
+
+Muffa.
+
+Alito.
+
+Pausa.
+
+Occhi e naso
+fanno zuffa.
+
+Pausa lunga.
+
+Questa volta
+lo sguardo
+non basta.
+
+Il fondo
+è troppo cupo.
+
+Pausa.
+
+Bisogna salire
+ancora
+sul punto più alto
+del ponte.
+
+Pausa lunga.
+
+Malebolge
+costringe Dante
+anche a scegliere
+dove mettere
+il corpo
+per poter vedere.
+
+Pausa.
+
+Prima
+si torna indietro
+per Venedico.
+
+Poi
+si sale
+per guardare
+nella seconda bolgia.
+
+Pausa lunga.
+
+La conoscenza
+qui è fatica
+anche geometrica.
+
+Pausa lunga.
+
+Poi il canto
+fa qualcosa
+di quasi brutale.
+
+Pausa.
+
+Ci porta
+dalle parole ornate
+di Giasone
+
+alle parole
+che finiscono
+nel fango.
+
+Pausa lunga.
+
+Prima
+la seduzione.
+
+Poi
+la lusinga.
+
+Pausa.
+
+Sembrano
+due peccati diversi.
+
+E lo sono.
+
+Pausa lunga.
+
+Ma hanno
+un gesto comune.
+
+La parola
+non serve più
+a dire.
+
+Serve
+a ottenere.
+
+Pausa.
+
+Giasone
+promette
+per passare oltre.
+
+L'adulatore
+loda
+per ottenere favore.
+
+Pausa lunga.
+
+In entrambi i casi
+la frase
+ha un destinatario.
+
+Ma non gli deve
+la verità.
+
+Pausa.
+
+Gli deve
+un effetto.
+
+Pausa lunga.
+
+E allora
+la seconda bolgia
+non è una caduta
+casuale nel disgusto.
+
+Pausa.
+
+È il punto
+in cui la parola
+che si è separata
+dal vero
+
+viene mostrata
+come residuo.
+
+Pausa lunga.
+
+Quello che prima
+era ornamento,
+qui è materia
+che puzza.
 
 ## vv. 112-136 - Alessio e Taide
 
@@ -493,101 +1287,335 @@ del residuo.
 > grandi appo te?’, ‘Anzi maravigliose!
 > E quinci sien le nostre viste sazie.»
 
+Pausa lunga.
+
+Sterco.
+
+Pausa.
+
+Non una metafora
+elegante.
+
 Sterco.
 
 Pausa lunga.
 
-Niente allegoria elegante.
-
-Sterco.
-
-Quello che esce
-dai privadi umani.
+Dante
+fa scendere
+la lingua
+insieme al paesaggio.
 
 Pausa.
 
 Gli adulatori
-sono sommersi
-nel prodotto vero
+sono immersi
+nel prodotto
 delle loro parole.
 
 Pausa lunga.
 
-Alessio Interminei
-lo dice da solo:
+E ancora una volta
+Dante riconosce
+qualcuno.
 
-qua giù
+Pausa.
+
+Alessio Interminei.
+
+Pausa lunga.
+
+Ma guarda
+come lo riconosce.
+
+Pausa.
+
+Già t'ho veduto
+coi capelli asciutti.
+
+Pausa lunga.
+
+Adesso
+il volto
+è quasi cancellato.
+
+Non si capisce
+nemmeno
+se sia laico
+o chierico.
+
+Pausa.
+
+Dante però
+ricorda
+la versione pulita.
+
+Quella del mondo.
+
+Pausa lunga.
+
+E Alessio
+non nega nulla.
+
+Qua giù
 m'hanno sommerso
 le lusinghe.
 
 Pausa.
 
-E poi Taide.
+La lingua
+non era mai stanca.
 
-Non il complimento giusto.
+Mai sazia.
 
-Non il complimento in più.
+Pausa lunga.
 
-Il superlativo
-automatico.
+E guarda
+la differenza
+fra i due riconoscimenti
+del canto.
+
+Pausa.
+
+Venedico
+abbassa il volto
+prima ancora
+di essere chiamato.
+
+Alessio
+protesta
+perché Dante
+lo guarda troppo.
+
+Pausa lunga.
+
+Uno
+vuole sparire.
+
+L'altro
+vuole confondersi.
+
+Pausa.
+
+In entrambi i casi
+Dante dice:
+
+io ti conosco.
+
+Pausa lunga.
+
+La frode
+ha bisogno
+di maschere.
+
+La memoria
+le toglie.
+
+Pausa.
+
+E questo
+fa anche il poema.
+
+Prende nomi
+che vorrebbero
+restare nel mondo
+in un'altra forma
+
+e li fissa
+nel gesto
+che vuole ricordare.
+
+Pausa lunga.
+
+Non è
+un tribunale neutro.
+
+È Dante
+che decide
+quale memoria
+consegnare.
+
+Pausa.
+
+Per questo
+riconoscere qualcuno
+qui è già
+un atto potente.
+
+Pausa lunga.
+
+Dire
+quello che l'altro
+vuole sentire.
+
+Ancora.
+
+E ancora.
+
+Pausa.
+
+Fino a quando
+la parola
+non serve più
+alla verità.
+
+Serve soltanto
+all'effetto.
+
+Pausa lunga.
+
+Poi Taide.
+
+Pausa.
+
+Un complimento
+che non conosce misura.
 
 Anzi maravigliose.
 
 Pausa lunga.
 
+Non:
+mi sei grata?
+
+Sì.
+
+Pausa.
+
+Maravigliosamente.
+
+Pausa lunga.
+
 La lusinga
-è questo:
-
-dire più del vero
-fino a perdere
-qualsiasi rapporto
-col vero.
-
-Pausa lunga.
-
-E qui Dante
-fa un piccolo errore.
+aggiunge
+finché il rapporto
+con il vero
+si spezza.
 
 Pausa.
 
-La battuta viene da una commedia latina,
-di Terenzio.
-Un soldato chiede al suo adulatore:
-Taide mi ringrazia molto?
-E l'adulatore risponde:
-immensamente.
-
-Taide, in quella scena,
-non c'è nemmeno.
-
-Pausa.
-
-Dante mette la risposta in bocca a lei.
-Probabilmente conosceva quelle due battute
-da una citazione di Cicerone,
-dove i nomi non ci sono.
+E Dante
+fa anche
+un piccolo errore.
 
 Pausa lunga.
 
-E poi le parole.
+Nella commedia latina
+di Terenzio,
+la risposta adulatrice
+non è pronunciata
+da Taide.
+
+Pausa.
+
+Probabilmente
+Dante conosceva
+quelle battute
+attraverso una citazione
+di Cicerone,
+senza i nomi.
+
+Pausa lunga.
+
+Non è grave.
+
+Anzi,
+ci ricorda
+una cosa utile.
+
+Pausa.
+
+La Commedia
+non è un'enciclopedia
+infallibile.
+
+È un'opera
+che usa
+quello che Dante
+ha letto,
+ricordato,
+trasformato.
+
+Pausa lunga.
+
+Poi restano
+le parole basse.
+
 Merda.
+
 Puttana.
 
 Pausa.
 
-Non sono una caduta di stile.
-Sono lo stile.
-La lingua bassa
-per la materia bassa.
+Non sono
+un incidente
+di stile.
 
-Il poema si chiama Comedìa
-anche per questo.
-
-## Chiusura
+Sono
+lo stile richiesto
+da questa materia.
 
 Pausa lunga.
 
-Il primo canto di Malebolge
+Qui la parola
+che adula
+finisce
+nel luogo
+più basso
+che la parola
+può nominare.
+
+Pausa lunga.
+
+E allora
+la seconda bolgia
+chiude il cerchio.
+
+Pausa.
+
+Nella prima
+la persona
+diventa mezzo.
+
+Nella seconda
+la parola
+diventa mezzo.
+
+Pausa lunga.
+
+In entrambi i casi
+qualcosa
+che dovrebbe avere
+un valore proprio
+
+viene usato
+per arrivare
+a qualcos'altro.
+
+Pausa.
+
+Un corpo.
+
+Una promessa.
+
+Un complimento.
+
+Pausa lunga.
+
+Il problema
+non è soltanto
+che siano falsi.
+
+È che qualcuno
+li usa.
+
+## Chiusura
+
+[Schermo: nero pieno]
+
+Pausa lunga.
+
+Il primo canto
+di Malebolge
 mette in scena
 due mercati.
 
@@ -597,29 +1625,124 @@ Nella prima bolgia
 si trafficano
 persone.
 
+Pausa.
+
 Nella seconda
 si trafficano
 parole.
 
 Pausa lunga.
 
-Corpi consegnati.
-Sentimenti usati.
-Frasi gonfiate
-fino a marcire.
+Venedico
+usa una persona
+come moneta.
+
+Giasone
+usa una promessa
+come strumento.
+
+Alessio
+usa la lingua
+come servizio.
 
 Pausa.
 
-La frode
-non crea niente.
-
-Prende qualcosa di vivo
-e lo mette a prezzo.
+Taide
+porta il complimento
+oltre il vero.
 
 Pausa lunga.
 
-La frode mette
-tutto
+Cambia
+la merce.
+
+Non cambia
+il gesto.
+
+Pausa lunga.
+
+E quando
+il canto finisce,
+Dante e Virgilio
+sono già passati
+da una bolgia
+all'altra.
+
+Pausa.
+
+Questa sarà
+la nuova misura
+del viaggio.
+
+Non più
+un cerchio intero
+per un incontro.
+
+Pausa lunga.
+
+Bolgia.
+
+Ponte.
+
+Bolgia.
+
+Pausa.
+
+Il ritmo
+si stringe.
+
+Le forme della frode
+si moltiplicano.
+
+Pausa lunga.
+
+E il rischio
+per chi racconta
+è diventare
+un catalogo.
+
+Dante evita
+quel rischio
+con i volti.
+
+Pausa.
+
+Venedico.
+
+Giasone.
+
+Alessio.
+
+Taide.
+
+Pausa lunga.
+
+La macchina
+ha dieci reparti.
+
+Ma dentro
+continuano a esserci
+persone.
+
+Persone
+che hanno usato
+altre persone.
+
+Pausa.
+
+Prendere qualcosa
+che dovrebbe avere
+un valore proprio
+
+e piegarlo
+all'utilità
+di chi lo usa.
+
+Pausa lunga.
+
+La frode
+mette tutto
+
 a mercato.
 
 Pausa.

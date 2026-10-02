@@ -9,11 +9,13 @@ Linea guida: "Si annega nel sangue versato"
 
 Pausa lunga.
 
-Allora sì: il dodicesimo canto.
+Allora sì:
+il dodicesimo canto.
 
 Pausa.
 
-Qui si scende davvero.
+Qui
+si scende davvero.
 
 Pausa.
 
@@ -24,7 +26,8 @@ Sull'orlo:
 il Minotauro.
 
 Sotto:
-un fiume di sangue
+un fiume
+di sangue
 che bolle.
 
 Pausa lunga.
@@ -39,11 +42,26 @@ i Centauri.
 
 Pausa.
 
-Il sangue arriva agli occhi.
+E il sangue
+non è uguale
+per tutti.
+
+Arriva
+agli occhi.
+
 Alla gola.
-Altrove copre appena i piedi.
+
+Altrove
+copre appena
+i piedi.
 
 Pausa lunga.
+
+Questo canto
+non dice soltanto:
+violenza.
+
+La misura.
 
 ## vv. 1-15 - La ruina e il Minotauro
 
@@ -63,108 +81,187 @@ Pausa lunga.
 > e quando vide noi se stesso morse
 > sì come quei cui l’ira dentro fiacca.
 
-Il posto è alpestro.
-Ogni sguardo
-si tirerebbe indietro.
+Il posto
+è alpestro.
 
 Pausa.
 
-Dante non apre con una porta.
-Apre con una frana.
-
-Una frana vera,
-dalle parti di Trento.
-
-Non un ingresso monumentale.
-Un crollo.
+Ogni sguardo,
+dice Dante,
+si tirerebbe
+indietro.
 
 Pausa lunga.
+
+Non apre
+con una porta.
+
+Apre
+con un crollo.
+
+Una ruina.
+
+Pausa.
+
+Dante pensa
+a una frana
+vera,
+dalle parti
+di Trento.
+
+Un fianco
+di montagna
+che è venuto giù.
+
+Pausa lunga.
+
+Il sentiero,
+qui,
+non è stato
+costruito.
+
+È ciò
+che resta
+di qualcosa
+che si è rotto.
+
+Pausa.
+
+E sull'orlo
+di quella rottura
+c'è lui.
 
 [Schermo: Doré — il Minotauro sull'orlo]
 
 Il Minotauro.
 
-Pasifae,
-la regina di Creta,
-si innamora di un toro.
+Pausa lunga.
 
-Dedalo le costruisce
-una vacca di legno
-per nascondersi dentro.
+Pasifae.
 
-Da quell'unione
-nasce lui.
+Il toro.
 
-Pausa.
+La vacca
+di legno.
 
-Mezzo uomo,
-mezzo toro.
+Il labirinto.
 
-Lo chiudono in un labirinto.
-Gli mandano giovani da divorare.
-Finché arriva Teseo,
-col filo di Arianna,
-e lo uccide.
+Teseo.
+
+Arianna.
 
 Pausa.
 
-Ma la cosa decisiva
-non è da dove viene.
+Basta questo
+per capire
+che figura
+è arrivata
+fino a Dante.
 
-È come reagisce.
+Mezzo uomo.
 
-Quando vede Dante e Virgilio,
-si morde da solo.
-
-Come uno
-che l'ira
-rompe da dentro.
-
-Pausa.
-
-Non c'è grandezza qui.
-
-Solo violenza
-che si divora.
+Mezzo bestia.
 
 Pausa lunga.
 
-Nel Novecento
-Jorge Luis Borges
-prova a guardarlo dall'altra parte.
+Ma Dante
+non insiste
+sulla forma.
+
+Insiste
+sulla reazione.
+
+Quando vede
+Dante e Virgilio,
+si morde
+da solo.
 
 Pausa.
 
-In un racconto di poche pagine
-fa parlare il Minotauro.
-In prima persona.
-
-Non sa di essere un mostro.
-È solo.
-Non capisce perché la gente
-scappa quando lo vede.
-E aspetta qualcuno
-che venga a liberarlo.
+Se stesso.
 
 Pausa lunga.
 
-Quando arriva Teseo,
+La violenza,
+prima ancora
+di essere diretta
+contro qualcuno,
+sta già
+consumando
+chi la porta.
+
+Pausa.
+
+Non c'è
+maestà.
+
+Non c'è
+potenza ordinata.
+
+C'è
+una forza
+che non riesce
+nemmeno
+a stare
+ferma in sé.
+
+Pausa lunga.
+
+Nel Novecento,
+Borges
+prova a guardare
+questa creatura
+dall'altra parte.
+
+Pausa.
+
+Nel suo Asterione
 il Minotauro
-quasi non si difende.
+parla.
 
-Pausa.
+Non sa
+di essere
+un mostro.
 
-Borges ne fa una vittima.
-Dante ne fa la violenza
-che si morde da sola.
+È solo.
 
-Ma tutti e due
-lo vedono solo.
-E rivolto contro se stesso.
+Vede gli altri
+fuggire.
+
+Aspetta
+qualcuno
+che venga
+a liberarlo.
 
 Pausa lunga.
 
-e quando vide noi se stesso morse
+È una lettura
+molto diversa.
+
+Borges
+lo rende
+quasi una vittima.
+
+Dante,
+qui,
+fa il contrario.
+
+Lo vede
+come una violenza
+che si morde
+da sola.
+
+Pausa.
+
+Ma una cosa
+resta comune.
+
+La solitudine.
+
+Pausa lunga.
+
+E quando vide noi
+se stesso morse.
 
 ## vv. 16-30 - Virgilio lo ferma
 
@@ -184,48 +281,186 @@ e quando vide noi se stesso morse
 > di quelle pietre, che spesso moviènsi
 > sotto i miei piedi per lo novo carco.
 
-Virgilio lo punge subito.
-
-Credi che sia tornato Teseo?
-
-No.
-
-Questo non viene da Arianna.
-Non viene per uccidere.
-Viene per vedere.
+Virgilio
+non combatte.
 
 Pausa.
 
-E il Minotauro
-non si slancia.
+Non tira fuori
+un'arma.
 
-Si scompone.
+Non chiama
+qualcuno.
 
-Come un toro ferito a morte
-che salta da una parte
-e dall'altra
-e non sa più dove andare.
+Dice
+un nome.
+
+Teseo.
 
 Pausa lunga.
 
-Qui il canto
-trova una delle sue immagini migliori.
-
-La violenza
-non come forza.
-
-La violenza
-resa inutile.
-
-Il Minotauro
-non viene vinto da un colpo.
-
-Viene svuotato
-da una parola.
+Forse credi
+che sia tornato
+quello
+che ti ha ucciso?
 
 Pausa.
 
-E allora si passa.
+È una provocazione
+precisa.
+
+Virgilio
+non colpisce
+il corpo.
+
+Colpisce
+la memoria.
+
+Pausa lunga.
+
+E il Minotauro
+si scompone.
+
+Salta.
+
+Si agita.
+
+Non sa
+più dove andare.
+
+Pausa.
+
+La violenza,
+qui,
+non viene
+vinta.
+
+Viene
+resa inutile.
+
+Pausa lunga.
+
+Virgilio
+non cerca
+di calmarlo.
+
+Usa
+la sua furia
+come finestra.
+
+Corri al varco.
+
+Adesso.
+
+Pausa.
+
+È un gesto
+da guida
+molto concreto.
+
+Non devi
+risolvere
+ogni ostacolo.
+
+Devi capire
+quando
+si apre
+il passaggio.
+
+Pausa lunga.
+
+E Dante
+comincia
+a scendere.
+
+Le pietre
+si muovono
+sotto i piedi.
+
+Pausa.
+
+Perché Dante
+è vivo.
+
+Ha peso.
+
+Pausa lunga.
+
+In questo viaggio,
+il corpo
+continua
+a tradirlo
+nel senso migliore.
+
+Ricorda sempre
+che lui
+non appartiene
+al luogo
+che sta attraversando.
+
+Pausa lunga.
+
+Ogni pietra
+che si muove
+sotto il piede
+dice la stessa cosa.
+
+Pausa.
+
+Dante
+non è un'ombra.
+
+Non scivola
+attraverso
+la rovina.
+
+Deve trovare
+un appoggio.
+
+Poi un altro.
+
+Poi un altro.
+
+Pausa lunga.
+
+La frana
+non è
+un'immagine
+da contemplare.
+
+È una discesa
+da fare
+con il corpo.
+
+Pausa.
+
+E Virgilio
+non lo porta
+in braccio.
+
+Gli apre
+il momento
+giusto.
+
+Corri al varco.
+
+Pausa lunga.
+
+È un rapporto
+che tornerà
+ancora.
+
+La guida
+vede prima.
+
+Dante
+deve muoversi.
+
+Pausa.
+
+Capire
+non sostituisce
+il passo.
 
 ## vv. 31-48 - Il crollo
 
@@ -248,112 +483,181 @@ E allora si passa.
 > la riviera del sangue, in la qual bolle
 > qual che per violenza in altrui noccia.»
 
-Approfittano della furia
-e scendono.
+Dante pensa
+alla frana.
 
-Le pietre si muovono
-sotto i piedi di Dante.
-
-Peso vivo.
+Virgilio
+se ne accorge.
 
 Pausa.
 
-Dante pensa alla frana.
-Virgilio se ne accorge.
-E spiega.
+E racconta
+una cosa
+che lui stesso
+non aveva capito.
 
 Pausa lunga.
 
-Quando lui era sceso qui per comando di Erichto,
-questa ruina non c'era.
-
-È recente.
-
-Pausa.
-
-È crollata poco prima
-che scendesse Cristo.
+Quando era sceso
+qui
+la prima volta,
+questa ruina
+non c'era.
 
 Pausa.
 
-L'Inferno ha tremato.
-
-Per un attimo,
-dice Virgilio,
-parve che tutto l'universo
-sentisse amore.
-
-Pausa.
-
-E questa frana
-è rimasta lì.
-
-Come un segno.
-
-La morte di Cristo
-ha lasciato anche questo
-dentro l'Inferno.
+Poi,
+a un certo punto,
+l'Inferno
+ha tremato.
 
 Pausa lunga.
+
+Poco prima,
+dice,
+che arrivasse
+colui
+che portò via
+dal Limbo
+la grande preda.
+
+Pausa.
+
+Cristo.
+
+Virgilio
+non lo nomina.
+
+Ma noi
+sappiamo
+che cosa
+sta raccontando.
+
+Pausa lunga.
+
+Il terremoto
+della morte
+di Cristo.
+
+La terra
+che si spacca.
+
+Le rocce
+che cadono.
+
+Pausa.
 
 Nel quarto canto
-ce lo eravamo detti.
-Ogni volta che troveremo una roccia rotta,
-sapremo perché.
+avevamo iniziato
+a seguire
+questa traccia.
 
-Ecco la seconda.
+Eccola
+ancora.
+
+Una roccia
+rotta.
 
 Pausa lunga.
 
-Ma ascolta come lo spiega Virgilio.
+Ma la cosa
+più bella
+è la spiegazione
+di Virgilio.
 
 Pausa.
 
-tremò sì, ch’io pensai che l’universo
-sentisse amor
+Io pensai
+che l'universo
+sentisse amore.
+
+Pausa lunga.
+
+Virgilio
+ha sentito
+un evento
+teologico.
+
+E lo ha letto
+con la filosofia
+che conosceva.
 
 Pausa.
 
-Virgilio non sa chi è morto.
-Lui era nel Limbo.
-
-Per spiegarsi quel tremore
-usa un filosofo
-che abbiamo visto proprio nel Limbo.
 Empedocle.
 
-Per Empedocle
-il mondo sta in piedi
-fra due forze:
-l'amore e la discordia.
-Quando vince l'amore,
-tutto si confonde
-e torna caos.
+Amore.
+Discordia.
+
+Il mondo
+che può tornare
+al caos.
 
 Pausa lunga.
 
-Virgilio ha sentito
-l'universo tremare d'amore.
-E l'ha spiegato
-con la filosofia sbagliata.
+È una scena
+quasi dolorosa.
 
-Pausa lunga.
+Virgilio
+ha percepito
+il segno.
 
-Io credo che in questa terzina
-ci sia tutta la sua tragedia.
+Ma non aveva
+la chiave
+per capirlo.
 
 Pausa.
 
-ed in quel punto questa vecchia roccia
-qui ed altrove tal fece riverso.
+Era lì.
+
+Ha sentito
+l'Inferno
+tremare.
+
+E ha dato
+all'evento
+la spiegazione
+più alta
+che possedeva.
 
 Pausa lunga.
 
-E Virgilio tronca subito
-la spiegazione.
+Ma non bastava.
+
+Pausa.
+
+Per me,
+qui,
+si vede
+uno dei limiti
+più profondi
+della sua guida.
+
+Virgilio
+può portare
+Dante
+molto lontano.
+
+Ma non può
+dargli tutto.
+
+Pausa lunga.
+
+E mentre
+sta spiegando
+il passato,
+tronca.
+
+Ficca gli occhi
+a valle.
+
+Pausa.
+
+Guarda sotto.
 
 Perché adesso
-arriva il sangue.
+arriva
+il sangue.
 
 ## vv. 49-75 - Il Flegetonte
 
@@ -385,39 +689,231 @@ arriva il sangue.
 > saettando qual anima si svelle
 > del sangue più che sua colpa sortille.»
 
-Il Flegetonte appare così:
-un fiume di sangue
-e una guardia armata.
+Oh cieca cupidigia.
+
+Oh ira folle.
+
+Pausa lunga.
+
+Dante non apre
+la scena
+con i tiranni.
+
+Apre
+con le forze
+che li hanno
+spinti.
 
 Pausa.
 
-Dante lancia una delle sue apostrofi
-più secche:
-
-Nella vita breve
+Da vivi,
 spronano.
 
-Nell'eterna
+Dopo,
 immergono.
 
 Pausa lunga.
 
-Da vivi
-ti spingono.
+Il Flegetonte
+non è
+un lago fermo.
 
-Da morto
-ti tengono dentro.
+È un fiume.
+
+Sangue
+che scorre.
 
 Pausa.
 
 E sulla riva
-corrono i Centauri,
-come andavano a caccia
-nel mondo.
+corrono
+i Centauri.
 
-Qui non cacciano bestie.
+Come cacciatori.
 
-Misurano il sangue.
+Pausa lunga.
+
+Solo che qui
+la preda
+non è
+un animale.
+
+È il dannato
+che prova
+ad alzarsi
+più di quanto
+la pena
+gli consenta.
+
+Pausa lunga.
+
+E il sangue
+non è soltanto
+rosso.
+
+Bolle.
+
+Pausa.
+
+Questo conta.
+
+Perché il dannato
+non è immerso
+in ciò che ha versato
+come in una memoria
+ferma.
+
+Pausa lunga.
+
+Il sangue
+è ancora
+attivo.
+
+Caldo.
+
+In movimento.
+
+Pausa.
+
+La violenza
+che nel mondo
+ha fatto uscire
+il sangue
+dai corpi
+qui lo tiene
+attorno
+ai corpi.
+
+Pausa lunga.
+
+Non è
+un simbolo elegante.
+
+È una materia
+che brucia.
+
+Pausa.
+
+Una freccia
+lo rimette
+dentro.
+
+Pausa lunga.
+
+Questo dettaglio
+è terribile.
+
+La pena
+non ha soltanto
+una profondità.
+
+Ha una sorveglianza.
+
+Pausa.
+
+Il sangue
+misura.
+
+I Centauri
+fanno rispettare
+la misura.
+
+Pausa lunga.
+
+E il suono
+di questo luogo
+conta.
+
+Pausa.
+
+Non c'è
+il silenzio
+del bosco.
+
+Ci sono
+le alte strida
+di chi bolle.
+
+Pausa lunga.
+
+Dante
+cammina
+sulla riva
+con quelle voci
+a fianco.
+
+Non vede
+subito
+ogni volto.
+
+Prima vede
+il livello.
+
+Pausa.
+
+Occhi.
+
+Gola.
+
+Petto.
+
+Piedi.
+
+Pausa lunga.
+
+È quasi
+una scala
+dentro il fiume.
+
+Il contrario
+della scarpata
+che hanno appena
+sceso.
+
+Pausa.
+
+Là
+si scendeva
+sulla pietra.
+
+Qui
+la profondità
+sale
+sul corpo.
+
+Pausa lunga.
+
+E ogni volta
+che il sangue
+si abbassa,
+Dante può
+vedere di più
+della persona
+che contiene.
+
+Pausa.
+
+Prima
+quasi soltanto
+gli occhi.
+
+Poi
+il volto.
+
+Poi
+il petto.
+
+Poi
+le gambe.
+
+Pausa lunga.
+
+La pena
+fa emergere
+il corpo
+a misura
+che il sangue
+si ritira.
 
 ## vv. 76-99 - Chirone, Nesso, Folo
 
@@ -446,53 +942,301 @@ Misurano il sangue.
 > e disse a Nesso: «Torna e sì li guida,
 > e fa cansar s’altra schiera v’intoppa.»
 
-I Centauri si fermano.
-Tre si staccano dalla schiera.
+Tre Centauri
+si staccano.
 
-Uno grida da lontano.
+Nesso.
 
-Pena?
+Chirone.
+
+Folo.
+
+Pausa.
+
+Nesso
+parla da lontano.
+
+Vuole sapere
+subito.
+
 Chi siete?
-Ditelo da lì.
+
+Quale pena?
 
 Pausa lunga.
 
-Virgilio risponde:
-la risposta la daremo
+Virgilio
+lo rimette
+al suo posto.
+
+La risposta
+la daremo
 a Chirone.
 
 Pausa.
 
-Nesso è già scattato
-troppo presto.
+E poi
+Dante rallenta
+su un gesto.
+
+Chirone
+prende una freccia.
+
+Con la cocca
+si sposta
+la barba.
 
 Pausa lunga.
 
-Poi Virgilio
-li nomina.
-
-Nesso.
-Chirone.
-Folo.
-
-Tre figure
-della stessa guardia.
+Una creatura
+mezzo uomo,
+mezzo cavallo,
+che prima di parlare
+si libera
+la bocca.
 
 Pausa.
 
-Non serve altro.
-
-Fanno la guardia
-al sangue.
-
-Chi prova a emergere
-più di quanto la pena consenta,
-prende una freccia.
+È quasiuna scena
+di pensiero.
 
 Pausa lunga.
 
-Qui perfino l'altezza
-è misurata.
+Poi Chirone
+vede ciò
+che gli altri
+non hanno visto.
+
+Dante
+muove
+le pietre.
+
+Pausa.
+
+È vivo.
+
+Pausa lunga.
+
+Ancora
+il peso.
+
+Ancora
+il corpo.
+
+Pausa.
+
+I morti
+passano.
+
+Dante
+lascia traccia.
+
+Pausa lunga.
+
+Virgilio
+si mette
+all'altezza
+del petto
+di Chirone.
+
+Proprio dove,
+dice Dante,
+le due nature
+sono consorti.
+
+Pausa.
+
+Uomo.
+
+Cavallo.
+
+In quel punto,
+Virgilio
+parla.
+
+Pausa lunga.
+
+È quasi
+la figura perfetta
+per questo canto.
+
+Pausa.
+
+Da una parte
+la forza animale.
+
+Dall'altra
+la capacità
+di capire,
+misurare,
+ordinare.
+
+Pausa lunga.
+
+Il Minotauro,
+all'inizio,
+era una mescolanza
+che esplodeva.
+
+Chirone,
+qui,
+è una mescolanza
+che governa.
+
+Pausa.
+
+Non perché
+sia buono.
+
+Fa parte
+della pena.
+
+Ma sa
+fermarsi.
+
+Osservare.
+
+Capire
+che Dante
+è vivo.
+
+Pausa lunga.
+
+Due creature
+mezze umane.
+
+Una
+si morde.
+
+L'altra
+si scosta
+la barba
+per parlare.
+
+Pausa.
+
+Dante
+non deve
+spiegarci
+la differenza.
+
+Ce la fa vedere.
+
+Pausa lunga.
+
+E spiega
+la cosa essenziale.
+
+Non siamo qui
+per diletto.
+
+Pausa.
+
+Necessità.
+
+Pausa lunga.
+
+Dante
+non è
+un turista
+dell'Inferno.
+
+Non è sceso
+per vedere
+quanto può
+sopportare.
+
+È stato
+mandato.
+
+Pausa.
+
+Chirone
+accetta.
+
+E affida
+loro Nesso.
+
+Pausa lunga.
+
+Qui succede
+una cosa
+che vale la pena
+notare.
+
+Virgilio
+cede
+per un tratto
+il primo posto.
+
+Pausa.
+
+Non perché
+non sappia
+dove andare.
+
+Ma perché
+Nesso
+conosce
+quel fiume
+dall'interno.
+
+Pausa lunga.
+
+Sa dove
+il sangue
+si abbassa.
+
+Sa chi
+è immerso
+più a fondo.
+
+Sa dove
+si può
+guadare.
+
+Pausa.
+
+Una guida
+non deve
+sempre essere
+la voce
+che parla di più.
+
+Pausa lunga.
+
+A volte
+deve sapere
+a chi affidare
+il passo
+successivo.
+
+Pausa.
+
+Per un tratto,
+Nesso
+non è più
+soltanto
+il Centauro
+che minaccia.
+
+Diventa
+la misura
+del luogo.
+
+Pausa lunga.
+
+E Virgilio
+resta lì.
+
+Secondo.
+
+Presente.
+
+Non scompare.
+
+Lascia parlare
+chi sa.
 
 ## Il sangue misura
 
@@ -505,9 +1249,13 @@ Fermati qui.
 Pausa.
 
 Il punto
-non è soltanto questo:
+non è soltanto:
+
 chi versa sangue
-finisce nel sangue.
+finisce
+nel sangue.
+
+Pausa lunga.
 
 Il punto
 è che ci finisce
@@ -515,16 +1263,39 @@ in una misura.
 
 Pausa.
 
-Il sangue arriva agli occhi.
+Il sangue
+arriva
+agli occhi.
+
 Alla gola.
-Altrove copre appena i piedi.
+
+Al petto.
+
+Alle gambe.
+
+Ai piedi.
 
 Pausa lunga.
 
 La pena
-non è generica.
+non è
+una massa
+indistinta.
 
-È precisa.
+Dante
+la fa scendere
+e salire
+sui corpi.
+
+Pausa.
+
+Il fiume
+sembra leggere
+quanto
+è stato fatto.
+
+E restituisce
+una profondità.
 
 ## vv. 100-126 - Il guado e i tiranni
 
@@ -556,141 +1327,240 @@ non è generica.
 > quel sangue, sì che cocea pur li piedi;
 > e quindi fu del fosso il nostro passo.
 
-Chirone è il più saggio dei centauri.
-Il maestro di Achille.
-
-E Dante gli dà un gesto da pensatore:
-prende una freccia
-e con la cocca
-si scosta la barba dalla bocca.
-Prima di parlare.
+Adesso
+si cammina
+lungo il sangue.
 
 Pausa.
 
-Virgilio gli risponde
-stando proprio lì,
-all'altezza del petto,
-dove le due nature son consorti.
+Nesso
+è diventato
+la voce
+della scena.
 
-Dove l'uomo
-diventa cavallo.
+Virgilio,
+per un momento,
+si mette
+al secondo posto.
 
 Pausa lunga.
 
-Chirone capisce subito
-che Dante è vivo.
-
-Lo capisce dal peso.
-
-I morti
-non spostano pietre.
+Questi ti sia
+or primo,
+e io secondo.
 
 Pausa.
 
-Allora Virgilio
-chiede una guida.
+È un gesto
+piccolo.
 
-Qualcuno
-che mostri il guado
-e porti Dante
-sulla groppa.
+Ma importante.
 
-Nesso.
+Una guida
+sa anche
+quando lasciare
+che parli
+chi conosce
+meglio il luogo.
 
 Pausa lunga.
 
-Ed eccoli
-lungo il sangue che bolle.
-
-Dante vede
-i livelli del sangue.
-
-Fino agli occhi.
-Fino alla gola.
-Fino ai piedi.
-
-E poi
-li nomina.
+Nesso
+indica
+i tiranni.
 
 Alessandro.
-Dionisio fero.
+
+Dionisio.
+
 Azzolino.
+
 Opizzo.
 
 Pausa.
 
-Uno di questi nomi
-fermiamolo.
+Non serve
+fermarci
+su tutti.
+
+Uno basta.
 
 Azzolino.
-Ezzelino da Romano.
-Il tiranno più temuto
-del Duecento italiano.
-Le sue crudeltà
-erano leggenda già da vivo.
 
-Qui è nel sangue
+Ezzelino
+da Romano.
+
+Pausa lunga.
+
+Nel sangue
 fino agli occhi.
 
-Pausa lunga.
+Pausa.
 
 Nel Paradiso,
-nel cielo di Venere,
-Dante incontrerà sua sorella.
+Dante incontrerà
+sua sorella.
+
 Cunizza.
 
-E Cunizza parlerà di lui
-come di una fiaccola
-scesa a incendiare la sua terra.
-
-D’una radice nacqui e io ed ella:
-
 Pausa lunga.
+
+Stessa famiglia.
 
 Stesso sangue.
-Lui nel sangue che bolle.
-Lei nella luce.
+
+Destini
+opposti.
 
 Pausa.
 
-Gli altri
-sono nomi di tirannia,
-immersi fino a dove
-il loro sangue li porta.
+D'una radice
+nacqui
+e io ed ella.
 
 Pausa lunga.
 
-Poi una terzina sola
-chiude un delitto intero:
-
-Viterbo, 1271.
-Durante la messa,
-Guido di Montfort
-uccide in chiesa
-un principe inglese,
-Enrico di Cornovaglia.
-Per vendicare il padre.
-
-Il cuore della vittima
-viene portato in Inghilterra.
-In una coppa d'oro,
-racconta Villani,
-su una colonna
-in capo al ponte sul Tamigi.
+Una frase
+che basta
+a distruggere
+l'idea
+di una colpa
+ereditata.
 
 Pausa.
 
-Dante chiude tutto
+Lui qui.
+
+Lei
+nella luce.
+
+Pausa lunga.
+
+Poi Nesso
+indica
+un'ombra
+sola.
+
+Pausa.
+
+Un delitto
 in una terzina.
 
+Viterbo,
+1271.
+
+Durante
+la messa,
+Guido di Montfort
+uccide
+Enrico di Cornovaglia.
+
+Pausa lunga.
+
+Vendetta.
+
+Dentro
+una chiesa.
+
 Pausa.
 
-E poi il sangue
+Il cuore,
+racconta Villani,
+finirà
+in Inghilterra.
+
+Sul Tamigi.
+
+Pausa lunga.
+
+Dante
+non racconta
+la cronaca.
+
+Dice:
+
+fesse
+in grembo a Dio
+lo cor.
+
+Pausa.
+
+E basta.
+
+Pausa lunga.
+
+Poi il sangue
 si abbassa.
 
-Fino ai piedi.
+Testa.
 
-Lì si passa.
+Petto.
+
+Gambe.
+
+Piedi.
+
+Pausa.
+
+La pena
+sta diventando
+un guado.
+
+Pausa lunga.
+
+Ed è strano
+che proprio qui,
+nel sangue,
+si trovi
+un passaggio.
+
+Pausa.
+
+Non perché
+il fiume
+finisca.
+
+Non finisce.
+
+Cambia
+profondità.
+
+Pausa lunga.
+
+Dante
+non supera
+la violenza
+perché la violenza
+scompare.
+
+Trova
+il punto
+in cui
+può attraversarla.
+
+Pausa.
+
+È molto diverso.
+
+Il male
+resta.
+
+La pena
+resta.
+
+Il viaggio
+continua
+perché esiste
+un guado.
+
+Pausa lunga.
+
+E quel guado
+non lo trova
+Dante.
+
+Glielo mostra
+Nesso.
 
 ## vv. 127-139 - Il guado
 
@@ -708,73 +1578,287 @@ Lì si passa.
 > che fecero a le strade tanta guerra.»
 > Poi si rivolse, e ripassossi ’l guazzo.
 
-Nesso parla
+Nesso
+parla
 un'ultima volta.
 
-Il sangue si abbassa
-da questa parte
-e sprofonda
-dall'altra.
+Pausa.
 
-Fa un giro completo.
+Il sangue
+che qui
+si abbassa,
+dall'altra parte
+sprofonda.
 
-La tirannia
-geme in fondo.
+Pausa lunga.
+
+Il fiume
+non perde
+la misura.
+
+La sposta.
+
+Pausa.
+
+Dove qui
+si può passare,
+altrove
+la tirannia
+resta immersa.
 
 Pausa lunga.
 
 Attila.
+
 Pirro.
+
 Sesto.
+
 Rinier da Corneto.
+
 Rinier Pazzo.
 
-Tiranni antichi.
-Predoni di oggi.
+Pausa.
 
-Stesso fiume.
+Antichi.
+
+Contemporanei.
+
+Re.
+
+Predoni.
+
+Pausa lunga.
+
+Il fiume
+non chiede
+un titolo.
+
+Misura
+il sangue.
 
 Pausa.
 
 Poi Nesso
-si gira
-e ripassa il guado.
+si gira.
 
+Ripassa
+il guado.
+
+E lascia
 Dante e Virgilio
-sono dall'altra parte.
-
-## Chiusura da palco
+dall'altra parte.
 
 Pausa lunga.
 
-In cima alla scarpata
-una bestia
-che si divora.
+Il primo girone
+dei violenti
+è attraversato.
 
-Sotto,
-un fiume di sangue
-che misura
-la violenza.
+Ma il settimo cerchio
+non è finito.
+
+Pausa lunga.
+
+E Dante
+si porta dietro
+una prima risposta
+alla mappa
+del canto precedente.
 
 Pausa.
 
-Sulla riva
-i Centauri arcieri
-fanno la guardia
-perché nessuno
-esca
-dalla misura
-che gli è data.
+Violenza
+contro il prossimo.
+
+Virgilio
+l'aveva spiegata
+con una categoria.
+
+Qui Dante
+l'ha vista
+come profondità.
 
 Pausa lunga.
 
-Il sangue arriva agli occhi.
-Alla gola.
-Altrove copre appena i piedi.
+Ha visto
+che la stessa parola,
+violenza,
+non produce
+un'unica scena.
+
+Produce
+una misura.
+
+Pausa.
+
+Il sistema
+dell'Inferno
+non annulla
+le differenze.
+
+Le esaspera.
 
 Pausa lunga.
 
-Si annega nel sangue versato.
+E il canto
+ce lo ha fatto
+vedere
+senza mai
+fermare davvero
+il cammino.
+
+Pausa.
+
+Minotauro.
+
+Frana.
+
+Fiume.
+
+Centauri.
+
+Guado.
+
+Pausa lunga.
+
+Ogni scena
+è una soglia
+verso la successiva.
+
+Pausa.
+
+La violenza
+non viene
+spiegata
+una volta.
+
+Cambia forma
+man mano
+che Dante
+la attraversa.
+
+Pausa lunga.
+
+Ed è per questo
+che alla fine
+non resta
+un elenco
+di tiranni.
+
+Resta
+una profondità
+di sangue.
+
+Pausa lunga.
+
+Una profondità
+che Dante
+non guarda
+da lontano.
+
+La percorre
+fino al punto
+in cui diventa
+passabile.
+
+Pausa lunga.
+
+E Dante
+la attraversa
+senza mai
+dimenticare
+che lui
+ha ancora
+un corpo
+fuori da quel sangue.
+
+Pausa.
+
+Pesa.
+
+Muove pietre.
+
+Ha bisogno
+di un guado.
+
+Pausa lunga.
+
+È vivo.
+
+E proprio per questo
+può ancora
+passare oltre.
+
+## Chiusura da palco
+
+[Schermo: nero pieno]
+
+Pausa lunga.
+
+In cima,
+una bestia
+che si morde.
+
+Sotto,
+un fiume
+di sangue.
+
+Pausa.
+
+Fra i due,
+una frana
+che ricorda
+che perfino
+l'Inferno
+è stato
+scosso.
+
+Pausa lunga.
+
+E sulla riva,
+i Centauri
+fanno rispettare
+la profondità.
+
+Pausa.
+
+Il canto
+parte
+dalla violenza
+che non sa
+contenere
+se stessa.
+
+E arriva
+alla violenza
+misurata
+nel sangue.
+
+Pausa lunga.
+
+Occhi.
+
+Gola.
+
+Petto.
+
+Piedi.
+
+Pausa.
+
+Qui la pena
+non inventa
+un sangue nuovo.
+
+Restituisce
+quello versato.
+
+Pausa lunga.
+
+Si annega
+nel sangue
+versato.
 
 Pausa.
 

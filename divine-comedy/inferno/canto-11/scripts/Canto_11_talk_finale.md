@@ -9,11 +9,13 @@ Linea guida: "Più si scende, più si sceglie"
 
 Pausa lunga.
 
-Allora: l'undicesimo.
+Allora:
+l'undicesimo.
 
 Pausa.
 
-Qui non scendono.
+Qui
+non scendono.
 
 Si fermano
 sull'orlo.
@@ -33,7 +35,15 @@ E proprio qui,
 sopra il puzzo,
 Virgilio trasforma
 la sosta
-in lezione.
+in una mappa.
+
+Pausa.
+
+Non una mappa
+di strade.
+
+Una mappa
+delle scelte.
 
 ## vv. 1-9 - Sull'orlo
 
@@ -56,44 +66,76 @@ Pausa.
 Pietre rotte
 in cerchio.
 
-Un ammasso
-più crudele
-di tutto quello
-che hanno visto fin qui.
+Sotto,
+una stipa
+più crudele.
 
 Pausa lunga.
 
 Ma la prima cosa
 che arriva
 non è una voce.
-Non è un mostro.
+
+Non un mostro.
 
 È un puzzo.
 
+Pausa.
+
 Un puzzo
 così forte
-che li ricaccia indietro
-contro un grande sepolcro.
+che li ricaccia
+indietro.
+
+Contro
+un grande sepolcro.
+
+Pausa lunga.
+
+E questo
+mi piace molto.
+
+Dante
+sta per ricevere
+la spiegazione
+più ordinata
+dell'Inferno.
+
+Ma la riceve
+con il naso
+che non regge.
 
 Pausa.
 
-E su quel coperchio
-Dante legge
-una scritta.
+Prima la teoria,
+qui,
+passa dal corpo.
 
-Pausa.
+Pausa lunga.
 
-Un papa.
-Già sul limite dell'eresia.
+Sul coperchio
+c'è un nome.
 
-Importa questo,
-prima ancora
-del dettaglio storico.
+Anastasio.
 
-Il canto si apre
+Un papa
+collocato
+sul limite
+dell'eresia.
+
+Il canto
+si apre
 appoggiato
 alla tomba
-di uno che ha deviato.
+di uno
+che ha deviato.
+
+Pausa.
+
+E subito dopo
+Virgilio
+prova a rimettere
+ordine.
 
 ## vv. 10-15 - Il naso si abitua
 
@@ -108,14 +150,14 @@ Virgilio parla
 con una calma
 quasi domestica.
 
+Pausa.
+
 La discesa
 deve aspettare.
 
-Pausa.
-
 Prima bisogna
-abituare il senso
-al tristo fiato.
+abituare
+il senso.
 
 Il naso.
 Il respiro.
@@ -123,28 +165,114 @@ Il corpo.
 
 Pausa lunga.
 
-È un dettaglio
-piccolo
-e decisivo.
+Non possono
+saltare
+questo tempo.
 
-In questo Inferno
-non entri solo con la mente.
-
-Entri con il fiato.
+Devono
+starci dentro.
 
 Pausa.
 
 E Dante,
-sentendo la sosta,
-chiede a Virgilio
-di non lasciar passare
-quel tempo inutilmente.
+anche fermo,
+non sopporta
+che il tempo
+vada perso.
+
+Trova
+un compenso.
+
+Pausa lunga.
+
+È una frase
+quasi da viaggio reale.
+
+Siamo bloccati.
+
+Allora,
+nel frattempo,
+spiegami.
 
 Pausa.
 
-La lezione nasce così.
+E Virgilio
+risponde:
 
-Da un'attesa obbligata.
+ci stavo già
+pensando.
+
+Pausa lunga.
+
+La lezione
+non nasce
+in un'aula.
+
+Nasce
+perché due uomini
+sono fermi
+su un precipizio
+ad aspettare
+che il respiro
+torni possibile.
+
+Pausa.
+
+Questo,
+per me,
+va tenuto addosso
+per tutto il canto.
+
+Non stanno
+facendo filosofia
+al riparo.
+
+Stanno
+per scendere.
+
+Pausa lunga.
+
+E infatti
+la sosta
+ha una fine
+precisa.
+
+Non appena
+il corpo
+si abitua,
+si riparte.
+
+Pausa.
+
+Virgilio
+non usa
+la spiegazione
+per fermare
+il viaggio.
+
+La usa
+per renderlo
+possibile.
+
+Pausa lunga.
+
+È una differenza
+che sembra piccola.
+
+Ma evita
+che questo canto
+diventi
+un trattato
+incollato
+alla Commedia.
+
+Pausa.
+
+La teoria
+ha il tempo
+di un respiro
+che deve
+riprendersi.
 
 ## vv. 16-27 - Tre cerchi sotto
 
@@ -164,154 +292,302 @@ Da un'attesa obbligata.
 Qui Virgilio
 cambia voce.
 
-Lo chiama figlio.
-E comincia a ordinare
+Figliuol mio.
+
+Pausa.
+
+E comincia
+a ordinare
 l'abisso.
 
-Pausa lunga.
-
-Tre cerchi sotto.
+Tre cerchi
+sotto.
 
 Settimo.
 Ottavo.
 Nono.
 
-Di grado in grado.
+Di grado
+in grado.
+
+Pausa lunga.
 
 Più giù.
+
 Più stretti.
-Più feroci.
 
-Pausa lunga.
-
-Questa mappa
-qualcuno l'ha presa sul serio.
-Molto sul serio.
+Più duri.
 
 Pausa.
 
-Firenze, 1588.
-Un giovane matematico di ventiquattro anni
-tiene due lezioni all'Accademia Fiorentina.
+Ma la profondità
+non dipende
+soltanto
+dal dolore.
 
-Il titolo:
-la figura, il sito e la grandezza
-dell'Inferno di Dante.
+Dipende
+dal modo
+in cui il male
+viene scelto.
+
+Pausa lunga.
+
+Virgilio dà
+una prima divisione.
+
+Forza.
+
+Frode.
 
 Pausa.
 
-Si chiama Galileo Galilei.
+La forza
+può essere
+brutale.
+
+La frode
+ha bisogno
+di qualcosa in più.
 
 Pausa lunga.
 
-Prende i versi
-e fa i conti.
-La profondità della voragine.
-Lo spessore della volta.
-Perfino l'altezza di Lucifero.
+Ha bisogno
+di capire
+l'altro.
 
-Pausa lunga.
+Di prevedere
+una reazione.
 
-Cinquant'anni dopo,
-nel suo ultimo grande libro,
-Galileo dimostrerà
-che una struttura
-non si può ingrandire a piacere
-senza che crolli.
+Di costruire
+un'apparenza.
 
-Alcuni studiosi pensano
-che quel dubbio
-gli fosse nato proprio qui.
-Dalla volta dell'Inferno.
-
-Pausa lunga.
-
-di grado in grado, come quei che lassi.
+Di usare
+la ragione
+contro qualcuno.
 
 Pausa.
-
-Siamo qui.
-Sull'orlo che scende al settimo cerchio.
-
-E sotto
-c'è ancora quasi tutto.
-
-Pausa.
-
-Poi dà la regola.
-
-Ogni male voluto
-finisce
-nel fare ingiuria.
-
-E l'ingiuria
-si compie
-in due modi:
-
-con forza
-o con frode.
-
-Pausa lunga.
-
-Ma la frode
-è peggio.
-
-Perché la forza
-la condividi
-con le bestie.
-
-La frode no.
-
-Per ingannare
-serve la ragione.
-
-E allora il male
-non esplode soltanto.
-
-Si organizza.
 
 Per questo
-i frodolenti
-stanno più sotto.
+Virgilio dice:
+
+frode
+è de l'uom
+proprio male.
 
 Pausa lunga.
 
-Questa distinzione
-Dante la trova in Cicerone.
+Una bestia
+può azzannare.
 
-L'ingiustizia, dice Cicerone,
-si fa in due modi.
-Con la forza,
-come il leone.
-Con l'inganno,
-come la volpe.
+Può schiacciare.
 
-E la volpe
-è la più odiosa.
+Può uccidere.
+
+Ma non costruisce
+una menzogna
+perché tu
+le creda.
 
 Pausa.
 
-Tienili a mente,
-il leone e la volpe.
+La frode
+usa proprio
+quello che rende
+l'uomo umano.
 
-Più avanti
-un uomo dirà di sé:
+E lo gira
+contro un altro uomo.
+
+Pausa lunga.
+
+Questo
+è il passaggio
+del canto.
+
+Non:
+più sangue,
+più in basso.
+
+Ma:
+più coscienza
+entra nell'atto,
+più il male
+si approfondisce.
+
+Pausa.
+
+Fra poco,
+Gerione
+avrà una faccia
+giusta
+e una coda
+velenosa.
+
+La mappa
+che Virgilio
+sta disegnando
+qui
+prenderà corpo.
+
+Pausa lunga.
+
+Questa mappa,
+secoli dopo,
+qualcuno
+la prenderà
+alla lettera.
+
+Firenze,
+1588.
+
+Pausa.
+
+Un giovane
+Galileo Galilei
+tiene due lezioni
+sulla figura,
+il sito,
+la grandezza
+dell'Inferno
+di Dante.
+
+Pausa lunga.
+
+Fa i conti.
+
+Profondità.
+Misure.
+Proporzioni.
+
+Pausa.
+
+È un dettaglio
+che terrei breve.
+
+Ma dice
+una cosa importante.
+
+Dante
+ha costruito
+questo spazio
+con abbastanza
+coerenza
+perché un matematico
+potesse provare
+a misurarlo.
+
+Pausa lunga.
+
+E adesso
+noi siamo qui.
+
+Sull'orlo
+del settimo.
+
+Sotto,
+quasi tutto
+l'Inferno
+che resta.
+
+## Il leone e la volpe
+
+Pausa lunga.
+
+La distinzione
+fra forza
+e frode
+non nasce
+dal nulla.
+
+Pausa.
+
+Cicerone
+aveva parlato
+di due modi
+dell'ingiustizia.
+
+Il leone.
+
+La volpe.
+
+Pausa lunga.
+
+La forza.
+
+L'inganno.
+
+E giudicava
+più odioso
+l'inganno.
+
+Pausa.
+
+Dante
+prende quella coppia
+molto sul serio.
+
+Più avanti,
+un dannato
+dirà di sé:
+
 le mie opere
-non furono di leone.
-Furono di volpe.
+non furono
+di leone.
+
+Furono
+di volpe.
+
+Pausa lunga.
+
+Non serve
+anticipare tutto.
+
+Basta ricordare
+la forma.
+
+Leone.
+
+Volpe.
+
+Forza.
+
+Frode.
 
 Pausa.
 
 E Machiavelli,
-quello del settimo canto,
-rovescerà anche questo.
-Il principe
-deve saper essere
-volpe e leone.
+secoli dopo,
+riuserà proprio
+le due bestie
+in un'altra
+costruzione politica.
 
 Pausa lunga.
 
-Ma perché frode è de l’uom proprio male
+Non sta
+rispondendo a Dante.
+
+Siamo noi
+a metterli
+uno accanto
+all'altro.
+
+Perché usano
+la stessa coppia
+per pensare
+in modo diverso
+il rapporto
+fra forza,
+astuzia,
+potere.
+
+Pausa.
+
+Qui,
+per Dante,
+la volpe
+ci porta
+più in basso.
 
 ## vv. 28-51 - A Dio, a sé, al prossimo
 
@@ -341,39 +617,220 @@ Ma perché frode è de l’uom proprio male
 > e chi, spregiando Dio col cor, favella.
 
 La violenza
-si divide
+si apre
 in tre direzioni.
 
 Pausa.
 
-Contro il prossimo.
-Contro sé stessi.
-Contro Dio.
+Contro
+il prossimo.
+
+Contro
+sé stessi.
+
+Contro
+Dio.
+
+Pausa lunga.
+
+E questa
+non è soltanto
+una lista.
+
+È una specie
+di bussola.
+
+Pausa.
+
+Dove va
+la forza?
+
+Verso chi?
+
+Contro quale
+legame?
 
 Pausa lunga.
 
 Contro il prossimo:
-omicidi,
-feritori,
-guastatori,
-predoni.
 
-Contro sé stessi:
-suicidi
-e scialacquatori.
-
-Contro Dio:
-bestemmiatori,
-sodomiti,
-usurai.
+omicidi.
+Feritori.
+Predoni.
+Distruttori.
 
 Pausa.
 
-Non è un catalogo.
+Fra poco
+li vedremo
+nel sangue.
 
-È una mappa
-che stringe il male
-in tre direzioni precise.
+Non in astratto.
+
+Corpi
+nel fiume.
+
+Centaure
+che sorvegliano.
+
+Pausa lunga.
+
+Contro sé stessi:
+
+chi toglie
+la propria vita.
+
+Chi distrugge
+i propri beni.
+
+Pausa.
+
+E il canto XIII
+ci farà entrare
+in una selva
+in cui il corpo
+non ha più
+forma umana.
+
+Pausa lunga.
+
+Contro Dio:
+
+bestemmia.
+
+Violenza
+contro natura.
+
+Usura.
+
+Pausa.
+
+Capaneo
+sarà steso
+sotto il fuoco
+e continuerà
+a sfidare.
+
+Gli usurai
+staranno seduti
+con la borsa
+al collo.
+
+Pausa lunga.
+
+Virgilio
+sta facendo
+una cosa utile
+anche per noi.
+
+Non ci dice
+soltanto
+cosa vedremo.
+
+Ci dà
+la domanda
+da portare
+con noi.
+
+Pausa.
+
+Che cosa
+sta venendo
+ferito?
+
+Un altro.
+
+Sé stessi.
+
+Il rapporto
+con il divino,
+con la natura,
+con l'opera umana.
+
+Pausa lunga.
+
+Da qui in poi,
+la geografia
+è anche
+una grammatica.
+
+Pausa lunga.
+
+E prova
+a fare
+un passo indietro.
+
+Fino a qui
+abbiamo visto
+peccati
+che arrivavano
+come forze.
+
+Il vento
+di Francesca.
+
+La pioggia
+di Ciacco.
+
+Il peso
+del fango.
+
+La spinta
+dell'ira.
+
+Pausa.
+
+Il paesaggio
+sembrava spesso
+fare fuori
+quello che dentro
+era già successo.
+
+Pausa lunga.
+
+Da adesso,
+la forma
+si complica.
+
+Un fiume
+di sangue.
+
+Una selva
+che parla.
+
+Una bestia
+con volto umano.
+
+Dieci bolge.
+
+Il ghiaccio.
+
+Pausa.
+
+Non perché Dante
+abbia finito
+la fantasia.
+
+Perché più
+la colpa
+si costruisce,
+più anche
+la pena
+deve mostrare
+come è stata
+costruita.
+
+Pausa lunga.
+
+La mappa
+non serve
+solo a sapere
+dove siamo.
+
+Serve
+a capire
+che cosa stiamo
+guardando.
 
 ## vv. 52-66 - Il fondo
 
@@ -401,35 +858,180 @@ Pausa.
 Anche la frode
 si divide.
 
-Contro chi non si fida.
-Contro chi si fida.
+Contro chi
+non si fida.
+
+Contro chi
+si fida.
 
 Pausa lunga.
 
-Nel primo caso
-si spezza
-il vinco d'amore
-che la natura mette
-tra gli uomini.
+Questa differenza
+è enorme.
 
-Nel secondo
-si spezza anche di più.
-
-La fiducia data.
-
-La fede speciale.
+Per ingannare
+uno sconosciuto
+rompi già
+un legame umano.
 
 Pausa.
 
-E allora si arriva
-al fondo.
+Ma se inganni
+chi ti ha dato
+fiducia,
+rompi qualcosa
+che prima
+aveva dovuto
+nascere.
 
-Il punto più basso.
+Pausa lunga.
 
-Lì
-chi tradisce
-è consumato
-in eterno.
+La fidanza.
+
+Pausa.
+
+Quella parola
+fa scendere
+ancora.
+
+Perché prima
+c'era
+un rapporto.
+
+Una promessa.
+
+Un'alleanza.
+
+Una casa.
+
+Un amico.
+
+Un ospite.
+
+Una patria.
+
+Pausa lunga.
+
+Il tradimento
+non crea soltanto
+un danno.
+
+Usa
+un legame
+come accesso
+al danno.
+
+Pausa.
+
+È questo
+che rende
+il fondo
+diverso.
+
+Non basta
+che tu mi faccia
+male.
+
+Per arrivare
+laggiù,
+prima
+io devo averti
+aperto
+qualcosa.
+
+Pausa lunga.
+
+Una porta.
+
+Una casa.
+
+Una confidenza.
+
+Una responsabilità.
+
+Pausa.
+
+Il traditore
+non sfonda
+quel passaggio.
+
+Lo riceve.
+
+Pausa lunga.
+
+Ed è proprio
+questo
+che poi usa.
+
+Quello che
+dovrebbe rendere
+il danno
+più difficile
+diventa
+la strada
+per farlo.
+
+Pausa.
+
+Per questo
+la fiducia
+non è
+un dettaglio
+della mappa.
+
+È la materia
+del fondo.
+
+Pausa lunga.
+
+Nel nono cerchio
+non troveremo
+soltanto persone
+che hanno fatto
+molto male.
+
+Troveremo
+rapporti
+spezzati
+dal loro interno.
+
+Parenti.
+
+Patria.
+Ospitalità.
+
+Beneficio.
+
+Pausa.
+
+Il ghiaccio
+verrà dopo.
+
+Prima,
+qui,
+Virgilio ci dice
+perché il fondo
+è il fondo.
+
+Pausa lunga.
+
+E allora
+la mappa
+si stringe.
+
+Violenza.
+
+Frode.
+
+Tradimento.
+
+Pausa.
+
+Sempre meno
+impulso.
+
+Sempre più
+uso della scelta.
 
 ## La mappa si stringe
 
@@ -437,39 +1039,67 @@ in eterno.
 
 Pausa lunga.
 
-Adesso il disegno
+Adesso
+il disegno
 si vede.
-
-Violenza.
-Frode.
-Tradimento.
 
 Pausa.
 
-E il criterio
-non è soltanto
-quanto male fai.
+Violenza.
 
-È quanto
-quel male
-passa dalla passione
-alla decisione.
+Frode.
+
+Tradimento.
+
+Pausa lunga.
+
+Ma attenzione.
+
+Non è
+una classifica
+moderna
+della cattiveria.
+
+È l'ordine
+morale
+del poema.
+
+Pausa.
+
+E dentro
+quell'ordine,
+il criterio
+non è soltanto
+quanto soffre
+la vittima.
+
+È anche
+quanto la ragione
+del colpevole
+entra
+nell'atto.
 
 Pausa lunga.
 
 Più si scende,
 meno basta dire:
-sono stato trascinato.
 
-Più si scende,
-più la ragione
-entra nel male.
+sono stato
+trascinato.
 
 Pausa.
 
-Ed è proprio qui
+Più si scende,
+più la ragione
+lavora
+nel male.
+
+Pausa lunga.
+
+Ed è qui
 che Dante
-fa la domanda giusta.
+fa la domanda
+giusta.
 
 ## vv. 67-90 - Perché tanto delira
 
@@ -498,73 +1128,204 @@ fa la domanda giusta.
 > sien dipartiti, e perché men crucciata
 > la divina vendetta li martelli.»
 
-Dante ha ascoltato.
+Dante
+ha ascoltato.
+
 Ha capito.
 
-E poi inciampa
-nel punto decisivo.
-
-Pausa.
-
-Se Dio odia anche
-lussuriosi,
-golosi,
-avari,
-iracondi,
-
-perché stanno fuori
-dalle mura di Dite?
+E poi
+fa una domanda
+che rimette insieme
+tutto il viaggio.
 
 Pausa lunga.
 
-E qui Virgilio
-ha il suo momento
-più vivo.
+Francesca.
 
-"Perché tanto delira
-lo ingegno tuo?"
+Ciacco.
 
-Perché vaghi
-da quello che sai?
+Gli avari.
+
+Gli iracondi.
 
 Pausa.
 
-Non te lo ricordi più
-Aristotele?
+Anche loro
+sono dannati.
+
+Perché allora
+stanno fuori
+dalle mura
+di Dite?
+
+Pausa lunga.
+
+Virgilio
+quasi si irrita.
+
+Perché tanto
+delira
+lo ingegno tuo?
+
+Pausa.
+
+Come fai
+a perderti
+proprio adesso?
+
+Pausa lunga.
+
+E richiama
+Aristotele.
 
 Incontinenza.
+
 Malizia.
+
 Matta bestialità.
 
-Pausa lunga.
+Pausa.
 
 L'incontinenza
 offende meno.
 
-Perché lì
+Non perché
+non faccia male.
+
+Ma perché
 la ragione
-non decide il male.
+non costruisce
+quel male.
 
 Cede.
 
+Pausa lunga.
+
+È una distinzione
+che cambia
+anche i primi canti.
+
+Francesca
+non è innocente.
+
+Ciacco
+non è innocente.
+
+Gli iracondi
+non sono innocenti.
+
 Pausa.
 
-La malizia
-è un'altra cosa.
+Ma il poema
+non li mette
+nello stesso luogo
+di chi pianifica,
+calcola,
+tradisce.
 
-La ragione
-si mette al lavoro
+Pausa lunga.
+
+La città di Dite
+segna anche
+questo passaggio.
+
+Fuori:
+la passione
+che travolge.
+
+Dentro:
+la volontà
+che usa
+la ragione
 per ferire.
 
-Per questo
-gli incontinenti
-stanno fuori.
+Pausa lunga.
 
-Non sono assolti.
+Questo non significa
+che fuori
+non si scelga.
 
-Ma non sono ancora
-dentro la città
-del male voluto.
+E non significa
+che dentro
+non esistano
+passioni.
+
+Pausa.
+
+La differenza
+non è
+fra innocenti
+e colpevoli.
+
+Sono tutti
+dannati.
+
+Pausa lunga.
+
+La differenza
+è nel modo
+in cui la volontà
+si lega
+alla colpa.
+
+Pausa.
+
+Francesca
+può costruire
+un racconto
+bellissimo
+su ciò
+che l'ha trascinata.
+
+Ma non progetta
+un inganno
+contro Paolo.
+
+Pausa lunga.
+
+Ciacco
+si lascia
+riempire
+dal desiderio.
+
+Non prepara
+una frode
+perché un altro
+si fidi.
+
+Pausa.
+
+Qui sta
+la soglia.
+
+Non fra
+chi sente
+e chi pensa.
+
+Ma fra
+una ragione
+che cede
+e una ragione
+che viene
+arruolata
+nel male.
+
+Pausa.
+
+Non è
+una psicologia
+moderna.
+
+È la gerarchia
+che regge
+questo Inferno.
+
+Pausa lunga.
+
+E da qui,
+ogni incontro
+avrà un peso
+diverso.
 
 ## vv. 91-111 - Dio, natura, lavoro
 
@@ -590,87 +1351,222 @@ del male voluto.
 > per sé natura e per la sua seguace
 > dispregia, poi ch’in altro pon la spene.
 
-Dante ne vuole ancora una.
+Dante
+ne vuole
+ancora una.
+
+Pausa.
 
 L'usura.
 
-Perché offende Dio?
+Perché,
+in questo sistema,
+offende Dio?
 
 Pausa lunga.
 
-E Virgilio
+Virgilio
 costruisce
-una scala semplice.
+una scala.
 
 Dio.
 
-La natura,
-che prende corso
-dal divino intelletto.
+Natura.
 
-Il lavoro umano,
-che segue la natura
+Arte umana.
+
+Pausa.
+
+La natura
+prende corso
+dall'intelletto divino.
+
+Il lavoro umano
+segue la natura
 come il discepolo
 segue il maestro.
 
-Pausa.
+Pausa lunga.
 
-"Sì che vostr'arte
-a Dio quasi è nepote."
+E poi
+una delle formule
+più belle
+del canto.
+
+Vostr'arte
+a Dio
+quasi è nepote.
+
+Pausa.
 
 Il lavoro umano
-è quasi nipote di Dio.
+come nipote
+di Dio.
 
 Pausa lunga.
 
-Da qui
-si dovrebbe vivere.
+Non perché
+ogni lavoro
+sia santo.
 
-Natura
-e lavoro.
-
-L'usuraio
-sceglie altra via.
-
-Non aspetta
-né la terra
-né l'opera.
-
-Vuole che il denaro
-generi denaro.
-
-E così
-disprezza insieme
-la natura
-e la sua seguace.
+Ma perché,
+nell'ordine
+che Virgilio
+sta spiegando,
+l'uomo vive
+trasformando
+ciò che la natura
+gli dà.
 
 Pausa.
 
-Per questo
-sta tra i violenti
-contro Dio.
+Semina.
+
+Costruisce.
+
+Lavora.
+
+Produce.
 
 Pausa lunga.
 
-E pensa a dove lo scrive.
+L'usuraio,
+nel ragionamento
+di Dante,
+vuole saltare
+questa catena.
 
-Firenze.
-La città dei banchieri.
+Il denaro
+che genera
+denaro.
+
+Pausa.
+
+Ed è per questo
+che viene collocato
+fra i violenti
+contro l'ordine
+divino.
+
+Pausa lunga.
+
+Qui serve
+una precisione.
+
+Dante
+non sta condannando
+in blocco
+ogni attività
+bancaria.
+
+Il bersaglio,
+qui,
+è l'usura.
+
+Pausa.
+
+Firenze
+è una città
+in cui il denaro
+circola
+con una potenza
+enorme.
+
 Il fiorino d'oro,
 coniato dal 1252,
-corre per tutta l'Europa.
-
-Pausa.
-
-Dante condanna
-il mestiere
-che ha fatto ricca la sua città.
+viaggia
+per l'Europa.
 
 Pausa lunga.
 
-Li vedremo, gli usurai.
-Seduti sulla sabbia che brucia,
-con una borsa appesa al collo.
+Questo rende
+la scena
+più vicina
+a Dante.
+
+Non perché
+il commercio
+sia identico
+all'usura.
+
+Ma perché
+il problema
+del denaro
+non è lontano
+dal suo mondo.
+
+Pausa.
+
+Fra pochi canti,
+gli usurai
+non avranno
+un trattato
+fra le mani.
+
+Avranno
+una borsa
+al collo.
+
+Pausa lunga.
+
+La teoria
+sta per diventare
+un'immagine.
+
+Pausa lunga.
+
+E quando
+quell'immagine
+arriverà,
+non avremo
+bisogno
+di ricordare
+tutta la lezione.
+
+Basterà
+una tasca.
+
+Pausa.
+
+Dante guarda
+le facce.
+
+Non riconosce
+nessuno.
+
+Poi vede
+lo stemma
+sulla borsa.
+
+Pausa lunga.
+
+La teoria
+del lavoro,
+della natura,
+del denaro
+si condensa
+in un uomo
+che non riesce
+a staccare
+gli occhi
+da ciò
+che ha al collo.
+
+Pausa.
+
+Questo è
+uno dei modi
+in cui Dante
+fa funzionare
+la sua mappa.
+
+Prima
+la regola.
+
+Poi
+un corpo
+che la rende
+visibile.
 
 ## vv. 112-115 - Si riparte
 
@@ -681,88 +1577,376 @@ con una borsa appesa al collo.
 
 Poi basta.
 
+Pausa.
+
 La lezione
 si chiude
 come si chiudono
 le cose necessarie.
 
-Pausa.
+Pausa lunga.
 
-I Pesci salgono.
-Il Carro è alto.
+I Pesci
+salgono.
 
-Sta per venire
+Il Carro
+è alto.
+
+Sta arrivando
 il mattino.
 
 Pausa.
 
-Ma nell'Inferno
-le stelle non si vedono.
-
-Virgilio sa l'ora
-da un cielo
-che nessuno dei due può guardare.
-
-Pausa.
-
-Mancano un paio d'ore all'alba.
-L'alba del sabato santo.
-
-Il viaggio era cominciato
-al tramonto del venerdì.
-
-E più in là
-la scarpata
-si può scendere.
+Ma loro
+le stelle
+non le vedono.
 
 Pausa lunga.
 
+Virgilio
+sa leggere
+l'ora
+da un cielo
+che qui sotto
+non appare.
+
+Pausa.
+
+È una cosa
+che mi colpisce.
+
+Nel punto
+in cui Dante
+ha appena ricevuto
+la mappa
+dell'Inferno,
+Virgilio
+usa ancora
+il cielo
+per orientarsi.
+
+Pausa lunga.
+
+Sotto,
+la struttura
+del male.
+
+Sopra,
+un cielo
+che continua
+a muoversi.
+
+Pausa.
+
+Mancano
+circa due ore
+all'alba
+del sabato.
+
+Il viaggio
+era cominciato
+al tramonto
+del venerdì.
+
+Pausa lunga.
+
+La sosta
+è finita.
+
+Il corpo
+si è abituato.
+
+La mente
+ha ricevuto
+la mappa.
+
+E più in là
+c'è una scarpata
+che si può
+scendere.
+
+Pausa.
+
 Il pensiero
-ha fatto il suo.
+ha fatto
+il suo.
 
 Adesso
 tocca di nuovo
 al cammino.
 
+Pausa lunga.
+
+E qui
+si capisce
+anche perché
+questa lezione
+arriva adesso.
+
+Pausa.
+
+Non prima.
+
+Non all'ingresso
+dell'Inferno.
+
+Non nel Limbo.
+
+Non davanti
+a Francesca.
+
+Pausa lunga.
+
+Arriva
+quando Dante
+ha già visto
+abbastanza
+perché le categorie
+abbiano un volto.
+
+Pausa.
+
+Se Virgilio
+avesse detto
+forza, frode,
+tradimento
+nel primo canto,
+sarebbero state
+parole.
+
+Adesso
+Dante può
+riempirle
+di memoria.
+
+Pausa lunga.
+
+Il vento.
+
+La pioggia.
+
+Il fango.
+
+Le tombe.
+
+Pausa.
+
+E può anche
+immaginare
+quello che ancora
+non ha visto.
+
+Sangue.
+
+Alberi.
+
+Frode.
+
+Ghiaccio.
+
+Pausa lunga.
+
+La mappa
+arriva
+nel punto giusto
+perché non sostituisce
+l'esperienza.
+
+La organizza.
+
+Pausa.
+
+E subito dopo
+verrà rimessa
+alla prova
+dei corpi.
+
+Pausa lunga.
+
+Questo è
+il bello
+del canto XI.
+
+Sembra
+una pausa.
+
+In realtà
+sta preparando
+quasi tutto
+quello che resta.
+
 ## Chiusura da palco
+
+[Schermo: nero pieno]
 
 Pausa lunga.
 
 Il Canto XI
-non mostra un volto.
+non mostra
+un grande volto.
 
-Mostra una struttura.
-
-Sopra il fetore
-del basso Inferno,
-Virgilio
-disegna la mappa
-del male che viene.
+Mostra
+una struttura.
 
 Pausa.
 
-Fuori delle mura
-la passione trascina.
-
-Dentro le mura
-la ragione
-comincia a scegliere
-contro qualcuno.
+Ma quella struttura
+serve perché,
+da qui in poi,
+noi possiamo
+riconoscere
+cosa cambia.
 
 Pausa lunga.
 
-E più va a fondo,
+Violenza.
+
+Frode.
+
+Tradimento.
+
+Pausa.
+
+Non tre parole
+per fare ordine.
+
+Tre modi
+diversi
+in cui la volontà
+entra
+nel male.
+
+Pausa lunga.
+
+E più va
+a fondo,
 più quel male
 si fa preciso.
 
-Violenza.
-Frode.
-Tradimento.
+Pausa.
+
+La passione
+può trascinare.
+
+La frode
+ha bisogno
+di costruire.
+
+Il tradimento
+ha bisogno
+che prima
+esista
+una fiducia.
 
 Pausa lunga.
 
+È questa
+la direzione.
+
 Più si scende,
 più si sceglie.
+
+Pausa lunga.
+
+E allora
+anche il fetore
+dell'inizio
+cambia senso.
+
+Pausa.
+
+Prima
+era soltanto
+qualcosa
+da sopportare.
+
+Adesso
+sembra quasi
+il segnale
+fisico
+di ciò
+che sta sotto.
+
+Pausa lunga.
+
+Il corpo
+ha dovuto
+abituarsi
+prima che
+la mente
+potesse scendere.
+
+Pausa.
+
+E forse
+è giusto così.
+
+Perché da qui
+in poi
+la mappa
+non proteggerà
+Dante
+da quello
+che vedrà.
+
+Gli permetterà
+soltanto
+di capire
+che cosa
+sta guardando.
+
+Pausa lunga.
+
+E fra poco
+la prima parola
+della mappa
+prenderà corpo.
+
+Violenza.
+
+Pausa.
+
+Non come
+definizione.
+
+Come sangue.
+
+Come frecce.
+
+Come uomini
+immersi
+nel fiume.
+
+Pausa lunga.
+
+La pausa
+è finita.
+
+Adesso
+si scende.
+
+Pausa lunga.
+
+E la cosa
+più importante
+è questa:
+
+la mappa
+non ha sostituito
+il viaggio.
+
+Lo ha reso
+più leggibile.
+
+Pausa.
+
+Fra un attimo
+la teoria
+smetterà
+di parlare.
+
+Torneranno
+i corpi.
 
 Pausa.
 

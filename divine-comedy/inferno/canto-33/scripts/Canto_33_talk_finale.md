@@ -1,7 +1,7 @@
 # INFERNO - CANTO XXXIII
 
-Versione da palco
-Linea guida: "L'odio sopravvive a tutto. Anche alla fame."
+Versione da palco  
+Linea guida: "L'odio sopravvive alla fame"
 
 ## Apertura
 
@@ -9,14 +9,14 @@ Linea guida: "L'odio sopravvive a tutto. Anche alla fame."
 
 Pausa lunga.
 
-Allora, il trentatreesimo canto.
+Allora,
+il trentatreesimo canto.
 
 Pausa.
 
 Il trentaduesimo
 si era chiuso
-con una domanda
-senza risposta.
+con una domanda.
 
 Pausa lunga.
 
@@ -58,124 +58,109 @@ che mangiava.
 
 Pausa lunga.
 
-Il canto
-non ricomincia
-dal ghiaccio.
-
-Ricominicia
-da una bocca.
+La bocca
+si alza.
 
 Pausa.
 
-Una bocca
-che si alza
-dal fiero pasto.
+Dal fiero pasto.
 
 Pausa lunga.
 
-E si pulisce
-con i capelli
-dell’uomo che stava mangiando.
+E prima ancora
+del nome,
+
+Dante
+ci fa vedere
+un gesto.
 
 Pausa.
-
-Prima ancora
-di sapere il nome,
-si sa già
-che qui l’odio
-ha superato tutto.
-
-Pausa lunga.
 
 Ugolino
-parla
-solo perché il racconto
-può infamare Ruggieri.
+si pulisce
+la bocca
+
+con i capelli
+dell'uomo
+che stava mordendo.
+
+Pausa lunga.
+
+Poi parla.
 
 Pausa.
 
 Non per liberarsi.
 
-Per accusare.
+Non per chiedere pietà.
 
 Pausa lunga.
 
-E ascolta come comincia.
+Parla
+perché il racconto
 
-Tu vuoi ch’io rinovelli
-disperato dolor,
+può infamare
+Ruggieri.
 
 Pausa.
 
-È Enea.
-Nell'Eneide, quando Didone
-gli chiede di raccontare la fine di Troia,
-comincia così:
-mi chiedi di rinnovare un dolore
-che non si può dire.
-
-E Francesca, nel quinto canto,
-aveva preso la stessa strada.
-
-Ma se a conoscer la prima radice
-del nostro amor tu hai cotanto affetto,
-dirò come colui che piange e dice.
+Il racconto
+è ancora
+un'arma.
 
 Pausa lunga.
-
-Le due grandi storie dell'Inferno.
-Una d'amore.
-Una d'odio.
-
-E parlano con la stessa voce.
-
-Pausa lunga.
-
-Chi sono questi due?
 
 Pisa.
-Ugolino della Gherardesca
-è il signore della città.
-Dopo una disfatta in mare contro Genova
-ha ceduto alcuni castelli a Firenze e a Lucca.
-Per molti pisani, un tradimento.
+
+Ugolino.
+
+Ruggieri.
 
 Pausa.
 
-L'arcivescovo Ruggieri
-gli finge amicizia.
-Lo chiama a trattare.
-E lo fa arrestare.
+Un uomo di potere.
 
-Lo chiudono in una torre
-con due figli e due nipoti.
-Dante li chiama tutti figli.
-
-Nel marzo del 1289
-la porta viene inchiodata.
+Un arcivescovo.
 
 Pausa lunga.
 
-E qui si stringono due fili.
+Prima alleati.
 
-Ruggieri è nipote di quel Cardinale
-che Farinata nominava,
-fra le tombe.
-
-E Nino Visconti,
-il giudice gentile del ventiduesimo canto,
-quello che Dante ritrova salvo,
-era nipote di Ugolino.
-Ugolino aveva aiutato l'arcivescovo
-a cacciarlo da Pisa.
-Pochi mesi dopo,
-l'arcivescovo si è preso anche lui.
+Poi
+uno consegna
+l'altro.
 
 Pausa.
 
-Forse anche per questo
-Ugolino è qui.
-Fra i traditori.
+Ugolino
+aveva giocato
+con le parti.
+
+Aveva trattato
+con Firenze
+e con Lucca.
+
+Pausa lunga.
+
+Per i suoi nemici:
+
+tradimento.
+
+Pausa.
+
+Ruggieri
+gli offre un accordo.
+
+Poi
+lo fa arrestare.
+
+Pausa lunga.
+
+La politica
+finisce qui.
+
+Adesso
+resta una torre.
 
 ## vv. 22-54 - La torre e il sogno
 
@@ -215,47 +200,211 @@ Fra i traditori.
 
 Pausa lunga.
 
-La Muda.
+Fermiamoci
+dentro questa stanza.
 
 Pausa.
+
+Non sappiamo
+quanto è larga.
+
+Non importa.
+
+Pausa lunga.
+
+Sappiamo
+che c'è un foro.
+
+Un pertugio.
+
+Pausa.
+
+Da lì
+entra la luce.
+
+Da lì
+Ugolino conta
+le lune.
+
+Pausa lunga.
+
+Non c'è
+un orologio.
+
+Non c'è
+una finestra vera.
+
+Pausa.
+
+C'è abbastanza luce
+per capire
+che il tempo passa.
+
+Pausa.
+
+E abbastanza buio
+per non sapere
+che cosa succederà.
+
+Pausa lunga.
 
 La torre
-che per lui
-prende nome
-dalla fame.
+fa questo.
+
+Non uccide subito.
+
+Fa aspettare.
 
 Pausa lunga.
 
-Prima il sogno.
+Poi il sogno.
 
-Ruggieri cacciatore.
+Ruggieri
+cacciatore.
 
-Ugolino lupo.
+Ugolino
+lupo.
 
-I figli lupicini.
+I figli
+lupicini.
 
 Pausa.
 
-Poi il risveglio.
+Cani.
 
-Pane chiesto nel sonno.
+Denti.
 
-Uscio inchiodato.
+Fianchi.
 
 Pausa lunga.
 
-Qui la crudeltà
-non è un colpo solo.
+Nel sogno
+Ugolino
+ha già capito.
 
-È l’avvicinarsi
-della certezza.
+Poi
+si sveglia.
 
 Pausa.
 
-E Ugolino
-non piange.
+E non c'è bisogno
+di spiegare
+il sogno.
 
-Si impetra.
+I figli
+chiedono pane.
+
+Pausa lunga.
+
+La realtà
+è più semplice
+del simbolo.
+
+Pausa.
+
+Poi arriva
+il rumore.
+
+Pausa lunga.
+
+e io senti’
+chiavar l’uscio
+di sotto
+
+Lungo silenzio.
+
+Questo
+è il rumore
+del canto.
+
+Pausa.
+
+Non un urlo.
+
+Non una spada.
+
+Pausa lunga.
+
+Un uscio
+che viene inchiodato.
+
+Pausa.
+
+Ugolino
+non corre.
+
+Non grida.
+
+Non prova
+a sfondarlo.
+
+Pausa lunga.
+
+Guarda
+i figli.
+
+E loro
+guardano lui.
+
+Pausa.
+
+Da questo momento
+ogni gesto
+del padre
+
+diventa
+una risposta.
+
+Anche quando
+non parla.
+
+Pausa lunga.
+
+Io non piangeva,
+sì dentro impetrai.
+
+Pausa.
+
+Impetrai.
+
+Pausa lunga.
+
+Non dice:
+
+fui forte.
+
+Pausa.
+
+Dice:
+
+diventai pietra.
+
+Pausa lunga.
+
+Il ghiaccio
+arriverà dopo.
+
+Prima
+il gelo
+entra qui.
+
+Dentro il padre.
+
+Pausa.
+
+E i figli
+piangono.
+
+Lui no.
+
+Pausa lunga.
+
+Non perché
+soffra meno.
+
+Perché non riesce
+più a uscire
+da sé.
 
 ## vv. 55-78 - I figli e il digiuno
 
@@ -284,165 +433,260 @@ Si impetra.
 > riprese ’l teschio misero coi denti,
 > che furo a l’osso, come d’un can, forti.
 
-[Schermo: nero pieno]
+Pausa lunga.
+
+Un poco
+di luce.
+
+Pausa.
+
+E Ugolino
+vede
+
+nei quattro visi
+
+il proprio volto.
 
 Pausa lunga.
 
-Questa
-è la parte
-che il canto
-non ti lascia dimenticare.
+Poi
+si morde
+le mani.
 
 Pausa.
 
 I figli
-vedono il padre
-mordersi le mani.
+vedono
+il gesto.
 
-Credono
-che sia fame.
+E lo capiscono
+male.
 
 Pausa lunga.
 
-E gli offrono
+Pensano:
+
+ha fame.
+
+Pausa.
+
+Questo
+è il punto atroce.
+
+Non quello
+che il padre
+intende.
+
+Quello
+che i figli
+vedono.
+
+Pausa lunga.
+
+Dentro quella torre
+non c'è più
+un gesto innocente.
+
+Ogni movimento
+può diventare
+un messaggio.
+
+Pausa lunga.
+
+E allora
+gli offrono
 se stessi.
 
 Pausa.
 
-Tu ci hai vestiti
-di questa carne.
+Padre,
+mangia noi.
 
-Tu spogliala.
+Pausa lunga.
+
+Il padre
+non accetta.
+
+Non risponde.
+
+Pausa.
+
+Si quieta.
+
+Pausa lunga.
+
+Per non farli
+più tristi.
+
+Pausa.
+
+È quasi tutto
+quello che può
+ancora fare
+come padre.
+
+Non salvarli.
+
+Non nutrirli.
+
+Pausa.
+
+Solo
+non aggiungere
+altro dolore.
 
 Pausa lunga.
 
 Poi Gaddo.
 
-Poi gli altri
-uno ad uno.
+Pausa.
 
-Poi il padre
-cieco
-che tasta i corpi.
+Padre mio,
+ché non m’aiuti?
+
+Lungo silenzio.
+
+La domanda
+resta lì.
 
 Pausa lunga.
 
-Torna un momento indietro.
-Ascolta le parole dei figli.
-
-tu ne vestisti
-queste misere carni, e tu le spoglia
+Quivi morì.
 
 Pausa.
 
-È Giobbe.
-Di pelle e di carne mi hai vestito.
-Il Signore ha dato,
-il Signore ha tolto.
-
-E qualcuno ci sente anche l'ultima cena.
-Un corpo
-offerto da mangiare.
+Una riga.
 
 Pausa lunga.
-
-E Gaddo, prima di morire:
-
-Padre mio, ché non m’aiuti?
-
-Padre mio.
-Come il grido sulla croce:
-perché mi hai abbandonato.
-
-Pausa lunga.
-
-E in mezzo, Ugolino:
-
-Ahi, dura terra, perché non t’apristi?
-
-Pausa.
-
-Il terremoto.
-Quando Cristo è morto,
-la terra si è aperta.
-L'abbiamo seguito per tutto l'Inferno.
-La porta senza serratura.
-La frana.
-I ponti crollati.
-
-Qui la terra
-resta chiusa.
-
-Pausa lunga.
-
-Io credo che questa torre
-sia un Calvario rovesciato.
-
-Muoiono gli innocenti.
-E nessuno risorge.
-
-Pausa.
-
-E la frase.
-
-Pausa lunga.
-
-poscia, più che ’l dolor potè ’l digiuno.
-
-Silenzio. Dieci secondi pieni. Nessun gesto.
 
 Dante
-non la spiega.
+non gli concede
+una scena.
 
-Non la chiude.
-
-La lascia lì.
-
-Pausa lunga.
-
-È uno dei versi più discussi del poema.
-Ugolino è morto di fame?
-O prima di morire
-ha fatto un'altra cosa?
+Non una frase finale.
 
 Pausa.
 
-Il commento che seguiamo è netto:
-il digiuno lo ha ucciso,
-dove il dolore non ci era riuscito.
-Ma la voce dell'altra lettura
-corre fin dal Trecento.
+Cade.
+
+Poi cade
+un altro.
+
+Poi un altro.
 
 Pausa lunga.
 
-Ricordi Borges?
-Nel dodicesimo canto
-ci aveva fatto entrare
-nel labirinto del Minotauro.
-
-Torna qui.
-Con un saggio che si intitola
-Il falso problema di Ugolino.
+Il padre
+rimane.
 
 Pausa.
 
-Dice, più o meno:
-la domanda è sbagliata.
-Dante non ha voluto che lo sapessimo.
-Ha voluto che lo sospettassimo.
-Nel buio della torre
-le due cose restano vere insieme.
+E alla fine
+non vede più.
 
 Pausa lunga.
 
-E quel buio
-è la materia del racconto.
+già cieco,
+a brancolar
+sopra ciascuno
+
+Pausa.
+
+Li cerca
+con le mani.
 
 Pausa lunga.
 
-E subito dopo
-Ugolino
-torna a rodere.
+Prima
+li guardava
+in faccia.
+
+Adesso
+li riconosce
+toccandoli.
+
+Pausa.
+
+E li chiama.
+
+Per due giorni.
+
+Pausa lunga.
+
+Nessuno
+risponde.
+
+Pausa lunga.
+
+Poi
+la frase.
+
+Pausa.
+
+poscia,
+più che ’l dolor
+potè ’l digiuno.
+
+Lungo silenzio.
+
+Pausa lunga.
+
+Dante
+non aggiunge niente.
+
+Pausa.
+
+Da secoli
+si discute
+su questa riga.
+
+Pausa.
+
+Morte di fame.
+
+Oppure
+un'ultima possibilità
+più terribile.
+
+Pausa lunga.
+
+Borges
+ha scritto
+un saggio
+proprio su questo.
+
+Il falso problema
+di Ugolino.
+
+Pausa.
+
+La sua idea
+è forte:
+
+non decidere
+troppo in fretta.
+
+Pausa lunga.
+
+Il verso
+ci lascia
+nel buio
+della torre.
+
+Pausa.
+
+E lì
+la possibilità
+fa parte
+dell'orrore.
+
+Pausa lunga.
+
+Poi Ugolino
+non spiega.
+
+Torna
+a mordere.
 
 ## vv. 79-90 - Pisa
 
@@ -461,58 +705,66 @@ torna a rodere.
 
 Pausa lunga.
 
-Dante
-non aspetta.
-
-Non filtra.
+Ahi Pisa.
 
 Pausa.
 
-Ahi Pisa.
-
-E guarda come chiama l'Italia,
-proprio dentro l'invettiva.
-
-del bel paese là dove ’l sì suona,
-
-Il paese del sì.
-Dante non definisce l'Italia con un confine.
-La definisce con una parola.
-
-Dopo Babele,
-una lingua che tiene insieme.
+Dante
+non filtra.
 
 Pausa lunga.
-
-Qui l’invettiva
-è totale.
 
 Capraia.
 
 Gorgona.
 
-L’Arno sbarrato.
+L'Arno
+sbarrato.
 
 Pausa.
 
-sì ch’egli annieghi in te ogni persona.
+Una città intera
+da sommergere.
 
 Pausa lunga.
 
-E il punto
-non è assolvere Ugolino.
-
-È che i figli
-erano innocenti.
+Ma il punto
+non è assolvere
+Ugolino.
 
 Pausa.
 
-Novella Tebe.
+Dante
+non lo toglie
+dal ghiaccio.
 
-La città
-che fa pagare
-ai figli
-la colpa dei padri.
+Pausa lunga.
+
+Dice
+un'altra cosa.
+
+I figli
+non erano
+il padre.
+
+Pausa.
+
+La vendetta politica
+ha preso
+la colpa di uno
+
+e l'ha fatta
+pagare
+ai corpi
+degli altri.
+
+Pausa lunga.
+
+Per questo
+l'invettiva
+non assolve Ugolino.
+
+Condanna Pisa.
 
 ## vv. 91-120 - Tolomea e frate Alberigo
 
@@ -549,47 +801,131 @@ la colpa dei padri.
 
 Pausa lunga.
 
-Poi si passa oltre.
-
 Tolomea.
 
 Pausa.
 
-Traditori degli ospiti.
+Traditori
+degli ospiti.
 
 Pausa lunga.
 
-Qui i visi
-sono riversi.
-
-Le lacrime
-non scendono.
-
-Si fermano.
-
-Diventano visiere.
+Qui
+nemmeno piangere
+funziona.
 
 Pausa.
 
-E Dante
-comincia anche
-a sentire il vento.
+La lacrima
+esce.
+
+E si ferma.
 
 Pausa lunga.
 
-Poi la voce
-di frate Alberigo.
+La successiva
+trova davanti
+la precedente.
+
+Pausa.
+
+Strato
+su strato.
+
+Pausa lunga.
+
+Finché l'occhio
+si chiude
+dietro
+il proprio dolore.
+
+Pausa.
+
+Una visiera.
+
+Di ghiaccio.
+
+Pausa lunga.
+
+Nel resto
+dell'Inferno
+
+il dolore
+esce.
+
+Qui
+torna dentro.
+
+Pausa lunga.
+
+Poi Dante
+sente qualcosa.
+
+Pausa.
+
+Vento.
+
+Pausa lunga.
+
+Qui sotto.
+
+Dove,
+in teoria,
+
+non dovrebbe
+muoversi
+più niente.
+
+Pausa.
+
+Dante
+lo sente
+
+prima di sapere
+da dove arriva.
+
+Pausa lunga.
+
+Non spieghiamolo
+ancora.
+
+Manca
+un canto.
+
+Pausa lunga.
+
+Poi
+frate Alberigo.
+
+Pausa.
 
 Le frutta
 del mal orto.
 
-Dattero per figo.
+Pausa.
+
+L'ospitalità
+diventa
+la trappola.
+
+Pausa lunga.
+
+E anche qui
+si contratta.
 
 Pausa.
 
-L’ospitalità è la trappola.
-La frutta, il segnale
-per uccidere.
+Dimmi chi sei.
+
+Io ti libero
+gli occhi.
+
+Pausa lunga.
+
+Una promessa.
+
+Nel cerchio
+dei traditori.
 
 ## vv. 121-157 - Branca Doria e la legge della Tolomea
 
@@ -633,127 +969,153 @@ per uccidere.
 
 Pausa lunga.
 
-Qui il canto
-fa il salto più atroce.
+Qui
+il canto
+fa il salto
+più atroce.
 
 Pausa.
 
 In Tolomea
 si può cadere
-prima di morire.
+
+prima
+di morire.
 
 Pausa lunga.
 
-L’anima
+L'anima
 precipita qui.
 
 Il corpo
 resta sopra.
 
-Ma è già
-governato
-da un demonio.
-
 Pausa.
 
-Branca Doria
-cammina ancora
-nel mondo.
+E continua.
 
 Mangia.
 
 Beve.
-
 Dorme.
 
 Pausa lunga.
 
-Eppure
-la sua anima
-è già qui.
-
-Pausa lunga.
-
 Branca Doria.
-Il genero di Michel Zanche,
-il sardo nella pece del ventiduesimo canto.
-Lo ha ucciso a un banchetto.
 
-Te l'avevo promesso.
-Ecco l'anima che racconta
-come l'assassino
-sia arrivato quaggiù prima della vittima.
+Pausa.
 
-E quando Dante scrive,
-Branca Doria è vivo davvero.
-Nel 1325 è ancora vivo.
-Sopravvive a Dante.
+Il genero
+di Michel Zanche.
+
+Pausa.
+
+Lo uccide
+a un banchetto.
 
 Pausa lunga.
 
-E ricordi Buonconte?
-Nel ventisettesimo canto
-si salvava con una lacrima,
-nell'ultimo istante della vita.
-
-Qui il contrario.
-L'anima cade all'Inferno
-prima che il corpo muoia.
+Nel ventiduesimo canto
+Michel Zanche
+era ancora
+nella pece.
 
 Pausa.
 
-Per la dottrina del suo tempo
-è quasi uno scandalo.
-Fino all'ultimo respiro
-ci si può salvare.
+Qui scopriamo
+che l'assassino
 
-Dante lo sa.
-E a questi
-non lascia nemmeno l'ultimo respiro.
+sarebbe arrivato
+all'Inferno
+prima della vittima.
+
+Pausa lunga.
+
+E torna
+Buonconte.
 
 Pausa.
 
-Alberigo
-chiede pietà.
+Buonconte
+aveva avuto
+un ultimo istante.
+
+Una parola.
+
+Una lacrima.
+
+Pausa lunga.
+
+Branca Doria
+è l'opposto.
+
+Il corpo
+ha ancora
+tempo davanti.
+
+Pausa.
+
+Ma per il racconto
+di Dante
+
+l'anima
+è già caduta.
+
+Pausa lunga.
+
+Non facciamone
+una regola teologica.
+
+È una delle invenzioni
+più estreme
+dell'Inferno.
+
+Pausa lunga.
+
+Poi Alberigo
+chiede:
+
+aprimi
+gli occhi.
+
+Pausa.
 
 Dante
-non gliela dà.
+aveva promesso.
 
 Pausa lunga.
 
-E cortesia
-fu in lui
+Non lo fa.
+
+Pausa.
+
+E scrive:
+
+e cortesia fu
+in lui
 esser villano.
 
 Pausa lunga.
 
-Ricordi la pietà?
-Nel quinto canto
-Dante sveniva per Francesca.
-
-Qui un dannato gli chiede soltanto
-di togliergli il ghiaccio dagli occhi.
-E Dante non lo fa.
+È una frase
+che deve
+dare fastidio.
 
 Pausa.
 
-Per gli uomini del suo tempo,
-ingannare un traditore
-era quasi un merito.
+Non la correggo.
 
-Il viaggio lo ha cambiato.
-Se in meglio o in peggio,
-lo lascio decidere a te.
+Non la giustifico.
 
-Pausa.
+Pausa lunga.
 
-Poi l’ultima invettiva.
+Siamo arrivati
+in un punto
 
-Genova.
+in cui perfino
+la cortesia
 
-Magagna.
-
-Dispersione.
+ha cambiato segno.
 
 ## Chiusura
 
@@ -761,50 +1123,67 @@ Dispersione.
 
 Pausa lunga.
 
-Il trentatreesimo canto
-non oppone
-solo fame
-e odio.
-
-Pausa.
-
-Mostra
-che l’odio
-può attraversare
-la fame
-e restare intero.
-
-Pausa lunga.
-
 Ugolino
-racconta.
-
-Piange.
-
-Accusa.
-
-Poi torna
-a mordere.
+ha raccontato
+la torre.
 
 Pausa.
 
-Alberigo
-parla da morto
-quando il corpo
-è ancora vivo.
+Ha raccontato
+i figli.
+
+La fame.
+
+Il buio.
 
 Pausa lunga.
 
-Qui il tradimento
-non distrugge soltanto
-il legame.
+Poi
+ha rimesso
+i denti
 
-Svuota anche
-la persona.
+nel cranio
+di Ruggieri.
 
 Pausa.
 
-L'odio sopravvive
-a tutto.
+Il racconto
+non lo libera.
 
-Anche alla fame.
+Pausa lunga.
+
+Più sotto,
+
+le lacrime
+non riescono
+nemmeno a cadere.
+
+Pausa.
+
+E il vento
+ha già
+cominciato
+a muoversi.
+
+Pausa lunga.
+
+L'odio
+sopravvive
+alla fame.
+
+Pausa.
+
+Ma il canto
+non finisce
+sull'odio.
+
+Finisce
+con qualcosa
+che arriva
+dal fondo.
+
+Pausa lunga.
+
+Il vento.
+
+[Schermo: nero pieno]
