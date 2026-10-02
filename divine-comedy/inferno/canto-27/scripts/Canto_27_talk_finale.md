@@ -82,6 +82,75 @@ devono prima
 farsi strada
 dentro il fuoco.
 
+Pausa lunga.
+
+Prima
+un rumore.
+
+Pausa.
+
+Poi
+un linguaggio.
+
+Pausa lunga.
+
+È quasi
+il contrario
+del canto prima.
+
+Pausa.
+
+Ulisse
+aveva una voce
+che trascinava.
+
+Pausa lunga.
+
+Qui la voce
+deve lottare
+perfino
+per uscire.
+
+Pausa.
+
+La fiamma
+guizza.
+
+La punta
+si muove.
+
+Pausa lunga.
+
+Come se
+la lingua
+fosse ancora
+chiusa dentro.
+
+Pausa.
+
+Guido
+non appare.
+
+Pausa lunga.
+
+Non vedremo
+mai il suo volto.
+
+Solo
+una voce
+che cerca
+un varco.
+
+Pausa.
+
+Per un uomo
+che ha vissuto
+di coperte vie,
+
+è un'immagine
+perfetta.
+
+
 ## vv. 16-30 - La domanda sulla Romagna
 
 > Ma poscia ch’ebber colto lor viaggio
@@ -96,7 +165,85 @@ dentro il fuoco.
 > Se tu pur mo in questo mondo cieco
 > caduto se’ di quella dolce terra
 > latina ond’io mia colpa tutta reco,
-> dimmi se i Romagnuoli han pace o guerra;
+> dimmi se i Romagnuoli han pace o guerra
+
+Pausa lunga.
+
+Prima
+la Romagna.
+
+Pausa.
+
+Non il peccato.
+
+Pausa lunga.
+
+Questo uomo
+brucia
+nel fuoco
+
+e la prima cosa
+che chiede
+è la sua terra.
+
+Pausa.
+
+Pace
+o guerra?
+
+Pausa lunga.
+
+È una domanda
+semplice.
+
+Ma viene
+da qualcuno
+che ha vissuto
+proprio
+facendo guerra.
+
+Pausa.
+
+Guido
+non ha smesso
+di appartenere
+a quel paesaggio.
+
+Pausa lunga.
+
+Monti.
+
+Città.
+
+Signorie.
+
+Pausa.
+
+Anche qui,
+la dannazione
+non cancella
+la geografia
+di una vita.
+
+Pausa lunga.
+
+E Dante
+risponde
+come uno
+che quella terra
+la conosce.
+
+Pausa.
+
+Non dice:
+va bene
+o va male.
+
+Pausa lunga.
+
+Fa una mappa
+di poteri.
+;
 > ch’io fui de’ monti là intra Urbino
 > e ’l giogo di che Tever si diserra.»
 
@@ -152,7 +299,74 @@ ai suoi giochi di potere.
 > E quella cui il Savio bagna il fianco,
 > così com’ella sie’ tra ’l piano e ’l monte,
 > tra tirannia si vive e stato franco.
-> Ora chi se’ ti priego che ne conte:
+> Pausa lunga.
+
+Ravenna.
+
+Forlì.
+
+Rimini.
+
+Faenza.
+
+Cesena.
+
+Pausa.
+
+Nomi
+che per noi
+sono città.
+
+Pausa lunga.
+
+Per Guido
+sono posizioni.
+
+Pausa.
+
+Famiglie.
+
+Forze.
+
+Equilibri.
+
+Pausa lunga.
+
+Dante
+gli parla
+nel linguaggio
+che lui
+ha usato
+tutta la vita.
+
+Pausa.
+
+Non gli dà
+una morale.
+
+Pausa lunga.
+
+Gli dà
+la situazione.
+
+Pausa.
+
+E solo dopo
+chiede:
+
+chi sei?
+
+Pausa lunga.
+
+Prima
+il mondo
+che Guido
+ha cercato
+di governare.
+
+Poi Guido.
+
+Ora chi se’ ti priego che ne conte:
 > non esser duro più ch’altri sia stato,
 > se ’l nome tuo nel mondo tegna fronte.»
 
@@ -254,6 +468,72 @@ perché crede
 che nessuno
 torni vivo di qui.
 
+Pausa lunga.
+
+Questa convinzione
+è tutto.
+
+Pausa.
+
+Guido
+non sta facendo
+una confessione
+pubblica.
+
+Pausa lunga.
+
+Sta parlando
+perché pensa
+che la sua storia
+non uscirà.
+
+Pausa.
+
+Sanza tema
+d'infamia.
+
+Pausa lunga.
+
+Nessuna conseguenza.
+
+Nessun testimone.
+
+Pausa.
+
+E invece
+la persona
+a cui parla
+è precisamente
+quella che tornerà
+nel mondo.
+
+Pausa lunga.
+
+Il calcolo
+sbaglia
+prima ancora
+di cominciare.
+
+Pausa.
+
+Guido,
+l'uomo
+degli accorgimenti,
+
+ha letto male
+la situazione
+più importante.
+
+Pausa lunga.
+
+E da quel momento
+ogni sua furbizia
+sarà raccontata
+proprio da chi
+non doveva
+poter raccontare.
+
+
 Parla
 senza tema d’infamia.
 
@@ -324,6 +604,81 @@ e rendersi a Dio.
 
 Pausa lunga.
 
+Calar le vele.
+
+Pausa.
+
+È un gesto
+molto preciso.
+
+Pausa lunga.
+
+Non distruggere
+la nave.
+
+Non negare
+il viaggio.
+
+Pausa.
+
+Rallentare.
+
+Pausa lunga.
+
+Raccogliere
+le sarte.
+
+Pausa.
+
+Capire
+che una parte
+del viaggio
+è finita.
+
+Pausa lunga.
+
+Guido
+questa cosa
+l'aveva capita.
+
+Pausa.
+
+È questo
+che rende
+la caduta
+più dolorosa.
+
+Pausa lunga.
+
+Non parte
+dal peccato
+senza coscienza.
+
+Pausa.
+
+Parte
+da un pentimento
+che sembrava
+riuscito.
+
+Pausa lunga.
+
+E poi
+riapre le vele
+per un'ultima
+manovra.
+
+Pausa.
+
+Una sola.
+
+Pausa lunga.
+
+Ma basta.
+
+
+Pausa lunga.
+
 Qui Dante gli mette in bocca
 la sua stessa lode.
 E la rovescia.
@@ -354,6 +709,78 @@ Lo sentiremo fra poco.
 > perché le sue parole parver ebbre.
 > E poi ridisse: ‘Tuo cor non sospetti:
 > finor t’assolvo, e tu m’insegna fare
+
+Pausa lunga.
+
+Ascolta
+l'ordine.
+
+Pausa.
+
+Prima
+l'assoluzione.
+
+Poi
+il peccato.
+
+Pausa lunga.
+
+Bonifacio
+non gli dice:
+pecca
+e poi pentiti.
+
+Pausa.
+
+Gli offre
+una copertura
+preventiva.
+
+Pausa lunga.
+
+Come se
+il sacramento
+fosse un lasciapassare.
+
+Pausa.
+
+Come se
+le chiavi
+potessero aprire
+anche una porta
+che ancora
+non hai chiuso.
+
+Pausa lunga.
+
+E Guido,
+che conosce
+le coperte vie,
+
+riconosce
+una copertura
+quando la vede.
+
+Pausa.
+
+Il problema
+è che questa
+porta il sigillo
+del papa.
+
+Pausa lunga.
+
+La frode
+non arriva
+travestita
+da frode.
+
+Pausa.
+
+Arriva
+con la forma
+dell'autorità.
+
 > sì come Penestrino in terra getti.
 > Lo ciel poss’io serrare e diserrare,
 > come tu sai; però son due le chiavi
@@ -441,7 +868,69 @@ Sempre con le chiavi in mano.
 
 ## vv. 106-111 - Il consiglio
 
-> Allor mi pinser gli argomenti gravi
+> Pausa lunga.
+
+Guido tace.
+
+Pausa.
+
+Questo silenzio
+conta.
+
+Pausa lunga.
+
+Le parole
+di Bonifacio
+gli sembrano
+ebbri.
+
+Pausa.
+
+Quindi
+il pericolo
+lo sente.
+
+Pausa lunga.
+
+Non è
+un inganno
+che non riconosce.
+
+Pausa.
+
+È un inganno
+che riconosce
+
+e a cui
+sceglie comunque
+di partecipare.
+
+Pausa lunga.
+
+Per questo
+la sua difesa
+non può essere:
+non sapevo.
+
+Pausa.
+
+Sapeva
+abbastanza
+per tacere.
+
+Pausa lunga.
+
+Poi gli argomenti
+lo spingono
+là dove
+il tacere
+gli sembra peggio.
+
+Pausa.
+
+E parla.
+
+Allor mi pinser gli argomenti gravi
 > là ’ve ’l tacer mi fu avviso il peggio;
 > e dissi: ‘Padre, da che tu mi lavi
 > di quel peccato ov’io mo cader deggio,
@@ -499,7 +988,53 @@ Per questo il nobilissimo Guido del Convivio
 > Venir se ne dee giù tra’ miei meschini,
 > perché diede il consiglio frodolente,
 > dal quale in qua stato li sono a’ crini:
-> ch’assolver non si può chi non si pente,
+> ch’assolver non si può chi non si pente
+
+Pausa lunga.
+
+Questa
+è la trappola.
+
+Pausa.
+
+Guido
+aveva cercato
+una garanzia
+prima del gesto.
+
+Pausa lunga.
+
+Come se
+il perdono
+potesse
+precedere
+la scelta.
+
+Pausa.
+
+Ma se
+il peccato
+deve ancora
+essere voluto,
+
+anche il pentimento
+deve ancora
+essere possibile.
+
+Pausa lunga.
+
+Il diavolo
+non inventa
+una regola.
+
+Pausa.
+
+Gli mostra
+la contraddizione
+che Guido
+aveva cercato
+di non vedere.
+,
 > né pentére e volere insieme puossi,
 > per la contradizion che nol consente’.
 > Oh me dolente! come mi riscossi
@@ -578,6 +1113,75 @@ che ha studiato logica.
 
 Pausa.
 
+Pausa lunga.
+
+Guido
+ha passato
+la vita
+costruendo
+strategie.
+
+Pausa.
+
+Piani
+con più mosse.
+
+Pausa lunga.
+
+Il diavolo
+ne usa tre.
+
+Pausa.
+
+Non ti penti.
+
+Pausa.
+
+Non puoi
+volere il peccato
+
+e nello stesso
+momento
+non volerlo.
+
+Pausa lunga.
+
+Quindi
+l'assoluzione
+non copre niente.
+
+Pausa.
+
+Fine.
+
+Pausa lunga.
+
+La cosa
+più umiliante
+è questa.
+
+Pausa.
+
+Non viene
+battuto
+con un trucco
+più furbo.
+
+Pausa lunga.
+
+Viene battuto
+con una contraddizione
+che era già
+dentro
+il suo piano.
+
+Pausa.
+
+La volpe
+si è costruita
+da sola
+la trappola.
+
 Poi Minosse.
 
 Otto giri.
@@ -647,6 +1251,80 @@ E si è salvato.
 
 Pausa lunga.
 
+Una lagrimetta.
+
+Pausa.
+
+È quasi
+niente.
+
+Pausa lunga.
+
+Non un saio.
+
+Non una carriera
+religiosa.
+
+Pausa.
+
+Non una formula
+di assoluzione.
+
+Pausa lunga.
+
+Un ultimo
+movimento
+del cuore.
+
+Pausa.
+
+Dante
+mette padre
+e figlio
+ai due lati
+di una distinzione
+minuscola.
+
+Pausa lunga.
+
+Il padre
+ha preparato
+tutto.
+
+Pausa.
+
+Il figlio
+non prepara
+niente.
+
+Pausa lunga.
+
+Uno pensa
+di avere
+la salvezza
+in tasca.
+
+Pausa.
+
+L'altro
+la incontra
+all'ultimo respiro.
+
+Pausa lunga.
+
+Non è
+la quantità
+dei gesti
+che decide.
+
+Pausa.
+
+È la loro
+direzione.
+
+
+Pausa lunga.
+
 Io credo che qui
 ci sia tutta la teologia di Dante.
 Non conta la forma.
@@ -689,6 +1367,83 @@ E Dante
 passa oltre.
 
 Verso un’altra frode.
+
+Pausa lunga.
+
+La fiamma
+si torce.
+
+Pausa.
+
+Si dibatte.
+
+Pausa lunga.
+
+All'inizio
+del canto
+la voce
+non riusciva
+nemmeno
+a uscire.
+
+Pausa.
+
+Adesso
+ha detto
+tutto.
+
+Pausa lunga.
+
+E non cambia
+niente.
+
+Pausa.
+
+La confessione
+che nel mondo
+avrebbe potuto
+salvarlo
+
+qui
+è soltanto
+racconto.
+
+Pausa lunga.
+
+Troppo tardi
+per cambiare
+la scelta.
+
+Pausa.
+
+Ma non troppo tardi
+perché Dante
+la trasformi
+in una lezione
+sulla scelta.
+
+Pausa lunga.
+
+Guido
+ha cercato
+una formula
+che facesse
+coesistere
+
+volere il male
+
+e non esserne
+responsabile.
+
+Pausa.
+
+Il canto
+intero
+dice:
+
+no.
+
+Pausa lunga.
 
 ## Chiusura
 

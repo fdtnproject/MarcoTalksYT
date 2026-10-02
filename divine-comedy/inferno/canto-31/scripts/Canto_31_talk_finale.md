@@ -66,6 +66,76 @@ Lo stesso gesto.
 
 Pausa lunga.
 
+Prima
+morde.
+
+Poi
+cura.
+
+Pausa.
+
+Dante
+non cambia
+maestro.
+
+Pausa lunga.
+
+Cambia
+il momento.
+
+Pausa.
+
+La parola
+giusta
+può fare
+male
+quando deve
+fermare.
+
+Pausa lunga.
+
+E può fare
+bene
+subito dopo
+quando deve
+rimettere
+in cammino.
+
+Pausa.
+
+Virgilio
+non chiede
+a Dante
+di dimenticare
+la vergogna.
+
+Pausa lunga.
+
+Gli impedisce
+di restarci
+dentro.
+
+Pausa.
+
+E poi
+camminano
+senza parlare.
+
+Pausa lunga.
+
+La cura
+non ha bisogno
+di un'altra
+lezione.
+
+Pausa.
+
+Ha bisogno
+di strada.
+
+
+Pausa lunga.
+
 Poi non parlano più.
 
 Camminano.
@@ -126,12 +196,187 @@ Poi la correzione.
 
 Pausa.
 
+Pausa lunga.
+
+Prima
+il suono.
+
+Pausa.
+
+Poi
+la forma.
+
+Pausa lunga.
+
+È importante
+che i giganti
+entrino così.
+
+Pausa.
+
+Dante
+non li vede
+subito.
+
+Pausa lunga.
+
+Li sente.
+
+Pausa.
+
+Un corno
+che rende
+piccolo
+perfino il tuono.
+
+Pausa lunga.
+
+E per misurarlo
+chiama Orlando.
+
+Pausa.
+
+Roncisvalle.
+
+L'ultimo segnale.
+
+Pausa lunga.
+
+Un suono
+che arriva
+quando la battaglia
+è già perduta.
+
+Pausa.
+
+Qui invece
+il corno
+non chiama
+nessuno.
+
+Pausa lunga.
+
+Nembrot
+lo usa
+per sfogarsi.
+
+Pausa.
+
+Rumore enorme.
+
+Comunicazione
+zero.
+
+Pausa lunga.
+
+Il canto
+ci fa sentire
+la dismisura
+prima ancora
+di mostrarla.
+
 Dante vede torri.
 
 Virgilio dice:
 no.
 
 Giganti.
+
+Pausa lunga.
+
+L'errore
+non è stupido.
+
+Pausa.
+
+Da lontano
+sembrano davvero
+torri.
+
+Pausa lunga.
+
+Il buio
+taglia
+la parte bassa.
+
+Pausa.
+
+Resta
+quello che sporge.
+
+Pausa lunga.
+
+Una forma
+verticale.
+
+Poi un'altra.
+
+Pausa.
+
+Una corona
+intorno al pozzo.
+
+Pausa lunga.
+
+Il cervello
+fa quello
+che fa sempre.
+
+Pausa.
+
+Prende
+quello che vede
+
+e completa
+il resto.
+
+Pausa lunga.
+
+Poi
+si avvicinano.
+
+Pausa.
+
+La nebbia
+cede.
+
+Pausa lunga.
+
+E la torre
+ha una faccia.
+
+Spalle.
+
+Petto.
+
+Braccia.
+
+Pausa.
+
+L'errore
+sparisce.
+
+Pausa lunga.
+
+La paura
+cresce.
+
+Pausa.
+
+È bellissimo
+perché di solito
+capire
+riduce
+la paura.
+
+Pausa lunga.
+
+Qui no.
+
+Capire
+la rende
+più precisa.
+
 
 Pausa lunga.
 
@@ -159,13 +404,156 @@ a mostruosità.
 > le spalle e ’l petto e del ventre gran parte,
 > e per le coste giù ambo le braccia.
 > Natura certo, quando lasciò l’arte
-> di sì fatti animali, assai fe’ bene,
+> di sì fatti animali, assai fe’ bene
+
+Pausa lunga.
+
+Dante
+ringrazia
+la natura
+per aver smesso.
+
+Pausa.
+
+È una frase
+quasi assurda.
+
+Pausa lunga.
+
+Come se
+la natura
+avesse imparato
+qualcosa.
+
+Pausa.
+
+Elefanti.
+
+Balene.
+
+Pausa lunga.
+
+Grandi sì.
+
+Ma senza
+quell'unione
+di mente,
+volere
+e potenza.
+
+Pausa.
+
+I giganti
+non fanno paura
+perché sono alti.
+
+Pausa lunga.
+
+Fanno paura
+perché alla grandezza
+si aggiunge
+l'intenzione.
+
+Pausa.
+
+Il corpo
+amplifica
+quello che la mente
+ha deciso.
+
+Pausa lunga.
+
+E allora
+la misura
+fisica
+è anche
+misura morale.
+,
 > per tòrre tali esecutori a Marte.
 > E s’elli d’elefanti e di balene
 > non si pente, chi guarda sottilmente
 > più giusta e più discreta la ne tiene;
 > ché dove l’argomento de la mente
-> s’aggiugne al mal volere ed a la possa,
+> s’aggiugne al mal volere ed a la possa
+
+Pausa lunga.
+
+Tre cose.
+
+Pausa.
+
+Mente.
+
+Volere.
+
+Forza.
+
+Pausa lunga.
+
+Una sola
+non basta.
+
+Pausa.
+
+Un animale
+può essere
+enorme.
+
+Pausa lunga.
+
+Ma non costruisce
+un progetto
+contro il cielo.
+
+Pausa.
+
+Una mente
+può essere
+potente.
+
+Pausa lunga.
+
+Ma senza
+cattiva volontà
+non diventa
+questa minaccia.
+
+Pausa.
+
+E la volontà,
+senza forza,
+può restare
+impotente.
+
+Pausa lunga.
+
+Dante
+mette insieme
+le tre cose.
+
+Pausa.
+
+Capire.
+
+Volere il male.
+
+Poterlo fare.
+
+Pausa lunga.
+
+Quando coincidono,
+dice,
+
+nessun riparo
+basta.
+
+Pausa.
+
+I giganti
+sono il corpo
+visibile
+di quella formula.
+,
 > nessun riparo vi può far la gente.
 > La faccia sua mi parea lunga e grossa
 > come la pina di San Pietro a Roma,
@@ -176,7 +564,76 @@ a mostruosità.
 > tre Frison s’averìen dato mal vanto;
 > però ch’io ne vedea trenta gran palmi
 > dal luogo in giù dov’uomo affibbia il manto.
-> «Raphel maì amech zabi almi»
+> «Raphel maì amech zabi almi
+
+Pausa lunga.
+
+Ascoltalo
+una volta.
+
+Pausa.
+
+Non cercare
+subito
+di tradurlo.
+
+Pausa lunga.
+
+È proprio
+quello
+che il canto
+ti nega.
+
+Pausa.
+
+Un significato
+condiviso.
+
+Pausa lunga.
+
+Nembrot
+ha una bocca
+enorme.
+
+Pausa.
+
+Una voce
+enorme.
+
+Pausa lunga.
+
+E nessuna
+comunicazione.
+
+Pausa.
+
+Può fare
+più rumore
+di quasi chiunque.
+
+Pausa lunga.
+
+Non può dire
+una cosa
+che arrivi
+all'altro.
+
+Pausa.
+
+È una pena
+più sottile
+della catena.
+
+Pausa lunga.
+
+La forza
+della voce
+senza comunità
+di lingua
+
+non serve
+quasi a niente.
+»
 > cominciò a gridar la fiera bocca,
 > cui non si convenian più dolci salmi.
 > E ’l duca mio ver lui: «Anima sciocca,
@@ -293,6 +750,86 @@ in cui ti sto parlando.
 così è a lui ciascun linguaggio
 come ’l suo ad altrui, ch’ a nullo è noto.
 
+Pausa lunga.
+
+E Dante
+fa una cosa
+rara.
+
+Pausa.
+
+Lascia
+che il poema
+corregga
+il trattato.
+
+Pausa lunga.
+
+Non nasconde
+che aveva pensato
+una cosa diversa.
+
+Pausa.
+
+La lingua
+di Adamo,
+credeva,
+si era conservata.
+
+Pausa lunga.
+
+Poi fa parlare
+Adamo.
+
+E Adamo
+dice:
+no.
+
+Pausa.
+
+Era già
+cambiata.
+
+Pausa lunga.
+
+La lingua
+non è
+una pietra
+fuori dal tempo.
+
+Pausa.
+
+Vive.
+
+Cambia.
+
+Muore.
+
+Pausa lunga.
+
+E questa idea
+sta qui,
+
+davanti
+a Nembrot,
+
+l'uomo
+associato
+alla frattura
+delle lingue.
+
+Pausa.
+
+Non è
+un'aggiunta
+filologica.
+
+Pausa lunga.
+
+È Dante
+che si corregge
+in pubblico.
+
 ## vv. 82-111 - Fialte e Briareo
 
 > Facemmo adunque più lungo viaggio,
@@ -309,7 +846,89 @@ come ’l suo ad altrui, ch’ a nullo è noto.
 > disse ’l mio duca, «ond’egli ha cotal merto.
 > Fialte ha nome, e fece le gran prove
 > quando i giganti fer paura a’ Dei:
-> le braccia ch’ei menò già mai non move.»
+> le braccia ch’ei menò già mai non move.
+
+Pausa lunga.
+
+Le braccia.
+
+Pausa.
+
+È lì
+che cade
+lo sguardo.
+
+Pausa lunga.
+
+Fialte
+aveva usato
+la forza.
+
+Pausa.
+
+Adesso
+la forza
+c'è ancora.
+
+Pausa lunga.
+
+Ma non arriva
+più al gesto.
+
+Pausa.
+
+Le catene
+non lo rendono
+piccolo.
+
+Pausa lunga.
+
+Lo rendono
+inutile.
+
+Pausa.
+
+E quando
+si scuote,
+
+il terreno
+sembra
+un terremoto.
+
+Pausa lunga.
+
+Dante capisce
+che la catena
+non è
+decorazione.
+
+Pausa.
+
+È l'unica cosa
+fra quella forza
+
+e lui.
+
+Pausa lunga.
+
+Per questo
+dice:
+
+qui ho avuto
+più paura
+che mai
+di morire.
+
+Pausa.
+
+Non perché
+Fialte
+lo colpisca.
+
+Pausa lunga.
+
+Perché potrebbe.
+»
 > Ed io a lui: «S’esser puote, io vorrei
 > che de lo smisurato Briareo
 > esperienza avesser gli occhi miei.»
@@ -382,16 +1001,267 @@ d’essere libera.
 > Virgilio, quando prender si sentìo,
 > disse a me: «Fatti qua, sì ch’io ti prenda»;
 > poi fece sì ch’un fascio era egli e io.
+
+Pausa lunga.
+
+Un fascio.
+
+Pausa.
+
+Dante
+e Virgilio
+stretti
+insieme.
+
+Pausa lunga.
+
+Nel ventitreesimo
+Virgilio
+portava Dante
+come un figlio.
+
+Pausa.
+
+Qui
+si fanno
+un solo carico
+nelle mani
+di un gigante.
+
+Pausa lunga.
+
+La scala
+delle dimensioni
+si rovescia.
+
+Pausa.
+
+Dante,
+che per noi
+è il centro
+della scena,
+
+nelle mani
+di Anteo
+è qualcosa
+che si prende
+con due mani.
+
+Pausa lunga.
+
+E quando
+Anteo si china,
+
+la paura
+non viene
+da una minaccia.
+
+Pausa.
+
+Viene
+dalla misura.
+
+Pausa lunga.
+
+Essere
+così piccoli
+rispetto
+a ciò
+che ti trasporta.
+
 > Qual pare a riguardar la Garisenda
 > sotto il chinato, quando un nuvol vada
 > sovr’essa sì che ella incontro penda,
 > tal parve Anteo a me, che stava a bada
+
+Pausa lunga.
+
+Chi ha visto
+una torre
+molto alta
+da vicino
+conosce
+quella sensazione.
+
+Pausa.
+
+Non è
+la torre
+che si muove.
+
+Pausa lunga.
+
+Sei tu
+che perdi
+per un attimo
+il riferimento.
+
+Pausa.
+
+Una nuvola
+passa.
+
+Pausa lunga.
+
+E sembra
+che la massa
+cada verso di te.
+
+Pausa.
+
+Dante usa
+la Garisenda
+per dare
+al corpo di Anteo
+un movimento
+che non può
+contenere
+nello sguardo.
+
+Pausa lunga.
+
+Non dice
+soltanto:
+è enorme.
+
+Pausa.
+
+Ti mette
+sotto.
+
+Pausa lunga.
+
+Ti costringe
+a guardare
+in alto
+mentre quella cosa
+si piega.
+
+Pausa.
+
+La paura
+nasce
+dalla prospettiva.
+
 > di vederlo chinare, e fu tal ora
 > ch’io avrei voluto ir per altra strada.
 > Ma lievemente al fondo che divora
-> Lucifero con Giuda ci sposò;
+> Lucifero con Giuda ci sposò
+
+Pausa lunga.
+
+Lievemente.
+
+Pausa.
+
+È la parola
+più sorprendente.
+
+Pausa lunga.
+
+Un gigante
+li depone
+con delicatezza.
+
+Pausa.
+
+Non li lascia
+cadere.
+
+Pausa lunga.
+
+Non li scaglia.
+
+Pausa.
+
+Li posa.
+
+Pausa lunga.
+
+Poi
+si rialza.
+
+Pausa.
+
+Come un albero
+in una nave.
+
+Pausa lunga.
+
+E il mondo
+dei giganti
+finisce
+così.
+
+Pausa.
+
+Non con
+un combattimento.
+
+Pausa lunga.
+
+Con un passaggio
+di mano.
+
+Pausa.
+
+Dal bordo
+di Malebolge
+al ghiaccio.
+;
 > né, sì chinato, lì fece dimora,
-> e com’albero in nave si levò.
+> e com’albero in nave si levò
+
+Pausa lunga.
+
+Guardalo
+rialzarsi.
+
+Pausa.
+
+Prima
+la mano
+scende.
+
+Pausa.
+
+Poi
+Dante
+e Virgilio
+toccano
+il fondo.
+
+Pausa lunga.
+
+Poi
+Anteo
+torna su.
+
+Pausa.
+
+Il corpo
+si allontana.
+
+Pausa lunga.
+
+E per un attimo
+la scala
+che li ha portati
+giù
+
+scompare
+verso l'alto.
+
+Pausa.
+
+Non possono
+tornare.
+
+Pausa lunga.
+
+Davanti
+c'è Cocito.
+.
 
 [Schermo: Doré — Anteo depone i due poeti]
 
@@ -401,6 +1271,82 @@ Anteo
 è diverso.
 
 Non è incatenato.
+
+Pausa lunga.
+
+E allora
+cambia anche
+la strategia
+di Virgilio.
+
+Pausa.
+
+Con Nembrot
+non parla.
+
+Pausa lunga.
+
+Con Fialte
+non tratta.
+
+Pausa.
+
+Con Anteo
+sì.
+
+Pausa lunga.
+
+Perché Anteo
+può ancora
+fare qualcosa.
+
+Pausa.
+
+E Virgilio
+gli offre
+la moneta
+che l'Inferno
+continua
+a desiderare.
+
+Pausa lunga.
+
+Fama.
+
+Pausa.
+
+Questo vivo
+può parlare
+di te
+nel mondo.
+
+Pausa lunga.
+
+È quasi
+una trattativa.
+
+Pausa.
+
+Ma molto diversa
+da Malebolge.
+
+Pausa lunga.
+
+Qui Virgilio
+non mente.
+
+Pausa.
+
+Sceglie
+la parte
+della verità
+che può
+muovere Anteo.
+
+Pausa lunga.
+
+La sua gloria.
+
 
 Pausa.
 
@@ -440,6 +1386,73 @@ Li posa.
 
 E si rialza
 come albero in nave.
+
+Pausa lunga.
+
+Torri.
+
+Giganti.
+
+Catene.
+
+Pausa.
+
+Tutto il canto
+lavora
+sulla misura.
+
+Pausa lunga.
+
+Quanto è grande
+una cosa?
+
+Pausa.
+
+Quanto è forte?
+
+Pausa lunga.
+
+Quanto può
+muoversi?
+
+Pausa.
+
+Quanto capiamo
+di ciò che vediamo
+da lontano?
+
+Pausa lunga.
+
+Dante
+entra nel canto
+sbagliando
+la misura
+dei corpi.
+
+Pausa.
+
+Ne esce
+portato
+da un corpo
+che supera
+ogni sua misura.
+
+Pausa lunga.
+
+E in mezzo
+capisce
+che la grandezza
+da sola
+non decide
+niente.
+
+Pausa.
+
+Conta
+che cosa
+la mente
+vuole fare
+con quella forza.
 
 ## Chiusura
 
@@ -499,3 +1512,68 @@ di quanta ne reggesse,
 
 si porta addosso
 le proprie catene.
+
+Pausa lunga.
+
+E poi
+c'è Anteo.
+
+Pausa.
+
+L'unico
+senza catene.
+
+Pausa lunga.
+
+Proprio lui
+li porta
+giù.
+
+Pausa.
+La forza
+che non ha
+combattuto
+gli dèi
+
+può ancora
+servire
+a qualcosa.
+
+Pausa lunga.
+
+Non è innocente.
+
+Pausa.
+
+Ma è utilizzabile.
+
+Pausa lunga.
+
+Dante
+non chiude
+il canto
+dicendo:
+la forza è male.
+
+Pausa.
+
+Chiude
+mostrando
+che la forza
+senza misura
+va incatenata,
+
+ma la forza
+che si lascia
+dirigere
+può diventare
+passaggio.
+
+Pausa lunga.
+
+E quel passaggio
+porta
+nel punto
+più basso
+dell'universo.
+

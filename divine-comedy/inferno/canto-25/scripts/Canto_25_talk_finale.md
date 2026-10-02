@@ -83,6 +83,78 @@ nel mezzo del gesto.
 
 Pausa lunga.
 
+Prima
+la profezia.
+
+Pausa.
+
+Poi il gesto.
+
+Pausa lunga.
+
+Vanni Fucci
+ha appena usato
+le parole
+per ferire.
+
+Pausa.
+
+Adesso usa
+le mani.
+
+Pausa lunga.
+
+E il canto
+gli toglie
+prima una cosa,
+poi l'altra.
+
+Pausa.
+
+Una serpe
+al collo.
+
+Pausa.
+
+Una serpe
+alle braccia.
+
+Pausa lunga.
+
+Non parlare.
+
+Non gesticolare.
+
+Pausa.
+
+Il corpo
+che un momento prima
+sfidava Dio
+
+diventa
+qualcosa
+di legato.
+
+Pausa lunga.
+
+È una transizione
+perfetta
+per il canto
+che viene.
+
+Pausa.
+
+Perché da qui
+in avanti
+il corpo
+non sarà più
+una cosa sicura.
+
+Pausa lunga.
+
+
+Pausa lunga.
+
 E Dante
 non se la prende solo con lui.
 
@@ -181,6 +253,64 @@ E adesso
 cammina tra chi vive
 del furto.
 
+Pausa lunga.
+
+Caco
+è quasi
+un avvertimento.
+
+Pausa.
+
+Prima ancora
+delle metamorfosi
+più incredibili,
+
+arriva
+un essere
+che già mescola
+forme diverse.
+
+Pausa lunga.
+
+Uomo.
+
+Centauro.
+
+Serpenti.
+
+Drago.
+
+Fuoco.
+
+Pausa.
+
+Un corpo
+che sembra
+non avere
+un confine semplice.
+
+Pausa lunga.
+
+E passa.
+
+Pausa.
+
+Non è lui
+il centro.
+
+Pausa lunga.
+
+È quasi
+una soglia.
+
+Da questo momento
+il canto
+comincerà
+a togliere
+la stabilità
+a ogni figura.
+
+
 ## vv. 34-78 - Cianfa e Agnello
 
 > Mentre che sì parlava, ed el trascorse
@@ -211,7 +341,95 @@ del furto.
 > ad alber sì, come l’orribil fiera
 > per l’altrui membra avviticchiò le sue.
 > Poi s’appiccar, come di calda cera
-> fossero stati, e mischiar lor colore,
+> fossero stati
+
+Pausa lunga.
+
+Calda cera.
+
+Pausa.
+
+È un'immagine
+quasi domestica.
+
+Pausa lunga.
+
+Una materia
+che mantiene
+la forma
+finché è fredda.
+
+Pausa.
+
+Poi il calore
+arriva.
+
+Pausa lunga.
+
+E il contorno
+comincia
+a cedere.
+
+Pausa.
+
+Non si rompe.
+
+Pausa lunga.
+
+Si lascia
+modellare.
+
+Pausa.
+
+Dante usa
+questa immagine
+per due esseri
+che fino a un attimo prima
+avevano
+un confine netto.
+
+Pausa lunga.
+
+Pelle qui.
+
+Pelle là.
+
+Pausa.
+
+Un colore.
+
+Un altro.
+
+Pausa lunga.
+
+Poi il colore
+si mischia.
+
+Pausa.
+
+E quello
+che fa paura
+non è soltanto
+il risultato.
+
+Pausa lunga.
+
+È il passaggio.
+
+Pausa.
+
+Vederlo
+mentre accade.
+
+Pausa lunga.
+
+Un corpo
+che non sa più
+in quale momento
+ha smesso
+di essere
+soltanto suo.
+, e mischiar lor colore,
 > né l’un né l’altro già parea quel ch’era,
 > come procede innanzi da l’ardore
 > per lo papiro suso un color bruno,
@@ -249,6 +467,79 @@ Silenzio, dieci secondi.
 
 Taci.
 Guarda.
+
+Pausa lunga.
+
+Questa volta
+Dante
+non vuole
+una spiegazione.
+
+Pausa.
+
+Vuole
+che Virgilio
+guardi
+con lui.
+
+Pausa lunga.
+
+Il gesto
+del dito
+è piccolo.
+
+Ma cambia
+la scena.
+
+Pausa.
+
+Per un momento
+non c'è
+maestro
+ed allievo.
+
+Pausa lunga.
+
+Ci sono
+due testimoni.
+
+Pausa.
+
+E Dante
+si gira anche
+verso di noi.
+
+Pausa lunga.
+
+Se fai fatica
+a credermi,
+
+dice,
+
+non ti biasimo.
+
+Pausa.
+
+Io ero lì.
+
+E faccio fatica
+anch'io.
+
+Pausa lunga.
+
+È importante.
+
+Perché il poeta
+che tra poco
+dirà a Lucano
+e Ovidio
+di tacere
+
+prima ammette
+che la scena
+supera
+anche lui.
+
 
 Pausa lunga.
 
@@ -292,6 +583,111 @@ Ti mescolo.
 
 Finché non sei più
 né due né uno.
+
+Pausa lunga.
+
+Né due.
+
+Né uno.
+
+Pausa.
+
+Dante
+non dice
+semplicemente:
+si uniscono.
+
+Pausa lunga.
+
+Dice che
+la vecchia forma
+non basta più
+
+a contare
+quello che vede.
+
+Pausa.
+
+Due corpi
+entrano
+l'uno nell'altro.
+
+Pausa lunga.
+
+Ma il risultato
+non è
+una somma.
+
+Pausa.
+
+Non è
+Agnello
+più Cianfa.
+
+Pausa lunga.
+
+È una figura
+che prima
+non esisteva.
+
+Pausa.
+
+E Dante
+la costruisce
+pezzo per pezzo.
+
+Pausa lunga.
+
+Pancia.
+
+Braccia.
+
+Guance.
+
+Cosce.
+
+Coda.
+
+Pausa.
+
+Poi il colore.
+
+Pausa lunga.
+
+Come cera
+che si scalda.
+
+Come carta
+che prende
+il bruno
+del fuoco.
+
+Pausa.
+
+Non sai
+il momento esatto
+in cui il bianco
+finisce
+
+e comincia
+il nero.
+
+Pausa lunga.
+
+È questo
+l'orrore.
+
+Pausa.
+
+Il confine
+non viene
+spezzato
+in un colpo.
+
+Pausa lunga.
+
+Si scioglie.
+
 
 ## vv. 79-96 - Il serpentello e la sfida
 
@@ -345,6 +741,81 @@ I due
 si studiano
 mentre cambiano.
 
+Pausa lunga.
+
+Guardano.
+
+Pausa.
+
+Questo dettaglio
+è feroce.
+
+Pausa lunga.
+
+Non perdono
+la coscienza
+nel momento
+della trasformazione.
+
+Pausa.
+
+Assistono.
+
+Pausa lunga.
+
+Uno guarda
+l'altro
+
+e vede
+la propria forma
+sparire.
+
+Pausa.
+
+L'altro guarda
+
+e vede
+quella forma
+arrivare.
+
+Pausa lunga.
+
+Il fumo
+si incontra
+a metà.
+
+Pausa.
+
+Da una ferita.
+
+Da una bocca.
+
+Pausa lunga.
+
+E mentre
+le materie
+si scambiano,
+
+gli occhi
+restano fermi.
+
+Pausa.
+
+Le lucerne empie.
+
+Pausa lunga.
+
+La persona
+non è cancellata.
+
+Pausa.
+
+È costretta
+a vedere
+che cosa
+sta diventando.
+
+
 Pausa.
 
 E Dante
@@ -352,6 +823,91 @@ alza la posta.
 
 Lucano,
 adesso taci.
+
+Pausa lunga.
+
+È una sfida
+poetica.
+
+Pausa.
+
+Ma non viene
+fuori dal nulla.
+
+Pausa lunga.
+
+Da quasi
+venticinque canti
+Dante sta imparando
+a descrivere
+cose
+che nessun vivo
+può verificare.
+
+Pausa.
+
+Qui sente
+di aver costruito
+una macchina
+più difficile
+
+di quelle
+dei suoi maestri.
+
+Pausa lunga.
+
+E allora
+li chiama.
+
+Pausa.
+
+Lucano.
+
+Ovidio.
+
+Pausa lunga.
+
+Non per cancellarli.
+
+Pausa.
+
+Per misurarsi
+con loro.
+
+Pausa lunga.
+
+È quasi
+un momento
+di euforia
+poetica.
+
+Pausa.
+
+E proprio
+per questo
+conta
+quello che verrà
+dopo.
+
+Pausa lunga.
+
+Nel canto successivo
+Dante avrà paura
+del proprio ingegno.
+
+Pausa.
+
+Qui invece
+lo lascia correre.
+
+Pausa lunga.
+
+Questo canto
+è il punto
+in cui la penna
+si sente
+più potente.
+
 
 Sta per arrivare
 qualcosa di peggio.
@@ -362,7 +918,103 @@ qualcosa di peggio.
 > ché se quello in serpente e quella in fonte
 > converte poetando, io non lo invidio;
 > ché due nature mai a fronte a fronte
-> non trasmutò sì ch’amendue le forme
+> non trasmutò
+
+Pausa lunga.
+
+A fronte
+a fronte.
+
+Pausa.
+
+Davanti
+l'una all'altra.
+
+Pausa lunga.
+
+La seconda
+metamorfosi
+non è
+un animale
+che conquista
+un uomo.
+
+Pausa.
+
+È uno scambio.
+
+Pausa lunga.
+
+Mentre uno
+perde,
+
+l'altro
+acquista.
+
+Pausa.
+
+Mentre una pelle
+si indurisce,
+
+l'altra
+si ammorbidisce.
+
+Pausa lunga.
+
+Mentre le braccia
+spariscono,
+
+i piedi
+dell'altro
+si allungano.
+
+Pausa.
+
+Mentre una lingua
+si divide,
+
+l'altra
+si richiude.
+
+Pausa lunga.
+
+Dante fa
+una cosa difficilissima.
+
+Pausa.
+
+Non descrive
+prima uno
+e poi l'altro.
+
+Pausa lunga.
+
+Li tiene
+insieme.
+
+Pausa.
+
+Come se
+la materia
+passasse
+in diretta
+
+da una figura
+all'altra.
+
+Pausa lunga.
+
+Il furto
+qui
+non lascia
+un vuoto.
+
+Pausa.
+
+Lascia
+uno scambio
+forzato.
+ sì ch’amendue le forme
 > a cambiar lor materia fosser pronte.
 > Insieme si rispuosero a tai norme,
 > che ’l serpente la coda in forca fesse,
@@ -470,6 +1122,92 @@ che si mette il freno.
 > Così vid’io la settima zavorra
 > mutare e trasmutare; e qui mi scusi
 > la novità, se fior la penna abborra.
+
+Pausa lunga.
+
+La penna
+abborra.
+
+Pausa.
+
+Fa confusione.
+
+Pausa lunga.
+
+Dante
+lo ammette.
+
+Pausa.
+
+Dopo aver detto
+a Ovidio
+e Lucano
+di tacere,
+
+fa una cosa
+molto meno trionfale.
+
+Pausa lunga.
+
+Chiede scusa.
+
+Pausa.
+
+Perché la novità
+può rendere
+confusa
+anche la scrittura.
+
+Pausa lunga.
+
+È un equilibrio
+bellissimo.
+Pausa.
+
+Prima:
+guardate
+cosa so fare.
+
+Pausa lunga.
+
+Poi:
+se la penna
+si sporca un poco,
+
+perdonatemi.
+
+Pausa.
+
+La scena
+è troppo nuova.
+
+Pausa lunga.
+
+E anche
+la lingua
+fa fatica
+a starle dietro.
+
+Pausa.
+
+Questo
+è il vero rischio
+poetico
+del canto.
+
+Pausa lunga.
+
+Non soltanto
+che i corpi
+perdano forma.
+
+Pausa.
+
+Che anche
+le parole
+non riescano
+più a tenerli.
+
 > E avvegna che gli occhi miei confusi
 > fossero alquanto, e l’animo smagato,
 > non poter quei fuggirsi tanto chiusi
@@ -498,66 +1236,109 @@ prende parola.
 
 Pausa lunga.
 
+Pausa lunga.
+
 Ricordi Kafka?
-Nel terzo canto
-ci aveva lasciato davanti a una porta.
-
-Torna con un altro racconto.
-La metamorfosi.
 
 Pausa.
 
-Un uomo si sveglia,
-una mattina,
-trasformato in un insetto.
-
-Senza una colpa.
-Senza una ragione.
-
-Pausa.
-
-E l'orrore è questo:
-dentro, è ancora lui.
-Pensa da uomo.
-Ama la sua famiglia.
-Ma quando parla,
-gli altri sentono solo un verso.
+Un uomo
+si sveglia
+trasformato
+in un insetto.
 
 Pausa lunga.
 
-In Dante è il contrario.
+Dentro,
+Gregorio
+resta Gregorio.
 
-C'è una colpa.
-E dell'uomo
-non resta niente.
+Pensa.
+
+Ricorda.
+
+Vuole parlare.
 
 Pausa.
 
-Ascolta la parola che usa.
+Ma il corpo
+non restituisce
+agli altri
+la sua voce umana.
+
+Pausa lunga.
+
+Qui Dante
+fa un'altra cosa.
+
+Pausa.
+
+Non racconta
+una metamorfosi
+senza colpa.
+
+Pausa lunga.
+
+Mette
+la perdita
+della figura umana
+
+dentro
+una pena.
+
+Pausa.
+
+Ma attenzione.
+
+Pausa lunga.
+
+Il dannato
+non smette
+di essere
+quella persona.
+
+Pausa.
+
+Lo riconosciamo.
+
+Vuole.
+
+Guarda.
+
+Parla
+o soffola.
+
+Pausa lunga.
+
+Quando Dante dice:
 
 L’anima ch’era fiera divenuta
-suffolando si fugge per la valle,
 
 Pausa.
 
-L'anima.
-Non il corpo.
-È l'anima, che è diventata bestia.
+non sta dicendo
+che l'identità
+è sparita.
 
 Pausa lunga.
 
-E la parola
-passa all'altro.
-
-e l’altro dietro a lui parlando sputa.
+Sta dicendo
+che quella persona
+è costretta
+in una figura
+bestiale.
 
 Pausa.
 
-In Kafka
-la voce si perde.
+È la forma umana
+che viene rubata.
 
-Qui
-la voce cambia padrone.
+Pausa lunga.
+
+Non il fatto
+di essere
+ancora responsabile
+di sé.
 
 Pausa lunga.
 
@@ -589,6 +1370,94 @@ Cianfa.
 Agnello.
 Buoso.
 Puccio.
+
+Pausa lunga.
+
+I nomi
+restano.
+
+Pausa.
+
+Questo conta.
+
+Pausa lunga.
+
+I corpi
+si mescolano.
+
+Si scambiano.
+
+Si deformano.
+
+Pausa.
+
+Ma Dante
+continua
+a inseguire
+chi è chi.
+
+Pausa lunga.
+
+Puccio
+è quello
+che non cambia.
+
+Pausa.
+
+Buoso
+corre carponi.
+
+Pausa lunga.
+
+Cianfa
+è dentro
+la prima fusione.
+
+Agnello
+non è più
+né due
+né uno.
+
+Pausa.
+
+E l'ultimo
+porta con sé
+il nome
+di Gaville.
+
+Pausa lunga.
+
+La metamorfosi
+non cancella
+la responsabilità.
+
+Pausa.
+
+Anzi.
+
+Pausa lunga.
+
+Dante lavora
+per non lasciarla
+sparire
+nel caos
+delle forme.
+
+Pausa.
+
+Cinque ladri.
+
+Cinque fiorentini.
+
+Pausa lunga.
+
+Il corpo
+non resta stabile.
+
+Il nome,
+nel poema,
+resta.
+
 E Francesco Cavalcanti,
 quello che Gaville piange.
 Lo uccisero gli uomini di Gaville,
@@ -603,6 +1472,92 @@ Tutti di grandi famiglie.
 
 Tienili a mente.
 Il canto che viene comincia da loro.
+
+Pausa lunga.
+
+E allora
+torna
+alla parola
+furto.
+
+Pausa.
+
+Di solito
+rubare
+vuol dire:
+
+prendo
+quello che è tuo
+
+e lo porto
+con me.
+
+Pausa lunga.
+
+Qui Dante
+fa saltare
+la distinzione.
+
+Pausa.
+
+Che cosa
+è mio?
+
+Pausa lunga.
+
+La mano?
+
+La faccia?
+
+La voce?
+
+La forma?
+
+Pausa.
+
+Se anche
+queste cose
+possono passare
+
+da un corpo
+all'altro,
+
+dove finisce
+il possesso?
+
+Pausa lunga.
+
+Il contrappasso
+non dice soltanto:
+chi ruba
+viene derubato.
+
+Pausa.
+
+Va più a fondo.
+
+Pausa lunga.
+
+Chi ha vissuto
+confondendo
+il confine
+tra mio e tuo
+
+entra
+in un luogo
+in cui quel confine
+non regge più
+nemmeno sul corpo.
+
+Pausa.
+
+Eppure
+il nome resta.
+
+Pausa lunga.
+
+La responsabilità
+resta.
 
 ## Chiusura
 

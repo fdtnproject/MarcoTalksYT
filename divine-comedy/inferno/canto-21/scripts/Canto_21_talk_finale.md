@@ -111,6 +111,139 @@ del suo mondo
 e la porta
 nel cuore della frode.
 
+Pausa lunga.
+
+Fermati
+sull'Arsenale.
+
+Pausa.
+
+Dante
+non prende
+un'immagine
+generica.
+
+Pausa lunga.
+
+Prende
+un luogo
+di lavoro.
+
+Pausa.
+
+Inverno.
+
+Navi
+ferme.
+
+Legno
+da riparare.
+
+Pausa lunga.
+
+Uno
+rattoppa.
+
+Uno
+batte.
+
+Uno
+fa remi.
+
+Uno
+lavora
+alle sartie.
+
+Pausa.
+
+Tutto
+si muove
+
+perché le navi,
+più avanti,
+
+possano
+muoversi.
+
+Pausa lunga.
+
+E sotto
+Malebolge
+
+succede
+il contrario.
+
+Pausa.
+
+La pece
+non serve
+a rimettere
+in mare.
+
+Pausa lunga.
+
+Serve
+a tenere
+sotto.
+
+Pausa.
+
+A coprire.
+
+Pausa lunga.
+
+Nel cantiere
+la pece
+cura
+una nave
+ferita.
+
+Qui
+nasconde
+gli uomini.
+
+Pausa.
+
+E soprattutto
+non vediamo
+chi c'è dentro.
+
+Pausa lunga.
+
+Vediamo
+soltanto
+le bolle.
+
+Pausa.
+
+Qualcosa
+si muove
+sotto.
+
+Pausa lunga.
+
+Ma il viso
+non arriva.
+
+Pausa.
+
+È perfetto
+per la baratteria.
+
+Il peccato
+dell'accordo
+nascosto.
+
+Pausa lunga.
+
+Prima ancora
+dei diavoli,
+
+il paesaggio
+ha già
+imparato
+a occultare.
+
 ## vv. 19-36 - Il demonio col peccatore
 
 > Io vedea lei, ma non vedea in essa
@@ -158,6 +291,117 @@ Feroce.
 Con un uomo
 portato addosso
 come un carico.
+
+Pausa lunga.
+
+Poi
+il paesaggio
+si rompe.
+
+Pausa.
+
+Guarda,
+guarda.
+
+Pausa lunga.
+
+Virgilio
+non ha
+il tempo
+di spiegare.
+
+Pausa.
+
+Tira Dante
+via
+dal bordo.
+
+Pausa lunga.
+
+E il demonio
+arriva
+correndo.
+
+Ali aperte.
+
+Piedi
+leggeri.
+
+Pausa.
+
+Sulla spalla
+porta
+un uomo.
+
+Pausa lunga.
+
+Non lo accompagna.
+
+Lo trasporta.
+
+Pausa.
+
+Come un carico.
+
+Pausa lunga.
+
+Il dannato
+non entra
+nella scena
+camminando.
+
+Pausa.
+
+Arriva
+già preso.
+
+Pausa lunga.
+
+E questo
+cambia
+il tono.
+
+Fino a qui
+abbiamo spesso
+incontrato
+anime
+che parlavano.
+
+Pausa.
+
+Qui
+un uomo
+viene
+consegnato.
+
+Pausa lunga.
+
+Il demonio
+sa già
+dove metterlo.
+
+Pausa.
+
+Non chiede
+il nome.
+
+Non ascolta
+la storia.
+
+Pausa lunga.
+
+Lo porta
+alla pece.
+
+Pausa.
+
+Come se
+la macchina
+della bolgia
+funzionasse
+senza bisogno
+di capire
+chi sei.
 
 ## vv. 37-57 - Santa Zita e il Santo Volto
 
@@ -216,6 +460,117 @@ La pece è una caldaia.
 I corpi
 sono roba da rigirare sotto.
 
+Pausa lunga.
+
+Santa Zita.
+
+Pausa.
+
+Il Santo Volto.
+
+Pausa lunga.
+
+Nomi
+sacri
+
+dentro
+una scena
+sporca.
+
+Pausa.
+
+I diavoli
+li usano
+per prendere
+in giro
+il lucchese.
+
+Pausa lunga.
+
+Qui non ha luogo
+il Santo Volto.
+
+Pausa.
+
+Qui
+non si nuota
+nel Serchio.
+
+Pausa lunga.
+
+La città
+entra
+nell'Inferno
+con i suoi
+simboli.
+
+Pausa.
+
+Ma deformati.
+
+Pausa lunga.
+
+E poi
+la battuta
+più feroce:
+
+ogn'uom
+v'è barattier,
+
+fuor che
+Bonturo.
+
+Pausa.
+
+È sarcasmo.
+
+Pausa lunga.
+
+Il nome
+dell'eccezione
+
+serve
+a dire
+che eccezione
+non c'è.
+
+Pausa.
+
+La corruzione
+viene raccontata
+come atmosfera.
+
+Pausa lunga.
+
+Non
+un singolo
+uomo cattivo.
+
+Pausa.
+
+Un modo
+di far funzionare
+la città.
+
+Pausa lunga.
+
+E il dannato
+prova
+a riemergere.
+
+Pausa.
+
+I raffi
+lo ricacciano
+sotto.
+
+Pausa lunga.
+
+Anche qui:
+
+apparire
+è pericoloso.
+
 ## vv. 58-78 - Virgilio si fa avanti
 
 > Lo buon maestro: «Acciò che non si paia
@@ -269,6 +624,135 @@ Prima uno.
 Poi gli altri.
 
 Gerarchia.
+
+Pausa lunga.
+
+Adesso
+Virgilio
+fa una cosa
+che Dante
+non vuole.
+
+Pausa.
+
+Lo lascia
+nascosto.
+
+Pausa lunga.
+
+Tu
+resta qui.
+
+Io
+vado avanti.
+
+Pausa.
+
+Per nulla
+offension
+che mi sia fatta,
+
+non temere.
+
+Pausa lunga.
+
+È una frase
+enorme.
+
+Pausa.
+
+Perché davanti
+ha una squadra
+di diavoli
+armati
+di uncini.
+
+Pausa lunga.
+
+E Virgilio
+gli va incontro
+da solo.
+
+Pausa.
+
+Non perché
+sia invulnerabile.
+
+Pausa lunga.
+
+Perché
+conosce
+la regola
+del viaggio.
+
+Pausa.
+
+Sa
+che non possono
+fermarlo
+
+se il viaggio
+è voluto
+da sopra.
+
+Pausa lunga.
+
+Ma Dante,
+dietro
+lo scheggio,
+
+non vede
+una regola.
+
+Pausa.
+
+Vede
+runcigli.
+
+Denti.
+
+Cani
+che escono
+contro
+un poverello.
+
+Pausa lunga.
+
+È importante
+che i due
+vivano
+la stessa scena
+in modo diverso.
+
+Pausa.
+
+Virgilio
+vede
+un limite
+che i demoni
+non possono
+superare.
+
+Pausa lunga.
+
+Dante
+vede
+quanto sono
+vicini.
+
+Pausa.
+
+La fede
+nella guida
+
+qui
+non cancella
+la paura.
+
+Pausa lunga.
+
+La rende
+attraversabile.
 
 ## vv. 79-99 - Malacoda e la paura di Dante
 
@@ -355,6 +839,107 @@ in mezzo ai nemici
 c'è lui.
 
 veggendo sé tra nemici cotanti.
+
+Pausa lunga.
+
+Malacoda
+abbassa
+l'uncino.
+
+Pausa.
+
+Per un attimo
+sembra
+che tutto
+sia risolto.
+
+Pausa lunga.
+
+Dante
+esce
+dal nascondiglio.
+
+Pausa.
+
+E i diavoli
+gli vengono
+incontro.
+
+Pausa lunga.
+
+Quatto quatto.
+
+Poi
+ratto.
+
+Pausa.
+
+Il corpo
+sa
+che la trattativa
+non basta.
+
+Pausa lunga.
+
+E Dante
+ricorda
+Caprona.
+
+Pausa.
+
+Soldati
+che escono
+da una fortezza
+
+fra nemici
+che li guardano.
+
+Pausa lunga.
+
+La paura
+non viene
+da ciò
+che è successo.
+
+Pausa.
+
+Viene
+da ciò
+che potrebbe
+succedere
+
+in un secondo.
+
+Pausa lunga.
+
+Malacoda
+ha detto:
+
+non sia ferito.
+
+Pausa.
+
+Ma gli altri
+continuano
+a guardarlo
+come qualcosa
+che si può
+toccare.
+
+Pausa lunga.
+
+È una tregua.
+
+Non
+una sicurezza.
+
+Pausa.
+
+E il canto
+vive
+proprio
+in questa
+differenza.
 
 ## vv. 100-126 - La scorta dei Malebranche
 
@@ -552,6 +1137,283 @@ Ma ordinati.
 Anche i diavoli
 hanno una gerarchia.
 
+Pausa lunga.
+
+Poi
+Malacoda
+diventa
+quasi
+un caposquadra.
+
+Pausa.
+
+Ordina.
+
+Chiama.
+
+Conta.
+
+Pausa lunga.
+
+Barbariccia.
+
+Alichino.
+
+Calcabrina.
+
+Cagnazzo.
+
+Libicocco.
+
+Draghignazzo.
+
+Ciriatto.
+
+Graffiacane.
+
+Farfarello.
+
+Rubicante.
+
+Pausa lunga.
+
+I nomi
+sono già
+una scena.
+
+Pausa.
+
+Suonano
+come denti.
+
+Graffi.
+
+Bestie.
+
+Pausa lunga.
+
+Eppure
+la squadra
+ha una disciplina.
+
+Pausa.
+
+Un capo.
+
+Degli ordini.
+
+Una marcia.
+
+Pausa lunga.
+
+L'Inferno
+qui
+diventa
+quasi
+una caserma
+grottesca.
+
+Pausa.
+
+E dentro
+questa comicità
+
+Malacoda
+fa una cosa
+molto seria.
+
+Pausa lunga.
+
+Dà
+un'informazione.
+
+Il ponte
+è rotto.
+
+Pausa.
+
+Poi
+ne dà
+un'altra.
+
+C'è
+un'altra strada.
+
+Pausa lunga.
+
+La prima
+è vera.
+
+La seconda
+no.
+
+Pausa.
+
+La menzogna
+funziona
+
+perché
+si appoggia
+a una verità.
+
+Pausa lunga.
+
+È questo
+che la rende
+credibile.
+
+Pausa.
+
+E aggiunge
+perfino
+un'ora.
+
+Una data.
+
+Un calcolo.
+
+Pausa lunga.
+
+Precisione.
+
+Pausa.
+
+La precisione
+fa sembrare
+la voce
+affidabile.
+
+Pausa lunga.
+
+Dante
+non ha
+davanti
+un mostro
+che urla
+una bugia.
+
+Pausa.
+
+Ha
+un'autorità
+del luogo
+
+che parla
+con sicurezza.
+
+Pausa lunga.
+
+E proprio
+per questo
+
+Virgilio
+gli crede.
+
+Pausa lunga.
+
+La scorta
+si mette
+in moto.
+
+Pausa.
+
+Dante
+non la vuole.
+
+Pausa lunga.
+
+Guarda
+i denti.
+
+Guarda
+le ciglia.
+
+Pausa.
+
+Legge
+il corpo
+dei diavoli.
+
+Pausa lunga.
+
+Virgilio
+legge
+l'ordine
+di Malacoda.
+
+Pausa.
+
+Per una volta
+Dante
+vede
+meglio
+il pericolo
+immediato.
+
+Pausa lunga.
+
+Non perché
+sia diventato
+più saggio
+del maestro.
+
+Pausa.
+
+Perché
+la paura
+gli tiene
+gli occhi
+incollati
+ai dettagli.
+
+Pausa lunga.
+
+Digrignano.
+
+Si fanno
+cenni.
+
+Stringono
+la lingua
+fra i denti.
+
+Pausa.
+
+Sono
+una squadra
+che comunica
+anche
+senza parlare.
+
+Pausa lunga.
+
+E questo
+fa ridere.
+
+Ma non
+rassicura.
+
+Pausa.
+
+La comicità
+non cancella
+il pericolo.
+
+Pausa lunga.
+
+Lo rende
+più vicino.
+
+Pausa.
+
+Perché
+questi diavoli
+non sono
+solenni.
+
+Sono
+imprevedibili.
+
 ## vv. 127-139 - La trombetta
 
 > «Ohmè, maestro, che è quel ch’i’ veggio?»
@@ -622,6 +1484,113 @@ esattamente così:
 
 con la volgarità
 fatta ordine di servizio.
+
+Pausa lunga.
+
+E poi
+la trombetta.
+
+Pausa.
+
+Dante
+chiude
+il canto
+
+con il gesto
+più basso
+possibile.
+
+Pausa lunga.
+
+Dopo
+la teologia.
+
+Dopo
+le profezie.
+
+Dopo
+le grandi
+figure
+dell'antichità.
+
+Pausa.
+
+Un demonio
+dà
+il segnale
+con il culo.
+
+Pausa lunga.
+
+Non è
+un incidente
+di tono.
+
+Pausa.
+
+È il tono.
+
+Pausa lunga.
+
+Malebolge
+è il luogo
+in cui
+l'intelligenza
+si è fatta
+furba.
+
+Pausa.
+
+E Dante
+le toglie
+ogni nobiltà.
+
+Pausa lunga.
+
+La frode
+può essere
+complessa.
+
+La baratteria
+può usare
+uffici,
+denaro,
+accordi.
+
+Pausa.
+
+Ma qui
+la sua
+musica finale
+
+è questa.
+
+Pausa lunga.
+
+Una pernacchia
+militare.
+
+Pausa.
+
+E la squadra
+parte.
+
+Pausa lunga.
+
+Il canto
+non ci lascia
+con una morale.
+
+Ci lascia
+in marcia
+
+dietro
+dieci diavoli
+
+che fra poco
+cominceranno
+a litigare
+fra loro.
 
 ## Chiusura
 

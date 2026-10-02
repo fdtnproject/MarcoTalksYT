@@ -65,6 +65,47 @@ Pausa lunga.
 Non Virgilio. Non Dante.
 La porta.
 
+Pausa lunga.
+
+È la prima
+soglia vera
+del viaggio.
+
+Pausa.
+
+Nel primo canto
+c'era una selva.
+
+Nel secondo
+una decisione.
+
+Pausa lunga.
+
+Qui
+c'è qualcosa
+che si attraversa.
+
+Pausa.
+
+Un prima.
+
+Un dopo.
+
+Pausa lunga.
+
+E soprattutto
+una scritta.
+
+Prima ancora
+di vedere
+i dannati,
+
+Dante
+deve leggere
+che cosa
+significa entrare.
+
+
 Pausa.
 
 "Per me si va..."
@@ -113,7 +154,48 @@ Anzi: fa male.
 > che tu vedrai le genti dolorose  
 > c’hanno perduto il ben de l’intelletto.»  
 > E poi che la sua mano a la mia pose  
-> con lieto volto, ond’io mi confortai,  
+> con lieto volto, ond’io mi confortai,
+
+Pausa lunga.
+
+Non lo spinge.
+
+Pausa.
+
+Non lo trascina.
+
+Pausa lunga.
+
+Gli prende
+la mano.
+
+Pausa.
+
+È quasi
+un gesto
+troppo piccolo
+per questo posto.
+
+Pausa lunga.
+
+Ma proprio
+per questo
+funziona.
+
+Pausa.
+
+La porta
+dice:
+
+lasciate
+ogni speranza.
+
+Pausa lunga.
+
+Virgilio
+risponde
+con una mano.
+  
 > mi mise dentro a le segrete cose.
 
 Dante legge.
@@ -719,6 +801,51 @@ che Dante non appartiene a questa fila.
 
 Pausa lunga.
 
+Il corpo vivo
+qui
+è un errore
+visibile.
+
+Pausa.
+
+Caronte
+non ha bisogno
+di sapere
+il nome.
+
+Pausa lunga.
+
+Lo vede.
+
+Pausa.
+
+Respira.
+
+Pesa.
+
+Non appartiene
+a quei morti.
+
+Pausa lunga.
+
+Da qui in poi
+il corpo di Dante
+continuerà
+a tradirlo.
+
+Nel senso migliore.
+
+Pausa.
+
+Ricorderà
+all'Inferno
+che lui
+può ancora
+cambiare.
+
+
+Pausa lunga.
+
 E dice la cosa decisiva:
 tu passerai,
 ma non con questa barca.
@@ -965,6 +1092,41 @@ Pausa.
 E quindi Dante,
 semplicemente,
 non è dei loro.
+
+Pausa lunga.
+
+Dante
+non sale
+sulla barca.
+
+Pausa.
+
+Non vediamo
+il passaggio.
+
+Pausa lunga.
+
+Il canto
+ci porta
+fino al limite.
+
+Poi
+spegne
+la coscienza.
+
+Pausa.
+
+Quando Dante
+riaprirà
+gli occhi,
+
+sarà
+dall'altra parte.
+
+---
+
+Aumento atteso: ~1,8–2,0 minuti.
+Durata attesa: ~30 minuti.
 
 ## vv. 130-136 - Svenimento
 

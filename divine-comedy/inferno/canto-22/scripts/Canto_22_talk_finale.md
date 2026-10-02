@@ -74,6 +74,70 @@ Scappa.
 
 Pausa lunga.
 
+Guarda il ritmo.
+
+Pausa.
+
+Affiorano.
+
+Spariscono.
+
+Affiorano.
+
+Spariscono.
+
+Pausa lunga.
+
+Non stanno
+camminando
+nella pena.
+
+Pausa.
+
+Stanno
+calcolando
+quando respirare.
+
+Pausa lunga.
+
+Un attimo
+fuori.
+
+Poi giù.
+
+Pausa.
+
+Perché qui
+anche il respiro
+può tradirti.
+
+Pausa lunga.
+
+E i diavoli
+non devono
+cercarli.
+
+Pausa.
+
+Aspettano
+che qualcuno
+sbagli tempo.
+
+Pausa lunga.
+
+È una caccia
+fatta di secondi.
+
+Pausa.
+
+E uno,
+fra poco,
+resterà fuori
+un secondo di troppo.
+
+
+Pausa lunga.
+
 Dante comincia
 con un catalogo di guerra.
 
@@ -414,7 +478,66 @@ al minimo avvicinarsi del potere.
 > distruggitor di sé e di sue cose.
 > Poi fui famiglia del buon re Tebaldo:
 > quivi mi misi a far baratteria,
-> di ch’io rendo ragione in questo caldo.»
+> di ch’io rendo ragione in questo caldo.
+
+Pausa.
+
+Guarda la posizione.
+
+Pausa lunga.
+
+Il Navarrese
+è fuori
+solo perché
+un uncino
+lo tiene lì.
+
+Pausa.
+
+Intorno
+ha dieci diavoli.
+
+Pausa lunga.
+
+Non sta parlando
+in libertà.
+
+Pausa.
+
+Ogni parola
+compra tempo.
+
+Pausa lunga.
+
+Questo cambia
+il modo
+in cui ascoltiamo
+la sua confessione.
+
+Pausa.
+
+Non è
+un uomo
+che finalmente
+vuole raccontarsi.
+
+Pausa lunga.
+
+È un barattiere
+che usa
+l'unica cosa
+che gli resta.
+
+Pausa.
+
+La parola.
+
+Pausa lunga.
+
+E mentre parla
+sta già guardando
+la pece.
+»
 
 [Schermo: Doré — il Navarrese tirato su dalla pece]
 
@@ -902,7 +1025,73 @@ siamo stati avvertiti.
 
 ## vv. 97-117 - La proposta
 
-> «Se voi volete vedere o udire,»
+> «Pausa lunga.
+
+Fino a qui
+sembra
+un interrogatorio.
+
+Pausa.
+
+Da questo momento
+cambia.
+
+Pausa lunga.
+
+Il prigioniero
+comincia
+la trattativa.
+
+Pausa.
+
+Non chiede:
+lasciatemi andare.
+
+Pausa lunga.
+
+Offre qualcosa.
+
+Altri dannati.
+
+Pausa.
+
+Sette
+per uno.
+
+Pausa lunga.
+
+È perfetto.
+
+Perfino
+la fuga
+prende
+la forma
+di un affare.
+
+Pausa.
+
+E i diavoli,
+che dovrebbero
+conoscere
+la frode,
+
+cominciano
+a discutere
+le condizioni.
+
+Pausa lunga.
+
+La bolgia
+per un momento
+sembra
+un mercato.
+
+Pausa.
+
+E il prodotto
+è la fiducia.
+
+Se voi volete vedere o udire,»
 > ricominciò lo spaurato appresso,
 > «Toschi o Lombardi, io ne farò venire;
 > ma stieno i Malebranche un poco in cesso,
@@ -973,6 +1162,73 @@ come andrà a finire.
 > Ciascun da l’altra costa gli occhi volse,
 > quel prima ch’a ciò fare era più crudo.
 > Lo Navarrese ben suo tempo colse:
+
+Pausa lunga.
+
+Ben suo tempo.
+
+Pausa.
+
+È tutto qui.
+
+Pausa lunga.
+
+Non è
+più forte.
+
+Non è
+più veloce.
+
+Pausa.
+
+Aspetta
+il momento.
+
+Pausa lunga.
+
+Tutti guardano
+dall'altra parte.
+
+Lui no.
+
+Pausa.
+
+Ferma i piedi.
+
+Pausa lunga.
+
+E in un punto
+salta.
+
+Pausa.
+
+Un punto.
+
+Pausa lunga.
+
+Tutto il canto
+ha lavorato
+per questo
+istante.
+
+Pausa.
+
+Delfini.
+Rane.
+Un topo.
+
+Pausa lunga.
+
+Adesso
+la preda
+sceglie
+quando sparire.
+
+Pausa.
+
+E i cacciatori
+restano sopra.
+
 > fermò le piante a terra, ed in un punto
 > saltò e dal proposto lor si sciolse.
 > Di che ciascun di colpa fu compunto,

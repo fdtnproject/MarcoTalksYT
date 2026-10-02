@@ -76,6 +76,81 @@ che non suoni bene.
 
 Che graffi.
 
+Pausa lunga.
+
+E poi
+Dante dice
+una cosa
+ancora più strana.
+
+Pausa.
+
+Non è impresa
+da lingua
+che chiami
+mamma e babbo.
+
+Pausa lunga.
+
+Il fondo
+dell'universo
+messo accanto
+alle prime parole
+di un bambino.
+
+Pausa.
+
+Mamma.
+
+Babbo.
+
+Pausa lunga.
+
+La lingua
+più semplice
+che abbiamo.
+
+Pausa.
+
+E Dante dice:
+non basta.
+
+Pausa lunga.
+
+Non perché
+sia povera.
+
+Pausa.
+
+Perché qui
+le parole
+con cui impariamo
+il mondo
+
+devono descrivere
+il punto
+in cui i legami
+che fanno un mondo
+sono stati traditi.
+
+Pausa lunga.
+
+Famiglia.
+
+Patria.
+
+Ospitalità.
+
+Pausa.
+
+Le parole
+più elementari
+arrivano
+al luogo
+più contrario
+alla fiducia.
+
+
 Pausa.
 
 Perché il fondo dell’Inferno
@@ -96,6 +171,73 @@ E subito dopo
 l’insulto.
 
 Mal creata plebe.
+
+Pausa lunga.
+
+È un insulto
+che arriva
+prima dei nomi.
+
+Pausa.
+
+Dante
+non entra
+nel ghiaccio
+neutrale.
+
+Pausa lunga.
+
+Ha paura
+di non avere
+le parole.
+
+E nello stesso tempo
+ha già
+un giudizio
+ferocissimo.
+
+Pausa.
+
+Mal creata.
+
+Pausa lunga.
+
+Come se
+questa gente
+avesse usato
+male
+la propria
+forma umana.
+
+Pausa.
+
+Subito dopo
+dice:
+
+meglio foste stati
+pecore o capre.
+
+Pausa lunga.
+
+Non perché
+gli animali
+siano bassi.
+
+Pausa.
+
+Perché almeno
+non avrebbero
+avuto
+la possibilità
+di tradire
+così.
+
+Pausa lunga.
+
+La condanna
+arriva
+prima della storia.
+
 
 Pausa lunga.
 
@@ -163,6 +305,74 @@ Non acqua.
 
 Pausa lunga.
 
+Il ghiaccio
+non sembra
+naturale.
+
+Pausa.
+
+Dante
+lo misura
+con fiumi
+e montagne.
+
+Pausa lunga.
+
+Niente.
+
+Pausa.
+
+Non farebbe
+cricch
+nemmeno
+sotto un monte.
+
+Pausa lunga.
+
+È importante
+sentire
+questa solidità.
+
+Pausa.
+
+Perché sopra
+ci camminano.
+
+Pausa lunga.
+
+Sotto
+ci sono
+persone.
+
+Pausa.
+
+Teste.
+
+Facce.
+
+Occhi.
+
+Pausa lunga.
+
+Non stanno
+in un paesaggio
+di ghiaccio.
+
+Pausa.
+
+Sono
+incastrati
+nel ghiaccio.
+
+Pausa lunga.
+
+Il terreno
+è già
+la pena.
+
+
+Pausa lunga.
+
 Dante cerca i paragoni
 più freddi che conosce.
 
@@ -198,6 +408,128 @@ in nota di cicogna.
 Le lacrime
 si chiudono
 sugli occhi.
+
+Pausa lunga.
+
+E il silenzio
+cambia.
+
+Pausa.
+
+Sopra,
+nell'Inferno,
+
+il dolore
+aveva quasi sempre
+una voce.
+
+Pausa lunga.
+
+Urla.
+
+Pianto.
+
+Bestemmie.
+
+Racconti.
+
+Pausa.
+
+Qui
+i denti
+battono.
+
+Pausa lunga.
+
+Le lacrime
+si fermano.
+
+Pausa.
+
+Le facce
+sono abbassate.
+
+Pausa lunga.
+
+Il ghiaccio
+ferma
+i corpi.
+
+Non
+il rancore.
+
+
+Pausa lunga.
+
+Nemmeno
+piangere
+funziona.
+
+Pausa.
+
+L'occhio
+produce
+una lacrima.
+
+Pausa lunga.
+
+La lacrima
+arriva
+alla palpebra.
+
+Pausa.
+
+E si chiude.
+
+Pausa lunga.
+
+Quello
+che dovrebbe
+uscire
+
+resta
+sul volto.
+
+Pausa.
+
+E poi
+ne arriva
+un'altra.
+
+Pausa lunga.
+
+Gela
+sulla prima.
+
+Pausa.
+
+Il dolore
+costruisce
+la propria
+prigione.
+
+Pausa lunga.
+
+Più piangi,
+meno riesci
+a piangere.
+
+Pausa.
+
+Più provi
+a liberare
+l'occhio,
+
+più il ghiaccio
+lo chiude.
+
+Pausa lunga.
+
+Qui perfino
+la pietà
+del corpo
+contro sé stesso.
+
 
 Pausa.
 
@@ -334,7 +666,72 @@ peggiore di me.
 > fatti per freddo; onde mi vien riprezzo,
 > e verrà sempre, de’ gelati guazzi.
 > E mentre ch’andavamo inver lo mezzo,
-> al quale ogni gravezza si rauna,
+> al quale ogni gravezza si rauna
+
+Pausa lunga.
+
+Il mezzo.
+
+Pausa.
+
+Il punto
+verso cui
+va ogni peso.
+
+Pausa lunga.
+
+Dante
+sta camminando
+verso il centro
+fisico
+dell'universo
+che immagina.
+
+Pausa.
+
+Ogni cosa
+grave
+cade qui.
+
+Pausa lunga.
+
+E proprio qui
+mette
+il tradimento.
+
+Pausa.
+
+Non in alto.
+
+Non in una
+fiamma spettacolare.
+
+Pausa lunga.
+
+Nel punto
+dove tutto
+si deposita.
+
+Pausa.
+
+Il fondo
+non è soltanto
+più basso.
+
+Pausa lunga.
+
+È il luogo
+in cui il movimento
+si esaurisce.
+
+Pausa.
+
+E Dante
+cammina
+fra teste
+quasi come
+fra pietre.
+,
 > e io tremava ne l’eterno rezzo,
 > se voler fu o destino o fortuna
 > non so, ma, passeggiando tra le teste,
@@ -354,10 +751,149 @@ peggiore di me.
 > «Vivo son io, e caro esser ti puote,»
 > fu mia risposta «se dimandi fama,
 > ch’io metta il nome tuo tra l’altre note.»
-> Ed egli a me: «Del contrario ho io brama;
+> Ed egli a me: «Del contrario ho io brama
+
+Pausa lunga.
+
+Del contrario.
+
+Pausa.
+
+Per quasi
+tutto l'Inferno
+la fama
+era una moneta.
+
+Pausa lunga.
+
+Ricordami.
+
+Parla di me.
+
+Pulisci
+il mio nome.
+
+Pausa.
+
+Qui no.
+
+Pausa lunga.
+
+Bocca
+vuole
+sparire.
+
+Pausa.
+
+Non vuole
+che il vivo
+porti fuori
+il suo nome.
+
+Pausa lunga.
+
+È un rovesciamento
+potentissimo.
+
+Pausa.
+
+Più siamo
+vicini
+al fondo,
+
+meno il nome
+sembra
+una salvezza.
+
+Pausa lunga.
+
+Perché il nome,
+qui,
+non promette
+memoria.
+
+Pausa.
+
+Promette
+vergogna.
+;
 > lèvati quinci e non mi dar più lagna,
 > ché mal sai lusingar per questa lama!»
-> Allor lo presi per la cuticagna,
+> Allor lo presi per la cuticagna
+
+Pausa lunga.
+
+Qui Dante
+passa
+dalla parola
+alla mano.
+
+Pausa.
+
+Lo afferra.
+
+Pausa lunga.
+
+Tira.
+
+Pausa.
+
+Strappa
+capelli.
+
+Pausa lunga.
+
+Non è
+una scena
+facile
+da giustificare.
+
+Pausa.
+
+E non serve
+farlo.
+
+Pausa lunga.
+
+Dante
+è dentro
+la propria
+rabbia politica.
+
+Pausa.
+
+Montaperti
+non è
+storia antica
+per lui.
+
+Pausa lunga.
+
+È una ferita
+di Firenze.
+
+Pausa.
+
+Bocca
+ha toccato
+quella ferita.
+
+Pausa lunga.
+
+E il pellegrino
+reagisce
+con violenza.
+
+Pausa.
+
+Il poema
+non lo nasconde.
+
+Pausa lunga.
+
+Ce lo fa
+vedere.
+,
 > e dissi: «El converrà che tu ti nomi,
 > o che capel qui su non ti rimagna.»
 > Ond’egli a me: «Perché tu mi dischiomi,
@@ -367,6 +903,71 @@ peggiore di me.
 > e tratti li n’avea più d’una ciocca,
 > latrando lui con gli occhi in giù raccolti,
 > quando un altro gridò: «Che hai tu, Bocca?
+
+Pausa lunga.
+
+Bocca
+ha perso.
+
+Pausa.
+
+Non perché
+Dante gli abbia
+strappato
+abbastanza capelli.
+
+Pausa lunga.
+
+Perché qualcuno
+ha detto
+il nome.
+
+Pausa.
+
+Un'altra voce.
+
+Pausa lunga.
+
+È ironico.
+
+Il traditore
+che voleva
+proteggere
+la propria identità
+
+viene tradito
+da chi gli sta
+accanto.
+
+Pausa.
+
+Nel ghiaccio
+de i traditori.
+
+Pausa lunga.
+
+E da quel momento
+Bocca
+cambia strategia.
+
+Pausa.
+
+Non può più
+nascondersi.
+
+Pausa lunga.
+
+Allora
+espone gli altri.
+
+Pausa.
+
+La logica
+del luogo
+continua
+a funzionare
+anche nella conversazione.
+
 > non ti basta sonar con le mascelle,
 > se tu non latri? qual diavol ti tocca?»
 > «Omai» diss’io «non vo’ che tu favelle,
@@ -534,10 +1135,156 @@ Il traditore
 non cade mai
 da solo.
 
+Pausa lunga.
+
+E dopo
+questa raffica
+di nomi,
+
+Dante
+riparte.
+
+Pausa.
+
+È importante.
+
+Pausa lunga.
+
+Non prova
+a chiudere
+Bocca
+con una morale.
+
+Pausa.
+
+Lo lascia
+nel ghiaccio
+con gli altri.
+
+Pausa lunga.
+
+E quasi subito
+vede una scena
+che rende
+tutto il resto
+più piccolo.
+
+Pausa.
+
+Due uomini.
+
+Pausa lunga.
+
+Nessun nome
+ancora.
+
+Pausa.
+
+Nessuna politica
+spiegata.
+
+Pausa lunga.
+
+Solo
+un morso.
+
+Pausa.
+
+Il canto
+passa
+dalla lista
+dei traditori
+
+a un'immagine
+che non ha bisogno
+di nome
+per essere
+insopportabile.
+
 ## vv. 124-139 - I due in una buca
 
 > Noi eravam partiti già da ello,
-> ch’io vidi due ghiacciati in una buca,
+> ch’io vidi due ghiacciati in una buca
+
+Pausa lunga.
+
+Due.
+
+Pausa.
+
+Di nuovo.
+
+Pausa lunga.
+
+Il canto
+è pieno
+di coppie.
+
+Pausa.
+
+I fratelli.
+
+Dante e Bocca.
+
+Pausa lunga.
+
+Adesso
+questi due.
+
+Pausa.
+
+Ma qui
+la vicinanza
+è diventata
+predazione.
+
+Pausa lunga.
+
+Uno
+è il cibo
+dell'altro.
+
+Pausa.
+
+Come pane.
+
+Pausa lunga.
+
+Dante
+non sa ancora
+chi siano.
+
+Pausa.
+
+Vede
+soltanto
+la forma
+dell'odio.
+
+Pausa lunga.
+
+Un uomo
+che usa
+la testa
+di un altro
+come qualcosa
+da mangiare.
+
+Pausa.
+
+E invece
+di spiegare,
+
+Dante
+fa la cosa
+giusta.
+
+Pausa lunga.
+
+Chiede.
+
+Perché?
+,
 > sì che l’un capo a l’altro era cappello.
 > E come ’l pan per fame si manduca,
 > così ’l sovran li denti a l’altro pose
@@ -547,7 +1294,71 @@ da solo.
 > che quei faceva il teschio e l’altre cose.
 > «O tu che mostri per sì bestial segno
 > odio sovra colui che tu ti mangi,
-> dimmi ’l perché,» diss’io «per tal convegno,
+> dimmi ’l perché
+
+Pausa lunga.
+
+Perché.
+
+Pausa.
+
+È una parola
+piccola.
+
+Pausa lunga.
+
+Ma dopo
+tutto questo
+canto
+è enorme.
+
+Pausa.
+
+Perché
+un fratello
+tradisce?
+
+Pausa lunga.
+
+Perché
+un cittadino
+tradisce
+la città?
+
+Pausa.
+
+Perché
+un uomo
+morde
+la testa
+di un altro?
+
+Pausa lunga.
+
+Il canto
+non risponde.
+
+Pausa.
+
+Si ferma
+proprio lì.
+
+Pausa lunga.
+
+Come se
+la domanda
+fosse troppo
+grande
+per entrare
+negli ultimi versi.
+
+Pausa.
+
+La risposta
+avrà bisogno
+di un canto
+intero.
+,» diss’io «per tal convegno,
 > che se tu a ragion di lui ti piangi,
 > sappiendo chi voi siete e la sua pecca,
 > nel mondo suso ancora io te ne cangi,
@@ -631,6 +1442,73 @@ Il tradimento
 non brucia.
 
 Gela.
+
+Pausa lunga.
+
+Il fuoco
+si muove.
+
+Pausa.
+
+Sale.
+
+Scende.
+
+Divora.
+
+Pausa lunga.
+
+Il ghiaccio
+fa il contrario.
+
+Pausa.
+
+Ferma.
+
+Pausa lunga.
+
+Blocca
+il volto.
+
+Blocca
+le lacrime.
+
+Blocca
+il corpo.
+
+Pausa.
+
+Ma non ferma
+l'odio.
+
+Pausa lunga.
+
+Quello
+continua.
+
+Pausa.
+
+Sotto
+una superficie
+immobile.
+
+Pausa lunga.
+
+È questo
+che rende
+Cocito
+diverso
+da tutto
+yl resto.
+
+Pausa.
+
+Il movimento
+è quasi finito.
+
+La volontà
+no.
+
 
 Pausa lunga.
 

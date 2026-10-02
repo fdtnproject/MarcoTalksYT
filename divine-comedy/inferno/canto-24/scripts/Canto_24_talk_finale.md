@@ -88,6 +88,91 @@ per scioglierla.
 
 Pausa lunga.
 
+La brina
+non era neve.
+
+Pausa.
+
+Sembrava neve.
+
+Pausa lunga.
+
+E per qualche minuto
+il contadino
+ha reagito
+come se l'inverno
+fosse tornato.
+
+Pausa.
+
+Poi la luce
+cambia.
+
+Pausa lunga.
+
+La campagna
+è la stessa.
+
+È il suo sguardo
+che deve
+correggersi.
+
+Pausa.
+
+Dante apre
+il canto
+con questo.
+
+Pausa lunga.
+
+Una cosa
+che sembra
+definitiva
+
+e invece
+non lo è.
+
+Pausa.
+
+Virgilio,
+un momento prima,
+era arrabbiato.
+
+Pausa lunga.
+
+Dante vede
+quella faccia
+
+e pensa
+che qualcosa
+si sia rotto.
+
+Pausa.
+
+Poi arriva
+il piglio dolce.
+
+Pausa lunga.
+
+La paura
+si scioglie
+come la brina.
+
+Pausa.
+
+Non perché
+il pericolo
+sia sparito.
+
+Pausa lunga.
+
+Perché Dante
+ha letto male
+un istante.
+
+
+Pausa lunga.
+
 E Dante dice dove l'aveva visto,
 quel piglio dolce.
 
@@ -117,7 +202,116 @@ quello del primo incontro.
 > così, levando me su ver la cima
 > d’un ronchione, avvisava un’altra scheggia,
 > dicendo: «Sovra quella poi t’aggrappa,
-> ma tenta pria s’è tal ch’ella ti reggia.»
+> ma tenta pria s’è tal ch’ella ti reggia.
+
+Pausa lunga.
+
+Questa salita
+va vista.
+
+Pausa.
+
+Non c'è
+una scala.
+
+Pausa lunga.
+
+C'è
+una scheggia.
+
+Poi un'altra.
+
+Pausa.
+
+Virgilio
+non dice:
+seguimi.
+
+Pausa lunga.
+
+Dice:
+prova quella.
+
+Pausa.
+
+Prima
+controlla
+se regge.
+
+Pausa lunga.
+
+È quasi
+arrampicata.
+
+Un appiglio.
+
+Il peso.
+
+Un altro appiglio.
+
+Pausa.
+
+E Dante
+non è
+un'anima.
+
+Pausa lunga.
+
+Ha un corpo.
+
+Pesa.
+
+Respira.
+
+Si stanca.
+
+Pausa.
+
+Ogni pietra
+che tiene
+
+deve tenere
+anche lui.
+
+Pausa lunga.
+
+Nel canto scorso
+Virgilio
+lo portava
+sul petto.
+
+Pausa.
+
+Qui no.
+
+Pausa lunga.
+
+Qui lo aiuta.
+
+Lo spinge.
+
+Gli indica
+dove mettere
+le mani.
+
+Pausa.
+
+Ma deve
+salire Dante.
+
+Pausa lunga.
+
+E alla fine
+si siede.
+
+Non per poesia.
+
+Pausa.
+
+Perché
+non ha
+più fiato.
+»
 > Non era via da vestito di cappa,
 > ché noi a pena, ei lieve ed io sospinto,
 > potevam su montar di chiappa in chiappa.
@@ -185,6 +379,87 @@ in fama non si vien.
 
 Pausa lunga.
 
+Fama.
+
+Pausa.
+
+Non salvezza.
+
+Pausa lunga.
+
+Virgilio
+non gli dice:
+se non sali,
+sei cattivo.
+
+Pausa.
+
+Gli dice
+un'altra cosa.
+
+Pausa lunga.
+
+Se vuoi
+lasciare
+una traccia,
+
+non puoi
+restare
+sotto la coperta.
+
+Pausa.
+
+Fumo nell'aria.
+
+Schiuma
+sull'acqua.
+
+Pausa lunga.
+
+Due cose
+che esistono
+un momento
+
+e poi
+spariscono.
+
+Pausa.
+
+È duro.
+
+Pausa lunga.
+
+Perché Dante
+sta scrivendo
+un poema
+che vuole
+restare.
+
+Pausa.
+
+E mette
+questa frase
+proprio mentre
+il suo personaggio
+non riesce
+più a muoversi.
+
+Pausa lunga.
+
+Prima
+la fama.
+
+Poi
+un passo.
+
+Pausa.
+
+Poi
+un altro.
+
+
+Pausa lunga.
+
 È più di un incoraggiamento.
 
 È una legge.
@@ -203,7 +478,88 @@ con l’animo che vince ogni battaglia,
 ## vv. 58-78 - La voce dal fosso
 
 > Leva’mi allor, mostrandomi fornito
-> meglio di lena ch’i’ non mi sentia,
+> meglio di lena ch’i’ non mi sentia
+
+Pausa lunga.
+
+Questa è
+una confessione
+piccola.
+
+Pausa.
+
+Ma precisissima.
+
+Pausa lunga.
+
+Mi mostro
+più forte
+
+di quanto
+mi senta.
+
+Pausa.
+
+Dante
+non è diventato
+improvvisamente
+forte.
+
+Pausa lunga.
+
+Fa il gesto
+della forza
+
+prima ancora
+di possederla.
+
+Pausa.
+
+Si alza.
+
+Dice:
+sono forte
+e ardito.
+
+Pausa lunga.
+
+Ma noi sappiamo
+che un verso prima
+non riusciva
+più a respirare.
+
+Pausa.
+
+Questo
+rende la scena
+più vera.
+
+Pausa lunga.
+
+A volte
+il coraggio
+non arriva
+prima del gesto.
+
+Pausa.
+
+Arriva
+facendo
+il gesto.
+
+Pausa lunga.
+
+Virgilio
+non gli ha tolto
+la fatica.
+
+Pausa.
+
+Gli ha dato
+una frase
+con cui
+attraversarla.
+,
 > e dissi: «Va, ch’i’ son forte e ardito.»
 > Su per lo scoglio prendemmo la via,
 > ch’era ronchioso, stretto, e malagevole,
@@ -219,7 +575,83 @@ con l’animo che vince ogni battaglia,
 > per ch’io: «Maestro, fa che tu arrivi
 > da l’altro cinghio e dismontiam lo muro;
 > ché, com’io odo quinci e non intendo,
-> così giù veggio e neente affiguro.»
+> così giù veggio e neente affiguro.
+
+Pausa lunga.
+
+Sentire
+non basta.
+
+Pausa.
+
+Vedere
+non basta.
+
+Pausa lunga.
+
+Dante
+ha una voce
+che sale
+
+dal buio.
+
+Pausa.
+
+Ha una forma
+giù sotto
+
+che l'occhio
+non riesce
+a prendere.
+
+Pausa lunga.
+
+Allora chiede
+di scendere.
+
+Pausa.
+
+Non una spiegazione.
+
+Pausa lunga.
+
+Un punto
+di vista
+migliore.
+
+Pausa.
+
+E Virgilio
+non gli risponde
+con teoria.
+
+Pausa lunga.
+
+Scende.
+
+Pausa.
+
+È un momento
+semplice,
+
+ma dice
+molto del viaggio.
+
+Pausa lunga.
+
+Quando
+la domanda
+è onesta,
+
+la risposta
+può essere
+un passo.
+
+Pausa.
+
+Non sempre
+una frase.
+»
 > «Altra risposta» disse «non ti rendo
 > se non lo far; ché la dimanda onesta
 > si dee seguir con l’opera tacendo.»
@@ -344,6 +776,88 @@ Pausa.
 Qui perfino il corpo
 non è più tuo.
 
+Pausa lunga.
+
+Prima di Vanni Fucci
+Dante vede
+la bolgia
+come massa.
+
+Pausa.
+
+Non un volto.
+
+Pausa lunga.
+
+Serpenti.
+
+Corpi nudi.
+
+Nodi.
+
+Pausa.
+
+Nessun rifugio.
+
+Pausa lunga.
+
+Sanza sperar
+pertugio
+
+o elitropia.
+
+Pausa.
+
+Neanche
+un buco.
+
+Neanche
+la pietra invisibile
+delle leggende.
+
+Pausa lunga.
+
+Il ladro,
+che da vivo
+ha cercato
+il varco,
+
+qui
+non trova
+nessun varco.
+
+Pausa.
+
+E le mani,
+lo strumento
+con cui prendi,
+
+sono legate
+dietro.
+
+Pausa lunga.
+
+Non da catene.
+
+Da animali vivi.
+
+Pausa.
+
+Il nodo
+respira.
+
+Pausa lunga.
+
+E prima ancora
+che arrivi
+un nome,
+
+il corpo
+ha già perso
+la sicurezza
+di appartenersi.
+
+
 ## vv. 97-120 - Il morso e la cenere
 
 > Ed ecco a un ch’era da nostra proda
@@ -368,6 +882,92 @@ non è più tuo.
 > tutto smarrito de la grande angoscia
 > ch’egli ha sofferta, e guardando sospira;
 > tal era il peccator levato poscia.
+
+Pausa lunga.
+
+Guarda
+il dopo.
+
+Pausa.
+
+Non basta
+che torni uomo.
+
+Pausa lunga.
+
+Si rialza
+smarrito.
+
+Pausa.
+
+Si guarda
+intorno.
+
+Pausa lunga.
+
+Come qualcuno
+che è caduto
+
+e non sa
+nemmeno
+perché.
+
+Pausa.
+
+Dante insiste
+su questo.
+
+Pausa lunga.
+
+La trasformazione
+è velocissima.
+
+Il ritorno
+no.
+
+Pausa.
+
+Il corpo
+è ricomposto.
+
+Pausa lunga.
+
+Ma l'esperienza
+resta addosso.
+
+Pausa.
+
+È questo
+che rende
+la pena
+così severa.
+
+Pausa lunga.
+
+Non una morte.
+
+Non una fine.
+
+Pausa.
+
+La possibilità
+continua
+
+di essere
+rifatta.
+
+E rifatta
+ancora.
+
+Pausa lunga.
+
+La forma
+ritorna
+solo perché
+possa essere
+messa di nuovo
+a rischio.
+
 > Oh potenza di Dio, quant’è severa,
 > che cotai colpi per vendetta croscia!
 
@@ -444,7 +1044,107 @@ che cotai colpi per vendetta croscia!
 > Lo duca il domandò poi chi ello era;
 > per ch’ei rispuose: «Io piovvi di Toscana,
 > poco tempo è, in questa gola fera.
-> Vita bestial mi piacque e non umana,
+> Vita bestial mi piacque e non umana
+
+Pausa lunga.
+
+Bestial.
+
+Pausa.
+
+Vanni Fucci
+sceglie lui
+la parola.
+
+Pausa lunga.
+
+Non dice:
+sono stato
+un ladro.
+
+Pausa.
+
+Dice:
+mi piacque
+una vita
+bestiale.
+
+Pausa lunga.
+
+Prima
+del reato,
+
+mette
+un modo
+di stare
+al mondo.
+
+Pausa.
+
+Poi arriva
+il nome.
+
+Vanni Fucci.
+
+Pausa lunga.
+
+E subito
+Pistoia.
+
+Pausa.
+
+Persona.
+
+Città.
+
+Bestia.
+
+Pausa lunga.
+
+Tre identità
+che il canto
+mette una
+sopra l'altra.
+
+Pausa.
+
+E Dante
+lo riconosce.
+
+Pausa lunga.
+
+Non come ladro.
+
+Come uomo
+di sangue
+e di crucci.
+
+Pausa.
+
+Per questo
+la confessione
+lo sorprende.
+
+Pausa lunga.
+
+Il ladro
+era nascosto
+
+dentro
+un uomo
+che Dante
+credeva
+di conoscere.
+
+Pausa.
+
+E adesso
+il furto
+viene fuori
+proprio perché
+qualcuno
+lo guarda.
+,
 > sì come a mul ch’i’ fui; son Vanni Fucci
 > bestia, e Pistoia mi fu degna tana.»
 > E io al duca: «Dilli che non mucci,
@@ -482,6 +1182,89 @@ non è l’insulto.
 Più gli duole
 essere visto da Dante
 che aver perso la vita.
+
+Pausa lunga.
+
+Essere visto.
+
+Pausa.
+
+Questo
+è il punto.
+
+Pausa lunga.
+
+Vanni Fucci
+non reagisce
+alla pena.
+
+Pausa.
+
+Reagisce
+a Dante.
+
+Pausa lunga.
+
+A qualcuno
+che può tornare
+su.
+
+A qualcuno
+che può parlare.
+
+Pausa.
+
+A qualcuno
+che può dire:
+l'ho visto.
+
+Pausa lunga.
+
+La vergogna
+ha bisogno
+di uno sguardo.
+
+Pausa.
+
+E infatti
+la sua risposta
+non è
+pentimento.
+
+Pausa lunga.
+
+È vendetta.
+
+Pausa.
+
+Non può
+cancellare
+quello che Dante
+ha visto.
+
+Pausa lunga.
+
+Allora prova
+a dargli
+qualcosa
+che faccia male.
+
+Pausa.
+
+Il futuro.
+
+Pausa lunga.
+
+La profezia
+entra qui
+come un colpo.
+
+Pausa.
+
+Non per spiegare.
+
+Per ferire.
+
 
 Pausa lunga.
 
@@ -608,6 +1391,105 @@ La famiglia del fulmine
 darà un tetto
 al Bianco che doveva colpire.
 
+Pausa lunga.
+
+E allora
+il canto
+si chiude
+su un paradosso.
+
+Pausa.
+
+Vanni Fucci
+vuole controllare
+il futuro
+
+di Dante
+con una frase.
+
+Pausa lunga.
+
+Vuole che
+quella notizia
+resti addosso
+come una ferita.
+
+Pausa.
+
+Ma non controlla
+ciò che quella storia
+diventerà.
+
+Pausa lunga.
+
+Dante
+la porterà
+fuori.
+
+La scriverà.
+
+Pausa.
+
+E il nome
+di Vanni Fucci
+resterà
+proprio dentro
+il libro
+dell'uomo
+che voleva ferire.
+
+Pausa lunga.
+
+La profezia
+che doveva
+avere potere
+su Dante
+
+diventa
+materiale
+nelle mani
+di Dante.
+
+Pausa.
+
+È un rovesciamento
+silenzioso.
+
+Pausa lunga.
+
+Vanni
+può dire
+che cosa accadrà.
+
+Pausa.
+
+Non può decidere
+che cosa
+Dante farà
+con quelle parole.
+
+Pausa lunga.
+
+E così
+il canto
+che parlava
+di fatica
+
+finisce
+con un'altra forma
+di lavoro.
+
+Pausa.
+
+Prendere
+quello che ferisce
+
+e trasformarlo
+in racconto.
+
+Pausa lunga.
+
+
 ## Chiusura
 
 [Schermo: nero pieno]
@@ -626,6 +1508,68 @@ Pausa.
 Finisce con un uomo
 che si fa cenere
 e torna.
+
+Pausa lunga.
+
+All'inizio
+la forma
+sembrava cambiata.
+
+Pausa.
+
+La campagna
+bianca.
+
+Poi la brina
+si scioglie.
+
+Pausa lunga.
+
+Qui invece
+la forma
+viene davvero
+distrutta.
+
+Pausa.
+
+Un uomo
+cade in cenere.
+
+Pausa lunga.
+
+E torna.
+
+Pausa.
+
+Il canto
+mette ai due estremi
+
+due cambiamenti
+che sembrano
+opposti.
+
+Pausa lunga.
+
+Uno
+era soltanto
+apparenza.
+
+L'altro
+attraversa
+il corpo.
+
+Pausa.
+
+In mezzo
+Dante deve
+imparare
+
+a non fermarsi
+alla prima forma
+delle cose.
+
+Pausa lunga.
+
 
 Pausa lunga.
 

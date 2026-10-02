@@ -35,6 +35,69 @@ Non come ornamento.
 
 Come specchio.
 
+Pausa lunga.
+
+Atamante.
+
+Ecuba.
+
+Pausa.
+
+Dante
+non li mette
+qui
+per fare
+un catalogo
+di miti.
+
+Pausa lunga.
+
+Gli servono
+come misura.
+
+Pausa.
+
+Prima
+ci mostra
+due esseri
+che il dolore
+ha portato
+fuori di sé.
+
+Pausa lunga.
+
+Poi dice:
+
+non basta.
+
+Pausa.
+
+Quello
+che sto per vedere
+è ancora
+più feroce.
+
+Pausa lunga.
+
+È un modo
+per preparare
+il corpo
+dello spettatore.
+
+Pausa.
+
+Prima
+una storia
+che conosci.
+
+Pausa lunga.
+
+Poi
+qualcosa
+che supera
+la storia.
+
+
 ## vv. 1-27 - Atamante, Ecuba, le due ombre rabbiose
 
 > Nel tempo che Iunone era crucciata
@@ -133,6 +196,77 @@ Pausa lunga.
 
 Due falsatori della persona.
 
+Pausa lunga.
+
+Persona.
+
+Pausa.
+
+È la parola
+giusta.
+
+Pausa lunga.
+
+Qui il falso
+non entra
+in una moneta.
+
+Pausa.
+
+Non entra
+in un documento.
+
+Pausa lunga.
+
+Entra
+nel volto.
+
+Pausa.
+
+Nella voce.
+
+Nel nome.
+
+Pausa lunga.
+
+Gianni Schicchi
+non ruba
+soltanto
+un'eredità.
+
+Pausa.
+
+Per qualche minuto
+ruba
+un uomo intero.
+
+Pausa lunga.
+
+Il letto.
+
+La voce.
+
+Il testamento.
+
+Pausa.
+
+Tutti devono
+credere
+che Buoso
+sia ancora vivo.
+
+Pausa lunga.
+
+La falsificazione
+funziona
+solo se
+la persona
+scompare abbastanza
+
+da lasciare
+posto all'altra.
+
+
 Non della moneta.
 
 Non della parola ancora.
@@ -206,6 +340,76 @@ Tienilo a mente, questo ridere.
 Alla fine del canto
 ci tornerà addosso.
 
+Pausa lunga.
+
+Ma Dante
+non ride
+con Schicchi.
+
+Pausa.
+
+Lo mette
+fra i rabbiosi.
+
+Pausa lunga.
+
+Corrono.
+
+Mordono.
+
+Pausa.
+
+La persona falsa
+non ha
+la calma
+del notaio
+che detta
+un testamento.
+
+Pausa lunga.
+
+Ha perso
+la forma civile
+del gesto.
+
+Pausa.
+
+Resta
+la fame
+di entrare
+nella vita
+di un altro.
+
+Pausa lunga.
+
+Per questo
+la scena comica
+di Puccini
+funziona
+come contrasto,
+
+non come
+assoluzione.
+
+Pausa.
+
+Ci fa vedere
+quanto sia facile
+rendere simpatico
+un falso
+quando è ben recitato.
+
+Pausa lunga.
+
+E il canto
+fra poco
+metterà Dante
+nello stesso rischio.
+
+Guardare
+una scena bassa
+perché diverte.
+
 ## vv. 46-90 - Maestro Adamo
 
 > E poi che i due rabbiosi fur passati
@@ -226,6 +430,84 @@ ci tornerà addosso.
 > a la miseria del maestro Adamo:
 > io ebbi, vivo, assai di quel ch’io volli;
 > e ora, lasso!, un gocciol d’acqua bramo.
+
+Pausa lunga.
+
+Un gocciol.
+
+Pausa.
+
+Non un fiume.
+
+Pausa lunga.
+
+Non la libertà.
+
+Pausa.
+
+Una goccia.
+
+Pausa lunga.
+
+La pena
+riduce
+il desiderio
+alla misura
+più piccola.
+
+Pausa.
+
+Da vivo
+aveva abbastanza.
+
+Pausa lunga.
+
+Adesso
+tutto il mondo
+si restringe
+all'acqua.
+
+Pausa.
+
+E proprio
+per questo
+la memoria
+dei ruscelli
+fa più male.
+
+Pausa lunga.
+
+Non sono
+acque mitiche.
+
+Pausa.
+
+Sono
+ruscelletti.
+
+Pausa lunga.
+
+Canali
+freddi.
+
+Colli verdi.
+
+Pausa.
+
+Una geografia
+normale.
+
+Pausa lunga.
+
+La sete
+trasforma
+la cosa
+più ordinaria
+
+del mondo
+nel paradiso
+più lontano.
+
 > Li ruscelletti che de’ verdi colli
 > del Casentin discendon giuso in Arno
 > facendo i lor canali freddi e molli,
@@ -239,6 +521,73 @@ ci tornerà addosso.
 > la lega suggellata del Battista,
 > per ch’io il corpo su arso lasciai.
 > Ma s’io vedessi qui l’anima trista
+
+Pausa lunga.
+
+La sete
+non ha cancellato
+la rabbia.
+
+Pausa.
+
+Questo
+è importante.
+
+Pausa lunga.
+
+Maestro Adamo
+sogna l'acqua.
+
+Pausa.
+
+Ma sogna
+anche
+la vendetta.
+
+Pausa lunga.
+
+Se vedesse
+uno dei conti
+che lo hanno
+spinto al falso,
+
+rinuncerebbe
+perfino
+a Fonte Branda
+per guardarlo.
+
+Pausa.
+
+La pena
+non ha
+reso semplice
+il desiderio.
+
+Pausa lunga.
+
+Ha sete.
+
+Odia.
+
+Ricorda.
+
+Pausa.
+
+Più cose
+insieme.
+
+Pausa lunga.
+
+Come tutti
+i grandi dannati
+di Dante.
+
+Non una tesi.
+
+Una persona
+che continua
+a volere.
+
 > di Guido o d’Alessandro o di lor frate,
 > per fonte Branda non darei la vista.
 > Dentro c’è l’una già, se l’arrabbiate
@@ -270,6 +619,74 @@ Un liuto umano.
 
 Pausa lunga.
 
+Fermati
+sulla forma.
+
+Pausa.
+
+Un liuto.
+
+Pausa lunga.
+
+Non perché
+suoni.
+
+Pausa.
+
+Per la sproporzione.
+
+Pausa lunga.
+
+Il ventre
+gonfio.
+
+Le gambe
+sottili.
+
+Pausa.
+
+Il volto
+che non risponde
+al corpo.
+
+Pausa lunga.
+
+Dante
+prima ancora
+di dirci
+chi sia
+
+ci costringe
+a vedere
+che il corpo
+non torna.
+
+Pausa.
+
+Le parti
+non stanno
+più insieme
+come dovrebbero.
+
+Pausa lunga.
+
+E siamo
+nella bolgia
+del falso.
+
+Pausa.
+
+La forma
+sembra
+una cosa
+
+e il corpo
+ne dice
+un'altra.
+
+
+Pausa lunga.
+
 Gonfio.
 
 Immobile.
@@ -291,6 +708,73 @@ Pausa lunga.
 Tre carati
 di mondiglia
 dentro il fiorino.
+
+Pausa lunga.
+
+Tre carati.
+
+Pausa.
+
+Non sembra
+molto.
+
+Pausa lunga.
+
+È proprio
+questo il punto.
+
+Pausa.
+
+La moneta
+continua
+a sembrare
+una moneta.
+
+Pausa lunga.
+
+Il giglio
+c'è.
+
+Il Battista
+c'è.
+
+Il peso
+può ingannare.
+
+Pausa.
+
+Ma dentro
+la lega
+non è più
+quella promessa.
+
+Pausa lunga.
+
+Il falso
+non funziona
+quando è
+completamente diverso.
+
+Pausa.
+
+Funziona
+quando è
+abbastanza simile
+
+da passare.
+
+Pausa lunga.
+
+Maestro Adamo
+viveva
+in quello scarto.
+
+Pausa.
+
+Tre carati
+fra vero
+e falso.
+
 
 Tre carati.
 
@@ -369,7 +853,87 @@ e ora, lasso!, un gocciol d’acqua bramo.
 > Ond’ei rispuose: «Quando tu andavi
 > al foco, non l’avei tu così presto,
 > ma sì e più l’avei quando coniavi.»
-> E l’idropico: «Tu di’ ver di questo;
+> E l’idropico: «Tu di’ ver di questo
+
+Pausa lunga.
+
+Tu dici
+il vero.
+
+Pausa.
+
+È quasi
+comico.
+
+Pausa lunga.
+
+Due falsari
+che litigano
+usando
+la verità
+come arma.
+
+Pausa.
+
+Tu hai falsato.
+
+Tu hai mentito.
+
+Pausa lunga.
+
+No,
+tu.
+
+Pausa.
+
+Ognuno
+vuole essere
+esatto
+sulla falsità
+dell'altro.
+
+Pausa lunga.
+
+E Dante
+li ascolta
+proprio per questo.
+
+Pausa.
+
+La lite
+ha una struttura
+perfetta.
+
+Pausa lunga.
+
+Ogni risposta
+prende
+la parola
+dell'altro
+
+e la gira.
+
+Pausa.
+
+Verità
+usata
+per vincere
+una rissa
+fra bugiardi.
+
+Pausa lunga.
+
+È brillante.
+
+Ed è bassa.
+
+Pausa.
+
+Virgilio
+interrompe
+proprio il piacere
+di quel meccanismo.
+;
 > ma tu non fosti sì ver testimonio
 > là ’ve del ver fosti a Troia richiesto.»
 > «S’io dissi falso, e tu falsasti il conio»
@@ -420,6 +984,83 @@ Due dannati
 che si rinfacciano
 chi abbia mentito peggio.
 
+Pausa lunga.
+
+E Dante
+si ferma.
+
+Pausa.
+
+Questo conta
+più della lite.
+
+Pausa lunga.
+
+Perché non è
+costretto
+ad ascoltare.
+
+Pausa.
+
+Non sta
+imparando
+una verità
+necessaria.
+
+Pausa lunga.
+
+Sta guardando
+per gusto.
+
+Pausa.
+
+Uno colpisce
+un ventre.
+
+Pausa lunga.
+
+Il ventre
+suona.
+
+Pausa.
+
+L'altro
+risponde.
+
+Pausa lunga.
+
+Si insultano
+come due uomini
+in una strada.
+
+Pausa.
+
+E il fondo
+dell'Inferno
+per un attimo
+sembra
+una rissa
+qualunque.
+
+Pausa lunga.
+
+È proprio
+questo
+che attira Dante.
+
+Pausa.
+
+È facile
+da seguire.
+
+È divertente.
+
+Pausa lunga.
+
+E Virgilio
+lo vede.
+
+
 Pausa.
 
 E uno dei due
@@ -442,7 +1083,70 @@ incollato.
 
 ## vv. 130-148 - La vergogna di Dante
 
-> Ad ascoltarli er’io del tutto fisso,
+> Ad ascoltarli er’io del tutto fisso
+
+Pausa lunga.
+
+Fisso.
+
+Pausa.
+
+È una parola
+piccola.
+
+Pausa lunga.
+
+Ma è
+il problema.
+
+Pausa.
+
+Dante
+non sta
+passando.
+
+Pausa lunga.
+
+Si è fermato.
+
+Pausa.
+
+Gli occhi
+sono lì.
+
+Le orecchie
+sono lì.
+
+Pausa lunga.
+
+La lite
+ha preso
+il controllo
+del viaggio.
+
+Pausa.
+
+E Virgilio
+non gli dice:
+
+non guardare
+il male.
+
+Pausa lunga.
+
+Gli dice:
+
+non restare
+qui.
+
+Pausa lunga.
+
+Guardare
+serve.
+
+Fissarsi
+no.
+,
 > quando il maestro mi disse: «Or pur mira
 > che per poco è che teco non mi risso!»
 > Quand’io ’l senti’ a me parlar con ira,
@@ -503,6 +1207,87 @@ quel piato
 
 Pausa lunga.
 
+Bassa.
+
+Pausa.
+
+Non perché
+la lingua
+sia volgare.
+
+Pausa lunga.
+
+Dante usa
+parole basse
+continuamente.
+
+Pausa.
+
+Il problema
+è il desiderio.
+
+Pausa lunga.
+
+Voler restare
+lì
+solo perché
+la lite
+diventa spettacolo.
+
+Pausa.
+
+Questo
+è ciò che Virgilio
+interrompe.
+
+Pausa lunga.
+
+E la vergogna
+di Dante
+non è piccola.
+
+Pausa.
+
+Vorrebbe
+scusarsi.
+
+Pausa lunga.
+
+Ma non riesce
+nemmeno
+a parlare.
+
+Pausa.
+
+E Virgilio
+fa una cosa
+bellissima.
+
+Pausa lunga.
+
+Gli dice:
+basta così.
+
+Pausa.
+
+Un difetto
+più grande
+si laverebbe
+con meno vergogna
+
+di quella
+che hai già.
+
+Pausa lunga.
+
+La correzione
+non deve
+diventare
+umiliazione.
+
+
+Pausa lunga.
+
 Ricordi la sala di Puccini?
 
 Pausa.
@@ -535,6 +1320,68 @@ la sente ancora.
 con tal vergogna
 che ancor per la memoria mi si gira.
 
+Pausa lunga.
+
+Riguarda
+il canto.
+
+Pausa.
+
+Prima
+Gianni Schicchi
+si fa
+un altro uomo.
+
+Pausa lunga.
+
+Poi
+Maestro Adamo
+falsa
+una moneta.
+
+Pausa.
+
+Poi Sinone
+falsa
+una parola.
+
+Pausa lunga.
+
+E alla fine
+Dante rischia
+un falso
+più sottile.
+
+Pausa.
+
+Prendere
+una scena
+bassa
+
+e trattarla
+come se fosse
+soltanto
+spettacolo.
+
+Pausa lunga.
+
+Virgilio
+lo richiama.
+
+Pausa.
+
+Guarda.
+
+Ma guarda
+bene.
+
+Pausa lunga.
+
+Non tutto
+ciò che diverte
+merita
+che tu rimanga.
+
 ## Chiusura
 
 [Schermo: nero pieno]
@@ -566,6 +1413,86 @@ Persona.
 Moneta.
 
 Parola.
+
+Pausa lunga.
+
+Tre falsi.
+
+Pausa.
+
+Ma nessuno
+funziona
+da lontano.
+
+Pausa lunga.
+
+La persona falsa
+deve convincere
+chi le sta davanti.
+
+Pausa.
+
+La moneta falsa
+deve passare
+di mano in mano.
+
+Pausa lunga.
+
+La parola falsa
+deve essere
+creduta.
+
+Pausa.
+
+Il falso
+ha sempre
+bisogno
+di qualcuno
+che lo accolga
+come vero.
+
+Pausa lunga.
+
+Per questo
+Dante
+alla fine
+non è fuori
+dal problema.
+
+Pausa.
+
+Anche lui
+sta guardando.
+
+Pausa lunga.
+
+Anche lui
+può prendere
+una scena
+per qualcosa
+di diverso
+da ciò che è.
+
+Pausa.
+
+Solo divertimento.
+
+Pausa lunga.
+
+Virgilio
+lo corregge
+prima che
+quella lettura
+si fissi.
+
+Pausa.
+
+Il canto
+del falso
+finisce
+con un problema
+di sguardo.
+
 
 Pausa.
 

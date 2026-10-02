@@ -33,7 +33,79 @@ Carne aperta.
 > Chi poria mai pur con parole sciolte
 > dicer del sangue e de le piaghe a pieno
 > ch’i’ ora vidi, per narrar più volte?
-> Ogni lingua per certo verria meno,
+> Ogni lingua per certo verria meno
+
+Pausa lunga.
+
+Questa frase
+non è modestia.
+
+Pausa.
+
+È un problema
+di forma.
+
+Pausa lunga.
+
+Come racconti
+un corpo
+che non è più
+intero
+
+senza trasformarlo
+in un elenco
+di pezzi?
+
+Pausa.
+
+Come fai
+sentire il dolore
+
+senza perderti
+nel sangue?
+
+Pausa lunga.
+
+Dante
+sa che la scena
+può diventare
+solo spettacolo.
+
+Pausa.
+
+Per questo
+mette subito
+un limite
+alla lingua.
+
+Pausa lunga.
+
+Non posso
+ dirlo a pieno.
+
+Pausa.
+
+E poi prova
+lo stesso.
+
+Pausa lunga.
+
+È una delle cose
+più importanti
+del canto.
+
+Pausa.
+
+Non la sicurezza
+di poter mostrare
+tutto.
+
+Pausa lunga.
+
+La coscienza
+che qualcosa
+resterà fuori.
+,
 > per lo nostro sermone e per la mente
 > c’hanno a tanto comprender poco seno.
 > S’el s’aunasse ancor tutta la gente
@@ -85,6 +157,81 @@ che il mondo ricorda.
 Pausa.
 
 Sarebbe ancora poco.
+
+Pausa lunga.
+
+Dante
+non sta dicendo
+che questa bolgia
+ha più morti
+di tutte
+quelle guerre.
+
+Pausa.
+
+Sta cercando
+una misura
+per gli occhi.
+
+Pausa lunga.
+
+Corpi
+forati.
+
+Corpi
+mozzati.
+
+Pausa.
+
+Pezzi
+che mancano.
+
+Pausa lunga.
+
+E allora
+prende
+la storia
+che conosce
+
+e la mette
+tutta insieme.
+
+Pausa.
+
+Battaglie.
+
+Campi.
+
+Ossa.
+
+Pausa lunga.
+
+Non basta.
+
+Pausa.
+
+Perché qui
+la guerra
+non è
+un evento
+che è finito.
+
+Pausa lunga.
+
+È diventata
+una forma
+del corpo.
+
+Pausa.
+
+La ferita
+non resta
+nel passato.
+
+Pausa lunga.
+
+Cammina.
+
 
 Pausa lunga.
 
@@ -194,68 +341,214 @@ Si riaprono.
 
 Pausa lunga.
 
+Questo ciclo
+è la pena.
+
+Pausa.
+
+Non soltanto
+la ferita.
+
+Pausa lunga.
+
+Guarire.
+
+E sapere
+che fra poco
+sarai aperto
+di nuovo.
+
+Pausa.
+
+Il corpo
+fa quello
+che un corpo
+prova sempre
+a fare.
+
+Pausa lunga.
+
+Si chiude.
+
+Pausa.
+
+Ricuce.
+
+Pausa lunga.
+
+E l'Inferno
+aspetta
+che il lavoro
+sia finito.
+
+Pausa.
+
+Poi ricomincia.
+
+Pausa lunga.
+
+Per chi
+ha seminato
+una divisione
+che continuava
+a produrre
+altre divisioni,
+
+la ferita
+continua
+a produrre
+sé stessa.
+
+Pausa.
+
+Non c'è
+un ultimo taglio.
+
+Pausa lunga.
+
+C'è il giro.
+
+
+Pausa lunga.
+
+`Su questi versi / serve una parola in più.`
+
+e termina con:
+
+`forse gli aveva prestato / un pezzo del viaggio.`
+
+con:
+
+Pausa lunga.
+
 Su questi versi
-serve una parola in più.
+serve cautela.
 
 Pausa.
 
-Per il Medioevo cristiano,
-Maometto non era il fondatore
-di un'altra religione.
-Si raccontava che fosse stato
-un cristiano.
-Un chierico.
-Perfino un cardinale,
-che voleva diventare papa.
-
-Una leggenda.
-Ma Dante la prende per vera.
-
-Per questo lo mette qui.
-Non fra gli infedeli.
-Fra quelli che hanno spaccato
-la cristianità.
-
-seminator di scandalo e di scisma
+Nel Medioevo cristiano
+circolarono
+leggende
+che presentavano
+Maometto
+come uno scismatico
+uscito dal cristianesimo.
 
 Pausa lunga.
 
-E c'è un paradosso.
+Alcuni commenti antichi
+usano proprio
+questa cornice
+per spiegare
+perché Dante
+lo collochi qui.
 
-Alla corte del re di Castiglia,
-dove Brunetto Latini
-era stato ambasciatore,
-un libro arabo viene tradotto in castigliano.
-E nel 1264,
-in latino e in francese.
+Pausa.
 
-Il libro della scala.
+Ma è una leggenda.
 
-Racconta il viaggio di Maometto
+Non una biografia.
+
+Pausa lunga.
+
+E non possiamo
+trasformarla
+in una certezza
+su ciò che Dante
+sapesse o credesse
+nei dettagli.
+
+Pausa.
+
+Poi c'è
+un'altra questione.
+
+Pausa lunga.
+
+Nel Duecento
+circola in Occidente
+anche il racconto
+islamico
+dell'ascesa
+di Maometto.
+
+Pausa.
+
+Il cosiddetto
+Libro della Scala
+viene tradotto
+in castigliano,
+in latino
+e in francese.
+
+Pausa lunga.
+
+Nel 1919
+Miguel Asín Palacios
+propose
+un rapporto
+più ampio
+fra tradizioni
+escatologiche islamiche
+e la Commedia.
+
+Pausa.
+
+La discussione
+è enorme.
+
+Pausa lunga.
+
+Ma una dipendenza
+diretta di Dante
+da quel testo
+non è dimostrata.
+
+Pausa.
+
+E Brunetto,
+che era stato
+alla corte castigliana,
+può essere
+un possibile
+punto di contatto.
+
+Pausa lunga.
+
+Possibile.
+
+Non provato.
+
+Pausa.
+
+Io qui
+terrei soltanto
+questa domanda
+aperta.
+
+Pausa lunga.
+
+Il poema
+mette Maometto
+fra i seminatori
+di scisma.
+
+E intorno a Dante,
+nel suo secolo,
+circolavano anche
+racconti islamici
+di viaggi
 nell'aldilà.
-Gli inferni.
-I cieli.
-Una guida.
 
 Pausa.
 
-Nel 1919 uno studioso spagnolo,
-Miguel Asín Palacios,
-sostenne che Dante
-lo avesse conosciuto.
+Il rapporto
+fra le due cose
+resta una questione
+storica.
 
-Se ne discute ancora.
-Nessuno l'ha dimostrato.
-Nessuno l'ha escluso.
-
-Pausa lunga.
-
-Io qui sento un'ironia
-che Dante non poteva vedere.
-
-L'uomo che lui mette fra chi divide
-forse gli aveva prestato
-un pezzo del viaggio.
+Non una scorciatoia
+interpretativa.
 
 ## vv. 43-60 - Il vivo e Fra Dolcino
 
@@ -269,7 +562,73 @@ un pezzo del viaggio.
 > per lo Inferno qua giù di giro in giro;
 > e quest’è ver così com’io ti parlo.»
 > Più fuor di cento che, quando l’udiro,
-> s’arrestaron nel fosso a riguardarmi,
+> s’arrestaron nel fosso a riguardarmi
+
+Pausa lunga.
+
+Più di cento.
+
+Pausa.
+
+Si fermano.
+
+Pausa lunga.
+
+Per un momento
+la pena
+perde il ritmo.
+
+Pausa.
+
+Il vivo
+è più sorprendente
+del dolore.
+
+Pausa lunga.
+
+Dante
+non deve
+fare nulla.
+
+Pausa.
+
+Basta
+che respiri.
+
+Pausa lunga.
+
+Un corpo vivo
+in mezzo
+a corpi
+che vengono
+aperti
+e richiusi.
+
+Pausa.
+
+E loro
+lo guardano.
+
+Pausa lunga.
+
+Obliando
+il martiro.
+
+Pausa.
+
+Per un istante
+si dimenticano
+perfino
+della pena.
+
+Pausa lunga.
+
+Questo
+fa sentire
+quanto sia
+impossibile
+la sua presenza.
+,
 > per maraviglia obliando il martiro.
 > «Or di’ a fra Dolcin dunque che s’armi,
 > tu che forse vedrai il sole in breve,
@@ -315,7 +674,125 @@ Assedio.
 Un consiglio pratico
 dall’interno dell’Inferno.
 
+Pausa lunga.
+
+E il messaggio
+è concreto.
+
+Pausa.
+
+Vivanda.
+
+Neve.
+
+Assedio.
+
+Pausa lunga.
+
+Maometto
+non gli manda
+una dottrina.
+
+Pausa.
+
+Gli manda
+un consiglio
+di sopravvivenza.
+
+Pausa lunga.
+
+Da un morto
+che cammina
+con il corpo
+spaccato
+
+a un vivo
+che rischia
+di morire
+di fame
+fra la neve.
+
+Pausa.
+
+Il canto
+continua
+a legare
+la ferita
+alla storia
+che sta ancora
+succedendo.
+
+Pausa lunga.
+
+L'Inferno
+non è separato
+dal mondo.
+
+Pausa.
+
+Continua
+a parlarci dentro.
+
+
 ## vv. 61-90 - Pier da Medicina
+
+Pausa lunga.
+
+Guarda
+la faccia.
+
+Pausa.
+
+Gola
+forata.
+
+Naso
+tagliato.
+
+Un orecchio
+solo.
+
+Pausa lunga.
+
+Eppure
+parla.
+
+Pausa.
+
+Il corpo
+porta
+la divisione
+che ha seminato.
+
+Pausa lunga.
+
+Ma la voce
+continua
+il lavoro.
+
+Pausa.
+
+Fa nomi.
+
+Avverte.
+
+Mette
+in circolo
+un tradimento
+che deve ancora
+accadere.
+
+Pausa lunga.
+
+La ferita
+non lo rende
+muto.
+
+Pausa.
+
+Lo rende
+più simile
+alla sua parola.
 
 > Poi che l’un piè per girsene sospese,
 > Maometto mi disse esta parola;
@@ -395,6 +872,75 @@ nel mondo.
 > Allor puose la mano a la mascella
 > d’un suo compagno, e la bocca gli aperse,
 > gridando: «Questi è desso, e non favella.
+
+Pausa lunga.
+
+Non favella.
+
+Pausa.
+
+Ed è proprio
+Curio.
+
+Pausa lunga.
+
+Un uomo
+ricordato
+per una frase
+che avrebbe
+spinto Cesare
+oltre il dubbio.
+
+Pausa.
+
+Adesso
+la bocca
+gli viene aperta
+da un altro.
+
+Pausa lunga.
+
+La lingua
+non c'è.
+
+Pausa.
+
+Il gesto
+è quasi
+brutale
+anche da guardare.
+
+Pausa lunga.
+
+Pier
+prende
+la mascella
+
+e mostra
+la conseguenza.
+
+Pausa.
+
+L'uomo
+della parola
+decisiva
+
+non può
+pronunciare
+una parola.
+
+Pausa lunga.
+
+Qui il corpo
+non illustra
+una teoria.
+
+Pausa.
+
+È già
+la frase
+che manca.
+
 > Questi, scacciato, il dubitar sommerse
 > in Cesare, affermando che ’l fornito
 > sempre con danno l’attender sofferse.»
@@ -407,7 +953,84 @@ nel mondo.
 > gridò: «Ricordera’ ti anche del Mosca,
 > che dissi, lasso!, ‘Capo ha cosa fatta’,
 > che fu ’l mal seme per la gente tosca.»
-> E io gli aggiunsi: «E morte di tua schiatta.»
+> Pausa lunga.
+
+Capo ha
+cosa fatta.
+
+Pausa.
+
+Una volta
+che hai deciso,
+
+falla.
+
+Pausa lunga.
+
+La frase
+è cortissima.
+
+Pausa.
+
+Ma Dante
+le attribuisce
+un'intera
+catena di sangue.
+
+Pausa lunga.
+
+Buondelmonte.
+
+La vendetta.
+
+Le parti.
+
+Firenze.
+
+Pausa.
+
+E Mosca
+adesso
+non ha
+le mani.
+
+Pausa lunga.
+
+Le alza
+comunque.
+
+Pausa.
+
+Moncherini
+nell'aria.
+
+Pausa lunga.
+
+E Dante
+non resta
+neutrale.
+
+Pausa.
+
+Aggiunge
+un altro colpo.
+
+E morte
+di tua schiatta.
+
+Pausa lunga.
+
+Per una volta
+il pellegrino
+non riceve
+una profezia.
+
+Pausa.
+
+Restituisce
+una sentenza.
+
+E io gli aggiunsi: «E morte di tua schiatta.»
 > Per ch’egli, accumulando duol con duolo,
 > sen gìo come persona trista e matta.
 
@@ -498,7 +1121,83 @@ Non lo troveremo mai.
 > e ’l capo tronco tenea per le chiome,
 > pésol con mano a guisa di lanterna,
 > e quel mirava noi e dicea ‘Oh me!’
-> Di sé faceva a se stesso lucerna,
+> Di sé faceva a se stesso lucerna
+
+Pausa lunga.
+
+Fermati
+su questa immagine.
+
+Pausa.
+
+Non porta
+una lanterna.
+
+Pausa lunga.
+
+È la lanterna.
+
+Pausa.
+
+Il corpo
+porta
+la propria testa
+
+e la testa
+illumina
+il corpo.
+
+Pausa lunga.
+
+Due in uno.
+
+Uno in due.
+
+Pausa.
+
+Dante
+lo dice
+prima ancora
+di spiegarci
+chi sia.
+
+Pausa lunga.
+
+La pena
+ha trasformato
+la persona
+in un enigma
+visivo.
+
+Pausa.
+
+Come può
+essere
+uno
+
+e due
+insieme?
+
+Pausa lunga.
+
+Quei sa
+che sì governa.
+
+Pausa.
+
+Dante
+si ferma
+sulla soglia
+della spiegazione.
+
+Pausa lunga.
+
+Poi parla
+Bertran.
+
+E il corpo
+diventa leggibile.
+,
 > ed eran due in uno e uno in due:
 > com’esser può, quei sa che sì governa.
 > Quando diritto al piè del ponte fue,
@@ -516,7 +1215,86 @@ Non lo troveremo mai.
 > Perch’io parti’ così giunte persone,
 > partito porto il mio cerebro, lasso!,
 > dal suo principio ch’è in questo troncone:
-> così s’osserva in me lo contrapasso.»
+> così s’osserva in me lo contrapasso.
+
+Pausa lunga.
+
+Contrapasso.
+
+Pausa.
+
+La parola
+arriva alla fine.
+
+Pausa lunga.
+
+Dopo che
+abbiamo già visto
+il principio
+per quasi
+ventotto canti.
+
+Pausa.
+
+Non la pronuncia
+Virgilio.
+
+Pausa lunga.
+
+Non Dante.
+
+La pronuncia
+un dannato.
+
+Pausa.
+
+E la pronuncia
+sul proprio corpo.
+
+Pausa lunga.
+
+Io ho diviso.
+
+Sono diviso.
+
+Pausa.
+
+Non serve
+farne una formula
+che spieghi
+ogni pena
+nello stesso modo.
+
+Pausa lunga.
+
+Qui basta
+questa scena.
+
+Pausa.
+
+Il peccato
+ha prodotto
+una forma
+di divisione.
+
+Pausa lunga.
+
+La pena
+la rende
+visibile.
+
+Pausa.
+
+Il corpo
+non aggiunge
+un'altra storia.
+
+Pausa lunga.
+
+Mostra
+quella che
+c'era già.
+»
 
 [Schermo: Doré — Bertran de Born]
 
@@ -609,6 +1387,85 @@ Mostra quello che il peccato
 era già.
 
 così s’osserva in me lo contrapasso.
+
+Pausa lunga.
+
+E allora
+riguarda
+la bolgia
+intera.
+
+Pausa.
+
+Maometto
+aperto.
+
+Curio
+senza lingua.
+
+Mosca
+senza mani.
+
+Bertran
+senza testa.
+
+Pausa lunga.
+
+Non sono
+ferite casuali.
+
+Pausa.
+
+Ogni corpo
+porta
+una divisione
+diversa.
+
+Pausa lunga.
+
+Religione.
+
+Città.
+
+Famiglia.
+
+Decisione.
+
+Pausa.
+
+La stessa parola,
+scisma,
+non basta
+per tutti.
+
+Pausa lunga.
+
+Dante
+non li rende
+uguali.
+
+Pausa.
+
+Li mette
+nello stesso giro
+
+e poi costruisce
+per ciascuno
+una ferita
+che parla.
+
+Pausa lunga.
+
+Per questo
+il canto
+non è
+una galleria
+di mutilazioni.
+
+Pausa.
+
+È una galleria
+di conseguenze.
 
 ## Chiusura
 
