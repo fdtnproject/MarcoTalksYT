@@ -9,31 +9,48 @@ Linea guida: "Chi si è fatto un altro è diventato nessuno"
 
 Pausa lunga.
 
-Allora, il trentesimo canto.
+Allora,
+il trentesimo canto.
 
 Pausa.
 
 Il ventinovesimo
 si era chiuso
-con Capocchio
-e le croste.
+con Capocchio.
 
 Pausa lunga.
 
-Il trentesimo
-apre prima di mostrarci
-altre anime
-della stessa bolgia.
+Metalli falsati.
+
+Materia imitata.
 
 Pausa.
 
-Con la mitologia.
+Adesso
+il falso
+si sposta ancora.
 
 Pausa lunga.
 
-Non come ornamento.
+Persona.
 
-Come specchio.
+Moneta.
+
+Parola.
+
+Pausa.
+
+Tre cose
+diverse.
+
+Pausa lunga.
+
+E una stessa domanda.
+
+Che cosa succede
+quando una cosa
+si presenta
+come ciò che non è?
 
 ## vv. 1-27 - Atamante, Ecuba, le due ombre rabbiose
 
@@ -67,33 +84,106 @@ Come specchio.
 
 Pausa lunga.
 
-Prima Atamante.
-
-Poi Ecuba.
+Dante
+non ci mostra subito
+i falsari.
 
 Pausa.
 
-Due che il dolore
-o la follia
-hanno spostato
-fuori da sé.
+Prima
+ci prepara
+con due storie
+di follia.
 
 Pausa lunga.
 
-Poi Dante stringe il paragone.
+Atamante.
 
-Nemmeno loro.
-
-Nemmeno le furie tebane.
-
-Nemmeno Troia.
+Ecuba.
 
 Pausa.
 
-Perché quello che arriva adesso
-non è solo sofferenza.
+Due persone
+che a un certo punto
+non vedono più
+il mondo com’è.
 
-È identità rovinata.
+Pausa lunga.
+
+Atamante
+vede una leonessa
+dove c’è
+la moglie.
+
+Pausa.
+
+Vede leoncini
+dove ci sono
+i figli.
+
+Pausa lunga.
+
+Ecuba,
+dopo la distruzione
+di Troia
+e la morte
+dei figli,
+non parla più
+come una regina.
+
+Pausa.
+
+Latra.
+
+Pausa lunga.
+
+La mente torta.
+
+Pausa.
+
+Dante
+sta preparando
+il terreno.
+
+Pausa lunga.
+
+Perché i due
+che arrivano
+fra poco
+hanno fatto
+della propria identità
+uno strumento.
+
+Pausa.
+
+Non hanno soltanto
+mentito.
+
+Hanno indossato
+un’altra persona.
+
+Pausa lunga.
+
+E quando entrano,
+non camminano.
+
+Corrono.
+
+Mordono.
+
+Pausa.
+
+Come animali
+usciti dal recinto.
+
+Pausa lunga.
+
+La persona
+che avevano manipolato
+nel mondo
+qui non dà più
+stabilità nemmeno
+a loro.
 
 ## vv. 28-45 - Gianni Schicchi e Mirra
 
@@ -120,91 +210,172 @@ non è solo sofferenza.
 
 Pausa lunga.
 
-Le due ombre
-adesso hanno un nome.
-
-Pausa.
-
 Gianni Schicchi.
 
 Mirra.
 
-Pausa lunga.
-
-Due falsatori della persona.
-
-Non della moneta.
-
-Non della parola ancora.
-
-Della faccia.
-
 Pausa.
-
-Uno si fece
-Buoso Donati.
-
-L’altra
-si fece un’altra donna
-per entrare nel letto del padre.
-
-Pausa lunga.
 
 Falsificando sé
 in altrui forma.
 
-Questa è la formula
-che apre il canto.
-
 Pausa lunga.
 
-E la storia di Gianni Schicchi
-la conosci già.
-Anche se forse non lo sai.
+Questa è
+la formula del canto.
 
 Pausa.
 
-Buoso Donati è appena morto.
-Schicchi si mette nel suo letto,
-si finge lui, ancora vivo,
-e detta al notaio un testamento nuovo.
-E a se stesso lascia
-la cosa più bella della casa.
-La mula migliore.
-
-per guadagnar la donna de la torma,
+Il falso
+non è fuori.
 
 Pausa lunga.
 
-Seicento anni dopo,
-Puccini ne fa un'opera comica.
-Gianni Schicchi.
-Quella di O mio babbino caro.
+È addosso.
 
 Pausa.
 
-E nel finale
-Schicchi esce dalla storia
-e parla al pubblico.
+Schicchi
+entra nel letto
+di Buoso Donati.
 
-Si rivolge alla camera, con un mezzo sorriso.
+Pausa.
 
-Per questo scherzo
-Dante mi ha messo all'Inferno.
-Ma se vi siete divertiti,
-concedetemi le attenuanti.
+Si fa passare
+per lui.
 
 Pausa lunga.
 
-Dante lo condanna.
-Puccini chiede la grazia
-a una sala che ride.
+Voce.
+
+Volto.
+
+Presenza.
 
 Pausa.
 
-Tienilo a mente, questo ridere.
-Alla fine del canto
-ci tornerà addosso.
+Abbastanza
+per dettare
+un testamento.
+
+Pausa lunga.
+
+E dentro
+quel testamento
+si assegna
+la cosa migliore.
+
+Pausa.
+
+La donna
+della torma.
+
+La mula.
+
+Pausa lunga.
+
+È una frode
+che funziona
+solo perché
+Schicchi
+sa essere credibile.
+
+Pausa.
+
+Non deve
+sembrare se stesso.
+
+Deve sembrare
+Buoso.
+
+Pausa lunga.
+
+E Mirra,
+nel racconto antico,
+fa lo stesso
+in un altro modo.
+
+Pausa.
+
+Cambia identità
+per oltrepassare
+un limite
+che il proprio nome
+le impedirebbe
+di oltrepassare.
+
+Pausa lunga.
+
+Due storie
+diversissime.
+
+Pausa.
+
+Ma il meccanismo
+è comune.
+
+Pausa lunga.
+
+Per ottenere
+quello che voglio,
+uso un’identità
+che non è la mia.
+
+Pausa.
+
+Se il volto vero
+mi ferma,
+me ne costruisco
+un altro.
+
+Pausa lunga.
+
+Sei secoli dopo,
+Puccini prende
+Gianni Schicchi
+e fa una cosa
+straordinaria.
+
+Pausa.
+
+Ne fa
+una commedia.
+
+Pausa lunga.
+
+Alla fine,
+Schicchi
+si rivolge
+al pubblico.
+
+Pausa.
+
+Dante
+mi ha messo
+all’Inferno.
+
+Pausa lunga.
+
+Ma se vi siete
+divertiti,
+concedetemi
+le attenuanti.
+
+Pausa.
+
+E il pubblico
+ride.
+
+Pausa lunga.
+
+Tienilo a mente.
+
+Perché alla fine
+di questo canto
+Dante scoprirà
+che anche lui
+si sta divertendo
+troppo.
 
 ## vv. 46-90 - Maestro Adamo
 
@@ -259,92 +430,259 @@ ci tornerà addosso.
 Pausa lunga.
 
 Poi il canto
-si ferma
-su un corpo solo.
+si ferma.
 
 Pausa.
 
 Maestro Adamo.
 
-Un liuto umano.
-
 Pausa lunga.
 
-Gonfio.
-
-Immobile.
-
-Arso dalla sete.
+Il corpo
+a forma di liuto.
 
 Pausa.
 
-E il colpo è questo:
+Il ventre gonfio.
 
-ha avuto
-quello che voleva.
+Le labbra aperte.
 
-Ora vuole
-una goccia d’acqua.
+La sete.
+
+Pausa lunga.
+
+E la prima frase
+che bisogna fermare
+è questa.
+
+Pausa.
+
+Io ebbi,
+vivo,
+assai di quel
+ch’io volli.
+
+Pausa lunga.
+
+E ora
+un gocciol d’acqua
+bramo.
+
+Pausa.
+
+È una riduzione
+feroce.
+
+Pausa lunga.
+
+Da molto
+a una goccia.
+
+Pausa.
+
+Da avere
+quasi tutto
+quello che vuoi
+a non poter avere
+la cosa più semplice.
+
+Pausa lunga.
+
+E l’acqua
+non è astratta.
+
+Pausa.
+
+Ha un paesaggio.
+
+Pausa lunga.
+
+I verdi colli
+del Casentino.
+
+I ruscelli.
+
+I canali
+freddi e molli.
+
+Pausa.
+
+Adamo
+li vede
+con la memoria.
+
+Pausa lunga.
+
+E proprio
+l’immagine dell’acqua
+lo asciuga di più.
+
+Pausa.
+
+La memoria
+non consola.
+
+Aumenta la sete.
+
+Pausa lunga.
+
+Poi arriva
+la moneta.
+
+Pausa.
+
+Il fiorino.
+
+Pausa lunga.
+
+Una delle cose
+più stabili
+del mondo
+di Dante.
+
+Pausa.
+
+Oro.
+
+Peso.
+
+Segno.
+
+Fiducia.
+
+Pausa lunga.
+
+Da una parte
+il giglio.
+
+Dall’altra
+il Battista.
+
+Pausa.
+
+E Maestro Adamo
+non inventa
+una moneta nuova.
+
+Pausa lunga.
+
+Fa qualcosa
+di molto più efficace.
+
+Pausa.
+
+Prende
+la moneta vera.
+
+E la altera
+dentro.
 
 Pausa lunga.
 
 Tre carati
-di mondiglia
-dentro il fiorino.
+di mondiglia.
 
-Tre carati.
+Pausa.
 
-E tutto il corpo
-gli torna contro.
+Abbastanza
+per guadagnare.
+
+Pausa.
+
+Non abbastanza
+per rendere
+subito evidente
+il falso.
 
 Pausa lunga.
 
-Il fiorino dell'undicesimo canto.
-Oro a ventiquattro carati.
-Da una parte il Battista,
-dall'altra il giglio.
-La moneta più affidabile d'Europa.
+Questo è
+il principio
+della contraffazione.
+
+Pausa.
+
+La cosa falsa
+ha bisogno
+della fiducia
+costruita dal vero.
+
+Pausa lunga.
+
+Se nessuno
+si fidasse
+del fiorino,
+non varrebbe la pena
+falsificarlo.
+
+Pausa.
+
+Il falso
+vive sul credito
+del vero.
+
+Pausa lunga.
+
+E adesso
+quel corpo
+è diventato
+quasi una moneta
+deformata.
+
+Pausa.
+
+Fuori misura.
+
+Fuori proporzione.
+
+Pausa lunga.
+
+E dentro,
+una sete
+che non può essere
+corretta.
+
+Pausa.
 
 Maestro Adamo
-ci mette dentro tre carati di metallo vile.
-Per conto dei conti di Romena,
-nel Casentino.
-Lo scoprono.
-Nel 1281 lo bruciano vivo.
+non pensa soltanto
+all’acqua.
 
 Pausa lunga.
 
-E adesso ascolta che cosa sogna.
-
-Li ruscelletti che de’ verdi colli
-del Casentin discendon giuso in Arno
-facendo i lor canali freddi e molli,
+Pensa anche
+ai conti di Romena.
 
 Pausa.
 
-È il paesaggio più tenero di tutto l'Inferno.
-E lo dice il corpo più deforme.
-
-Pausa.
-
-Dante quei ruscelli li conosceva.
-In esilio sarà ospite dei conti Guidi,
-proprio nel Casentino.
-E due delle sue lettere più importanti
-le firmerà così:
-presso le sorgenti dell'Arno.
+Quelli che,
+dice,
+lo hanno spinto
+a falsificare.
 
 Pausa lunga.
 
-A me sembra che non sia un caso
-che questo falsario si chiami Adamo.
-Un uomo che sogna colli verdi
-e acqua fresca.
-Un Adamo
-cacciato dal giardino.
+Vorrebbe raggiungerli.
 
-io ebbi, vivo, assai di quel ch’io volli;
-e ora, lasso!, un gocciol d’acqua bramo.
+Pausa.
+
+Ma il corpo
+non lo lascia.
+
+Pausa lunga.
+
+Cent’anni
+per un’oncia.
+
+Pausa.
+
+La moneta falsa
+circolava.
+
+Lui,
+adesso,
+non riesce quasi
+a muoversi.
 
 ## vv. 91-129 - La falsa di Putifarre, Sinone, la lite
 
@@ -390,55 +728,120 @@ e ora, lasso!, un gocciol d’acqua bramo.
 
 Pausa lunga.
 
-Adesso il falso
-non corre più.
-
-Litiga.
+Poi il canto
+scende di tono.
 
 Pausa.
 
-La falsa di Putifarre.
-
-Sinone.
-
-Maestro Adamo.
+Quasi apposta.
 
 Pausa lunga.
 
-È una scena bassa.
-
-Volgare.
-
-Ridicola.
-
-Pausa.
+Un pugno.
 
 Un ventre
-che suona come un tamburo.
-
-Due dannati
-che si rinfacciano
-chi abbia mentito peggio.
+che suona.
 
 Pausa.
 
-E uno dei due
-viene dall'Eneide.
+Un insulto.
 
-Ricorditi, spergiuro, del cavallo
+Una risposta.
 
-Il cavallo del ventiseiesimo canto.
-L'aveva inventato Ulisse.
-A farlo entrare a Troia,
-con un racconto falso e un giuramento,
-era stato lui.
-Sinone.
+Un altro insulto.
 
 Pausa lunga.
 
-E proprio per questo
-Dante ci resta
-incollato.
+Maestro Adamo
+e Sinone
+non discutono
+la verità.
+
+Pausa.
+
+Si rinfacciano
+i falsi.
+
+Pausa lunga.
+
+Tu hai mentito.
+
+Tu hai falsificato.
+
+Pausa.
+
+Tu hai fatto peggio.
+
+No,
+tu.
+
+Pausa lunga.
+
+È una lite
+che potrebbe
+andare avanti
+per sempre.
+
+Pausa.
+
+E infatti
+questa è
+l’eternità
+che Dante
+sta mettendo in scena.
+
+Pausa lunga.
+
+Nessuno dei due
+può cambiare
+la propria storia.
+
+Pausa.
+
+Allora
+la usa
+come arma
+contro l’altro.
+
+Pausa lunga.
+
+Sinone.
+
+Il cavallo di Troia.
+
+Pausa.
+
+Nel ventiseiesimo canto
+Ulisse aveva raccontato
+il cavallo
+come parte
+della propria colpa.
+
+Pausa lunga.
+
+Qui arriva
+l’uomo
+che ha reso possibile
+l’inganno
+con la parola.
+
+Pausa.
+
+Non basta
+costruire
+un cavallo.
+
+Pausa lunga.
+
+Qualcuno deve
+farlo credere.
+
+Pausa.
+
+La frode
+ha bisogno
+di materia
+e di racconto.
 
 ## vv. 130-148 - La vergogna di Dante
 
@@ -467,73 +870,147 @@ incollato.
 Pausa lunga.
 
 Ed eccolo,
-il vero colpo del canto.
+il vero colpo
+del canto.
 
 Pausa.
-
-Non Schicchi.
-
-Non Maestro Adamo.
-
-Non Sinone.
 
 Dante.
 
 Pausa lunga.
 
-Dante
-che si scopre
-preso
-da una bassezza.
+Del tutto fisso.
 
 Pausa.
 
-Virgilio
-non lo rimprovera
-per pietà.
+Non distratto.
 
-Lo rimprovera
-per gusto.
+Non curioso
+per un istante.
 
 Pausa lunga.
 
-Voler udire
-quel piato
-è bassa voglia.
-
-Pausa lunga.
-
-Ricordi la sala di Puccini?
+Fisso.
 
 Pausa.
 
-Dante, qui, è come quel pubblico.
-Si è fermato a godersi lo spettacolo.
-Due dannati che si insultano.
+Sta ascoltando
+la lite.
 
-E Virgilio, che di solito lo consola,
-questa volta
-quasi litiga con lui.
+Gli piace.
 
 Pausa lunga.
 
-Io credo che Dante
-qui metta in guardia anche noi.
-Che guardiamo.
-
-Il male,
-quando diventa spettacolo,
-diverte.
+E Virgilio
+si arrabbia.
 
 Pausa.
 
-E quella vergogna,
-anni dopo,
+Per poco
+non litigo
+con te.
+
+Pausa lunga.
+
+È raro.
+
+Pausa.
+
+E Dante
+si vergogna
+così tanto
+che anni dopo,
 mentre scrive,
-la sente ancora.
+la vergogna
+gli gira ancora
+nella memoria.
 
-con tal vergogna
-che ancor per la memoria mi si gira.
+Pausa lunga.
+
+Questa volta
+il problema
+non è aver avuto
+pietà del dannato.
+
+Pausa.
+
+È essersi goduto
+il dannato.
+
+Pausa lunga.
+
+È diverso.
+
+Pausa.
+
+Il male
+può attrarre
+anche quando
+non lo approviamo.
+
+Pausa lunga.
+
+Può diventare
+spettacolo.
+
+Pausa.
+
+Una lite.
+
+Un’umiliazione.
+
+Una battuta
+riuscita bene.
+
+Pausa lunga.
+
+E noi,
+come Dante,
+possiamo restare lì.
+
+Pausa.
+
+A guardare.
+
+Pausa lunga.
+
+Per questo
+Puccini,
+all’inizio del canto,
+funziona.
+
+Pausa.
+
+Il pubblico ride
+di Schicchi.
+
+Pausa lunga.
+
+Qui Dante
+si scopre pubblico
+di Adamo e Sinone.
+
+Pausa.
+
+E Virgilio
+gli dice:
+basta.
+
+Pausa lunga.
+Bassa voglia.
+
+Pausa.
+
+Non perché
+ridere sia peccato.
+
+Pausa lunga.
+
+Perché c’è
+un modo di guardare
+la bassezza
+che finisce
+per abitarla.
 
 ## Chiusura
 
@@ -542,55 +1019,71 @@ che ancor per la memoria mi si gira.
 Pausa lunga.
 
 Il trentesimo canto
-comincia
-con chi perde se stesso
-e finisce
-con Dante
-che teme
-di perdersi un poco anche lui.
+ha falsificato
+tutto.
 
 Pausa.
 
-Gianni Schicchi.
+Una persona.
 
-Mirra.
+Una moneta.
 
-Maestro Adamo.
-
-Sinone.
+Una testimonianza.
 
 Pausa lunga.
 
-Persona.
-
-Moneta.
-
-Parola.
+E alla fine
+mette alla prova
+anche lo sguardo
+di Dante.
 
 Pausa.
 
-Tre modi
-di falsare il reale.
-
-Tre modi
-di consumare
-la propria forma.
+Non basta
+riconoscere il falso.
 
 Pausa lunga.
 
-Chi si è fatto un altro
-alla fine
-non sa più
-chi è.
+Bisogna anche
+sapere
+quando smettere
+di guardarlo.
 
 Pausa.
 
-Come se
-rubare un'identità
-significasse
-perdere la propria.
+Gianni Schicchi
+si era fatto Buoso.
+
+Mirra
+si era fatta
+un’altra donna.
+
+Maestro Adamo
+aveva fatto
+un altro fiorino.
+
+Sinone
+aveva fatto
+un’altra verità.
+
+Pausa lunga.
+
+Ogni volta,
+qualcosa prende
+la forma
+di qualcos’altro.
+
+Pausa.
+
+E ogni volta
+la forma
+finisce per costare
+all’uomo
+che l’ha falsata.
 
 Pausa lunga.
 
 Chi si è fatto un altro
 è diventato nessuno.
+
+[Schermo: nero pieno]
