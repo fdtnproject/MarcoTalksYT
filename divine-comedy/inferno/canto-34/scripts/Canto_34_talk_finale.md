@@ -57,12 +57,13 @@ Pausa.
 
 Vexilla regis.
 
-L’inno della croce.
+L'inno
+della croce.
 
 Pausa lunga.
 
 Dante aggiunge
-una sola parola.
+una parola.
 
 Inferni.
 
@@ -71,38 +72,87 @@ Pausa.
 Il sacro
 rovesciato.
 
+Pausa lunga.
+
+Ma Lucifero
+non arriva
+in un colpo.
+
 Pausa.
 
-È un inno antico, del sesto secolo.
-Si canta nei giorni della Passione.
-
-Proprio questi giorni.
+Prima
+un profilo.
 
 Pausa lunga.
 
-Poi il mulino.
+Un mulino
+nella nebbia.
 
-Prima da lontano.
-
-Poi il vento.
+Poi
+il vento.
 
 Pausa.
+
+Il vento
+che Ugolino
+ci aveva già
+consegnato.
+
+Pausa lunga.
 
 Dante
-si stringe dietro Virgilio.
-
-Pausa lunga.
-
-E le anime
-nel ghiaccio
-sono ormai solo
-forme intrappolate.
+si stringe
+dietro Virgilio.
 
 Pausa.
 
-Poi il nome.
+Non ha
+un'altra grotta.
 
-Dite.
+Pausa lunga.
+
+E intorno
+le anime
+non camminano
+più.
+
+Pausa.
+
+Sono
+dentro
+la materia.
+
+Pausa lunga.
+
+Il fondo
+non punisce
+con il movimento.
+
+Lo toglie.
+
+Pausa lunga.
+
+Poi Virgilio
+si sposta.
+
+Pausa.
+
+Ecco Dite.
+
+Lungo silenzio.
+
+Pausa lunga.
+
+Tutto il viaggio
+ha portato
+a questo punto.
+
+E la prima cosa
+che Dante dice
+
+è che
+non riesce
+a dirlo.
 
 ## vv. 22-69 - Lucifero
 
@@ -159,36 +209,51 @@ Dite.
 
 Pausa lunga.
 
-Qui Dante
-non descrive soltanto
-Lucifero.
-
-Descrive
-la propria insufficienza.
+Io non mori'
+e non rimasi vivo.
 
 Pausa.
 
-Non mori’
-e non rimasi vivo.
+Dante
+non comincia
+da Lucifero.
+
+Comincia
+da sé.
 
 Pausa lunga.
 
-Poi l’immagine.
-
-Da mezzo il petto
-fuori dal ghiaccio.
+Da quello
+che il corpo
+non sa
+come sentire.
 
 Pausa.
 
-E quanto è grande?
-Dante dà solo una proporzione.
+Poi la misura.
 
-e più con un gigante io mi convegno
-che ’ giganti non fan con le sue braccia:
+Pausa lunga.
 
-Ricordi Galileo, nell'undicesimo canto?
-Da questo verso
-fece i conti.
+Non ci dà
+un numero.
+
+Ci dà
+una proporzione.
+
+Pausa.
+
+Noi
+rispetto ai giganti.
+
+I giganti
+rispetto
+alle sue braccia.
+
+Pausa lunga.
+
+Il resto
+lo costruisce
+la mente.
 
 Pausa.
 
@@ -202,121 +267,246 @@ Tre bocche.
 
 Pausa lunga.
 
-Non è l’unità
-di una Trinità.
+Molti commentatori
+hanno visto
+nelle tre facce
 
-È la sua caricatura.
-
-Pausa lunga.
-
-Ricordi la porta del terzo canto?
-Chi l'aveva fatta:
-
-FECEMI LA DIVINA POTESTATE,
-LA SOMMA SAPIENZA E ’L PRIMO AMORE.
+una parodia
+della Trinità.
 
 Pausa.
 
-Potenza.
-Sapienza.
-Amore.
+La porta
+dell'Inferno
+aveva nominato:
 
-Per la maggior parte dei commentatori
-le tre facce sono il contrario.
-Impotenza.
-Ignoranza.
-Odio.
+potestate.
 
-La prima porta
-e l'ultimo volto dell'Inferno
-si rispondono.
+sapienza.
+
+amore.
 
 Pausa lunga.
 
-E un demonio enorme
-che mangia gli uomini,
-Dante l'aveva visto fin da bambino.
-Probabilmente sopra la sua testa.
-Nella cupola del suo bel San Giovanni,
-il battistero del diciannovesimo canto,
-c'è un Giudizio a mosaico.
-E in basso
-un Satana gigantesco
-che divora i dannati.
+Qui,
+in fondo,
+
+quella pienezza
+appare
+deformata.
 
 Pausa.
 
-E il punto più forte
-è questo:
+Non serve
+assegnare
+a ogni faccia
+una formula.
 
-il vento che batte
-con le ali
-gela Cocito.
+L'immagine
+fa già abbastanza.
 
 Pausa lunga.
+
+Un Satana enorme
+che divora dannati
+
+Dante poteva
+averlo davanti
+agli occhi
+fin da ragazzo.
+
+Pausa.
+
+Nel Battistero
+di Firenze.
+
+Pausa lunga.
+
+Ma qui
+aggiunge
+la cosa decisiva.
+
+Le ali.
+
+E il vento.
+
+Pausa lunga.
+
+sì che tre venti
+si movean da ello.
+
+Quindi Cocito
+tutto s'aggelava.
+
+Pausa lunga.
+
+Eccolo.
+
+Pausa.
+
+Il vento
+del canto precedente.
+
+Pausa lunga.
+
+Non arriva
+da fuori.
+
+Lo produce
+Lucifero.
+
+Pausa.
+
+Le ali
+che dovrebbero
+sollevarlo
+
+lo tengono
+qui.
+
+Pausa lunga.
+
+Più batte.
+
+Più gela.
+
+Pausa.
+
+Più gela.
+
+Più resta
+prigioniero.
+
+Pausa lunga.
+
+Non serve
+una catena.
+
+La sua forza
+costruisce
+la sua gabbia.
+
+Pausa lunga.
+
+E poi
+sei occhi.
+
+Pausa.
+
+Lacrime.
+
+Sangue.
+
+Bava.
+
+Pausa lunga.
+
+Ma nessuna
+parola.
+
+Pausa.
 
 Lucifero
-produce da sé
-la propria prigione.
+non fa
+un discorso.
+
+Non sfida Dante.
+
+Non sfida Virgilio.
 
 Pausa lunga.
-
-E guarda una cosa.
-In tutto il canto
-Lucifero non dice una parola.
-
-con sei occhi piangea, e per tre menti
-gocciava il pianto e sanguinosa bava.
 
 Piange.
+
 Mastica.
-Sbatte le ali.
-Come una macchina.
 
-Pausa lunga.
-
-Tre secoli e mezzo dopo,
-un poeta inglese, John Milton,
-scrive il Paradiso perduto.
-E il suo Satana parla.
-Parla benissimo.
-
-Meglio regnare all'Inferno
-che servire in Cielo.
+Sbatte
+le ali.
 
 Pausa.
 
-È il personaggio più affascinante del poema.
-Tanto che un altro poeta, William Blake,
-dirà che Milton stava dalla parte del diavolo
-senza saperlo.
+In un poema
+pieno
+di dannati
+che raccontano
+sé stessi,
+
+il re
+dell'Inferno
+
+non ha
+una voce.
 
 Pausa lunga.
 
-Due idee del male.
-
-Per Milton,
-una volontà grandiosa.
-
-Per Dante,
-qualcosa che ha smesso di pensare.
-E di parlare.
+Tre secoli dopo,
+Milton
+farà una scelta
+diversa.
 
 Pausa.
 
-Il male, per Dante,
-non è una forza.
-È una mancanza.
+Darà a Satana
+una voce enorme.
+
+Argomenti.
+
+Orgoglio.
+
+Retorica.
 
 Pausa lunga.
 
-La modernità
-ha scelto Milton.
+È uno
+dei motivi
+per cui
+quel Satana
 
-Chi dei due avesse ragione,
-te lo lascio come domanda.
+ha avuto
+una fortuna
+immensa.
 
 Pausa.
+
+Ma anche Milton
+lo degrada.
+
+Lo abbassa.
+
+Lo trasforma.
+
+Pausa lunga.
+
+Quindi
+non serve
+scegliere
+chi abbia ragione.
+
+Pausa.
+
+Basta guardare
+la differenza
+di rappresentazione.
+
+Pausa lunga.
+
+Milton
+gli concede
+la parola.
+
+Dante
+gliela toglie.
+
+Pausa.
+
+Qui,
+per me,
+sta il confronto.
+
+Pausa lunga.
+
+Poi
+le tre bocche.
 
 Giuda.
 
@@ -324,41 +514,64 @@ Bruto.
 
 Cassio.
 
-I tre estremi
-del tradimento.
-
 Pausa lunga.
 
-Perché proprio loro?
+Giuda
+ha il capo
+dentro.
 
-Giuda ha tradito Cristo.
-Bruto e Cassio hanno tradito Cesare.
-Cioè l'Impero,
-che per Dante è voluto da Dio.
+Le gambe
+fuori.
 
 Pausa.
 
-Ricordi il secondo canto?
+Bruto
+si torce.
 
-Io non Enea, io non Paolo sono:
+Non parla.
 
-Enea e Paolo.
-L'Impero e la Chiesa.
-Le due guide del mondo.
+Pausa.
 
-Qui, in fondo,
-ci sono quelli che le hanno tradite.
+Cassio
+pende
+dall'altra bocca.
 
 Pausa lunga.
 
-E un altro Bruto
-l'avevamo visto nel Limbo,
-fra i giusti.
-Quello che cacciò l'ultimo re di Roma.
+Nessuna
+ultima difesa.
 
-Il Bruto della libertà nel Limbo.
-Il Bruto del pugnale
-in bocca a Lucifero.
+Nessun processo.
+
+Pausa.
+
+Solo
+la posizione.
+
+Pausa lunga.
+
+Per Dante
+Giuda
+ha tradito Cristo.
+
+Bruto e Cassio
+Cesare.
+
+Pausa.
+
+Due tradimenti
+posti
+al centro
+del suo mondo.
+
+Pausa lunga.
+
+Siamo
+al fondo.
+
+Non serve
+costruirci sopra
+un'altra lezione.
 
 ## vv. 70-105 - La discesa e il rovesciamento
 
@@ -401,68 +614,196 @@ in bocca a Lucifero.
 
 Pausa lunga.
 
-Poi il gesto
-più assurdo
-di tutta la cantica.
+E adesso
+la cosa
+più strana.
 
 Pausa.
 
-Si aggrappano
-al pelo di Lucifero.
+Per uscire
+dall'Inferno
 
-E scendono.
+devono
+aggrapparsi
+a Lucifero.
 
 Pausa lunga.
 
-Finché arriva
-il punto
-in cui tutto gira.
+Non combatterlo.
+
+Non vincerlo.
 
 Pausa.
 
-Virgilio si volta.
-
-E Dante crede
-di tornare indietro.
+Usarlo
+come scala.
 
 Pausa lunga.
 
-No.
+Pelo.
 
-Hanno passato
-il centro.
+Ghiaccio.
+
+Corpo.
 
 Pausa.
 
-Da quel punto
-giù e su
-non sono più
-quelli di prima.
+Virgilio
+cerca
+gli appigli.
 
 Pausa lunga.
 
-E guarda l'orologio.
-
-Ma la notte risurge;
-
-Poco prima, Virgilio l'aveva detto.
-È di nuovo sera.
-Il sabato finisce.
-È passato un giorno intero
-da quando, nel secondo canto,
-il giorno se n'andava.
+Dante
+è attaccato
+a lui.
 
 Pausa.
 
-Ma passato il centro,
-la sera diventa mattino.
+Non c'è
+una scala.
 
-Qui è da man quando di là è sera;
+Non c'è
+un sentiero.
 
-L'altra metà del mondo.
-Un'altra ora.
-E davanti, quasi un giorno intero di salita.
-Al buio.
+Pausa lunga.
+
+Per l'ultima discesa
+dell'Inferno
+
+il terreno
+è il corpo
+del suo re.
+
+Pausa lunga.
+
+Poi
+Virgilio
+si gira.
+
+Lungo silenzio.
+
+Pausa.
+
+Qui.
+
+Pausa lunga.
+
+Quello
+che era
+scendere
+
+diventa
+salire.
+
+Pausa.
+
+Dante
+non capisce.
+
+Crede
+che Virgilio
+stia tornando
+verso l'Inferno.
+
+Pausa lunga.
+
+Non hanno trovato
+una porta.
+
+Hanno superato
+un punto.
+
+Pausa.
+
+Il centro.
+
+Pausa lunga.
+
+Il corpo
+sa una cosa
+
+prima
+della mente.
+
+Pausa.
+
+Le braccia
+tirano
+in una direzione
+diversa.
+
+I piedi
+cercano
+un sotto
+
+che non è più
+lo stesso sotto.
+
+Pausa lunga.
+
+La geografia
+si è rovesciata.
+
+Pausa.
+
+E Dante
+se ne accorge
+con il corpo.
+
+Pausa lunga.
+
+Poi guarda
+Lucifero.
+
+Le gambe
+sono in su.
+
+Pausa.
+
+Ma Lucifero
+non si è mosso.
+
+Pausa lunga.
+
+Sono loro
+ad aver cambiato
+lato del mondo.
+
+Pausa.
+
+Il mostro
+è identico.
+
+È lo sguardo
+che deve
+riordinarsi.
+
+Pausa lunga.
+
+E cambia
+anche l'ora.
+
+Pausa.
+
+Di là:
+sera.
+
+Qui:
+mattino.
+
+Pausa lunga.
+
+Non perché
+sia passato
+un giorno
+in pochi minuti.
+
+Pausa.
+
+Perché
+hanno attraversato
+la Terra.
 
 ## vv. 106-139 - Il centro della terra e le stelle
 
@@ -487,6 +828,234 @@ Al buio.
 > e venne a l’emisperio nostro; e forse
 > per fuggir lui lasciò qui luogo voto
 > quella ch’appar di qua, e su ricorse.»
+Pausa lunga.
+
+Virgilio
+spiega
+il punto
+che hanno passato.
+
+Pausa.
+
+Il centro
+della Terra.
+
+I pesi
+che convergono.
+
+L'emisfero
+opposto.
+
+Pausa lunga.
+
+E dentro
+la spiegazione
+c'è un uomo
+
+che Dante
+non nomina.
+
+Pausa.
+
+l'uom
+che nacque
+e visse
+sanza pecca.
+
+Pausa lunga.
+
+Cristo.
+
+Pausa.
+
+Ma nell'Inferno
+il nome
+non viene detto.
+
+Nemmeno
+adesso.
+
+Pausa lunga.
+
+Poi
+la caduta.
+
+Pausa.
+
+Lucifero
+precipita.
+
+La terra
+si ritrae.
+
+Pausa lunga.
+
+Una voragine
+qui.
+
+Una montagna
+là.
+
+Pausa.
+
+Lo stesso evento.
+
+Due forme
+opposte.
+
+Pausa lunga.
+
+Una discesa
+che produce
+anche
+la possibilità
+di salire.
+
+Pausa lunga.
+
+Quella montagna
+l'abbiamo già
+vista.
+
+Pausa.
+
+Da lontano.
+
+Dal mare.
+
+Pausa lunga.
+
+Ulisse
+l'aveva vista
+prima di affondare.
+
+Pausa.
+
+Dante
+ci arriverà
+da sotto.
+
+Pausa lunga.
+
+E adesso
+un ruscelletto.
+
+Pausa.
+
+Da dove viene?
+
+Non lo sappiamo
+con certezza.
+
+Pausa lunga.
+
+Alcuni
+lo collegano
+al Lete.
+
+Pausa.
+
+Ma qui
+serve soprattutto
+a una cosa.
+
+Ha scavato
+un passaggio.
+
+Pausa lunga.
+
+L'acqua
+ha aperto
+la via
+verso l'alto.
+
+Pausa lunga.
+
+E allora
+si sale.
+
+Pausa.
+
+Una burella.
+
+Buio.
+
+Pietra.
+
+Pausa.
+
+Virgilio
+davanti.
+
+Dante
+dietro.
+
+Pausa lunga.
+
+Nessun dannato.
+
+Nessun demonio.
+
+Nessuna domanda.
+
+Pausa.
+
+Solo
+salire.
+
+Pausa lunga.
+
+Dopo trentaquattro
+canti
+di voci,
+
+per uscire
+serve
+un tratto
+senza nessuno.
+
+Pausa lunga.
+
+Poi
+un cerchio.
+
+Pausa.
+
+Non ancora
+il cielo intero.
+
+Pausa lunga.
+
+Un pertugio.
+
+Luce.
+
+Pausa.
+
+E dentro
+quel piccolo
+cerchio
+
+le cose belle.
+
+Pausa lunga.
+
+Non Lucifero.
+
+Non il ghiaccio.
+
+Non il centro.
+
+Pausa.
+
+Il cielo.
+
+Pausa lunga.
+
+Adesso
+Dante
+può dirlo.
+
 > Luogo è là giù da Belzebù remoto
 > tanto quanto la tomba si distende,
 > che non per vista, ma per suono è noto
@@ -501,189 +1070,6 @@ Al buio.
 > che porta il ciel, per un pertugio tondo;
 > e quindi uscimmo a riveder le stelle.
 
-Pausa lunga.
-
-Virgilio spiega.
-
-Non con simboli.
-
-Con cosmologia.
-
-Pausa.
-
-Il centro della terra.
-
-I pesi che convergono.
-
-L’emisfero opposto.
-
-Pausa.
-
-E dentro questa spiegazione
-c'è un verso che aspettavamo
-dal quarto canto.
-
-fu l’uom che nacque e visse sanza pecca:
-
-Pausa.
-
-Gerusalemme.
-Il luogo dove è morto
-l'uomo che nacque e visse senza peccato.
-
-Pausa lunga.
-
-Ricordi il possente senza nome,
-nel Limbo?
-
-In tutto l'Inferno
-il nome di Cristo
-non viene detto mai.
-
-Nemmeno qui.
-
-Pausa lunga.
-
-La caduta di Lucifero
-ha scavato
-il fondo infernale
-e ha fatto salire
-l’altra terra.
-
-Pausa.
-
-Da una caduta
-nasce anche
-la montagna
-del Purgatorio.
-
-Pausa.
-
-E ricordi Ulisse?
-Prima di affondare
-aveva visto una montagna,
-bruna per la distanza.
-
-Quasi certamente
-è questa.
-
-Pausa.
-
-Ulisse la montagna l'ha vista dal mare.
-Dante ci arriva da sotto.
-
-Pausa lunga.
-
-Poi il ruscelletto.
-
-Un ruscelletto
-che scende dalla montagna.
-
-Forse è il Lete,
-il fiume dell'oblio,
-dove le anime lavano via
-il ricordo dei peccati.
-
-Se è così,
-l'ultima traccia del male
-torna giù.
-All'Inferno.
-
-Il cunicolo.
-
-La salita.
-
-Pausa.
-
-E infine
-la riga più liberatoria
-della cantica.
-
-Pausa lunga.
-
-E quindi uscimmo
-a riveder
-le stelle.
-
-Pausa lunga.
-
-Ascolta il verso prima.
-
-tanto ch’io vidi de le cose belle
-che porta il ciel, per un pertugio tondo;
-
-Pausa.
-
-Le cose belle.
-Nel primo canto
-ti avevo chiesto di tenerle a mente.
-Le stelle della creazione.
-
-Dante le chiama
-con le stesse parole.
-
-Pausa lunga.
-
-E le rivede.
-Come avevano chiesto
-i tre fiorentini del sedicesimo canto.
-
-Pausa.
-
-Le tre cantiche
-finiscono tutte così.
-Con la stessa parola.
-Stelle.
-
-Pausa lunga.
-
-È notte.
-Fra poco, sulla montagna,
-sarà l'alba di Pasqua.
-
-## Chiusura
-
-[Schermo: nero pieno]
-
-Pausa lunga.
-
-L’Inferno
-finisce così.
-
-Non con Lucifero.
-
-Con un’uscita.
-
-Pausa.
-
-Il male assoluto
-sta fermo,
-intrappolato
-nel proprio gesto.
-
-Pausa lunga.
-
-Agita le ali.
-
-E si gela da sé.
-
-Pausa.
-
-I due poeti
-non lo vincono.
-
-Lo oltrepassano.
-
-Pausa lunga.
-
-In fondo all'Inferno
-si rivedono
-le stelle.
-
-Pausa lunga.
-
-Alza lo sguardo.
-
-[Schermo: testo — "l’Amor che move il sole e l’altre stelle."]
+[Schermo: stelle]
 
 Lungo silenzio.
