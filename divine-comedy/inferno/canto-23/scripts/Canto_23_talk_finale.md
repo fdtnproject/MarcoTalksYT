@@ -9,7 +9,8 @@ Linea guida: "La mantella d'oro pesa come piombo"
 
 Pausa lunga.
 
-Allora, il ventitreesimo canto.
+Allora,
+il ventitreesimo canto.
 
 Pausa.
 
@@ -17,19 +18,31 @@ Il ventiduesimo
 si era chiuso
 nel caos.
 
-I diavoli nella pece.
-La fuga.
-La beffa.
+Diavoli
+nella pece.
+
+Una fuga.
+
+Una zuffa.
 
 Pausa lunga.
 
 Il ventitreesimo
-apre nel silenzio.
+apre
+nel silenzio.
 
-Solo i piedi.
-Solo il cammino.
+Pausa.
 
-E Dante che pensa.
+Due persone.
+
+A piedi.
+
+Senza scorta.
+
+Pausa lunga.
+
+E Dante
+che pensa.
 
 ## vv. 1-30 - Il pensiero e la paura
 
@@ -45,24 +58,6 @@ E Dante che pensa.
 > E come l’un pensier de l’altro scoppia,
 > così nacque di quello un altro poi,
 > che la prima paura mi fe’ doppia.
-
-Pausa lunga.
-
-Dante cammina
-e nella testa
-gli torna una favola.
-
-Pausa.
-
-La rana.
-Il topo.
-
-La rissa appena vista
-diventa subito
-pensiero.
-
-Pausa lunga.
-
 > Io pensava così: «Questi per noi
 > sono scherniti con danno e con beffa
 > sì fatta, ch’assai credo che lor nòi.
@@ -84,28 +79,231 @@ Pausa lunga.
 
 Pausa lunga.
 
-I Malebranche
-sono stati frodati.
+Taciti.
 
-E i Malebranche
-torneranno.
+Soli.
+
+Senza compagnia.
 
 Pausa.
 
-Virgilio
-non aspetta
-che Dante dica tutto.
+Dopo due canti
+pieni di urla,
+raffii,
+nomi,
+battute,
 
-Ha già letto.
+improvvisamente
+solo passi.
 
 Pausa lunga.
 
-La paura di Dante
-è giusta.
+Dante pensa
+alla favola
+della rana
+e del topo.
 
-Ma ormai
-è già diventata
-decisione.
+Pausa.
+
+La rissa
+che ha appena visto
+si trasforma
+in una storia
+che conosce.
+
+Pausa lunga.
+
+Ma un pensiero
+ne genera
+un altro.
+
+Pausa.
+
+I diavoli
+sono stati umiliati.
+
+Per colpa nostra.
+
+Pausa lunga.
+
+E allora
+la paura
+raddoppia.
+
+Pausa.
+
+Dante non li vede.
+
+Li immagina.
+
+Pausa lunga.
+
+E li sente
+già dietro.
+
+Pausa.
+
+Il corpo
+arriva prima.
+
+I peli
+si rizzano.
+
+Pausa lunga.
+
+Poi Dante
+parla.
+
+E Virgilio
+dice:
+
+lo stavo pensando
+anch'io.
+
+Pausa.
+
+S'io fossi
+di piombato vetro...
+
+Pausa lunga.
+
+Uno specchio.
+
+Vetro
+con dietro
+il piombo.
+
+Pausa.
+
+Ti vedo dentro
+come uno specchio
+vede fuori.
+
+Pausa lunga.
+
+La scena
+ha ancora
+qualcosa di tenero.
+
+Dante
+ha paura.
+
+Virgilio
+non lo deride.
+
+Pausa.
+
+Prende quella paura
+e la trasforma
+in un piano.
+
+Pausa lunga.
+
+La favola
+di Esopo
+non è un giochino
+erudito.
+
+Pausa.
+
+Rana e topo
+si legano
+insieme.
+
+Uno prova
+a danneggiare
+l'altro.
+
+Pausa lunga.
+
+Arriva
+un predatore.
+
+E alla fine
+pagano
+tutti e due.
+
+Pausa.
+
+Dante
+ha appena visto
+Alichino
+e Calcabrina
+finire
+nella stessa pece
+che dovevano
+sorvegliare.
+
+Pausa lunga.
+
+Principio
+e fine.
+
+La favola
+e la scena.
+
+Pausa.
+
+Quasi uguali.
+
+Pausa lunga.
+
+Ma la mente
+di Dante
+non si ferma
+a riconoscere
+il paragone.
+
+Pausa.
+
+Fa quello
+che fa la paura.
+
+Va avanti.
+
+Pausa lunga.
+
+Se li abbiamo
+beffati,
+
+se hanno perso
+due compagni
+per colpa nostra,
+
+allora
+ci inseguiranno.
+
+Pausa.
+
+Un pensiero
+produce
+l'altro.
+
+Pausa lunga.
+
+E la paura
+non è più
+una sensazione.
+
+Diventa
+una previsione.
+
+Pausa.
+
+Io l'immagino
+sì,
+che già li sento.
+
+Pausa lunga.
+
+Non ci sono ancora.
+
+Ma nel corpo
+di Dante
+sono già
+arrivati.
+
+Pausa lunga.
 
 ## vv. 31-57 - La fuga
 
@@ -139,83 +337,272 @@ decisione.
 
 Pausa lunga.
 
-Qui il canto
-diventa corpo.
-
-Virgilio lo prende.
-Lo stringe al petto.
-E si butta.
+Non finisce
+nemmeno la frase.
 
 Pausa.
 
-Supino.
+Arrivano.
 
-Scivola giù
-come acqua per doccia.
+Ali tese.
 
 Pausa lunga.
 
-Ma il colpo vero
-non è la velocità.
+Virgilio
+non discute.
 
-È la similitudine.
+Prende Dante.
 
-Come la madre.
+Pausa.
+
+E qui
+la similitudine
+cambia tutto.
+
+Pausa lunga.
+
+Come una madre.
+
+Pausa.
+
+Una madre
+che si sveglia
+per un rumore.
+
+Vede il fuoco.
+
+Prende il figlio.
+
+Scappa.
+
+Pausa lunga.
+
+Non cerca
+prima il mantello.
+
+Non pensa
+a sé.
+
+Pausa.
+
+Solo una camicia.
+
+Pausa lunga.
+
+Virgilio
+si butta
+supino
+sulla roccia.
+
+Dante
+sul petto.
+
+Pausa.
+
+Non come
+un compagno.
+
+Come un figlio.
+
+Pausa lunga.
+
+Questa riga
+va detta piano.
+
+come suo figlio,
+non come compagno.
+
+Pausa lunga.
+
+Fin qui
+Virgilio era stato
+maestro.
+
+Guida.
+
+Padre.
+
+Pausa.
+
+Qui diventa
+madre.
+
+Pausa lunga.
+
+La protezione
+non è un concetto.
+
+È un corpo
+che ne porta
+un altro.
+
+Pausa.
+
+E il canto
+ha appena mostrato
+che anche Virgilio
+può essere ingannato.
+
+Pausa lunga.
+
+Non per questo
+smette di essere
+guida.
+
+Pausa.
+
+Anzi.
+
+Quando capisce
+il pericolo,
+
+agisce.
+
+Pausa lunga.
+
+Arrivano
+sul fondo
+un istante
+prima dei diavoli.
+
+Pausa.
+
+E i Malebranche
+si fermano.
+
+Non possono
+uscire
+dalla bolgia
+che gli è stata assegnata.
+
+Pausa lunga.
+
+La fuga
+riesce.
+
+Pausa lunga.
+
+Prova
+a vedere
+la discesa.
 
 Pausa.
 
 Virgilio
-qui
-è la madre.
+si mette
+sulla schiena.
+
+La roccia
+va giù.
 
 Dante
-è il figlio.
-
-Un’immagine tenera
-nel mezzo dell’Inferno.
+sta sopra
+il suo petto.
 
 Pausa lunga.
 
-portandosene me sovra ’l suo petto,
-come suo figlio, non come compagno.
+Non c'è
+un appiglio
+da scegliere.
+
+Non c'è
+tempo
+per spiegare.
 
 Pausa.
 
-Non un compagno di viaggio.
-Un figlio.
+Solo gravità.
+
+Corpo.
+
+Velocità.
 
 Pausa lunga.
 
-Tienila a mente, questa madre.
-Perché tornerà.
+La similitudine
+dell'acqua
+fa sentire
+quanto è rapida.
 
-In cima al Purgatorio,
-quando apparirà Beatrice,
-Dante si volterà verso Virgilio
+Pausa.
 
-volsimi a la sinistra col rispitto
-col quale il fantolin corre a la mamma,
-quand’ha paura o quand’egli è afflitto,
-
-Pausa lunga.
-
-E Virgilio non ci sarà più.
-
-ma Virgilio n’avea lasciati scemi
-di sé, Virgilio, dolcissimo patre
+Acqua
+che corre
+verso la ruota
+di un mulino.
 
 Pausa lunga.
 
-Qui la madre
-lo prende in braccio
-e lo porta via dal fuoco.
+Più si avvicina
+alla pala,
+più accelera.
 
-Lì il bambino si volta.
-E non c'è nessuno.
+Pausa.
+
+Così Virgilio.
+
+Pausa lunga.
+
+E mentre
+scivola,
+
+non lascia
+Dante.
+
+Pausa.
+
+Lo porta
+al petto.
+
+Pausa lunga.
+
+È il contrario
+di Gerione.
+
+Lì Dante
+era davanti
+e Virgilio
+si metteva
+fra lui
+e la coda.
+
+Pausa.
+
+Qui non c'è
+una bestia
+da montare.
+
+Pausa lunga.
+
+La guida stessa
+diventa
+il mezzo
+di salvezza.
+
+Pausa.
+
+E appena
+i piedi
+toccano il fondo,
+
+i diavoli
+sono già
+sul bordo
+sopra di loro.
+
+Pausa lunga.
+
+Un istante.
+
+Pausa.
+
+Tutta la scena
+si gioca
+su un istante.
+
+Pausa lunga.
 
 ## vv. 58-90 - Gli ipocriti
-
-[Schermo: Doré — la processione degli ipocriti]
 
 > Là giù trovammo una gente dipinta
 > che giva intorno assai con lenti passi
@@ -251,20 +638,29 @@ E non c'è nessuno.
 > e se son morti, per qual privilegio
 > vanno scoperti de la grave stola?»
 
+[Schermo: Doré — la processione degli ipocriti]
+
 Pausa lunga.
 
 La sesta bolgia
-non grida.
+non corre.
 
 Striscia.
 
 Pausa.
 
-Lenta.
-Pesante.
-Silenziosa.
+Dopo la fuga
+più veloce
+del canto,
+
+la camminata
+più lenta.
 
 Pausa lunga.
+
+Gente dipinta.
+
+Pausa.
 
 Fuori:
 oro.
@@ -272,97 +668,208 @@ oro.
 Dentro:
 piombo.
 
+Pausa lunga.
+
+Il contrasto
+è già sufficiente.
+
+Non serve
+inventarne un altro.
+
 Pausa.
 
-È una delle invenzioni
-più feroci
-di tutto l’Inferno.
+L'oro
+riveste.
 
-Non il fuoco.
-Non la pece.
-
-Un peso
-che luccica.
+Il piombo
+pesa.
 
 Pausa lunga.
 
-Là giù trovammo una gente dipinta
+Quello che appare
+prezioso
+rende ogni passo
+quasi impossibile.
+
+Pausa.
+
+E il cappuccio
+è basso
+sugli occhi.
+
+Pausa lunga.
+
+Non soltanto
+un vestito.
+
+Una postura.
+
+Pausa.
+
+La processione
+degli ipocriti
+è tutta
+rivolta verso il basso.
+
+Pausa lunga.
+
+Dante e Virgilio
+camminano accanto.
+
+Ma sono troppo veloci.
+
+Pausa.
+
+Devono rallentare
+per parlare
+con loro.
+
+Pausa lunga.
+
+Ed è quasi
+una pena aggiuntiva.
+
+La conversazione
+ha il passo
+del piombo.
+
+Pausa.
+
+Uno di loro
+sente il toscano.
+
+E chiede:
+
+aspettate.
+
+Pausa lunga.
+
+Anche qui
+prima del nome
+arriva la lingua.
+
+Pausa lunga.
+
+E guarda
+come Dante
+le chiama.
+
+Pausa.
+
+Gente dipinta.
+
+Pausa lunga.
+
+Non dice
+subito
+ipocriti.
+
+Prima
+ci fa vedere
+la superficie.
 
 Pausa.
 
 Dipinta.
-Truccata.
 
-Pausa.
+Dorata.
 
-In greco,
-ipocrita
-vuol dire attore.
-
-Indica se stesso.
-
-Uno come me.
-
-Pausa.
-
-Ma l'attore
-il trucco lo dichiara.
-L'ipocrita no.
+Abbagliante.
 
 Pausa lunga.
 
-Il greco, Dante non lo leggeva.
-Usava i dizionari latini.
-E in uno dei più diffusi,
-quello di Uguccione da Pisa,
-ipocrita si spiegava così:
-sopra, e oro.
-Dorato sopra.
+Poi arriva
+il peso.
 
 Pausa.
 
-È un'etimologia sbagliata.
-Ma molto probabilmente
-da lì viene
-l'oro di queste cappe.
+E il peso
+non si vede.
 
-Di fuor dorate son, sì ch’egli abbaglia;
-ma dentro tutte piombo
+Si sente
+nel passo.
 
 Pausa lunga.
 
-E il piombo
-l'avevamo già incontrato.
+Questo
+è importante.
 
-Quaranta versi prima,
-Virgilio aveva detto a Dante:
-ti leggo dentro
-meglio di uno specchio.
+La bolgia
+non dice:
 
-S’io fossi di piombato vetro,
+non fidarti
+di ciò che luccica.
 
 Pausa.
 
-Vetro piombato.
-Lo specchio, scrive Dante nel Convivio,
-è vetro terminato con piombo.
+Dice qualcosa
+di più fisico.
 
 Pausa lunga.
 
-Lo stesso metallo.
+Ciò che mostri
+può diventare
+un peso
+che devi portare.
 
-Nello specchio,
-il piombo fa vedere.
+Pausa.
 
-Nella cappa,
-il piombo nasconde.
+E non una volta.
+
+In eterno.
 
 Pausa lunga.
 
-E i due che si avvicinano
-fanno fatica
-anche solo
-a raggiungerlo.
+Ogni passo
+ricomincia
+il peso.
+
+Pausa.
+
+Per questo
+Dante insiste
+sulla lentezza.
+
+Pausa lunga.
+
+Non possono
+liberarsi
+della cappa.
+
+Non possono
+aprirla
+e mostrare
+che cosa c'è dentro.
+
+Pausa.
+
+La portano.
+
+Pausa lunga.
+
+E mentre
+la portano,
+
+continuano
+a riconoscere
+chi passa.
+
+Pausa.
+
+Continuano
+a parlare.
+
+Pausa lunga.
+
+La pena
+non toglie
+la coscienza
+della maschera.
+
+La rende
+incancellabile.
+
+Pausa lunga.
 
 ## vv. 91-108 - Catalano e Loderingo
 
@@ -387,65 +894,99 @@ a raggiungerlo.
 
 Pausa lunga.
 
-I nomi arrivano.
-
 Catalano.
+
 Loderingo.
 
 Pausa.
 
 Frati Godenti.
 
-Quelli presi
+Chiamati
+a Firenze
+per conservare
+la pace.
+
+Pausa lunga.
+
+Due uomini
 insieme
-per garantire la pace.
-
-Pausa lunga.
-
-Sopra le parti.
-Neutri.
-Garanti.
-
-Eppure, dice il frate:
-
-e fummo tali
-ch’ancor si pare intorno dal Gardingo.
+al posto
+di uno solo.
 
 Pausa.
 
-La pace promessa
-è diventata
-macerie.
+Un equilibrio.
+
+Una garanzia.
 
 Pausa lunga.
 
-E quelle macerie
-le conosciamo.
-
-Il Gardingo
-era la zona
-delle case e delle torri degli Uberti.
-La famiglia di Farinata.
-
-Sotto il governo di questi due frati,
-nel 1266,
-furono rase al suolo.
+Eppure
+il risultato
+si vede ancora
+al Gardingo.
 
 Pausa.
 
-È il vuoto del decimo canto.
-Quello che oggi
-è piazza della Signoria.
+Le case
+degli Uberti.
+
+La famiglia
+di Farinata.
 
 Pausa lunga.
 
-Due uomini chiamati a garantire la pace.
-E la piazza più famosa di Firenze
-nasce da quelle macerie.
+Rase al suolo.
+
+Pausa.
+
+La pace
+ha lasciato
+un vuoto.
+
+Pausa lunga.
+
+Quel vuoto
+oggi è
+piazza della Signoria.
+
+Pausa.
+
+La storia
+non è qui
+per fare turismo.
+
+Pausa lunga.
+
+Serve a capire
+la cappa.
+
+Fuori:
+un incarico
+di pace.
+
+Dentro:
+un risultato
+che pesa ancora.
+
+Pausa lunga.
+
+L'ipocrisia
+non è semplicemente
+mentire.
+
+Pausa.
+
+È costruire
+una forma
+che dice
+una cosa
+
+e ne contiene
+un'altra.
 
 ## vv. 109-126 - Caifasso
-
-[Schermo: nero pieno]
 
 > Io cominciai: «O frati, i vostri mali…»;
 > ma più non dissi, ché a l’occhio mi corse
@@ -456,8 +997,7 @@ nasce da quelle macerie.
 > mi disse: «Quel confitto che tu miri
 > consigliò i Farisei che conveniva
 > porre un uom per lo popolo a’ martiri.
-> Attraversato e nudo è ne la via,
-> come tu vedi, ed è mestier ch’êl senta
+> Attraversato e nudo è ne la via,> come tu vedi, ed è mestier ch’êl senta
 > qualunque passa, come pesa, pria.
 > E a tal modo il socero si stenta
 > in questa fossa, e gli altri del concilio
@@ -466,68 +1006,241 @@ nasce da quelle macerie.
 > sovra colui ch’era disteso in croce
 > tanto vilmente ne l’eterno esilio.
 
+[Schermo: nero pieno]
+
 Pausa lunga.
 
-Dante vede
-qualcosa per terra.
+Dante
+sta per rispondere.
 
-Un corpo.
-
-Crucifisso.
+Poi vede
+qualcosa
+per terra.
 
 Pausa.
 
-E gli altri
-gli passano sopra.
+Un corpo.
 
 Pausa lunga.
 
+Crucifisso.
+
+Nudo.
+
+Steso
+di traverso.
+
+Pausa.
+
 Caifasso.
 
-Quello che disse:
-conviene
-che uno muoia
+Pausa lunga.
+
+Il consiglio
+era stato:
+
+meglio
+che muoia
+un uomo
 per il popolo.
 
 Pausa.
 
-Ha vestito
-di bene comune
-un calcolo politico.
-
-Adesso
-è lui
-steso in mezzo alla via.
+Una frase
+che trasforma
+una decisione
+in necessità.
 
 Pausa lunga.
 
-E chi passa
-gli fa sentire
-quanto pesa.
-
-Pausa lunga.
-
-E quando vede Dante,
-si contorce.
-
-Quando mi vide, tutto si distorse
+Non:
+lo vogliamo.
 
 Pausa.
 
-Perché?
-
-Un antico commentatore,
-Francesco da Buti,
-risponde così.
-
-Vede un cristiano.
-Salvato da quella morte
-che lui aveva voluto.
+Conviene.
 
 Pausa lunga.
 
-L'uomo del calcolo
-vede il risultato.
+Il linguaggio
+dell'utile
+copre
+la violenza.
+
+Pausa.
+
+Qui invece
+non c'è copertura.
+
+Pausa lunga.
+
+È nudo.
+
+Per terra.
+
+Pausa.
+
+E tutti
+gli passano sopra.
+
+Pausa lunga.
+
+Deve sentire
+quanto pesa
+ciascuno.
+
+Pausa.
+
+Ancora
+il peso.
+
+Pausa lunga.
+
+Prima
+il piombo.
+
+Adesso
+i corpi.
+
+Pausa.
+
+Il canto
+dell'ipocrisia
+trasforma
+tutto
+in peso reale.
+
+Pausa lunga.
+
+E Virgilio
+si meraviglia.
+
+Pausa.
+
+Non è una reazione
+casuale.
+
+La morte di Cristo
+ha già lasciato
+segni fisici
+in questo Inferno.
+
+Pausa lunga.
+
+Rocce rotte.
+
+Ponti crollati.
+
+Qui trova
+uno degli uomini
+che hanno preparato
+quella morte.
+
+Pausa lunga.
+
+Non una roccia.
+
+Un corpo.
+
+Pausa lunga.
+
+E il caso
+di Caifasso
+è ancora
+più preciso.
+
+Pausa.
+
+Non ha
+un mantello
+dorato.
+
+Pausa lunga.
+
+La sua cappa
+è una frase.
+
+Pausa.
+
+Conviene
+che uno muoia
+per il popolo.
+
+Pausa lunga.
+
+Una frase
+che sembra
+ragionevole.
+
+Politica.
+
+Responsabile.
+
+Pausa.
+
+Uno solo
+al posto
+di molti.
+
+Pausa lunga.
+
+Ma il canto
+la spoglia.
+
+Pausa.
+
+Niente formula.
+
+Niente consiglio.
+
+Un uomo
+nudo
+per terra.
+
+Pausa lunga.
+
+E tutti
+gli camminano
+sopra.
+
+Pausa.
+
+Quello che
+aveva trasformato
+un uomo
+in un costo
+necessario
+
+adesso sente
+il peso
+di ogni uomo
+che passa.
+
+Pausa lunga.
+
+Non serve
+dire
+che Dante
+sta facendo
+un'equazione
+politica perfetta.
+
+Pausa.
+
+La scena
+basta.
+
+Pausa lunga.
+
+Una decisione
+rivestita
+di utilità
+
+riportata
+al corpo
+che deve subirla.
+
+Pausa lunga.
 
 ## vv. 127-148 - Malacoda bugiardo
 
@@ -556,94 +1269,194 @@ vede il risultato.
 
 Pausa lunga.
 
-Qui arriva
-il colpo finale.
-
-Virgilio chiede
-un passo d’uscita.
-
-Il frate glielo indica.
-
-Pausa.
-
-E solo adesso
+E qui
 Virgilio scopre
-la menzogna di Malacoda.
+la bugia.
 
-Noi lo sapevamo
-dal ventunesimo canto.
+Pausa.
+
+Non c'è
+un ponte intero.
 
 Pausa lunga.
 
-I ponti
-non erano intatti.
-
-Nessuno.
-Sopra questa bolgia
-sono crollati tutti.
+Malacoda
+aveva mescolato
+un'informazione vera
+con una falsa.
 
 Pausa.
 
-Lo stesso terremoto.
-La morte di Cristo.
-
-E qui,
-sopra Caifasso,
-non ha lasciato in piedi
-neanche un ponte.
+Il ponte rotto:
+vero.
 
 Pausa.
 
-Forse non è un caso.
+Il ponte successivo:
+falso.
 
 Pausa lunga.
-
-Malacoda lo sapeva.
-
-Ha mentito
-con perfetta naturalezza.
-
-Pausa.
-
-E il frate ci mette il carico.
-
-Io udi’ già dire a Bologna
-del diavol vizi assai; tra i quali udi’
-ch’egli è bugiardo e padre di menzogna.
-
-Pausa.
-
-A Bologna.
-Dove si studia teologia.
-Come a dire:
-queste cose le sa ogni studente.
-
-Pausa.
-
-E lo dice con le parole del Vangelo.
-Un ipocrita che cita Gesù,
-a due passi da Caifasso.
-
-Pausa.
 
 Virgilio
-non crolla.
+abbassa la testa.
 
-Ma si turba d’ira.
+Pausa.
+
+Mal contava
+la bisogna.
 
 Pausa lunga.
 
-Questo conta.
+Non dice:
+sono stato stupido.
 
-La ragione
-può essere ingannata.
+Pausa.
 
-Non perché sia debole.
+Dice:
+mi ha raccontato
+male la situazione.
 
-Ma perché
-la menzogna
-sa parlare
-con la voce della verità.
+Pausa lunga.
+
+E il frate
+risponde
+con una battuta
+perfetta.
+
+Pausa.
+
+A Bologna
+ho sentito dire
+che il diavolo
+è bugiardo.
+
+Pausa lunga.
+
+Padre
+di menzogna.
+
+Pausa.
+
+La guida
+che rappresenta
+la ragione
+è stata ingannata
+proprio
+nel regno
+della frode.
+
+Pausa lunga.
+
+Questo
+non distrugge
+la ragione.
+
+Le ricorda
+un limite.
+
+Pausa.
+
+Una premessa
+falsa
+può far correre
+anche un ragionamento
+corretto
+nella direzione
+sbagliata.
+
+Pausa lunga.
+
+Virgilio
+si arrabbia.
+
+E riparte.
+
+A grandi passi.
+
+Pausa.
+
+Dante
+lo segue.
+
+Dietro
+le care piante.
+
+Pausa lunga.
+
+E quando
+Virgilio riparte,
+
+il canto
+non lo umilia.
+
+Pausa.
+
+Non ride
+di lui.
+
+Pausa lunga.
+
+È arrabbiato.
+
+Ha capito.
+
+Corregge
+la strada.
+
+Pausa.
+
+Questo
+è il contrario
+dell'ipocrisia.
+
+Pausa lunga.
+
+Essere scoperti
+in errore
+e cambiare.
+
+Pausa.
+
+Non coprire
+l'errore
+con una cappa
+dorata.
+
+Pausa lunga.
+
+Dante
+lo segue
+per questo.
+
+Pausa.
+
+Non perché
+Virgilio
+non sbagli mai.
+
+Pausa lunga.
+
+Perché
+quando sbaglia
+continua
+a guidare
+verso il vero.
+
+Pausa lunga.
+
+Pausa lunga.
+
+Care.
+
+Pausa.
+
+Dopo la madre.
+
+Dopo la fuga.
+
+Dopo l'errore.
+
+Restano care.
 
 ## Chiusura
 
@@ -652,34 +1465,64 @@ con la voce della verità.
 Pausa lunga.
 
 Il ventitreesimo canto
-ha due pesi.
-
-Il primo
-è il mantello.
-
-Oro fuori.
-Piombo dentro.
-
-Pausa lunga.
-
-Il secondo
-è Caifasso.
-
-Steso.
-Confitto.
-Calpestato.
+ha un ritmo
+strano.
 
 Pausa.
 
-Anche lui
-aveva un mantello.
+Prima
+una corsa.
 
-Fuori:
-la cura del popolo.
-
-Dentro:
-il calcolo.
+Poi
+una processione
+quasi immobile.
 
 Pausa lunga.
 
-La mantella d’oro pesa come piombo.
+Prima
+un corpo
+portato
+sul petto.
+
+Poi
+corpi
+schiacciati
+dal proprio vestito.
+
+Pausa.
+
+E infine
+un corpo
+steso
+sulla strada.
+
+Pausa lunga.
+
+La cappa
+luccica.
+
+Ma pesa.
+
+Pausa.
+
+Caifasso
+parla di bene comune.
+
+Ma viene
+calpestato.
+
+Pausa lunga.
+
+La forma
+non salva
+quello che contiene.
+
+Pausa.
+
+La mantella d'oro
+pesa
+come piombo.
+
+Pausa.
+
+[Schermo: nero pieno]
