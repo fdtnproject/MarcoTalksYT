@@ -9,7 +9,8 @@ Linea guida: "Chi ha guardato avanti ora guarda solo indietro"
 
 Pausa lunga.
 
-Allora, il ventesimo canto.
+Allora,
+il ventesimo canto.
 
 Pausa.
 
@@ -18,19 +19,23 @@ continua ad aprirsi.
 
 Ma qui
 la pena
-non è fatta di fruste,
-né di sterco,
-né di fuoco.
+non è fatta di fruste.
 
-Pausa.
+Non di sterco.
 
-È fatta di un gesto
-impossibile.
+Non di fuoco.
 
 Pausa lunga.
 
+È fatta
+di un gesto
+impossibile.
+
+Pausa.
+
 La testa
-girata all'indietro.
+girata
+all'indietro.
 
 ## vv. 1-18 - La quarta bolgia
 
@@ -55,43 +60,227 @@ girata all'indietro.
 
 Pausa lunga.
 
-Dante lo dice subito:
-nuova pena.
+Dante lo dice subito.
+
+Nuova pena.
 
 Pausa.
 
-E quando guarda,
-vede una processione lenta.
+E quando guarda
+vede una processione.
+
+Lenta.
 
 Tacendo.
+
 Lagrimando.
 
 Come una litania.
 
 Pausa lunga.
 
-Poi il colpo.
+Non corrono.
 
-Il volto
-è tornato alle reni.
+Non si inseguono.
+
+Non gridano.
+
+Camminano.
 
 Pausa.
 
-Per camminare
-devono venire indietro.
+Poi lo sguardo
+di Dante
+scende.
+
+E capisce.
+
+Pausa lunga.
+
+Il volto
+è tornato
+alle reni.
+
+Pausa.
+
+Per andare avanti
+devono camminare
+all'indietro.
 
 Perché vedere davanti
-gli è stato tolto.
+è diventato
+impossibile.
 
 [Schermo: Doré — gli indovini con il volto travolto]
 
 Pausa lunga.
 
-Hanno voluto forzare il tempo.
+Fermati
+sull'immagine.
+
+Il petto
+va in una direzione.
+
+Gli occhi
+nell'altra.
+
+Pausa.
+
+Ogni passo
+separa
+il corpo
+dallo sguardo.
+
+Pausa lunga.
+
+Hanno voluto
+forzare
+ciò che stava davanti.
 
 Adesso
 non possiedono più
-nemmeno la direzione del passo.
+nemmeno
+la direzione del passo.
+
+Pausa lunga.
+
+E c'è un dettaglio
+che rallenta tutto.
+
+Pausa.
+
+Vengono
+al passo
+delle letane.
+
+Pausa lunga.
+
+Una processione
+religiosa.
+
+Ma rovesciata.
+
+Pausa.
+
+Nelle letanie
+si cammina
+verso qualcosa.
+
+Qui il corpo
+va avanti
+ma lo sguardo
+resta indietro.
+
+Pausa lunga.
+
+E non possono
+correggersi.
+
+Non possono
+girare la testa
+per un momento.
+
+Non possono
+scegliere
+dove guardare.
+
+Pausa.
+
+Il castigo
+non è soltanto
+vedere male.
+
+È perdere
+la libertà
+del proprio sguardo.
+
+Pausa lunga.
+
+Dante insiste
+sul collo.
+
+Tra il mento
+e il principio
+del casso.
+
+Pausa.
+
+Proprio il punto
+in cui il volto
+dovrebbe poter
+voltarsi.
+
+Qui no.
+
+Pausa lunga.
+
+È diventato
+una cerniera
+bloccata.
+
+Pausa lunga.
+
+Prova anche
+a immaginare
+il movimento.
+
+Pausa.
+
+Il piede
+va dove
+l'occhio non vede.
+
+Ogni passo
+arriva
+alle spalle.
+
+Pausa lunga.
+
+Non puoi
+anticipare
+un ostacolo.
+
+Non puoi
+vedere
+chi ti viene incontro.
+
+Non puoi
+correggere
+la direzione
+con lo sguardo.
+
+Pausa.
+
+Devi affidarti
+al terreno
+che hai già
+superato.
+
+Pausa lunga.
+
+È quasi
+il contrario
+di un viaggio.
+
+Dante
+sta andando
+verso qualcosa.
+
+Loro
+possono soltanto
+portarsi dietro
+il davanti.
+
+Pausa lunga.
+
+Pausa.
+
+E allora
+il corpo intero
+deve adattarsi
+a quell'errore.
+
+Pausa lunga.
 
 ## vv. 19-30 - Dante piange
 
@@ -118,80 +307,270 @@ Piange davvero.
 
 Pausa.
 
+E non sta dritto.
+
+È appoggiato
+alla roccia.
+
+Pausa.
+
+Il corpo
+reagisce
+prima della teoria.
+
+Pausa lunga.
+
+La nostra imagine.
+
+Pausa.
+
+Non dice:
+la loro.
+
+Dice:
+la nostra.
+
+Pausa lunga.
+
+Una forma umana
+che conosce.
+
+La stessa
+del suo corpo.
+
+Ma torta.
+
+Pausa.
+
 E Virgilio
-lo ferma di colpo.
+lo ferma
+di colpo.
+
+Pausa lunga.
 
 Ancor se' tu
 de gli altri sciocchi?
 
-Pausa lunga.
+Pausa.
 
 Qui vive la pietà
 quand'è ben morta.
 
-Pausa.
+Pausa lunga.
 
 È una delle frasi
-più dure dell'Inferno.
-
-Perché dice questo:
-
-non ogni compassione
-è giusta.
-
-Pausa lunga.
-
-Qui compatire
-significa protestare
-contro il giudizio.
-
-Pausa lunga.
-
-E c'è un gioco di parole.
+più dure
+dell'Inferno.
 
 Pausa.
 
 Pietà
-vuol dire compassione.
-Ma vuol dire anche devozione.
-Rispetto per Dio.
+vuol dire
+compassione.
 
-Qui vive la pietà quand’è ben morta.
+Ma anche
+pietas.
 
-Pausa.
+Devozione.
 
-Secondo una lettura molto diffusa:
-qui la devozione vive
-quando la compassione è morta.
+Rispetto
+per l'ordine divino.
 
 Pausa lunga.
 
-È un filo che attraversa l'Inferno.
+Secondo una lettura
+molto diffusa,
+qui Virgilio
+sta dicendo:
+
+la vera pietà
+non può trasformarsi
+in protesta
+contro il giudizio.
+
+Pausa.
+
+Ma la scena
+resta scomoda.
+
+Perché Dante
+non sta piangendo
+un'idea.
+
+Pausa lunga.
+
+Sta guardando
+un corpo umano
+che non dovrebbe
+potersi muovere così.
+
+Pausa.
+
 Davanti a Francesca
-Dante sviene di pietà.
-Davanti a Pier della Vigna
-non riesce a parlare.
-Con Filippo Argenti
-Virgilio lo benedice
-perché non ne ha.
+era svenuto.
 
-E qui viene rimproverato.
+Davanti a Pier
+della Vigna
+non riusciva
+a parlare.
+
+Qui Virgilio
+lo rimette
+dritto.
+
+Con una parola.
 
 Pausa lunga.
 
-Ma io credo
-che qui Dante pianga
-per qualcosa di più semplice.
-
-quando la nostra imagine da presso
-vidi sì torta
+E questa
+non è la prima volta
+che la pietà
+di Dante
+diventa un problema.
 
 Pausa.
 
-La nostra immagine.
-Il corpo umano,
-storto così.
+Con Francesca
+la pietà
+lo aveva abbattuto.
 
+Cade
+come corpo morto.
+
+Pausa lunga.
+
+Con Ciacco
+aveva chiesto
+che cosa gli sarebbe
+accaduto
+dopo il giudizio.
+
+Con Pier
+della Vigna
+la pietà
+gli aveva tolto
+la voce.
+
+Pausa.
+
+Qui Virgilio
+fa qualcosa
+di diverso.
+
+Non consola.
+
+Non accompagna.
+
+Corregge.
+
+Pausa lunga.
+
+Come se
+il viaggio
+dovesse insegnare
+anche questo:
+
+non basta
+provare dolore
+davanti al dolore.
+
+Pausa.
+
+Bisogna capire
+che cosa
+si sta guardando.
+
+Pausa lunga.
+
+E Dante
+non smette
+di essere umano.
+
+Continua
+a piangere.
+
+Ma da qui
+in avanti
+la pietà
+non potrà più
+essere automatica.
+
+Pausa lunga.
+Pausa lunga.
+
+C'è anche
+un'altra cosa
+che cambia
+quando il volto
+è girato così.
+
+Pausa.
+
+Non puoi
+guardare
+chi cammina
+accanto a te.
+
+Pausa lunga.
+
+Per incontrare
+uno sguardo
+dovresti girare
+tutto il corpo.
+
+Ma la processione
+continua.
+
+Pausa.
+
+Ognuno
+porta la propria
+deformazione.
+
+In silenzio.
+
+Pausa lunga.
+
+È molto diverso
+dalle bolge
+che abbiamo appena visto.
+
+Venedico parlava.
+
+Niccolò III
+parlava.
+
+Qui, all'inizio,
+nessuno dice niente.
+
+Pausa.
+
+La pena
+si spiega
+prima ancora
+che qualcuno
+apra bocca.
+
+Pausa lunga.
+
+E forse
+è per questo
+che Virgilio
+comincia a indicare
+i nomi
+uno per uno.
+
+Pausa.
+
+Il corpo
+ha già detto
+la regola.
+
+Adesso
+restano
+le storie.
+
+Pausa lunga.
 ## vv. 31-39 - Anfiarao
 
 > Drizza la testa, drizza, e vedi a cui
@@ -204,40 +583,113 @@ storto così.
 > perché volle veder troppo davante,
 > diretro guarda, e fa retroso calle.
 
+Pausa lunga.
+
+Drizza la testa.
+
+Drizza.
+
 Pausa.
 
-Virgilio non resta nell'astratto.
+Dante è piegato
+sulla pietà.
 
-Indica.
+Virgilio
+lo rimette
+nella scena.
 
 Pausa.
 
 Guarda Anfiarao.
 
-Aveva tentato di sfuggire
+Pausa lunga.
+
+Aveva tentato
+di sfuggire
 al proprio destino.
-La terra lo inghiottì.
+
+La terra
+lo inghiottì.
 
 Ed eccolo qui.
 
+Pausa.
+
+Volta le spalle
+alla camera.
+
+Cammina
+all'indietro.
+
 Pausa lunga.
 
-Volta le spalle alla camera.
-Cammina all'indietro.
-
 perché volle veder troppo davante,
-diretro guarda, e fa retroso calle.
-
-Si gira.
+diretro guarda,
+e fa retroso calle.
 
 Pausa.
 
-La pena del canto
-sta tutta qui:
+La pena
+sta tutta qui.
 
-la pretesa di sapere
-diventa impossibilità
-di orientarsi.
+Pausa lunga.
+
+La pretesa
+di possedere
+il davanti
+
+è diventata
+incapacità
+di orientarsi
+nel presente.
+
+Pausa lunga.
+
+E infatti
+Virgilio
+non gli dice:
+
+non guardare.
+
+Pausa.
+
+Gli dice:
+
+guarda meglio.
+
+Pausa lunga.
+
+Drizza la testa.
+
+Mira.
+
+Vedi.
+
+Pausa.
+
+Tre verbi
+di sguardo
+nel canto
+di chi ha usato
+male lo sguardo.
+
+Pausa lunga.
+
+Dante deve
+continuare
+a vedere.
+
+Il problema
+non è
+aprire gli occhi.
+
+È credere
+che aprirli
+basti
+a possedere
+quello che c'è.
+
+Pausa lunga.
 
 ## vv. 40-51 - Tiresia e Aronta
 
@@ -266,28 +718,41 @@ Pausa.
 
 Il primo
 porta con sé
-la leggenda più famosa:
-il cambio di sesso,
-i serpenti,
-la doppia esperienza.
+la leggenda
+più famosa.
 
-Il secondo
-è già un uomo
-ritirato nei monti,
-fra i marmi,
-a guardare stelle e mare.
+Il cambio di sesso.
+
+I serpenti.
+
+La doppia esperienza.
 
 Pausa lunga.
 
-Non importa
-se il rito è mitico
-o se l'astrologo
-è quasi storico.
+Aronta invece
+viveva fra i monti.
 
-Il punto è lo stesso:
+Fra i marmi.
 
-hanno fatto del vedere
-un abuso.
+Con il cielo
+aperto davanti.
+
+E il mare.
+
+Pausa.
+
+Un uomo
+che aveva scelto
+un punto alto
+per guardare
+lontano.
+
+Pausa lunga.
+
+Qui nessuno
+di loro
+può più guardare
+avanti.
 
 ## vv. 52-78 - Manto e il lago
 
@@ -321,40 +786,178 @@ un abuso.
 
 Pausa lunga.
 
-Poi Virgilio si ferma
-su una figura sola.
+Poi Virgilio
+si ferma
+su una figura.
 
 Manto.
 
 Pausa.
 
-E qui succede una cosa rara.
-
-Virgilio non spiega soltanto.
-
-Virgilio
-parla di casa.
+E qui
+succede qualcosa
+di raro.
 
 Pausa lunga.
 
-Parte da Manto,
-ma presto il discorso
-diventa geografia,
-fiume,
-lago,
-argine,
-nascita di una città.
+Virgilio
+non sta più
+solo spiegando.
+
+Sta parlando
+di casa.
 
 Pausa.
 
+poscia si pose là
+dove nacqu'io;
+
+Pausa lunga.
+
+Basta quella riga.
+
+Poi parte.
+
 Benaco.
-Mencio.
+
+Garda.
+
+Val Camonica.
+
 Peschiera.
 
-Nomina i luoghi
-come chi li conosce
-con il corpo,
-non da libro.
+Mencio.
+
+Governolo.
+
+Po.
+
+Pausa.
+
+Il canto
+degli indovini
+per qualche minuto
+si trasforma
+in una carta geografica.
+
+Pausa lunga.
+
+Ma questa volta
+la geografia
+non serve
+a dominare il futuro.
+
+Serve
+a ricordare
+un luogo.
+
+Pausa.
+
+Virgilio
+nomina l'acqua
+mentre cambia nome.
+
+Lago.
+
+Fiume.
+
+Palude.
+
+Pausa lunga.
+
+Seguirla
+significa
+arrivare
+a Mantova.
+
+Pausa lunga.
+
+Segui l'acqua.
+
+Pausa.
+
+Nasce
+dalle montagne.
+
+Si raccoglie
+nel lago.
+
+Esce
+come fiume.
+
+Si distende
+nella pianura.
+
+Pausa lunga.
+
+Virgilio
+non salta
+da un nome
+all'altro.
+
+Ci porta.
+
+Pausa.
+
+Come se
+per arrivare
+a Mantova
+fosse necessario
+rifare davvero
+la strada
+dell'acqua.
+
+Pausa lunga.
+
+E ogni nome
+ha una posizione.
+
+Garda.
+
+Brescia.
+
+Verona.
+
+Peschiera.
+
+Pausa.
+
+Non è
+una cartolina.
+
+È precisione.
+
+Pausa lunga.
+
+Nel canto
+di chi pretende
+di sapere
+quello che ancora
+non esiste,
+
+Virgilio
+fa il contrario.
+
+Pausa.
+
+Dice
+quello che c'è.
+
+Dove passa
+l'acqua.
+
+Come cambia
+nome.
+
+Dove arriva.
+
+Pausa lunga.
+
+Nessuna profezia.
+
+Una mappa.
+
+Pausa lunga.
 
 ## vv. 79-99 - Mantova
 
@@ -382,17 +985,21 @@ non da libro.
 
 Pausa lunga.
 
-E adesso il punto.
-
-Virgilio vuole
-che questa storia
-sia detta giusta.
+E adesso
+il punto.
 
 Pausa.
 
-Non genericamente.
+Virgilio vuole
+che questa storia
+sia detta
+giusta.
 
-Giusta nei dettagli.
+Pausa.
+
+Non vagamente.
+Giusta
+nei dettagli.
 
 Pausa lunga.
 
@@ -408,64 +1015,302 @@ Pausa.
 
 Qui la guida
 non è soltanto
-la voce della ragione.
+la ragione.
+
+Pausa lunga.
 
 È un mantovano
-che difende Mantova.
-
-Pausa lunga.
-
-E c'è di più.
-Sta correggendo se stesso.
+che difende
+Mantova.
 
 Pausa.
+
+E c'è
+di più.
 
 Nell'Eneide
-Virgilio aveva scritto
-che Mantova l'aveva fondata
-un figlio di Manto,
-e le aveva dato il nome della madre.
-
-Qui racconta un'altra storia.
-Manto muore.
-Uomini qualunque
-costruiscono la città sulle sue ossa.
-E la chiamano così
-
-Mantua l’appellar sanz’altra sorte.
-
-Pausa.
-
-Senza sorteggi.
-Senza auspici.
-Senza magia.
+Virgilio aveva dato
+un'altra genealogia
+alla città.
 
 Pausa lunga.
 
-Ricordi il nono canto?
+Qui insiste
+su una nascita
+senza sorteggi.
+
+Senza auspici.
+
+Senza magia.
+
+Pausa.
+
+Mantua l'appellar
+sanz'altra sorte.
+
+Pausa lunga.
+
+Ricordi
+il nono canto?
+
 Nel Medioevo
-Virgilio aveva fama di mago.
+Virgilio aveva fama
+di mago.
 
-Qui toglie
-alla sua città
-ogni origine magica.
+Pausa.
 
-Il poeta
-corregge il proprio poema.
+Qui,
+nel canto
+degli indovini,
+
+alla propria città
+toglie
+un'origine magica.
 
 Pausa lunga.
 
 E poco dopo
-chiamerà l'Eneide così:
+chiamerà l'Eneide:
 
-l’alta mia tragedia
+l'alta mia tragedia.
 
 Pausa.
 
-Nel canto che viene,
-Dante chiamerà il suo poema
+Nel canto successivo
+Dante chiamerà
+il suo poema:
+
 comedìa.
 
+Pausa lunga.
+
+E questa insistenza
+ha un peso
+anche personale.
+
+Pausa.
+
+Dante
+ha scelto Virgilio
+come guida.
+
+Lo chiama
+maestro.
+
+Autore.
+
+Pausa lunga.
+
+Ma il maestro
+qui non è
+una statua.
+
+Può correggere.
+
+Può precisare.
+
+Può dire:
+questa storia
+va raccontata
+meglio.
+
+Pausa.
+
+E Dante
+lascia che lo faccia.
+
+Pausa lunga.
+
+È una cosa
+che mi piace
+molto
+di questo canto.
+
+Pausa.
+
+La verità
+non coincide
+con il prestigio
+di chi parla.
+
+Nemmeno
+se chi parla
+è Virgilio.
+
+Pausa lunga.
+
+la verità
+nulla menzogna
+frodi.
+
+Pausa lunga.
+
+Pausa lunga.
+
+Manto
+arriva qui
+con il volto
+voltato indietro
+come gli altri.
+
+Pausa.
+
+Ma la sua storia
+porta Virgilio
+altrove.
+
+A una città
+che non è
+in questa bolgia.
+
+Pausa lunga.
+
+E la città
+nasce
+su un corpo morto.
+
+Le ossa
+di Manto
+restano lì.
+
+Gli uomini
+si raccolgono
+intorno.
+
+Pausa.
+
+Non c'è
+un gesto magico
+che fonda Mantova.
+
+Non c'è
+un oracolo
+che decide.
+
+Ci sono persone
+che vedono
+un luogo forte
+e costruiscono.
+
+Pausa lunga.
+
+È quasi
+un controcanto
+alla bolgia.
+
+Qui sotto
+c'è chi ha preteso
+di leggere
+il destino.
+
+Lassù
+una città
+nasce perché
+gli uomini
+fanno qualcosa.
+
+Pausa lunga.
+
+Costruiscono.
+
+Danno un nome.
+
+Restano.
+
+Pausa.
+
+La città
+non ha bisogno
+di essere predetta
+per esistere.
+
+Pausa lunga.
+Siamo già
+a Malebolge.
+
+La parola
+frode
+non è casuale.
+
+Pausa.
+
+Perfino
+una leggenda
+sulla propria città
+può diventare
+qualcosa
+da correggere.
+
+Pausa lunga.
+Pausa lunga.
+
+E mentre
+Virgilio parla
+di Mantova,
+
+la processione
+non si ferma.
+
+Pausa.
+
+Questo è importante.
+
+Non siamo usciti
+dalla bolgia
+per ascoltare
+una conferenza.
+
+Pausa lunga.
+
+Le figure
+continuano
+a passare.
+
+Volti girati.
+
+Lacrime
+sulla schiena.
+
+Pausa.
+
+E sopra
+quella fila
+Virgilio
+ricostruisce
+una città.
+
+Pausa lunga.
+
+È quasi
+un gesto
+di resistenza.
+
+Dentro un luogo
+dove lo sguardo
+è stato deformato,
+
+la memoria
+rimette
+in ordine
+una geografia.
+
+Pausa.
+
+Lago.
+
+Fiume.
+
+Palude.
+
+Città.
+
+Pausa lunga.
+
+Non il futuro.
+
+Il mondo.
+
+Pausa lunga.
 ## vv. 100-123 - Gli altri indovini
 
 > E io «Maestro, i tuoi ragionamenti
@@ -493,16 +1338,14 @@ comedìa.
 > la spola e ’l fuso, e fecersi indivine;
 > fecer malie con erbe e con imago.
 
-Pausa.
+Pausa lunga.
 
 Dante rientra.
 
-E chiede:
-chi sono gli altri?
+Chi sono
+gli altri?
 
-Pausa lunga.
-
-E il catalogo continua.
+Pausa.
 
 Eurìpilo.
 
@@ -512,67 +1355,241 @@ Guido Bonatti.
 
 Asdente.
 
-Pausa.
-
-Re,
-auguri,
-maghi,
-astrologi,
-incantatrici.
-
 Pausa lunga.
+
+Auguri.
+
+Astrologi.
+
+Maghi.
+
+Indovine.
+
+Pausa.
 
 La bolgia
-non distingue
-tra grande cultura
-e bassa pratica.
+mette insieme
+pratiche diverse.
 
-L'errore è lo stesso:
+E non basta
+dire:
 
-avere piegato il sapere
-alla tentazione
-di violare il limite.
-
-Pausa lunga.
-
-Due di questi nomi
-sono quasi contemporanei.
-
-Michele Scotto,
-astrologo alla corte di Federico II.
-Ancora Federico.
-
-Guido Bonatti,
-astrologo di un condottiero
-che incontreremo fra sette canti.
+Dante non crede
+alle stelle.
 
 Pausa lunga.
 
-Ma c'è una domanda.
+Non è vero.
 
-Dante crede negli influssi delle stelle.
-Perché allora condanna
-chi le legge?
+Per Dante
+il cielo
+ha effetti
+sul mondo.
+
+E il poema
+è pieno
+di profezie.
 
 Pausa.
 
-La risposta arriverà nel Purgatorio.
+Il problema
+non può essere
+semplicemente:
+
+sapere qualcosa
+del futuro.
+
+Pausa lunga.
+
+Il punto,
+nel sistema di Dante,
+è un altro.
+
+Pausa.
+
 Il cielo
-dà l'avvio ai nostri movimenti.
-Ma non li decide.
-Resta la libertà.
+può inclinare.
+
+Non può
+cancellare
+la libertà.
 
 Pausa lunga.
 
-Prevedere il futuro di un uomo
-vuol dire negare
-che sia libero.
+E allora
+la divinazione
+diventa colpa
+quando pretende
+di possedere
+ciò che non le appartiene.
 
 Pausa.
 
-Io credo che sia questo,
-per Dante,
-il vero peccato di questa bolgia.
+Quando trasforma
+segni,
+calcoli,
+arti
+
+in una presa
+sul destino.
+
+Pausa lunga.
+
+Pausa lunga.
+
+Guido Bonatti
+è un nome
+che Dante
+poteva sentire
+quasi contemporaneo.
+
+Pausa.
+
+Non una figura
+remota
+del mito.
+
+Un astrologo
+legato
+alla politica
+e alla guerra
+del Duecento.
+
+Pausa lunga.
+
+E Asdente
+è ancora più strano.
+
+Un calzolaio.
+
+Cuoi.
+
+Spago.
+
+Pausa.
+
+Virgilio dice
+che adesso
+vorrebbe essersi
+occupato di quello.
+
+Del proprio mestiere.
+
+Pausa lunga.
+
+È una battuta
+quasi crudele.
+
+Pausa.
+
+Hai lasciato
+ciò che potevi
+fare davvero
+
+per occuparti
+di ciò che
+non potevi
+possedere.
+
+Pausa lunga.
+
+E le donne
+alla fine
+del catalogo?
+
+Ago.
+
+Spola.
+
+Fuso.
+
+Pausa.
+
+Anche qui
+Dante oppone
+un'attività concreta
+a un sapere
+che pretende
+di oltrepassare
+il limite.
+
+Pausa lunga.
+Pausa lunga.
+
+E qui
+Virgilio
+sta facendo
+una cosa
+che gli indovini
+non possono più fare.
+
+Pausa.
+
+Distingue.
+
+Pausa lunga.
+
+Non mette
+tutto
+nello stesso sacco.
+
+Il cielo
+non è falso.
+
+I segni
+non sono falsi.
+
+La ragione
+non è falsa.
+
+Pausa.
+
+Diventa falso
+il rapporto
+che pretende
+di trasformarli
+in dominio.
+
+Pausa lunga.
+
+Per questo
+la libertà
+è decisiva.
+
+Se ogni cosa
+fosse già
+necessaria,
+
+non avrebbe senso
+questo viaggio.
+
+Pausa.
+
+Non avrebbe senso
+consigliare.
+
+Pentirsi.
+
+Cambiare.
+
+Pausa lunga.
+
+E tutta la Commedia
+è piena
+di persone
+che cambiano
+proprio perché
+scelgono.
+
+Pausa lunga.
+Non è
+la conoscenza
+contro la libertà.
+
+È la pretesa
+di togliere
+alla libertà
+il suo spazio.
 
 ## vv. 124-130 - La luna
 
@@ -592,41 +1609,101 @@ la luna.
 
 Pausa.
 
-Virgilio guarda il tempo.
+Virgilio
+guarda il tempo.
 
 Non per dominarlo.
 
-Solo per dire:
-si va.
-
 Pausa lunga.
 
-In un canto pieno
-di chi ha voluto
-strappare al cielo
-il suo segreto,
-
-la chiusa arriva
-con il cielo
-che continua
-per conto suo.
-
-Pausa lunga.
-
-E ascolta che cosa dice Virgilio,
-di quella luna.
-
-e già iernotte fu la luna tonda;
+Per orientarsi.
 
 Pausa.
 
+Caino
+e le spine.
+
 La luna piena.
-Quella della selva,
-nel primo canto.
+
+Quella
+della selva.
+
+Pausa lunga.
 
 Adesso tramonta.
+
 È l'alba.
-L'alba del sabato.
+
+L'alba
+del sabato.
+
+Pausa.
+
+In un canto
+pieno di chi
+ha voluto
+strappare al cielo
+il suo segreto,
+
+la chiusa
+arriva così.
+
+Pausa lunga.
+
+Il cielo
+continua
+per conto suo.
+
+Virgilio
+lo legge
+per sapere
+quando camminare.
+
+Non per sapere
+chi saremo.
+
+Pausa lunga.
+
+E guarda
+la differenza
+con gli indovini.
+
+Pausa.
+
+Loro
+hanno voluto
+mettere gli occhi
+nel tempo
+che non era ancora.
+
+Virgilio
+guarda il cielo
+per capire
+il tempo
+che è.
+
+Pausa lunga.
+
+Non dice:
+che cosa
+ci succederà.
+
+Dice:
+è mattina.
+
+Andiamo.
+
+Pausa lunga.
+
+Una lettura
+del cielo
+che non imprigiona
+nessuno.
+
+Serve
+solo al cammino.
+
+Pausa lunga.
 
 ## Chiusura
 
@@ -641,43 +1718,108 @@ a nessun'altra.
 
 Pausa.
 
-Non colpisce il corpo
+Non colpisce
+il corpo
 da fuori.
 
 Lo rovescia.
 
 Pausa lunga.
 
-Hai voluto guardare
+Hai voluto
+guardare
 troppo davanti.
 
 Adesso
 cammini
-guardando solo indietro.
+guardando
+indietro.
+
+Pausa.
 
 Piangi.
 
 Ma il pianto
-non ti cade sul petto.
+non cade
+sul petto.
 
-Ti scorre sulla schiena.
+Ti scorre
+sulla schiena.
 
 Pausa lunga.
 
-E anche Dante
-qui impara qualcosa
-di duro.
-
-Non ogni pietà
-è giusta.
+E in mezzo
+a questa bolgia
+Virgilio
+fa una cosa
+inaspettata.
 
 Pausa.
 
-Qualche volta
-è solo un altro modo
-di opporsi al giudizio.
+Parla
+di casa.
 
 Pausa lunga.
 
-Chi ha guardato avanti
-ora guarda solo indietro.
+Mantova
+entra
+nel canto
+degli indovini
+
+non come profezia.
+
+Come memoria.
+
+Pausa lunga.
+
+E alla fine
+resta anche
+un contrasto
+semplice.
+
+Pausa.
+
+Gli indovini
+camminano
+con il volto
+contro il proprio passo.
+
+Dante e Virgilio
+continuano
+a camminare
+insieme.
+
+Pausa lunga.
+
+Uno davanti.
+
+Uno dietro.
+
+Ma entrambi
+verso la stessa
+direzione.
+
+Pausa.
+
+Non sanno
+tutto
+quello che accadrà.
+
+Sanno
+che devono
+andare.
+
+Pausa lunga.
+
+Pausa lunga.
+
+Chi ha voluto
+possedere
+il davanti
+
+ora guarda
+solo indietro.
+
+Pausa.
+
+[Schermo: nero pieno]
