@@ -226,6 +226,63 @@ dalla fame.
 
 Pausa lunga.
 
+Fermiamoci
+dentro questa stanza.
+
+Pausa.
+
+Non sappiamo
+quanto è larga.
+
+Non importa.
+
+Pausa.
+
+Sappiamo
+che c'è
+un pertugio.
+
+Pausa lunga.
+
+Da lì
+entra la luce.
+
+Da lì
+Ugolino conta
+le lune.
+
+Pausa.
+
+Non c'è
+un orologio.
+
+Non c'è
+una finestra vera.
+
+Pausa lunga.
+
+C'è abbastanza luce
+per capire
+che il tempo passa.
+
+Pausa.
+
+E abbastanza buio
+per non sapere
+che cosa succederà.
+
+Pausa lunga.
+
+La torre
+non uccide
+subito.
+
+Pausa.
+
+Fa aspettare.
+
+Pausa lunga.
+
 Prima il sogno.
 
 Ruggieri cacciatore.
@@ -242,6 +299,50 @@ Pane chiesto nel sonno.
 
 Uscio inchiodato.
 
+Lungo silenzio.
+
+Questo
+è il rumore
+del canto.
+
+Pausa.
+
+Non un urlo.
+
+Non una spada.
+
+Pausa lunga.
+
+Un uscio
+che viene
+inchiodato.
+
+Pausa.
+
+Ugolino
+non corre.
+
+Non grida.
+
+Pausa lunga.
+
+Guarda
+i figli.
+
+E loro
+guardano lui.
+
+Pausa.
+
+Da questo momento
+ogni gesto
+del padre
+diventa
+una risposta.
+
+Anche quando
+non parla.
+
 Pausa lunga.
 
 Qui la crudeltà
@@ -256,6 +357,47 @@ E Ugolino
 non piange.
 
 Si impetra.
+
+Pausa lunga.
+
+Impetrai.
+
+Pausa.
+
+Non dice:
+fui forte.
+
+Pausa.
+
+Dice:
+diventai pietra.
+
+Pausa lunga.
+
+Il ghiaccio
+arriverà dopo.
+
+Prima
+il gelo
+entra qui.
+
+Dentro il padre.
+
+Pausa.
+
+E i figli
+piangono.
+
+Lui no.
+
+Pausa lunga.
+
+Non perché
+soffra meno.
+
+Perché non riesce
+più a uscire
+da sé.
 
 ## vv. 55-78 - I figli e il digiuno
 
@@ -291,158 +433,222 @@ Pausa lunga.
 Questa
 è la parte
 che il canto
-non ti lascia dimenticare.
+non ti lascia
+dimenticare.
 
 Pausa.
 
-I figli
-vedono il padre
-mordersi le mani.
-
-Credono
-che sia fame.
+Ugolino
+si morde
+le mani.
 
 Pausa lunga.
 
-E gli offrono
-se stessi.
+I figli
+vedono
+il gesto.
+
+E lo capiscono
+male.
 
 Pausa.
 
-Tu ci hai vestiti
-di questa carne.
+Pensano:
+ha fame.
 
-Tu spogliala.
+Pausa lunga.
+
+Questo
+è il punto atroce.
+
+Non quello
+che il padre
+intende.
+
+Quello
+che i figli
+vedono.
+
+Pausa lunga.
+
+Dentro quella torre
+non c'è più
+un gesto innocente.
+
+Ogni movimento
+può diventare
+un messaggio.
+
+Pausa lunga.
+
+E allora
+si offrono.
+
+Pausa.
+
+Padre,
+mangia noi.
+
+Pausa lunga.
+
+Lui
+non accetta.
+
+Non risponde.
+
+Si quieta.
+
+Pausa.
+
+Per non farli
+più tristi.
+
+Pausa lunga.
+
+È quasi tutto
+quello che può
+ancora fare
+come padre.
+
+Non salvarli.
+
+Non nutrirli.
+
+Pausa.
+
+Solo
+non aggiungere
+altro dolore.
 
 Pausa lunga.
 
 Poi Gaddo.
 
-Poi gli altri
-uno ad uno.
+Padre mio,
+ché non m'aiuti?
 
-Poi il padre
-cieco
-che tasta i corpi.
+Lungo silenzio.
 
 Pausa lunga.
 
-Torna un momento indietro.
-Ascolta le parole dei figli.
-
-tu ne vestisti
-queste misere carni, e tu le spoglia
+Quivi morì.
 
 Pausa.
 
-È Giobbe.
-Di pelle e di carne mi hai vestito.
-Il Signore ha dato,
-il Signore ha tolto.
+Una riga.
 
-E qualcuno ci sente anche l'ultima cena.
-Un corpo
-offerto da mangiare.
-
-Pausa lunga.
-
-E Gaddo, prima di morire:
-
-Padre mio, ché non m’aiuti?
-
-Padre mio.
-Come il grido sulla croce:
-perché mi hai abbandonato.
-
-Pausa lunga.
-
-E in mezzo, Ugolino:
-
-Ahi, dura terra, perché non t’apristi?
+Nessuna
+ultima scena.
 
 Pausa.
 
-Il terremoto.
-Quando Cristo è morto,
-la terra si è aperta.
-L'abbiamo seguito per tutto l'Inferno.
-La porta senza serratura.
-La frana.
-I ponti crollati.
+Cade.
 
-Qui la terra
-resta chiusa.
+Poi cade
+un altro.
+
+Poi un altro.
 
 Pausa lunga.
 
-Io credo che questa torre
-sia un Calvario rovesciato.
-
-Muoiono gli innocenti.
-E nessuno risorge.
+Il padre
+rimane.
 
 Pausa.
 
-E la frase.
+E quando
+non vede più,
+
+li cerca
+con le mani.
 
 Pausa lunga.
 
-poscia, più che ’l dolor potè ’l digiuno.
+Prima
+li guardava
+in faccia.
 
-Silenzio. Dieci secondi pieni. Nessun gesto.
+Adesso
+li riconosce
+toccandoli.
+
+Pausa.
+
+E li chiama.
+
+Per due giorni.
+
+Pausa lunga.
+
+Nessuno
+risponde.
+
+Pausa lunga.
+
+poscia,
+più che 'l dolor
+potè 'l digiuno.
+
+Lungo silenzio.
+
+Pausa lunga.
 
 Dante
-non la spiega.
-
-Non la chiude.
-
-La lascia lì.
-
-Pausa lunga.
-
-È uno dei versi più discussi del poema.
-Ugolino è morto di fame?
-O prima di morire
-ha fatto un'altra cosa?
+non aggiunge niente.
 
 Pausa.
 
-Il commento che seguiamo è netto:
-il digiuno lo ha ucciso,
-dove il dolore non ci era riuscito.
-Ma la voce dell'altra lettura
-corre fin dal Trecento.
-
-Pausa lunga.
-
-Ricordi Borges?
-Nel dodicesimo canto
-ci aveva fatto entrare
-nel labirinto del Minotauro.
-
-Torna qui.
-Con un saggio che si intitola
-Il falso problema di Ugolino.
+Da secoli
+si discute
+su questa riga.
 
 Pausa.
 
-Dice, più o meno:
-la domanda è sbagliata.
-Dante non ha voluto che lo sapessimo.
-Ha voluto che lo sospettassimo.
-Nel buio della torre
-le due cose restano vere insieme.
+Morte di fame.
+
+Oppure
+un'ultima possibilità
+più terribile.
 
 Pausa lunga.
 
-E quel buio
-è la materia del racconto.
+Borges
+ha scritto
+un saggio
+proprio su questo.
+
+Il falso problema
+di Ugolino.
+
+Pausa.
+
+La sua idea
+è forte:
+
+non decidere
+troppo in fretta.
 
 Pausa lunga.
 
-E subito dopo
-Ugolino
-torna a rodere.
+Il verso
+ci lascia
+nel buio
+della torre.
+
+Pausa.
+
+E lì
+la possibilità
+fa parte
+dell'orrore.
+
+Pausa lunga.
+
+Poi Ugolino
+non spiega.
+
+Torna
+a mordere.
 
 ## vv. 79-90 - Pisa
 
@@ -504,6 +710,45 @@ non è assolvere Ugolino.
 
 È che i figli
 erano innocenti.
+
+Pausa lunga.
+
+Dante
+non sta dicendo
+che Ugolino
+fosse innocente.
+
+Pausa.
+
+Non lo toglie
+dal ghiaccio.
+
+Pausa lunga.
+
+Dice
+un'altra cosa.
+
+I figli
+non erano
+il padre.
+
+Pausa.
+
+La vendetta politica
+ha preso
+la colpa di uno
+
+e l'ha fatta
+pagare
+ai corpi degli altri.
+
+Pausa lunga.
+
+Per questo
+l'invettiva
+non assolve Ugolino.
+
+Condanna Pisa.
 
 Pausa.
 
@@ -569,11 +814,89 @@ Si fermano.
 
 Diventano visiere.
 
+Pausa lunga.
+
+Qui
+nemmeno piangere
+funziona.
+
+Pausa.
+
+La lacrima
+esce.
+
+E si ferma.
+
+Pausa lunga.
+
+La successiva
+trova davanti
+la precedente.
+
+Pausa.
+
+Strato
+su strato.
+
+Pausa lunga.
+
+Finché l'occhio
+si chiude
+dietro
+il proprio dolore.
+
+Pausa.
+
+Una visiera.
+
+Di ghiaccio.
+
+Pausa lunga.
+
+Nel resto
+dell'Inferno
+il dolore
+esce.
+
+Qui
+torna dentro.
+
 Pausa.
 
 E Dante
 comincia anche
 a sentire il vento.
+
+Pausa lunga.
+
+Vento.
+
+Pausa.
+
+Qui sotto.
+
+Pausa lunga.
+
+Dove,
+in teoria,
+non dovrebbe
+muoversi
+più niente.
+
+Pausa.
+
+Dante
+lo sente
+prima di sapere
+da dove arriva.
+
+Pausa lunga.
+
+Non spieghiamolo
+ancora.
+
+Manca
+un canto.
 
 Pausa lunga.
 
@@ -634,7 +957,8 @@ per uccidere.
 Pausa lunga.
 
 Qui il canto
-fa il salto più atroce.
+fa il salto
+più atroce.
 
 Pausa.
 
@@ -644,23 +968,16 @@ prima di morire.
 
 Pausa lunga.
 
-L’anima
+L'anima
 precipita qui.
 
 Il corpo
 resta sopra.
 
-Ma è già
-governato
-da un demonio.
-
 Pausa.
 
 Branca Doria
-cammina ancora
-nel mondo.
-
-Mangia.
+mangia.
 
 Beve.
 
@@ -668,86 +985,127 @@ Dorme.
 
 Pausa lunga.
 
-Eppure
+E per il racconto
+di Dante
+
 la sua anima
 è già qui.
 
 Pausa lunga.
 
-Branca Doria.
-Il genero di Michel Zanche,
-il sardo nella pece del ventiduesimo canto.
-Lo ha ucciso a un banchetto.
+È il genero
+di Michel Zanche.
 
-Te l'avevo promesso.
-Ecco l'anima che racconta
-come l'assassino
-sia arrivato quaggiù prima della vittima.
+Lo ha ucciso
+a un banchetto.
 
-E quando Dante scrive,
-Branca Doria è vivo davvero.
-Nel 1325 è ancora vivo.
-Sopravvive a Dante.
+Pausa.
+
+Nel ventiduesimo canto
+Michel Zanche
+era ancora
+nella pece.
 
 Pausa lunga.
 
-E ricordi Buonconte?
-Nel ventisettesimo canto
-si salvava con una lacrima,
-nell'ultimo istante della vita.
+L'assassino
+è arrivato
+al fondo
 
-Qui il contrario.
-L'anima cade all'Inferno
-prima che il corpo muoia.
+prima
+della vittima.
+
+Pausa lunga.
+
+Buonconte,
+nel canto ventisette,
+
+aveva avuto
+un ultimo istante.
+
+Pausa.
+
+Una parola.
+
+Una lacrima.
+
+Pausa lunga.
+
+Branca Doria
+è l'opposto.
+
+Il corpo
+ha ancora
+tempo davanti.
 
 Pausa.
 
-Per la dottrina del suo tempo
-è quasi uno scandalo.
-Fino all'ultimo respiro
-ci si può salvare.
+Ma Dante
+immagina
+l'anima
+già caduta.
 
-Dante lo sa.
-E a questi
-non lascia nemmeno l'ultimo respiro.
+Pausa lunga.
 
-Pausa.
+Non facciamone
+una regola teologica.
+
+È una delle
+invenzioni
+più estreme
+dell'Inferno.
+
+Pausa lunga.
 
 Alberigo
-chiede pietà.
+chiede
+che Dante
+gli apra
+gli occhi.
+
+Pausa.
 
 Dante
-non gliela dà.
+aveva promesso
+di farlo.
 
 Pausa lunga.
 
-E cortesia
-fu in lui
+Non lo fa.
+
+Pausa.
+
+E scrive:
+
+e cortesia fu
+in lui
 esser villano.
 
 Pausa lunga.
 
-Ricordi la pietà?
-Nel quinto canto
-Dante sveniva per Francesca.
-
-Qui un dannato gli chiede soltanto
-di togliergli il ghiaccio dagli occhi.
-E Dante non lo fa.
+È una frase
+che deve
+dare fastidio.
 
 Pausa.
 
-Per gli uomini del suo tempo,
-ingannare un traditore
-era quasi un merito.
+Non la correggo.
 
-Il viaggio lo ha cambiato.
-Se in meglio o in peggio,
-lo lascio decidere a te.
+Non la giustifico.
+
+Pausa lunga.
+
+Siamo arrivati
+in un punto
+
+in cui perfino
+la cortesia
+ha cambiato segno.
 
 Pausa.
 
-Poi l’ultima invettiva.
+Poi
+l'ultima invettiva.
 
 Genova.
 
@@ -761,50 +1119,64 @@ Dispersione.
 
 Pausa lunga.
 
-Il trentatreesimo canto
-non oppone
-solo fame
-e odio.
-
-Pausa.
-
-Mostra
-che l’odio
-può attraversare
-la fame
-e restare intero.
-
-Pausa lunga.
-
 Ugolino
-racconta.
-
-Piange.
-
-Accusa.
-
-Poi torna
-a mordere.
+ha raccontato
+la torre.
 
 Pausa.
 
-Alberigo
-parla da morto
-quando il corpo
-è ancora vivo.
+Ha raccontato
+i figli.
+
+La fame.
+
+Il buio.
 
 Pausa lunga.
 
-Qui il tradimento
-non distrugge soltanto
-il legame.
-
-Svuota anche
-la persona.
+Poi
+ha rimesso
+i denti
+nel cranio
+di Ruggieri.
 
 Pausa.
 
-L'odio sopravvive
-a tutto.
+Il racconto
+non lo libera.
 
-Anche alla fame.
+Pausa lunga.
+
+Più sotto,
+le lacrime
+non riescono
+nemmeno a cadere.
+
+Pausa.
+
+E il vento
+ha già cominciato
+a muoversi.
+
+Pausa lunga.
+
+L'odio
+sopravvive
+alla fame.
+
+Pausa.
+
+Ma il canto
+non finisce
+sull'odio.
+
+Finisce
+con qualcosa
+che arriva
+dal fondo.
+
+Pausa lunga.
+
+Il vento.
+
+[Schermo: nero pieno]
