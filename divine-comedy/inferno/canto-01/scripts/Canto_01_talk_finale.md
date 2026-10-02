@@ -870,6 +870,9 @@ la direzione.
 
 Pausa lunga.
 
+> E qual è quei che volontieri acquista,
+> e giugne ’l tempo che perder lo face,
+> che in tutti i suoi pensier piange e s’attrista,
 > tal mi fece la bestia sanza pace,
 > ché, venendomi incontro, a poco a poco
 > mi ripigneva là dove il sol tace.
