@@ -12,23 +12,41 @@ Nota di lavoro:
 
 [Schermo: Doré / notte che scende sul paesaggio]
 
-Allora, il secondo canto.
+Allora,
+il secondo canto.
 
 Pausa.
 
-Se il primo canto era la diagnosi,
-il secondo è la condizione per partire.
-
-Pausa.
-
-Nel primo canto Dante scopre di aver perso la via.
-Nel secondo scopre un'altra cosa:
-che da solo non parte.
+Il primo
+finiva
+con un passo.
 
 Pausa lunga.
 
-Tutto il Canto II ruota intorno a una sola frase:
-non si scende da soli.
+Questo
+comincia
+con un dubbio.
+
+Pausa.
+
+La strada
+è aperta.
+
+Virgilio
+è pronto.
+
+Pausa lunga.
+
+Dante no.
+
+Pausa.
+
+Tutto il canto
+serve
+a rimettere
+in movimento
+una volontà
+che si è fermata.
 
 ## vv. 1-6 - La notte e l'uomo solo
 
@@ -39,31 +57,68 @@ non si scende da soli.
 > sì del cammino e sì de la pietate,  
 > che ritrarrà la mente che non erra.
 
-Il canto comincia con il mondo che si spegne.
+Pausa lunga.
 
-Il giorno se ne va.
-Gli animali tornano a riposare.
-Tutto si ferma.
-
-E in mezzo a questa quiete,
-un uomo solo.
+Il giorno
+se ne va.
 
 Pausa.
 
-"Io sol uno."
-Tre parole, ed è già tutto il canto.
+Gli animali
+si ritirano.
 
-Il cosmo entra in riposo.
-Dante entra in guerra.
+Gli uomini
+lasciano
+la fatica.
 
-E la guerra è doppia:
-il cammino e la pietà.
-Il passo da reggere,
-la compassione che sposta.
+Pausa lunga.
 
-Dire "io sol uno" è già un problema.
-Perché da soli,
-non si scende.
+Il mondo
+va verso
+il riposo.
+
+Dante no.
+
+Pausa.
+
+e io
+sol uno.
+
+Pausa lunga.
+
+Tre parole.
+
+Pausa.
+
+Più il mondo
+si spegne,
+
+più lui
+rimane
+esposto.
+
+Pausa lunga.
+
+E chiama
+quello che lo aspetta:
+
+guerra.
+
+Pausa.
+
+Del cammino.
+
+E della pietà.
+
+Pausa lunga.
+
+Il corpo
+dovrà reggere
+la strada.
+
+Il cuore
+dovrà reggere
+quello che vedrà.
 
 ## vv. 7-9 - Invocazione
 
@@ -71,25 +126,38 @@ non si scende.
 > o mente che scrivesti ciò ch’io vidi,  
 > qui si parrà la tua nobilitate.
 
-Prima di raccontare,
-Dante chiede aiuto.
+Pausa lunga.
 
-Non si lancia.
-Chiama.
+Prima
+di raccontare,
+
+Dante
+chiede aiuto.
 
 Pausa.
 
-Questo è già il movimento del canto:
-chi deve fare una cosa grande
-non parte dalla propria forza.
-Parte dalla domanda.
-
 Muse.
-Ingegno.
-Mente.
 
-Tre nomi diversi per dire la stessa cosa:
-non sto da solo in questo.
+Ingegno.
+
+Memoria.
+
+Pausa lunga.
+
+Anche
+il poeta
+non comincia
+da solo.
+
+Pausa.
+
+Deve ricordare.
+
+Deve capire.
+
+Deve trovare
+la forma
+per dirlo.
 
 ## vv. 10-12 - Guarda la mia virtù
 
@@ -97,25 +165,54 @@ non sto da solo in questo.
 > guarda la mia virtù s’ell’è possente,  
 > prima ch’a l’alto passo tu mi fidi.
 
-Qui si apre il dialogo.
+Pausa lunga.
 
-E Dante fa subito una cosa che nessuno si aspetta
-dopo la fine del Canto I:
-non parte.
-
-Si ferma.
-E dice a Virgilio: controlla prima.
-
-Guarda se la mia virtù basta.
-Prima di espormi a questo viaggio.
+E Dante
+si ferma.
 
 Pausa.
 
-Non è codardia.
-È coscienza del peso.
+Guarda
+la mia virtù.
 
-L'alto passo non si affronta
-con l'entusiasmo.
+Pausa lunga.
+
+Non dice:
+
+ho paura.
+
+Pausa.
+
+Dice:
+
+misurami.
+
+Pausa lunga.
+
+Guarda
+se sono
+abbastanza.
+
+Prima
+che tu mi affidi
+
+all'alto passo.
+
+Pausa lunga.
+
+È quasi
+il contrario
+di Ulisse.
+
+Pausa.
+
+Qui
+uno chiede
+se può andare.
+
+Non decide
+da solo
+che può.
 
 ## vv. 13-30 - Enea e Paolo
 
@@ -138,32 +235,72 @@ con l'entusiasmo.
 > per recarne conforto a quella fede  
 > ch’è principio a la via di salvazione.
 
-Dante fa un ragionamento preciso.
+Pausa lunga.
 
-Altri due hanno attraversato vivi
-il confine dell'aldilà:
-Enea e Paolo.
-
-Enea, per fondare Roma.
-Paolo, per confermare la fede.
+Dante
+cerca
+dei precedenti.
 
 Pausa.
 
-Ma nota cosa dice Dante:
-non sono andati per sé.
+Ne richiama
+due.
 
-Enea è andato
-perché da lui doveva nascere un impero.
-Paolo è andato
-perché doveva portare conforto alla fede.
+Enea.
 
-Entrambi sono stati chiamati.
-Per qualcosa più grande di loro.
+Paolo.
 
-Dante sta cercando un precedente.
-Ma quello che trova è la regola:
-chi attraversa quel confine da vivo,
-lo fa perché è stato mandato.
+Pausa lunga.
+
+Enea
+perché dalla sua
+missione
+
+discenda
+la storia
+di Roma.
+
+Pausa.
+
+Paolo
+per portare
+conferma
+alla fede.
+
+Pausa lunga.
+
+Sono
+i due precedenti
+che Dante
+sceglie
+per misurarsi.
+
+Pausa.
+
+Non gli unici
+possibili
+nella tradizione.
+
+Pausa lunga.
+
+E soprattutto
+non sono
+andati
+per curiosità.
+
+Pausa.
+
+Il loro viaggio
+aveva
+una funzione.
+
+Pausa lunga.
+
+Dante
+sta chiedendo:
+
+qual è
+la mia?
 
 ## vv. 31-36 - Io non Enea, io non Paulo
 
@@ -174,131 +311,109 @@ lo fa perché è stato mandato.
 > temo che la venuta non sia folle:  
 > se’ savio; intendi me’ ch’i’ non ragiono.»
 
-Qui c'è una delle frasi più oneste della Commedia.
-
-"Io non Enea, io non Paolo sono."
-
-Pausa.
-
-Non è falsa modestia.
-È una domanda reale:
-chi sono io per stare in questa storia?
-
-Pausa lunga.
-
-Pensa a chi sono quei due.
-
-Roma e la fede.
-L'Impero e la Chiesa.
-
-Pausa.
-
-Le due autorità
-che per Dante
-devono guidare il mondo.
-
-Pausa.
-
-E lui?
-Un fiorentino.
-Né l'una né l'altra cosa.
-
-Pausa lunga.
-
-La risposta arriverà.
-Ma bisognerà aspettare il Paradiso.
-
-Pausa.
-
-Nel quindicesimo canto del Paradiso
-Dante incontra un suo antenato,
-Cacciaguida.
-
-E per raccontare come lo accoglie
-usa un paragone preciso:
-così l'ombra di Anchise,
-nei Campi Elisi,
-andò incontro al figlio.
-
-Pausa.
-
-Il figlio è Enea.
-
-Pausa lunga.
-
-Poi Cacciaguida gli parla in latino.
-
-O sanguis meus
-
-Pausa.
-
-Sangue mio.
-A chi, come a te,
-la porta del cielo
-è stata aperta due volte?
-
-Pausa.
-
-Adesso, da vivo.
-E poi, dopo la morte.
-
-I commentatori ci sentono Paolo:
-l'unico che in cielo
-c'era salito da vivo.
-
 Pausa lunga.
 
 Io non Enea.
+
 Io non Paolo.
 
-Ottanta canti più avanti,
-il poema lo accoglie
-come tutti e due.
+Pausa.
+
+È una frase
+onesta.
 
 Pausa lunga.
 
-Ma qui,
-nel secondo canto,
-la domanda resta aperta.
+Non:
+non valgo niente.
 
-E poi la chiave:
-"me degno a ciò né io né altri crede."
+Pausa.
 
-Non c'è nessuna autorizzazione.
-Non gli è stato detto niente.
-Non ha ricevuto una chiamata.
+Ma:
 
-E senza chiamata,
-l'impresa diventa folle.
+chi mi autorizza?
 
 Pausa lunga.
+
+Roma.
+
+La fede.
+
+Due missioni
+enormi.
+
+Pausa.
+
+E io?
+
+Pausa lunga.
+
+Molto più avanti
+il poema
+tornerà
+su entrambi.
+
+Pausa.
+
+Cacciaguida
+accoglierà Dante
+
+con un'eco
+di Anchise
+ed Enea.
+
+Pausa lunga.
+
+E la salita
+al cielo
+porterà
+anche
+un'eco paolina.
+
+Pausa.
+
+Ma qui
+la domanda
+resta aperta.
+
+Pausa lunga.
+
+E poi
+una parola.
 
 Folle.
 
 Lungo silenzio.
 
-Ricordatela,
-questa parola.
+Pausa.
+
+Temo
+che la venuta
+non sia folle.
+
+Pausa lunga.
+
+Ricordatela.
 
 Pausa.
 
-Tornerà,
-molto più avanti.
-Sulla bocca di un uomo
+Tornerà
+con un uomo
 che la chiamata
 non l'ha aspettata.
 
 Pausa lunga.
 
-se’ savio; intendi me’ ch’i’ non ragiono.
+Per ora
+basta questo.
 
-Pausa.
+Dante
+non teme
+la fatica.
 
-Dante non ha paura della fatica.
-Ha paura di non essere mandato.
-
-Perché da soli,
-non si scende.
+Teme
+di partire
+senza diritto.
 
 ## vv. 37-42 - Colui che disvuole
 
@@ -309,29 +424,63 @@ non si scende.
 > perché, pensando, consumai l’impresa  
 > che fu nel cominciar cotanto tosta.
 
-Questa è una delle terzine più precise
-mai scritte sulla psicologia umana.
+Pausa lunga.
+
+È già
+pronto.
 
 Pausa.
 
-Disvolere quello che si era voluto.
-Togliersi da dentro l'inizio.
+Ha una guida.
 
-Non cambiare idea dall'esterno.
-Annullarsi dall'interno.
+Ha una strada.
 
-Pensando,
-consumai l'impresa.
+Pausa lunga.
 
-Il pensiero può essere il primo ostacolo.
-Non un ostacolo sbagliato:
-a volte è esattamente il pensiero giusto.
+Poi
+si ferma.
 
-Ma il pensiero da solo
-non è ancora partenza.
+Pausa.
 
-La volontà si consuma in se stessa
-se non ha un'origine.
+Non arriva
+una nuova bestia.
+
+Non torna
+la lupa.
+
+Pausa lunga.
+
+Il blocco
+nasce
+dentro.
+
+Pausa.
+
+Un pensiero.
+
+Poi un altro.
+
+Pausa lunga.
+
+Finché
+l'impresa
+si consuma
+
+prima
+di cominciare.
+
+Pausa.
+
+È una descrizione
+spietata
+
+di quando
+il pensiero
+
+non orienta
+più la volontà.
+
+La scioglie.
 
 ## vv. 43-48 - Viltà
 
@@ -342,25 +491,51 @@ se non ha un'origine.
 > sì, che d’onrata impresa lo rivolve,  
 > come falso veder bestia quand’ombra.
 
-Virgilio risponde con una parola esatta:
-viltà.
+Pausa lunga.
 
-Non paura.
-Viltà.
+Virgilio
+la chiama
+viltà.
 
 Pausa.
 
-La paura è la reazione a un pericolo.
-La viltà è la rinuncia prima del pericolo.
+Non
+semplice paura.
 
-E Virgilio la descrive con un'immagine crudele:
-come la bestia che si spaventa per la sua stessa ombra.
+Pausa lunga.
 
-Il pericolo non esiste.
-L'ombra sì.
+La bestia
+vede
+un'ombra
 
-E l'ombra basta a fermarti
-se dentro non hai ancora il motivo del cammino.
+e reagisce
+come se fosse
+un pericolo.
+
+Pausa.
+
+L'ombra
+esiste.
+
+Il pericolo
+forse no.
+
+Pausa lunga.
+
+Virgilio
+sta dicendo:
+
+la tua paura
+sta diventando
+più reale
+della strada.
+
+Pausa.
+
+Adesso
+ti racconto
+quello
+che non vedi.
 
 ## vv. 49-57 - Nel Limbo
 
@@ -374,34 +549,57 @@ se dentro non hai ancora il motivo del cammino.
 > e cominciommi a dir soave e piana,  
 > con angelica voce in sua favella:
 
-Adesso Virgilio fa una cosa decisiva:
-racconta l'origine.
+Pausa lunga.
+
+Virgilio
+era fermo.
 
 Pausa.
 
-Non dice: mi è sembrato giusto scendere.
-Dice: sono stato mandato.
+Sospeso.
 
-"Io era tra color che son sospesi."
-Era nel Limbo.
-Era fermo.
+Nel Limbo.
 
-E una donna lo ha chiamato.
+Pausa lunga.
 
-Notate la grammatica:
-non lui si muove,
-lei lo chiama.
+Non stava
+cercando Dante.
 
-Il movimento nasce sempre
-da qualcun altro
-che ti nomina.
+Non aveva
+un progetto.
+
+Pausa.
+
+Poi
+una donna
+lo chiama.
+
+Pausa lunga.
+
+Beata.
+
+Bella.
+
+Occhi
+più luminosi
+della stella.
+
+Pausa.
+
+E la guida
+nasce
+perché prima
+
+è stata
+chiamata.
+
+Pausa lunga.
 
 Anche Virgilio,
-prima di essere guida,
-è stato chiamato.
+prima di guidare,
 
-Anche chi guida,
-non si è mosso da solo.
+obbedisce
+a una voce.
 
 ## vv. 58-66 - L'amico smarrito
 
@@ -415,24 +613,56 @@ non si è mosso da solo.
 > ch’io mi sia tardi al soccorso levata,  
 > per quel ch’i’ ho di lui nel cielo udito.
 
-Beatrice parla di Dante.
+Pausa lunga.
 
-E lo chiama "l'amico mio, e non de la ventura."
+Beatrice
+parla
+di Dante.
 
 Pausa.
 
-Amato da me.
-Non amato dalla fortuna.
+L'amico mio.
 
-E c'è dentro una paura precisa:
-temo di essere arrivata tardi.
+Pausa lunga.
 
-Questa è una cosa enorme.
-L'amore del cielo
-ha urgenza.
+E non
+della ventura.
 
-Chi è amato in alto
-è amato con fretta.
+Pausa.
+
+Amico mio.
+
+Non della fortuna.
+
+Pausa lunga.
+
+Poi
+la paura.
+
+Temo
+di essermi
+mossa tardi.
+
+Pausa.
+
+Questo
+è importante.
+
+Pausa lunga.
+
+Il cielo,
+nel canto,
+
+non è
+immobile.
+
+Pausa.
+
+Vede
+un uomo
+che si perde.
+
+E reagisce.
 
 ## vv. 67-74 - Amor mi mosse
 
@@ -445,91 +675,96 @@ Chi è amato in alto
 > Quando sarò dinanzi al signor mio,  
 > di te mi loderò sovente a lui.’
 
-Io son Beatrice, che ti faccio andare;
+Pausa lunga.
+
+Io son
+Beatrice.
 
 Pausa.
 
-È la prima volta
-che il suo nome
-compare nel poema.
+Il nome
+entra
+nel poema.
 
 Pausa lunga.
 
-Chi era Beatrice?
-
-Pausa.
-
-Una ragazza fiorentina.
-Secondo una tradizione
-che comincia con Boccaccio,
-Bice Portinari.
-
-Muore nel 1290,
-giovanissima.
-
-Pausa lunga.
-
-Dopo la sua morte
-Dante scrive un libro,
-la Vita Nova.
-
-E lo chiude con una promessa.
-Se la vita mi basterà,
-spero di dicer di lei
-quello che mai non fue detto d'alcuna.
-
-Pausa lunga.
-
-Dieci anni dopo,
-nel tempo del viaggio,
-eccola.
-
-Pausa.
+La donna
+della Vita Nova.
 
 La promessa
-comincia a essere mantenuta
-qui.
+di dire
+di lei
 
-In una donna che scende
-dal cielo fino al Limbo
-per un uomo
-che si è perso.
+ciò che mai
+fu detto
+d'alcuna.
+
+Pausa.
+
+Ma qui
+non arriva
+come ricordo.
 
 Pausa lunga.
 
-Qui bisogna fermarsi.
+Arriva
+come azione.
 
 Pausa.
 
-"Amor mi mosse, che mi fa parlare."
+che ti faccio
+andare.
 
-Questa è la frase-cardine del canto.
-Forse dell'intera prima parte della Commedia.
+Pausa lunga.
 
-Amor.
-Mi.
-Mosse.
+Non:
 
-Non "amor mi ha ispirato."
-Non "amor mi ha convinto."
+che ti spiego.
 
-Mosse.
-Un verbo di fisica.
+Non:
 
-L'amore è ciò che produce movimento
-dove la volontà si è consumata.
+che ti consiglio.
 
 Pausa.
 
-Ricordate Dante pochi versi fa:
-"pensando, consumai l'impresa."
-Il pensiero lo ferma.
+Andare.
 
-Qui Beatrice dice l'esatto contrario:
-l'amore la muove.
+Pausa lunga.
 
-Il pensiero da solo paralizza.
-Solo l'amore cammina.
+E poi:
+
+amor mi mosse.
+
+Lungo silenzio.
+
+Pausa.
+
+Mosse.
+
+Pausa lunga.
+
+Dante
+era fermo.
+
+Virgilio
+era nel Limbo.
+
+Beatrice
+era in cielo.
+
+Pausa.
+
+Poi
+l'amore
+si muove.
+
+Pausa lunga.
+
+E uno
+dopo l'altro
+
+si muovono
+tutti.
 
 ## vv. 75-93 - Perché scendi?
 
@@ -553,39 +788,74 @@ Solo l'amore cammina.
 > che la vostra miseria non mi tange,  
 > né fiamma d’esto incendio non m’assale.
 
-Virgilio fa a Beatrice una domanda lucidissima:
-ma tu, perché sei scesa?
+Pausa lunga.
 
-Perché se sei in cielo,
-e il cielo è il luogo a cui si tende,
-scendere qui giù è un controsenso.
-
-Pausa.
-
-E Beatrice risponde con una delle definizioni
-più pulite di paura che esistano:
-
-si deve temere
-solo ciò che ha potenza di farti male.
-
-Tutto il resto non è paura.
-È illusione di paura.
-
-E poi dice di sé una cosa immensa:
-"la vostra miseria non mi tange."
-
-Non la tocca.
-Non perché non la veda.
-Perché il luogo da cui scende
-è più stabile del luogo in cui scende.
+Virgilio
+fa una domanda
+giusta.
 
 Pausa.
 
-Chi scende per amore
-non si contamina scendendo.
+Perché
+scendi?
 
-L'amore non perde forma
-entrando nel disordine.
+Pausa lunga.
+
+Per lui
+quel luogo
+
+è casa.
+
+Pausa.
+
+Per Beatrice
+è il contrario
+di casa.
+
+Pausa lunga.
+
+Eppure
+è scesa.
+
+Pausa.
+
+Poi
+la definizione
+della paura.
+
+Pausa lunga.
+
+Si teme
+ciò che
+può fare male.
+
+Il resto
+non deve
+governarti.
+
+Pausa lunga.
+
+La miseria
+dell'Inferno
+non tocca
+Beatrice.
+
+Pausa.
+
+Non perché
+non la veda.
+
+Pausa lunga.
+
+Perché
+non può
+cambiarla.
+
+Pausa.
+
+Può scendere
+senza perdere
+la propria forma.
 
 ## vv. 94-108 - Maria e Lucia
 
@@ -605,45 +875,76 @@ entrando nel disordine.
 > non vedi tu la morte che ’l combatte  
 > su la fiumana ove ’l mar non ha vanto? —
 
-Ecco la cosa più importante del canto.
+Pausa lunga.
+
+Adesso
+segui
+il movimento.
 
 Pausa.
 
-La chiamata non parte da Beatrice.
-
-Beatrice è mandata.
-Beatrice è la terza.
-
-Prima c'è Maria.
-"Donna è gentil nel ciel."
-Non viene nemmeno nominata,
-perché è così alta
-che si può solo indicarla.
-
-Maria chiama Lucia.
-"Or ha bisogno il tuo fedele."
-
-Lucia chiama Beatrice.
-"Ché non soccorri quei che t'amò tanto?"
+Maria
+vede.
 
 Pausa.
 
-Questa è una catena.
-Tre anelli.
-Tre movimenti.
+Lucia
+si muove.
 
-Un amore che scende di grado in grado
-fino ad arrivare a Dante.
+Pausa.
 
-Dante non lo sa.
-Dante è nella selva
-e non sa
-che in cielo tre donne
-si stanno occupando di lui.
+Beatrice
+scende.
 
-Questa è la cosa vera del canto:
-il viaggio comincia molto prima
-che Dante se ne accorga.
+Pausa.
+
+Virgilio
+parte.
+
+Pausa lunga.
+
+E Dante,
+nella selva,
+
+non sa
+niente.
+
+Pausa.
+
+Non sa
+che il suo nome
+
+sta passando
+di voce
+in voce.
+
+Pausa lunga.
+
+Prima
+che lui
+chieda aiuto,
+
+l'aiuto
+è già
+in cammino.
+
+Pausa lunga.
+
+Tre donne.
+
+Non serve
+chiuderle
+in uno schema
+troppo rigido.
+
+Pausa.
+
+Qui conta
+il movimento.
+
+Dall'alto
+verso chi
+si è fermato.
 
 ## vv. 109-114 - La discesa
 
@@ -654,22 +955,51 @@ che Dante se ne accorga.
 > fidandomi nel tuo parlare onesto,  
 > ch’onora te e quei ch’udito l’hanno.’
 
-Beatrice descrive la sua discesa
-con un paragone durissimo:
+Pausa lunga.
 
-più veloce di chi scappa dal proprio danno.
-Più veloce di chi corre al proprio guadagno.
+Beatrice
+non indugia.
 
 Pausa.
 
-Questo è il ritmo dell'amore.
-Quando c'è una chiamata,
-non si contratta.
-Si scende subito.
+Non domanda:
 
-Nessuno scende verso un luogo peggiore
-con quella velocità.
-Tranne chi lo fa per amore.
+quanto
+è profondo?
+
+Quanto
+durerà?
+
+Pausa.
+
+Che cosa
+rischio?
+
+Pausa lunga.
+
+Scende.
+
+Pausa.
+
+Più veloce
+di chi corre
+al proprio guadagno.
+
+Più veloce
+di chi fugge
+il proprio danno.
+
+Pausa lunga.
+
+La paura
+di Dante
+ha bisogno
+di ragioni.
+
+L'amore
+di Beatrice
+ha bisogno
+di arrivare.
 
 ## vv. 115-120 - Così com'ella volse
 
@@ -680,22 +1010,57 @@ Tranne chi lo fa per amore.
 > d’innanzi a quella fiera ti levai  
 > che del bel monte il corto andar ti tolse.
 
-Virgilio chiude il racconto.
+Pausa lunga.
 
-Adesso Dante sa:
-non si è salvato da solo.
-
-La lupa non è stata fermata
-dalla sua forza.
-È stata fermata
-perché qualcuno, più in alto, lo ha voluto.
+E venni
+a te.
 
 Pausa.
 
-"E venni a te così com'ella volse."
+Fermati.
 
-Virgilio è obbedienza.
-Non iniziativa.
+Pausa lunga.
+
+Nel primo canto
+vediamo Virgilio
+arrivare.
+
+Pausa.
+
+Pensiamo:
+
+è arrivata
+la guida.
+
+Pausa lunga.
+
+Adesso
+scopriamo
+che quella scena
+
+era già
+la fine
+di una catena.
+
+Pausa.
+
+Maria.
+
+Lucia.
+
+Beatrice.
+
+Virgilio.
+
+Pausa lunga.
+
+Il primo canto
+ci mostrava
+l'effetto.
+
+Il secondo
+ci mostra
+la causa.
 
 ## vv. 121-126 - Tre donne benedette
 
@@ -706,61 +1071,55 @@ Non iniziativa.
 > curan di te ne la corte del cielo,  
 > e ’l mio parlar tanto ben t’impromette?»
 
-E arriva il rimprovero.
+Pausa lunga.
 
-Virgilio non grida.
-Interroga.
-
-"Perché, perché ristai?"
-
-Il doppio "perché" non è stilistico.
-È insistenza.
-È precisione.
+Perché,
+perché
+ristai?
 
 Pausa.
 
-Se in cielo tre donne si muovono per te,
-tu qui giù non hai più nessuna scusa.
-
-Il coraggio non ti viene chiesto
-come slancio.
-
-Ti viene chiesto
-come risposta.
-
-## Le tre donne benedette - Tre modi di essere chiamati
-
-Nel primo canto c'erano tre fiere:
-tre modi di perdere la via.
-
-Qui ci sono tre donne benedette:
-tre modi in cui la via viene rifatta.
-
-Pausa.
-
-Maria vede.
-Lucia si muove.
-Beatrice scende.
-
-Pausa.
-
-Non sono tre intercessori in fila.
-Sono tre gradi di un unico amore
-che si abbassa
-per raggiungerti.
-
-Lo sguardo.
-Il movimento.
-La discesa.
+Il doppio
+perché.
 
 Pausa lunga.
 
-E se alla fine del Canto I
-la regola era:
-senza misura non c'è via,
+Se tutto
+questo movimento
 
-qui la regola è:
-senza chiamata non c'è partenza.
+è arrivato
+fino a te,
+
+che cosa
+stai aspettando?
+
+Pausa.
+
+Tre fiere
+avevano
+chiuso
+la strada.
+
+Pausa lunga.
+
+Tre donne
+la riaprono.
+
+Pausa.
+
+Non da qui.
+
+Da sopra.
+
+Pausa lunga.
+
+Il coraggio
+non viene chiesto
+come eroismo.
+
+Pausa.
+
+Come risposta.
 
 ## vv. 127-132 - Fioretti
 
@@ -771,32 +1130,51 @@ senza chiamata non c'è partenza.
 > e tanto buono ardire al cor mi corse,  
 > ch’io cominciai come persona franca:
 
-Ora arriva l'immagine più delicata del canto.
+Pausa lunga.
+
+I fioretti.
 
 Pausa.
 
-Dante era chiuso.
-Piegato dal gelo della notte.
+Di notte
+sono piegati.
 
-Poi arriva il sole.
-E i fiori non decidono di aprirsi.
-Si aprono.
+Chiusi.
+
+Pausa lunga.
+
+Poi
+arriva
+il sole.
 
 Pausa.
 
-A me sembra
-che a Dante succeda questo.
-Non prende soltanto una decisione.
-Si raddrizza.
+E si drizzano.
 
-La sua virtù era stanca.
-Adesso si drizza in loro stelo.
+Pausa lunga.
 
-Non soltanto perché si è convinto.
-Perché è stato scaldato.
+Non è
+un eroe
+che si gonfia.
 
-L'amore non ti persuade soltanto.
-Ti riapre.
+Pausa.
+
+È un fiore
+che torna
+in posizione.
+
+Pausa lunga.
+
+Quasi
+senza rumore.
+
+Pausa.
+
+La paura
+non viene
+schiacciata.
+
+Si scioglie.
 
 ## vv. 133-138 - Il cor disposto
 
@@ -807,28 +1185,49 @@ Ti riapre.
 > sì al venir con le parole tue,  
 > ch’i’ son tornato nel primo proposto.
 
-Dante parla e fa due cose insieme.
+Pausa lunga.
 
-Ringrazia Beatrice.
-Ringrazia Virgilio.
-
-Ma guarda il verbo che usa:
-"disposto."
+Disposto.
 
 Pausa.
 
-Il cuore non si è soltanto convinto.
-Si è disposto.
+È la parola.
 
-È lui che riceve.
-È il movimento di chi riceve una forma.
+Pausa lunga.
 
-La misura del Canto I era esterna:
-la salita, il piede fermo, la linea retta.
+Il cuore
+ha trovato
+una direzione.
 
-La misura del Canto II è interna:
-un cuore che si allinea
-a una chiamata che viene da fuori.
+Pausa.
+
+Non perché
+la paura
+sia sparita.
+
+Pausa lunga.
+
+Perché
+adesso
+sa
+
+da dove
+viene
+il viaggio.
+
+Pausa.
+
+Beatrice
+ha chiamato.
+
+Virgilio
+ha risposto.
+
+Pausa lunga.
+
+Adesso
+tocca
+a Dante.
 
 ## vv. 139-142 - Un sol volere
 
@@ -837,68 +1236,120 @@ a una chiamata che viene da fuori.
 > Così li dissi; e poi che mosso fue,  
 > intrai per lo cammino alto e silvestro.
 
-E alla fine arriva la frase che chiude tutto.
+Pausa lunga.
 
-"Un sol volere è d'ambedue."
+Un sol volere.
 
 Pausa.
 
-Non due volontà che si accordano.
-Una sola volontà
-che ora riguarda due.
+All'inizio
+del canto
+
+erano
+due volontà.
+
+Pausa.
+
+Virgilio
+pronto.
+
+Dante
+fermo.
+
+Pausa lunga.
+
+Adesso:
+
+un sol volere.
+
+Pausa.
+
+Non perché
+Dante
+abbia smesso
+di essere Dante.
+
+Pausa lunga.
+
+Perché
+ha scelto
+di seguire.
+
+Pausa.
 
 Duca.
+
 Signore.
+
 Maestro.
 
-Tre nomi di Virgilio,
-tre livelli di autorità accettata:
-chi guida nel passo,
-chi ha potere di decidere,
-chi insegna.
+Pausa lunga.
+
+Poi
+il verbo.
+
+Intrai.
 
 Pausa.
 
-E poi l'ultima riga.
-Semplice.
-Precisa.
-
-"Intrai per lo cammino alto e silvestro."
-
-Non "partii."
-Intrai.
-
-Il verbo è preciso:
-entrare in una forma.
+Finalmente
+entra.
 
 ## Chiusura da palco
 
-Il Canto I racconta la perdita.
-Il Canto II racconta che nessuno si ritrova da solo.
-
-Pausa.
-
-Prima della salita c'è una chiamata.
-Prima della chiamata c'è uno sguardo dall'alto.
-Prima di quello sguardo c'è un amore
-che non smette di curarsi di te
-anche quando tu non te ne accorgi.
+[Schermo: nero pieno]
 
 Pausa lunga.
 
-Non si scende da soli.
-Non si risale da soli.
-Non si cammina da soli.
+Il primo canto
+finiva
+con Dante
+
+dietro Virgilio.
 
 Pausa.
 
-Il primo passo della Commedia
-non lo fa Dante.
-
-Lo fa una donna in cielo
-che si muove a pietà
-e chiede aiuto per lui.
+Il secondo
+ci dice
+perché
+Virgilio
+era lì.
 
 Pausa lunga.
 
-Intrai per lo cammino alto e silvestro.
+Maria.
+
+Lucia.
+
+Beatrice.
+
+Virgilio.
+
+Pausa.
+
+Una chiamata
+che scende.
+
+Pausa lunga.
+
+E finalmente
+Dante
+risponde.
+
+Pausa.
+
+Or va.
+
+Pausa lunga.
+
+Un sol volere.
+
+Pausa.
+
+Poi
+entra.
+
+Pausa lunga.
+
+Non si scende
+da soli.
