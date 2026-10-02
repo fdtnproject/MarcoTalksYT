@@ -52,6 +52,46 @@ anche non scegliere è una condanna.
 
 Eccola.
 
+Pausa lunga.
+
+È la prima
+soglia vera
+del viaggio.
+
+Pausa.
+
+Nel primo canto
+c'era una selva.
+
+Nel secondo
+una decisione.
+
+Pausa lunga.
+
+Qui
+c'è qualcosa
+che si attraversa.
+
+Pausa.
+
+Un prima.
+
+Un dopo.
+
+Pausa lunga.
+
+E soprattutto
+una scritta.
+
+Prima ancora
+di vedere
+i dannati,
+
+Dante
+deve leggere
+che cosa
+significa entrare.
+
 Pausa.
 
 A metà dei giorni,
@@ -205,6 +245,46 @@ per entrare nel peggior luogo dell'universo.
 
 Il Canto II era: non si scende da soli.
 Il Canto III comincia con una mano stretta.
+
+Pausa lunga.
+
+Non lo spinge.
+
+Pausa.
+
+Non lo trascina.
+
+Pausa lunga.
+
+Gli prende
+la mano.
+
+Pausa.
+
+È quasi
+un gesto
+troppo piccolo
+per questo posto.
+
+Pausa lunga.
+
+Ma proprio
+per questo
+funziona.
+
+Pausa.
+
+La porta
+dice:
+
+lasciate
+ogni speranza.
+
+Pausa lunga.
+
+Virgilio
+risponde
+con una mano.
 
 ## vv. 22-30 - I suoni del buio
 
@@ -719,6 +799,48 @@ che Dante non appartiene a questa fila.
 
 Pausa lunga.
 
+Il corpo vivo
+qui
+è un errore
+visibile.
+
+Pausa.
+
+Caronte
+non ha bisogno
+di sapere
+il nome.
+
+Pausa lunga.
+
+Lo vede.
+
+Respira.
+
+Pesa.
+
+Non appartiene
+a quei morti.
+
+Pausa lunga.
+
+Da qui in poi
+il corpo di Dante
+continuerà
+a tradirlo.
+
+Nel senso migliore.
+
+Pausa.
+
+Ricorderà
+all'Inferno
+che lui
+può ancora
+cambiare.
+
+Pausa lunga.
+
 E dice la cosa decisiva:
 tu passerai,
 ma non con questa barca.
@@ -1009,6 +1131,36 @@ Il confine tra mondo vivo e mondo morto,
 qui,
 non si attraversa per forza.
 Si subisce.
+
+Pausa lunga.
+
+Dante
+non sale
+sulla barca.
+
+Pausa.
+
+Non vediamo
+il passaggio.
+
+Pausa lunga.
+
+Il canto
+ci porta
+fino al limite.
+
+Poi
+spegne
+la coscienza.
+
+Pausa.
+
+Quando Dante
+riaprirà
+gli occhi,
+
+sarà
+dall'altra parte.
 
 ## Davanti alla legge
 
