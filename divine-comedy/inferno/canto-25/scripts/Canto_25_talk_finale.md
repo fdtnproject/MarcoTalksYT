@@ -152,9 +152,6 @@ una cosa sicura.
 
 Pausa lunga.
 
-
-Pausa lunga.
-
 E Dante
 non se la prende solo con lui.
 
@@ -1040,65 +1037,6 @@ forzato.
 
 Pausa lunga.
 
-Qui Dante
-chiama fuori anche Ovidio.
-
-Cadmo.
-Aretusa.
-
-Non basta.
-
-Pausa.
-
-Perché il punto
-non è una metamorfosi sola.
-
-È uno scambio simultaneo.
-
-Pausa lunga.
-
-L’uomo si restringe.
-Il serpente si allunga.
-
-La pelle cambia consistenza.
-Il sesso cambia forma.
-Il pelo compare e scompare.
-
-Pausa.
-
-Uno si alza.
-L’altro cade.
-
-Ma nessuno dei due
-ha smesso
-di guardare.
-
-Pausa lunga.
-
-Torna un momento alla sfida.
-
-Lucano e Ovidio
-li abbiamo già incontrati.
-Nel quarto canto,
-nel Limbo,
-nella bella scola.
-E lo avevano accolto fra loro.
-
-sì ch’io fui sesto tra cotanto senno.
-
-Pausa lunga.
-
-Ventun canti dopo,
-li zittisce.
-Tutti e due.
-
-Pausa.
-
-Io credo che Dante lo sappia benissimo.
-Perché il canto che viene
-si apre con lui
-che si mette il freno.
-
 ## vv. 124-151 - Buoso, Puccio, Gaville
 
 > Quel ch’era dritto il trasse ver le tempie,
@@ -1233,8 +1171,6 @@ diventa bestia.
 
 Quello che era bestia
 prende parola.
-
-Pausa lunga.
 
 Pausa lunga.
 

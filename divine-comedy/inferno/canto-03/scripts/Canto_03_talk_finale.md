@@ -196,96 +196,6 @@ con una mano.
   
 > mi mise dentro a le segrete cose.
 
-Dante legge.
-Dante ha paura.
-
-Dice: "Maestro, il senso lor m'è duro."
-Il senso mi è duro.
-Pesante. Da digerire.
-
-Pausa lunga.
-
-Duro anche per noi.
-
-Pausa.
-
-Perché quella porta
-ha appena detto chi l'ha fatta.
-E fra chi l'ha fatta
-c'è il primo amore.
-
-Pausa lunga.
-
-Come può l'amore
-costruire un luogo
-di dolore senza fine?
-
-Pausa.
-
-La risposta del Medioevo
-passa per la libertà.
-
-Un Dio che ama davvero
-prende sul serio
-le scelte di chi ama.
-Anche quella
-di voltargli le spalle.
-
-Pausa lunga.
-
-E alla fine di questo canto
-vedremo una cosa terribile.
-
-Sulla riva del fiume
-i dannati
-vogliono passare.
-
-Pausa.
-
-Io credo
-che sia questo
-il senso duro.
-
-L'Inferno non è un posto
-dove qualcuno ti trascina.
-È il posto dove arriva
-chi ci ha camminato da solo.
-
-Pausa lunga.
-
-«Maestro, il senso lor m’è duro.»
-
-Pausa.
-
-E Virgilio risponde con una delle frasi
-più importanti di tutta la Commedia.
-
-"Qui si convien lasciare ogni sospetto;
-ogni viltà convien che qui sia morta."
-
-Pausa lunga.
-
-Viltà.
-La stessa parola del Canto II.
-
-Nel Canto II Virgilio aveva diagnosticato la viltà in Dante.
-Qui, sulla soglia, la dichiara morta.
-
-Se vuoi entrare,
-la viltà la lasci qui.
-
-Pausa.
-
-Poi fa una cosa piccolissima.
-Gli prende la mano.
-"Con lieto volto."
-
-Una mano e un sorriso
-per entrare nel peggior luogo dell'universo.
-
-Il Canto II era: non si scende da soli.
-Il Canto III comincia con una mano stretta.
-
 ## vv. 22-30 - I suoni del buio
 
 > Quivi sospiri, pianti ed alti guai  
@@ -1118,7 +1028,6 @@ gli occhi,
 
 sarà
 dall'altra parte.
-
 
 
 ## vv. 130-136 - Svenimento

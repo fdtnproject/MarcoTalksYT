@@ -463,14 +463,14 @@ Pausa.
 
 Virgilio deve quasi suggerire la battuta.
 
-Si volta di lato.
-Sottovoce, con la voce di Virgilio:
+[Regia: Si volta di lato]
+[Regia: Sottovoce, con la voce di Virgilio]
 
 Dilli tosto:
 ‘Non son colui, non son colui che credi’.
 
-Si gira di nuovo, verso la buca.
-Ad alta voce:
+[Regia: Si gira di nuovo, verso la buca]
+[Regia: Ad alta voce]
 
 Non son colui, non son colui che credi.
 

@@ -835,11 +835,7 @@ Pausa lunga.
 
 "Chi per lungo silenzio parea fioco."
 
-Pausa.
-
 Lungo silenzio.
-
-Pausa lunga.
 
 Virgilio è morto nell'anno 19 prima di Cristo.
 Sono passati quasi milletrecentoventi anni.

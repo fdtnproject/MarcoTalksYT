@@ -739,8 +739,9 @@ Nel Limbo.
 > parlando cose che ’l tacere è bello,  
 > sì com’era il parlar colà dov’era.
 
-Dante descrive una cosa
-che dal palco devi dire piano.
+Dante descrive una cosa.
+
+[Regia: Da dire piano]
 
 Pausa.
 

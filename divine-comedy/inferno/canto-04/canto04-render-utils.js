@@ -103,7 +103,7 @@
         continue;
       }
 
-      if (trimmed.startsWith("[Schermo:")) {
+      if (trimmed.startsWith("[Schermo:") || trimmed.startsWith("[Regia:")) {
         flushParagraph(paragraphBuffer, currentSection.items);
         flushQuote(quoteBuffer, currentSection.items);
         flushList(listBuffer, currentSection.items);

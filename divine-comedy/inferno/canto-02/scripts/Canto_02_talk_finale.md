@@ -83,32 +83,6 @@ solo solitudine.
 > sì del cammino e sì de la pietate,  
 > che ritrarrà la mente che non erra.
 
-Il canto comincia con il mondo che si spegne.
-
-Il giorno se ne va.
-Gli animali tornano a riposare.
-Tutto si ferma.
-
-E in mezzo a questa quiete,
-un uomo solo.
-
-Pausa.
-
-"Io sol uno."
-Tre parole, ed è già tutto il canto.
-
-Il cosmo entra in riposo.
-Dante entra in guerra.
-
-E la guerra è doppia:
-il cammino e la pietà.
-Il passo da reggere,
-la compassione che sposta.
-
-Dire "io sol uno" è già un problema.
-Perché da soli,
-non si scende.
-
 ## vv. 7-9 - Invocazione
 
 > O Muse, o alto ingegno, or m’aiutate;  
@@ -412,7 +386,6 @@ che la chiamata
 non l'ha aspettata.
 
 
-
 Pausa lunga.
 
 Per ora
@@ -552,7 +525,6 @@ E l'ombra basta a fermarti
 se dentro non hai ancora il motivo del cammino.
 
 
-
 Pausa lunga.
 
 La bestia
@@ -630,35 +602,6 @@ chiamata.
 > Lucevan gli occhi suoi più che la stella;
 > e cominciommi a dir soave e piana,
 > con angelica voce in sua favella:
-
-Adesso Virgilio fa una cosa decisiva:
-racconta l'origine.
-
-Pausa.
-
-Non dice: mi è sembrato giusto scendere.
-Dice: sono stato mandato.
-
-"Io era tra color che son sospesi."
-Era nel Limbo.
-Era fermo.
-
-E una donna lo ha chiamato.
-
-Notate la grammatica:
-non lui si muove,
-lei lo chiama.
-
-Il movimento nasce sempre
-da qualcun altro
-che ti nomina.
-
-Anche Virgilio,
-prima di essere guida,
-è stato chiamato.
-
-Anche chi guida,
-non si è mosso da solo.
 
 ## vv. 58-66 - L'amico smarrito
 
@@ -772,92 +715,6 @@ tutti.
   
 > Quando sarò dinanzi al signor mio,  
 > di te mi loderò sovente a lui.’
-
-Io son Beatrice, che ti faccio andare;
-
-Pausa.
-
-È la prima volta
-che il suo nome
-compare nel poema.
-
-Pausa lunga.
-
-Chi era Beatrice?
-
-Pausa.
-
-Una ragazza fiorentina.
-Secondo una tradizione
-che comincia con Boccaccio,
-Bice Portinari.
-
-Muore nel 1290,
-giovanissima.
-
-Pausa lunga.
-
-Dopo la sua morte
-Dante scrive un libro,
-la Vita Nova.
-
-E lo chiude con una promessa.
-Se la vita mi basterà,
-spero di dicer di lei
-quello che mai non fue detto d'alcuna.
-
-Pausa lunga.
-
-Dieci anni dopo,
-nel tempo del viaggio,
-eccola.
-
-Pausa.
-
-La promessa
-comincia a essere mantenuta
-qui.
-
-In una donna che scende
-dal cielo fino al Limbo
-per un uomo
-che si è perso.
-
-Pausa lunga.
-
-Qui bisogna fermarsi.
-
-Pausa.
-
-"Amor mi mosse, che mi fa parlare."
-
-Questa è la frase-cardine del canto.
-Forse dell'intera prima parte della Commedia.
-
-Amor.
-Mi.
-Mosse.
-
-Non "amor mi ha ispirato."
-Non "amor mi ha convinto."
-
-Mosse.
-Un verbo di fisica.
-
-L'amore è ciò che produce movimento
-dove la volontà si è consumata.
-
-Pausa.
-
-Ricordate Dante pochi versi fa:
-"pensando, consumai l'impresa."
-Il pensiero lo ferma.
-
-Qui Beatrice dice l'esatto contrario:
-l'amore la muove.
-
-Il pensiero da solo paralizza.
-Solo l'amore cammina.
 
 ## vv. 75-93 - Perché scendi?
 
@@ -1014,7 +871,6 @@ il viaggio comincia molto prima
 che Dante se ne accorga.
 
 
-
 Pausa lunga.
 
 Adesso
@@ -1115,23 +971,6 @@ di arrivare.
 > fidandomi nel tuo parlare onesto,  
 > ch’onora te e quei ch’udito l’hanno.’
 
-Beatrice descrive la sua discesa
-con un paragone durissimo:
-
-più veloce di chi scappa dal proprio danno.
-Più veloce di chi corre al proprio guadagno.
-
-Pausa.
-
-Questo è il ritmo dell'amore.
-Quando c'è una chiamata,
-non si contratta.
-Si scende subito.
-
-Nessuno scende verso un luogo peggiore
-con quella velocità.
-Tranne chi lo fa per amore.
-
 ## vv. 115-120 - Così com'ella volse
 
 > Poscia che m’ebbe ragionato questo,  
@@ -1186,25 +1025,6 @@ ci mostra
 la causa.
   
 > che del bel monte il corto andar ti tolse.
-
-Virgilio chiude il racconto.
-
-Adesso Dante sa:
-non si è salvato da solo.
-
-Dante non ha vinto la lupa.
-Ha trovato chi gli indica
-un altro viaggio.
-Perché qualcuno,
-più in alto,
-ha voluto aiutarlo.
-
-Pausa.
-
-"E venni a te così com'ella volse."
-
-Virgilio è obbedienza.
-Non iniziativa.
 
 ## vv. 121-126 - Tre donne benedette
 
@@ -1450,40 +1270,6 @@ di seguire.
 > tu duca, tu signore, e tu maestro.»  
 > Così li dissi; e poi che mosso fue,  
 > intrai per lo cammino alto e silvestro.
-
-E alla fine arriva la frase che chiude tutto.
-
-"Un sol volere è d'ambedue."
-
-Pausa.
-
-Non due volontà che si accordano.
-Una sola volontà
-che ora riguarda due.
-
-Duca.
-Signore.
-Maestro.
-
-Tre nomi di Virgilio,
-tre livelli di autorità accettata:
-chi guida nel passo,
-chi ha potere di decidere,
-chi insegna.
-
-Pausa.
-
-E poi l'ultima riga.
-Semplice.
-Precisa.
-
-"Intrai per lo cammino alto e silvestro."
-
-Non "partii."
-Intrai.
-
-Il verbo è preciso:
-entrare in una forma.
 
 ## Chiusura da palco
 

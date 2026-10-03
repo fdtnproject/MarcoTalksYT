@@ -193,8 +193,6 @@ Prima l’errore.
 
 Poi la correzione.
 
-Pausa.
-
 Pausa lunga.
 
 Prima
@@ -650,65 +648,6 @@ quasi a niente.
 
 [Schermo: Doré — Nembrotto]
 
-Pausa lunga.
-
-Il primo
-è Nembrotto.
-
-Pausa.
-
-Corno.
-
-Catena.
-
-Lingua rotta.
-
-Pausa lunga.
-
-Aveva voluto
-una torre fino al cielo.
-
-Pausa.
-
-E adesso
-non ha più
-nemmeno una lingua
-che qualcuno possa capire.
-
-Pausa.
-
-La pena è totale.
-
-Non capisce.
-
-Non è capito.
-
-Pausa lunga.
-
-Grida, a piena voce. Una volta sola.
-
-Raphel maì amech zabi almi
-
-Pausa lunga.
-
-Per noi
-non diventa una frase comprensibile.
-
-Suona come una lingua antica.
-Ma non possiamo rispondergli.
-
-Pausa.
-
-Ricordi Pluto, nel settimo canto?
-Pape Satàn.
-Ti avevo detto
-che in fondo all'Inferno
-avremmo sentito un'altra lingua
-che nessuno capisce.
-
-Eccola.
-
-Pausa lunga.
 
 E per Dante
 questa è una ferita personale.
@@ -750,115 +689,6 @@ in cui ti sto parlando.
 
 così è a lui ciascun linguaggio
 come ’l suo ad altrui, ch’ a nullo è noto.
-
-Pausa lunga.
-
-Ma qui,
-davanti al gigante,
-la questione è immediata.
-
-Pausa.
-
-Dante e Virgilio
-sono vicini abbastanza
-da sentire
-ogni suono.
-
-Non è la distanza
-che impedisce
-di capirsi.
-
-Pausa lunga.
-
-La voce arriva.
-
-Il senso
-non passa.
-
-Pausa.
-
-Virgilio prima
-lo rimprovera.
-
-Gli indica il corno
-che porta al collo.
-
-Sfogati con quello.
-
-Pausa lunga.
-
-Poi si rivolge a Dante.
-
-Non parliamo a vuoto.
-
-Pausa.
-
-La guida distingue
-due azioni
-che sembrano la stessa.
-
-Rivolgere parole
-a qualcuno.
-
-Entrare in un colloquio
-con qualcuno.
-
-Pausa lunga.
-
-La prima
-è ancora possibile.
-
-La seconda no.
-
-Non ci sarà
-una risposta
-che sviluppi la domanda.
-
-Pausa.
-
-Nembrotto non può
-raccontare la sua torre
-come Ulisse
-ha raccontato il mare.
-
-Non può difendersi
-come Pier della Vigna.
-
-Pausa lunga.
-
-La sua storia
-la deve dire
-un altro.
-
-Lui rimane lì,
-con una voce enorme,
-fuori da quel racconto.
-
-Pausa.
-
-E il corno
-può portare il rumore
-ancora più lontano.
-
-Non può trasformarlo
-in una parola condivisa.
-
-Pausa lunga.
-
-Non gli manca
-la potenza
-per farsi sentire.
-
-Gli manca
-qualcuno
-con cui capirsi.
-
-Pausa.
-
-Non c'è
-un'altra domanda
-che possa aprire
-il colloquio.
 
 ## vv. 82-111 - Fialte e Briareo
 
@@ -976,34 +806,6 @@ Perché potrebbe.
 > s’io non avessi viste le ritorte.
 
 Pausa lunga.
-
-Fialte
-è la forza
-che non è sparita.
-
-È stata solo
-legata.
-
-Pausa.
-
-Cinque giri
-di catena.
-
-Eppure basta
-un fremito
-per far tremare tutto.
-
-Pausa lunga.
-
-Questa è la verità
-dei giganti:
-
-la dismisura
-non smette
-d’essere potente.
-
-Smette solo
-d’essere libera.
 
 ## vv. 112-145 - Anteo
 
@@ -1424,27 +1226,6 @@ Giganti.
 
 Catene.
 
-Pausa.
-
-Tutto il canto
-lavora
-sulla misura.
-
-Pausa lunga.
-
-Quanto è grande
-una cosa?
-
-Pausa.
-
-Quanto è forte?
-
-Pausa lunga.
-
-Quanto può
-muoversi?
-
-Pausa.
 
 Quanto capiamo
 di ciò che vediamo
@@ -1559,6 +1340,7 @@ li porta
 giù.
 
 Pausa.
+
 La forza
 che non ha
 combattuto

@@ -4,7 +4,7 @@ Piano tavole Doré per il Canto XIV.
 
 Il cuore visivo del canto è quadruplo:
 1. la landa di sabbia infuocata
-2. Capaneus sotto la pioggia di fuoco
+2. Capaneo sotto la pioggia di fuoco
 3. il rio rosso ai margini del sabbione
 4. il Veglio di Creta
 
@@ -27,8 +27,8 @@ Qui stiamo sul gesto di Dante e sulla soglia fra selva e deserto.
 Prima tavola: la landa, la rena arida, la pioggia di fuoco che cade lenta.
 È l'immagine-cardine del canto.
 
-### vv. 43-60 — Capaneus
-[Schermo: Doré — Capaneus sotto la pioggia di fuoco]
+### vv. 43-60 — Capaneo
+[Schermo: Doré — Capaneo sotto la pioggia di fuoco]
 Seconda tavola: il bestemmiatore disteso che continua a sfidare il cielo.
 Tenere accesa fino alla fine di `Qual io fui vivo, tal son morto`.
 
@@ -65,7 +65,7 @@ Tutta la chiusura a nero.
 ## Asset principali da preparare
 
 1. `14_landa_fuoco.*`
-2. `14_capaneus.*`
+2. `14_capaneo.*`
 3. `14_rio_rosso.*`
 4. `14_veglio_creta.*`
 
@@ -75,7 +75,7 @@ Questo non è un canto da riempire.
 
 Le immagini giuste sono poche:
 landa,
-Capaneus,
+Capaneo,
 rio,
 Veglio.
 

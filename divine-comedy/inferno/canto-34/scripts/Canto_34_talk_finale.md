@@ -1569,8 +1569,6 @@ le stelle.
 
 Lungo silenzio.
 
-Pausa lunga.
-
 Riveder.
 
 Pausa.

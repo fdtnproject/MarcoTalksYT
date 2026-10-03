@@ -126,115 +126,6 @@ resterà fuori.
 
 Pausa lunga.
 
-Dante parte
-dicendo una cosa semplice:
-
-non bastano
-le parole.
-
-Pausa.
-
-Neanche se le sciogli
-dal verso.
-
-Neanche se racconti
-più volte.
-
-Pausa lunga.
-
-Poi chiama a raccolta
-la storia intera.
-
-Puglia.
-Roma.
-Guiscardo.
-Ceperano.
-Tagliacozzo.
-
-Tutto il sangue
-che il mondo ricorda.
-
-Pausa.
-
-Sarebbe ancora poco.
-
-Pausa lunga.
-
-Dante
-non sta dicendo
-che questa bolgia
-ha più morti
-di tutte
-quelle guerre.
-
-Pausa.
-
-Sta cercando
-una misura
-per gli occhi.
-
-Pausa lunga.
-
-Corpi
-forati.
-
-Corpi
-mozzati.
-
-Pausa.
-
-Pezzi
-che mancano.
-
-Pausa lunga.
-
-E allora
-prende
-la storia
-che conosce
-
-e la mette
-tutta insieme.
-
-Pausa.
-
-Battaglie.
-
-Campi.
-
-Ossa.
-
-Pausa lunga.
-
-Non basta.
-
-Pausa.
-
-Perché qui
-la guerra
-non è
-un evento
-che è finito.
-
-Pausa lunga.
-
-È diventata
-una forma
-del corpo.
-
-Pausa.
-
-La ferita
-non resta
-nel passato.
-
-Pausa lunga.
-
-Cammina.
-
-
-Pausa lunga.
-
 E in quell'elenco
 c'è la fine di una casa.
 
@@ -407,10 +298,6 @@ un ultimo taglio.
 Pausa lunga.
 
 C'è il giro.
-
-
-Pausa lunga.
-
 
 
 Pausa lunga.
@@ -1112,46 +999,6 @@ una sentenza.
 
 Pausa lunga.
 
-Curio
-ha la lingua tagliata.
-
-Pausa.
-
-Lui
-che aveva sommerso
-il dubbio in Cesare.
-
-Una frase.
-Una spinta.
-Una guerra civile.
-
-Pausa lunga.
-
-Poi Mosca.
-
-Le due mani mozze.
-I moncherini alzati.
-
-Capo ha cosa fatta.
-
-Pausa.
-
-Ed è qui
-che Dante
-esce un attimo
-dalla pura registrazione.
-
-E io gli aggiunsi:
-e morte di tua schiatta.
-
-Pausa lunga.
-
-Non commenta.
-
-Condanna.
-
-Pausa lunga.
-
 Il Mosca.
 Quello del tredicesimo canto.
 Il consiglio,
@@ -1373,54 +1220,6 @@ c'era già.
 
 [Schermo: Doré — Bertran de Born]
 
-Pausa lunga.
-
-Qui Dante
-si ferma.
-
-Dice:
-ho paura
-di raccontarlo da solo.
-
-Pausa.
-
-Poi vede
-quello che non si dimentica più.
-
-Un busto
-sanza capo.
-
-Il capo in mano.
-
-Come una lanterna.
-
-Pausa lunga.
-
-Solleva una mano a braccio teso,
-all'altezza della testa.
-
-Di sé faceva a se stesso lucerna,
-ed eran due in uno e uno in due:
-
-Abbassa il braccio.
-
-Pausa.
-
-E finalmente il nome:
-
-Bertran de Born.
-
-Pausa.
-
-Aveva diviso
-padre e figlio.
-
-Adesso porta
-diviso
-il proprio cervello
-dal suo principio.
-
-Pausa lunga.
 
 Qui il canto
 pronuncia

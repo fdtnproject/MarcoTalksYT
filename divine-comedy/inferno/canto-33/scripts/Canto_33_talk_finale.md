@@ -958,8 +958,6 @@ potè ’l digiuno.
 
 Lungo silenzio.
 
-Pausa lunga.
-
 Dante
 non aggiunge niente.
 

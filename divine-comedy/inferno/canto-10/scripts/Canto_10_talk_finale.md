@@ -727,8 +727,6 @@ Ebbe.
 
 Lungo silenzio.
 
-Pausa.
-
 Passato remoto.
 
 Cavalcante

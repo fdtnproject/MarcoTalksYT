@@ -249,30 +249,6 @@ di poteri.
 
 Pausa lunga.
 
-Appena può parlare,
-quest’anima
-non chiede chi sia Dante.
-
-Non chiede
-se è vivo.
-
-Pausa.
-
-Chiede notizie
-di casa.
-
-Della Romagna.
-
-Pausa lunga.
-
-È già un segno.
-
-Perfino nel fuoco
-resta attaccato
-alla sua terra,
-alle sue guerre,
-ai suoi giochi di potere.
-
 ## vv. 31-57 - Dante risponde
 
 > Io era in giuso ancora attento e chino,
@@ -372,36 +348,6 @@ Poi Guido.
 > se ’l nome tuo nel mondo tegna fronte.»
 
 Pausa lunga.
-
-Qui Dante
-risponde
-con nomi propri.
-
-Pausa.
-
-Ravenna.
-Forlì.
-Rimini.
-Faenza.
-Cesena.
-
-Pausa lunga.
-
-Non è
-un bollettino.
-
-È una mappa
-di signorie,
-tradimenti,
-tirannia.
-
-E poi Dante
-gli chiede il nome.
-
-Se vuoi
-che il tuo nome
-resti in fronte
-nel mondo.
 
 ## vv. 58-84 - Guido si presenta
 
@@ -789,53 +735,6 @@ dell'autorità.
 
 Pausa lunga.
 
-Ed ecco
-Bonifacio.
-
-Pausa.
-
-Lo principe de’ novi Farisei,
-
-Pausa.
-
-Farisei.
-Il concilio di Caifasso,
-crocifisso per terra
-quattro canti fa.
-
-Bonifacio è il principe dei nuovi.
-
-Pausa lunga.
-
-Fa guerra
-non contro infedeli,
-ma contro cristiani.
-
-Non guarda
-né il proprio ufficio
-né il capestro di Guido.
-
-Pausa.
-
-Gli chiede consiglio.
-
-Guido tace.
-
-Perché le parole
-gli sembrano ebbre.
-
-Pausa lunga.
-
-Allora Bonifacio
-scopre il trucco:
-
-finor t’assolvo.
-
-Poi tu
-mi dici come fare.
-
-Pausa lunga.
-
 sì come Penestrino in terra getti.
 
 Palestrina.
@@ -1009,30 +908,6 @@ E parla.
 
 Pausa lunga.
 
-Qui Guido
-cede.
-
-Pausa.
-
-Non perché abbia dimenticato
-il male.
-
-Perché cerca
-di starci dentro
-senza pagarlo.
-
-Pausa lunga.
-
-Lunga promessa.
-
-Attender corto.
-
-Prometti molto.
-
-Mantieni poco.
-
-Pausa lunga.
-
 E nella storia è andata così.
 Nel 1298 i Colonna si arrendono,
 con la promessa del perdono.
@@ -1124,145 +999,6 @@ di non vedere.
 
 Pausa lunga.
 
-Questo
-è il punto perfetto
-del canto.
-
-Pausa.
-
-Arriva Francesco.
-
-Ma il nero cherubino
-lo ferma.
-
-Pausa lunga.
-
-E ha ragione.
-
-Non per crudeltà.
-
-Per logica.
-
-Pausa.
-
-Conta sulle dita, come un professore.
-
-Uno.
-Non si può assolvere
-chi non si pente.
-
-Due.
-Non si può
-volere il peccato
-e pentirsene
-insieme.
-
-per la contradizion che nol consente.
-
-Tre.
-Dunque l'assoluzione data prima del peccato
-non vale niente.
-
-Pausa.
-
-E poi il colpo:
-
-Forse
-tu non pensavi
-ch’io loico fossi.
-
-Pausa lunga.
-
-Il diavolo
-vince Guido
-con un sillogismo.
-
-Il principio di non contraddizione.
-Aristotele.
-
-Il più astuto degli uomini
-battuto da un diavolo
-che ha studiato logica.
-
-Pausa.
-
-Pausa lunga.
-
-Guido
-ha passato
-la vita
-costruendo
-strategie.
-
-Pausa.
-
-Piani
-con più mosse.
-
-Pausa lunga.
-
-Il diavolo
-ne usa tre.
-
-Pausa.
-
-Non ti penti.
-
-Pausa.
-
-Non puoi
-volere il peccato
-
-e nello stesso
-momento
-non volerlo.
-
-Pausa lunga.
-
-Quindi
-l'assoluzione
-non copre niente.
-
-Pausa.
-
-Fine.
-
-Pausa lunga.
-
-La cosa
-più umiliante
-è questa.
-
-Pausa.
-
-Non viene
-battuto
-con un trucco
-più furbo.
-
-Pausa lunga.
-
-Viene battuto
-con una contraddizione
-che era già
-dentro
-il suo piano.
-
-Pausa.
-
-La volpe
-si è costruita
-da sola
-la trappola.
-
-Poi Minosse.
-
-Otto giri.
-
-Foco furo.
-
-Pausa lunga.
-
 E adesso
 ti racconto il figlio.
 
@@ -1271,7 +1007,7 @@ Pausa.
 Guido aveva un figlio.
 Buonconte.
 Capitano degli aretini a Campaldino,
-la battaglia del ventiduesimo canto.
+l'11 giugno 1289.
 Quella in cui Dante combatteva
 dall'altra parte.
 

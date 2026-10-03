@@ -996,7 +996,8 @@ E lo dicono
 con una frase
 bellissima.
 
-se torni a riveder
+se campi d’esti lochi bui
+e torni a riveder
 le belle stelle,
 quando ti gioverà
 dicere "I' fui"

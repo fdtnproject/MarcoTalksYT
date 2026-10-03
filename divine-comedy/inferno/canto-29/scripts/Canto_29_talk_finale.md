@@ -337,12 +337,11 @@ a trattenerlo.
 
 Pausa lunga.
 
-Alza l'indice verso la camera.
-Lo tiene fermo.
+[Regia: Alza l'indice verso la camera e tienilo fermo]
 
 mostrarti e minacciar forte col dito,
 
-Abbassa il dito, piano.
+[Regia: Abbassa il dito, piano]
 
 Pausa.
 
@@ -460,36 +459,6 @@ si porta dietro
 il nodo.
 
 Pausa lunga.
-
-È un punto
-molto umano
-e molto duro.
-
-Pausa.
-
-Nel mezzo di Malebolge
-Dante pensa ancora
-a un debito di famiglia.
-
-Il morto se ne va
-sdegnato.
-E proprio quel rifiuto
-rende Dante più pietoso.
-
-Pausa lunga.
-
-ed in ciò m’ha el fatto a sé più pio.
-
-Pausa.
-
-Io credo che sia il verso più onesto del canto.
-
-Dante non dice che la vendetta è giusta.
-Non dice che è sbagliata.
-Dice che quel cugino arrabbiato
-gli fa pena.
-
-E non lo nasconde.
 
 ## vv. 37-57 - Il fetore della decima bolgia
 
@@ -828,30 +797,6 @@ la materia.
 
 Pausa lunga.
 
-Adesso la bolgia
-si fa vedere.
-
-Pausa.
-
-Corpi malati.
-
-Corpi corrosi.
-
-Corpi che si grattano
-fino a staccarsi
-di dosso.
-
-Pausa lunga.
-
-Il falsario
-ha toccato
-la materia.
-
-E adesso
-la materia
-si vendica
-sul suo corpo.
-
 ## vv. 85-120 - Griffolino d’Arezzo
 
 > «O tu che con le dita ti dismaglie»
@@ -868,6 +813,7 @@ fosse
 una maglia.
 
 Pausa lunga.
+
 Un tessuto
 che si può
 aprire
@@ -1278,174 +1224,6 @@ il corpo
 la mostra
 tutta.
 
-
-Pausa lunga.
-
-Buona scimia.
-
-Pausa.
-
-Capocchio
-si definisce
-con un'immagine.
-
-Pausa lunga.
-
-La scimmia
-imita.
-
-Pausa.
-
-Riproduce
-un gesto.
-
-Una faccia.
-
-Una forma.
-
-Pausa lunga.
-
-E Capocchio
-era bravo
-proprio lì.
-
-Pausa.
-
-A fare
-sembrare
-una cosa
-un'altra.
-
-Pausa lunga.
-
-Ma c'è
-un dettaglio
-ancora più forte.
-
-Pausa.
-
-Dice a Dante:
-
-te dee ricordar.
-
-Pausa lunga.
-
-Mi dovresti
-riconoscere.
-
-Pausa.
-
-Il falsario
-che ha vissuto
-dell'imitazione
-
-vuole essere
-riconosciuto
-come sé stesso.
-
-Pausa lunga.
-
-Dentro
-un corpo
-corroso.
-
-Pausa.
-
-È quasi
-la contraddizione
-finale
-del canto.
-
-Pausa lunga.
-
-Ha passato
-la vita
-a rendere
-incerta
-l'identità
-delle cose.
-
-Pausa.
-
-E ora
-chiede
-che la sua
-non venga perduta.
-
-Pausa lunga.
-
-Il finale
-si restringe.
-
-Pausa.
-
-Siena.
-
-La sua fama
-di vanità.
-
-I suoi nomi propri.
-
-Pausa lunga.
-
-E poi,
-all’improvviso,
-Capocchio.
-
-Pausa.
-
-Uno che Dante conosceva.
-
-Uno che si presenta
-così:
-
-buona scimia.
-
-Pausa.
-
-Due letture.
-
-Per alcuni,
-scimmia della natura.
-L'alchimista che copia la natura
-invece di seguirla.
-Nell'undicesimo canto
-Virgilio aveva detto
-che l'arte umana, seguendo la natura,
-è quasi nipote di Dio.
-Questo è il nipote falso.
-
-Pausa.
-
-Per altri,
-e per il commento che seguiamo,
-vuol dire soltanto:
-ero bravissimo a fare le imitazioni.
-Te lo ricordi?
-
-E infatti
-la prima cosa che fa
-è il verso a Dante,
-sui senesi.
-
-Pausa lunga.
-
-Non creatore.
-
-Imitatore.
-
-Contraffattore.
-
-Pausa lunga.
-
-Riguarda
-la bolgia.
-
-Pausa.
-
-Odore falso?
-
-No.
 
 Pausa lunga.
 

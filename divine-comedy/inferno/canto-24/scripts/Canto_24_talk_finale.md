@@ -342,139 +342,6 @@ più fiato.
 
 Pausa lunga.
 
-Qui il canto
-si fa fatica pura.
-
-Roccia.
-Schegge.
-Appigli.
-
-Pausa.
-
-Virgilio sale
-come uno che misura
-e decide
-mentre agisce.
-
-Pausa lunga.
-
-Dante
-invece
-arranca.
-
-Si siede a terra.
-
-Dante si siede.
-Resta senza fiato.
-
-Pausa.
-
-E allora arriva
-una delle frasi
-più dure
-di tutta la Commedia.
-
-Seggendo in piuma,
-in fama non si vien.
-
-Pausa lunga.
-
-Fama.
-
-Pausa.
-
-Non salvezza.
-
-Pausa lunga.
-
-Virgilio
-non gli dice:
-se non sali,
-sei cattivo.
-
-Pausa.
-
-Gli dice
-un'altra cosa.
-
-Pausa lunga.
-
-Se vuoi
-lasciare
-una traccia,
-
-non puoi
-restare
-sotto la coperta.
-
-Pausa.
-
-Fumo nell'aria.
-
-Schiuma
-sull'acqua.
-
-Pausa lunga.
-
-Due cose
-che esistono
-un momento
-
-e poi
-spariscono.
-
-Pausa.
-
-È duro.
-
-Pausa lunga.
-
-Perché Dante
-sta scrivendo
-un poema
-che vuole
-restare.
-
-Pausa.
-
-E mette
-questa frase
-proprio mentre
-il suo personaggio
-non riesce
-più a muoversi.
-
-Pausa lunga.
-
-Prima
-la fama.
-
-Poi
-un passo.
-
-Pausa.
-
-Poi
-un altro.
-
-
-Pausa lunga.
-
-È più di un incoraggiamento.
-
-È una legge.
-
-Senza fatica
-non resta niente.
-
-Pausa lunga.
-
-E però leva su: vinci l’ambascia
-
-Si alza.
-
-con l’animo che vince ogni battaglia,
-
 ## vv. 58-78 - La voce dal fosso
 
 > Leva’mi allor, mostrandomi fornito
@@ -657,45 +524,6 @@ una frase.
 > si dee seguir con l’opera tacendo.»
 
 Pausa lunga.
-
-Dante si rialza.
-
-Fa la voce forte.
-
-Parla
-per non sembrare
-fievole.
-
-Pausa.
-
-Ma dal fosso
-sale un’altra voce.
-
-Incomprensibile.
-Irritata.
-
-Pausa lunga.
-
-E allora Dante chiede
-di scendere.
-
-Qui non basta più
-sentire da lontano.
-
-Vuole vedere.
-
-Pausa.
-
-Virgilio risponde
-come deve.
-
-Non con una spiegazione.
-
-Con il gesto.
-
-La dimanda onesta
-si segue
-facendola.
 
 ## vv. 79-96 - La settima bolgia
 
@@ -972,72 +800,6 @@ a rischio.
 > che cotai colpi per vendetta croscia!
 
 Pausa lunga.
-
-Un serpente
-colpisce al collo.
-
-E il dannato
-non cade soltanto.
-
-Brucia.
-
-Pausa.
-
-Si fa cenere.
-
-Poi la cenere
-si raccoglie.
-
-E torna uomo.
-
-Pausa lunga.
-
-La fenice.
-
-Sì.
-
-Ma qui
-senza gloria.
-
-Senza eccezione.
-Senza rinascita nobile.
-
-Solo per essere
-di nuovo
-distrutto.
-
-Pausa.
-
-È la forma stessa
-che non tiene.
-
-Pausa lunga.
-
-E c'è un'altra cosa.
-
-Nei bestiari del Medioevo
-la fenice
-è un simbolo di Cristo.
-Muore, e risorge.
-
-Pausa.
-
-E noi siamo al sabato.
-Il giorno fra la morte
-e la resurrezione.
-
-Pausa lunga.
-
-A me sembra
-che Dante metta qui,
-proprio oggi,
-una resurrezione rovesciata.
-
-Un uomo che risorge dalla cenere
-per tornare cenere.
-
-Oh potenza di Dio, quant’è severa,
-che cotai colpi per vendetta croscia!
 
 ## vv. 121-139 - Vanni Fucci
 
@@ -1490,7 +1252,6 @@ in racconto.
 
 Pausa lunga.
 
-
 ## Chiusura
 
 [Schermo: nero pieno]
@@ -1568,9 +1329,6 @@ imparare
 a non fermarsi
 alla prima forma
 delle cose.
-
-Pausa lunga.
-
 
 Pausa lunga.
 
