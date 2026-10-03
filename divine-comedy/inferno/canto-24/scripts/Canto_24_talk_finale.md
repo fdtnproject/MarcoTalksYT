@@ -202,7 +202,7 @@ quello del primo incontro.
 > così, levando me su ver la cima
 > d’un ronchione, avvisava un’altra scheggia,
 > dicendo: «Sovra quella poi t’aggrappa,
-> ma tenta pria s’è tal ch’ella ti reggia.
+> ma tenta pria s’è tal ch’ella ti reggia.»
 
 Pausa lunga.
 
@@ -311,7 +311,7 @@ Pausa.
 Perché
 non ha
 più fiato.
-»
+
 > Non era via da vestito di cappa,
 > ché noi a pena, ei lieve ed io sospinto,
 > potevam su montar di chiappa in chiappa.
@@ -478,7 +478,7 @@ con l’animo che vince ogni battaglia,
 ## vv. 58-78 - La voce dal fosso
 
 > Leva’mi allor, mostrandomi fornito
-> meglio di lena ch’i’ non mi sentia
+> meglio di lena ch’i’ non mi sentia,
 
 Pausa lunga.
 
@@ -559,7 +559,7 @@ Gli ha dato
 una frase
 con cui
 attraversarla.
-,
+
 > e dissi: «Va, ch’i’ son forte e ardito.»
 > Su per lo scoglio prendemmo la via,
 > ch’era ronchioso, stretto, e malagevole,
@@ -575,7 +575,7 @@ attraversarla.
 > per ch’io: «Maestro, fa che tu arrivi
 > da l’altro cinghio e dismontiam lo muro;
 > ché, com’io odo quinci e non intendo,
-> così giù veggio e neente affiguro.
+> così giù veggio e neente affiguro.»
 
 Pausa lunga.
 
@@ -651,7 +651,7 @@ Pausa.
 
 Non sempre
 una frase.
-»
+
 > «Altra risposta» disse «non ti rendo
 > se non lo far; ché la dimanda onesta
 > si dee seguir con l’opera tacendo.»
@@ -1044,7 +1044,7 @@ che cotai colpi per vendetta croscia!
 > Lo duca il domandò poi chi ello era;
 > per ch’ei rispuose: «Io piovvi di Toscana,
 > poco tempo è, in questa gola fera.
-> Vita bestial mi piacque e non umana
+> Vita bestial mi piacque e non umana,
 
 Pausa lunga.
 
@@ -1144,7 +1144,7 @@ viene fuori
 proprio perché
 qualcuno
 lo guarda.
-,
+
 > sì come a mul ch’i’ fui; son Vanni Fucci
 > bestia, e Pistoia mi fu degna tana.»
 > E io al duca: «Dilli che non mucci,
@@ -1356,9 +1356,10 @@ Poi Brunetto.
 Vanni Fucci è il quarto.
 E l'ultimo, nell'Inferno.
 
-Ogni volta più preciso.
-Questa volta,
-più cattivo.
+Ogni voce
+gli lascia qualcosa addosso.
+
+Questa vuole ferirlo.
 
 Pausa lunga.
 
@@ -1375,7 +1376,7 @@ ogni Bianco.
 Pausa.
 
 Ma la storia ha un senso dell'umorismo
-che Vanni non poteva prevedere.
+che Vanni non racconta.
 
 Pochi anni dopo
 Dante, Bianco ed esule,
@@ -1505,8 +1506,8 @@ e poi si scioglie.
 
 Pausa.
 
-Finisce con un uomo
-che si fa cenere
+Più avanti,
+un uomo si fa cenere
 e torna.
 
 Pausa lunga.

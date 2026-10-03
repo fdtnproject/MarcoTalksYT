@@ -165,7 +165,7 @@ perfetta.
 > Se tu pur mo in questo mondo cieco
 > caduto se’ di quella dolce terra
 > latina ond’io mia colpa tutta reco,
-> dimmi se i Romagnuoli han pace o guerra
+> dimmi se i Romagnuoli han pace o guerra;
 
 Pausa lunga.
 
@@ -243,7 +243,7 @@ Pausa lunga.
 
 Fa una mappa
 di poteri.
-;
+
 > ch’io fui de’ monti là intra Urbino
 > e ’l giogo di che Tever si diserra.»
 
@@ -299,7 +299,9 @@ ai suoi giochi di potere.
 > E quella cui il Savio bagna il fianco,
 > così com’ella sie’ tra ’l piano e ’l monte,
 > tra tirannia si vive e stato franco.
-> Pausa lunga.
+> Ora chi se’ ti priego che ne conte:
+
+Pausa lunga.
 
 Ravenna.
 
@@ -366,7 +368,6 @@ di governare.
 
 Poi Guido.
 
-Ora chi se’ ti priego che ne conte:
 > non esser duro più ch’altri sia stato,
 > se ’l nome tuo nel mondo tegna fronte.»
 
@@ -868,7 +869,9 @@ Sempre con le chiavi in mano.
 
 ## vv. 106-111 - Il consiglio
 
-> Pausa lunga.
+> Allor mi pinser gli argomenti gravi
+
+Pausa lunga.
 
 Guido tace.
 
@@ -879,10 +882,8 @@ conta.
 
 Pausa lunga.
 
-Le parole
-di Bonifacio
-gli sembrano
-ebbri.
+Le parole di Bonifacio
+gli sembrano ebbre.
 
 Pausa.
 
@@ -921,16 +922,85 @@ per tacere.
 Pausa lunga.
 
 Poi gli argomenti
-lo spingono
-là dove
-il tacere
+lo spingono là
+dove il tacere
 gli sembra peggio.
+
+Pausa.
+
+Non dice:
+mi sembrò giusto.
+
+Dice:
+tacere mi sembrò peggio.
+
+Pausa lunga.
+
+È una differenza
+che si sente.
+
+Guido ha davanti
+il papa.
+
+La persona
+che dovrebbe aiutarlo
+a non ricadere
+lo sta richiamando
+al mestiere di prima.
+
+Pausa.
+
+E usa proprio
+ciò in cui Guido
+ha cercato rifugio.
+
+La salvezza.
+Le chiavi.
+L'assoluzione.
+
+Pausa lunga.
+
+La pressione è reale
+nel racconto.
+
+Ma Guido non sparisce
+sotto quella pressione.
+
+È lui
+che trova il consiglio.
+
+Pausa.
+
+E per darlo
+si aggrappa
+alla promessa ricevuta.
+
+Dal momento
+che tu mi lavi
+il peccato,
+allora parlerò.
+
+Pausa lunga.
+
+La frase
+si costruisce
+come un accordo.
+
+Tu garantisci una cosa.
+Io ne faccio un'altra.
+
+Pausa.
+
+Solo che il pentimento
+non è una garanzia
+che un altro
+possa depositare
+al posto tuo.
 
 Pausa.
 
 E parla.
 
-Allor mi pinser gli argomenti gravi
 > là ’ve ’l tacer mi fu avviso il peggio;
 > e dissi: ‘Padre, da che tu mi lavi
 > di quel peccato ov’io mo cader deggio,
@@ -976,9 +1046,12 @@ Lo racconta anche un cronista di quegli anni,
 Riccobaldo da Ferrara.
 Era una voce.
 
-E Dante l'ha creduta.
-Per questo il nobilissimo Guido del Convivio
-è finito qui.
+Dante la porta nel poema.
+
+E il nobilissimo Guido
+del Convivio
+diventa quest'uomo
+nel fuoco.
 
 ## vv. 112-129 - Il diavolo loico
 
@@ -988,7 +1061,7 @@ Per questo il nobilissimo Guido del Convivio
 > Venir se ne dee giù tra’ miei meschini,
 > perché diede il consiglio frodolente,
 > dal quale in qua stato li sono a’ crini:
-> ch’assolver non si può chi non si pente
+> ch’assolver non si può chi non si pente,
 
 Pausa lunga.
 
@@ -1034,7 +1107,7 @@ la contraddizione
 che Guido
 aveva cercato
 di non vedere.
-,
+
 > né pentére e volere insieme puossi,
 > per la contradizion che nol consente’.
 > Oh me dolente! come mi riscossi
@@ -1228,7 +1301,8 @@ E allora arrivano in due.
 Un angelo
 e un diavolo.
 
-Come per suo padre.
+Due contendenti,
+come per suo padre.
 
 Pausa.
 

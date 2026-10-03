@@ -369,10 +369,96 @@ che parlavano.
 
 Pausa.
 
-Qui
-un uomo
-viene
-consegnato.
+Qui un uomo
+viene consegnato.
+
+Pausa.
+
+E il demonio
+non lo presenta
+con il nome.
+
+Dice da dove viene.
+Dice la carica.
+
+Un anziano
+di Santa Zita.
+
+Pausa lunga.
+
+Anziano,
+qui,
+non significa soltanto
+vecchio.
+
+È un magistrato
+che ha governato Lucca.
+
+Pausa.
+
+Lo scopriamo
+mentre viene buttato giù.
+
+Il titolo dell'ufficio
+arriva insieme
+al corpo.
+
+Pausa lunga.
+
+Poi il diavolo
+vuole tornare subito
+nella stessa città.
+
+Dice che là
+ne ha tanti altri
+come quello.
+
+Pausa.
+
+È la sua battuta.
+
+Non dobbiamo usarla
+come il verbale
+di un'indagine.
+
+Dobbiamo sentire
+come gode
+a pronunciarla.
+
+Pausa lunga.
+
+Per lui Lucca
+è un posto
+in cui rifornirsi.
+
+Una città viva,
+con chiese,
+cariche,
+mercati,
+ridotta alla promessa
+di un altro carico.
+
+Pausa.
+
+E quello consegnato
+non ottiene neppure
+il tempo di spiegarsi.
+
+Prova a emergere.
+
+Gli ordinano
+di stare coperto.
+
+Pausa lunga.
+
+La carica pubblica
+non gli apre
+uno spazio per parlare.
+
+È il motivo
+per cui la presa in giro
+lo colpisce
+con tanta precisione.
 
 Pausa lunga.
 
@@ -1114,15 +1200,16 @@ Pausa.
 Uno invece viene da lontano.
 
 Alichino.
-In Francia, Hellequin.
-Il diavolo comico
-del teatro medievale francese.
+
+Il nome richiama Hellequin,
+una figura diabolica
+presente nella tradizione francese.
 
 Pausa.
 
-Quasi tre secoli dopo,
-da quel nome
-nascerà una maschera.
+A questa famiglia di nomi
+viene collegata anche
+una maschera più tarda.
 
 Arlecchino.
 
@@ -1155,25 +1242,11 @@ Conta.
 
 Pausa lunga.
 
-Barbariccia.
+Barbariccia
+alla testa.
 
-Alichino.
-
-Calcabrina.
-
-Cagnazzo.
-
-Libicocco.
-
-Draghignazzo.
-
-Ciriatto.
-
-Graffiacane.
-
-Farfarello.
-
-Rubicante.
+Gli altri
+in formazione.
 
 Pausa lunga.
 
@@ -1454,9 +1527,11 @@ digrignano per i dannati.
 
 Pausa.
 
-Non è così.
 Si strizzano l'occhio.
-Sanno della bugia.
+
+Sembrano già d'accordo
+su qualcosa
+che Dante ignora.
 
 Quello che ha paura
 ha visto meglio

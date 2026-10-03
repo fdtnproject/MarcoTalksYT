@@ -997,7 +997,8 @@ E poi la domanda:
 
 Perché recalcitrate
 contro quella voglia
-il cui finenon può essere spezzato?
+il cui fine
+non può essere spezzato?
 
 Pausa.
 
@@ -1394,9 +1395,10 @@ di terribile.
 
 Pausa.
 
-Hanno pensato
-la morte
-come una fine.
+Fra loro incontreremo
+quelli che hanno pensato
+la morte del corpo
+come fine dell'anima.
 
 E adesso
 la loro tomba
@@ -1411,16 +1413,12 @@ fra quelle arche.
 
 Pausa.
 
-Non c'è
-un viale centrale.
+Non guardiamo la città
+da un punto
+che la contenga tutta.
 
-Non c'è
-un punto
-da cui vedere tutto.
-
-Passano
-fra il muro
-e i sepolcri.
+Seguiamo Dante e Virgilio
+fra il muro e i sepolcri.
 
 Poi svoltano.
 
@@ -1638,8 +1636,9 @@ del passaggio.
 La porta
 si apre.
 
-Le tombe,
-no.
+Chi è nelle tombe,
+invece,
+non può uscirne.
 
 Pausa.
 

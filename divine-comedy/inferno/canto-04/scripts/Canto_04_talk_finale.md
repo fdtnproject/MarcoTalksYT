@@ -3,11 +3,6 @@
 Versione da palco
 Linea guida: "Desiderio senza approdo"
 
-Nota di lavoro:
-- pattern e taglio allineati a `Canto_01_talk_finale.md`, `Canto_02_talk_finale.md`, `Canto_03_talk_finale.md`
-- i versi sono riallineati al testo standard del Canto IV
-- i cue immagine restano generici: le tavole le scegli tu
-
 ## Apertura
 
 [Schermo: Doré / Dante che si risveglia sull'orlo dell'abisso]
@@ -73,12 +68,13 @@ sull'orlo della valle d'abisso.
 Pausa lunga.
 
 Nota il dettaglio:
-Dante non ha camminato fin qui.
-Si trova qui.
+non vediamo
+come Dante arrivi fin qui.
 
-Il confine tra mondo vivo e mondo morto
-non l'ha attraversato sulle sue gambe.
-L'ha attraversato nell'inconscienza.
+Perde i sensi
+da una parte.
+Li riprende
+dall'altra.
 
 ## vv. 10-21 - Virgilio pallido
 
@@ -467,9 +463,9 @@ Una frana.
 Ponti crollati.
 
 Li incontreremo.
-E ogni volta
-che troveremo una roccia rotta,
-sapremo perché.
+E certe fratture
+porteranno il segno
+di quel passaggio.
 
 Pausa lunga.
 

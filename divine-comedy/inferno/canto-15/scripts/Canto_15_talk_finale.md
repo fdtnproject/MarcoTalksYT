@@ -175,7 +175,7 @@ qualcuno la rivede.
 Pausa lunga.
 
 Londra.
-1942.
+Gli anni della guerra.
 
 Pausa.
 
@@ -1459,8 +1459,7 @@ E per presentare il terzo,
 Brunetto usa una parola dura.
 
 Tigna.
-
-La scabbia.
+Un male della pelle.
 
 Pausa.
 

@@ -153,15 +153,16 @@ più semplice.
 
 Pausa.
 
-Noi
-quando camminiamo
-guardiamo
-dove andiamo.
+Di solito
+il volto e il petto
+guardano dalla stessa parte.
 
 Pausa lunga.
 
-Qui
-non si può.
+Qui sono separati.
+
+Per seguire gli occhi,
+devono retrocedere.
 
 Pausa.
 
@@ -319,12 +320,138 @@ da lontano.
 Pausa lunga.
 
 È un uomo
-che vede
-un altro corpo
-
-deformato
-fino a diventare
+che vede un altro corpo
+deformato fino a diventare
 difficile da guardare.
+
+Pausa.
+
+E ci chiama dentro.
+
+Lettore,
+pensaci tu.
+
+Pausa lunga.
+
+Non dice:
+se avessi visto,
+avresti capito
+la giustizia.
+
+Dice:
+come potevo
+non piangere?
+
+Pausa.
+
+Il poeta
+che conosce
+il senso del viaggio
+non cancella
+quel pianto.
+
+Lo scrive.
+E ci chiede
+di misurarci con lui.
+
+Pausa lunga.
+
+Poi fa parlare Virgilio.
+
+E Virgilio
+non gli dà ragione.
+
+Pausa.
+
+Dentro pochi versi
+sentiamo due richieste.
+
+Dante:
+guarda che cosa
+è successo a un uomo.
+
+Virgilio:
+non perdere di vista
+il giudizio
+che lo ha portato qui.
+
+Pausa lunga.
+
+Non è comodo
+stare in mezzo.
+
+Se liquidi il pianto
+come una sciocchezza,
+non senti più
+la nostra immagine.
+
+Se dimentichi la colpa,
+non capisci più
+che cosa Dante
+stia attraversando.
+
+Pausa.
+
+Io credo che la forza
+sia proprio
+nel non poter guardare
+questa scena
+da una parte sola.
+
+Pausa lunga.
+
+E c'è un gesto
+che tiene tutto insieme.
+
+Dante è appoggiato
+alla roccia.
+
+Virgilio gli dice:
+raddrizza la testa.
+
+Pausa.
+
+Non basta
+dire che sbaglia.
+
+Deve tornare
+a guardare.
+
+Pausa lunga.
+
+I dannati
+non possono rimettere
+a posto il collo.
+
+Lui può.
+
+Può ancora cambiare
+la posizione
+da cui vede.
+
+Pausa.
+
+A me sembra che
+anche quel piccolo movimento
+faccia parte del viaggio.
+
+Non diventare
+insensibile.
+
+Imparare a sostenere
+uno sguardo
+che il dolore
+aveva abbassato.
+
+Pausa lunga.
+
+Drizza la testa,
+drizza.
+
+Due volte.
+
+Virgilio non lo lascia
+contro quella pietra.
 
 ## vv. 31-39 - Anfiarao
 
@@ -381,15 +508,118 @@ diretro guarda.
 
 Pausa lunga.
 
-La pena
-non ha bisogno
-di una spiegazione
-in più.
+Il corpo
+porta già il segno
+di quella pretesa.
 
 Pausa.
 
-Il corpo
-la dice.
+Ma ascolta la domanda
+che viene dalla guerra.
+
+Dove precipiti,
+Anfiarao?
+
+Perché lasci
+la battaglia?
+
+Pausa lunga.
+
+La terra si apre.
+
+Chi è rimasto sopra
+lo vede sparire
+come se avesse scelto
+di andarsene.
+
+Pausa.
+
+Non lo vede
+arrivare da Minosse.
+
+Quello è il tratto
+che Dante aggiunge
+al nostro sguardo.
+
+Pausa lunga.
+
+La voragine della storia
+sbocca nel giudizio
+dell'Inferno.
+
+E qui
+Anfiarao cammina.
+
+Non racconta
+la propria caduta.
+
+La racconta Virgilio
+mentre lo indica.
+
+Pausa.
+
+In questo canto
+ascoltiamo molte storie.
+
+Ma non ci vengono dette
+dai loro protagonisti.
+
+Pausa lunga.
+
+La fila
+passa in silenzio.
+
+È la guida
+che riconosce,
+nomina,
+ricorda.
+
+Pausa.
+
+Chi un tempo
+veniva interrogato
+per sapere che cosa
+sarebbe accaduto
+adesso viene mostrato
+senza dare risposte.
+
+Pausa lunga.
+
+Non dobbiamo inventare
+che cosa pensi.
+
+Non ce lo dice.
+
+Possiamo guardare
+il contrasto.
+
+Le domande
+stanno sopra,
+sullo scoglio.
+
+Sotto,
+un passo dopo l'altro.
+
+Pausa.
+
+E se Dante
+vuole sapere di più,
+non chiama l'indovino.
+
+Si rivolge a Virgilio.
+
+Pausa lunga.
+
+Il desiderio di conoscere
+non è sparito
+entrando qui.
+
+Ha cambiato
+interlocutore.
+
+E deve imparare
+anche a fermarsi
+davanti a un silenzio.
 
 ## vv. 40-51 - Tiresia e Aronta
 
@@ -437,13 +667,145 @@ Mare.
 
 Pausa lunga.
 
-Due modi
-diversi
-
-di fare
-del vedere
-
+Due modi diversi
+di fare del vedere
 un potere.
+
+Pausa.
+
+Tiresia,
+per esempio.
+
+Virgilio non racconta
+una sua previsione.
+
+Racconta
+che il suo corpo
+è cambiato.
+
+Pausa lunga.
+
+Da uomo
+a donna.
+
+E poi di nuovo
+uomo.
+
+Pausa.
+
+Tutte le membra.
+
+Non un travestimento.
+Non un altro nome.
+
+Pausa lunga.
+
+La storia dei serpenti
+porta dentro questa fila
+la memoria
+di una trasformazione
+che ebbe un ritorno.
+
+Un altro colpo
+della verga.
+Il corpo di prima.
+
+Pausa.
+
+Qui quella possibilità
+non c'è.
+
+La testa rimane
+rivolta indietro.
+
+Pausa lunga.
+
+Non è la trasformazione
+a essere la colpa.
+
+Tiresia è qui
+fra gli indovini.
+
+Ma Dante sceglie
+di farcelo riconoscere
+attraverso il corpo
+che aveva già cambiato forma.
+
+Pausa.
+
+Una storia antica
+passa dentro
+la pena presente.
+
+Non serve raccontarla tutta.
+
+Basta quel ricordo:
+era potuto tornare.
+Adesso no.
+
+Pausa lunga.
+
+Poi Aronta.
+
+La sua dimora
+si apre fra i marmi.
+
+Da lì,
+stelle e mare.
+
+Niente gli chiudeva
+la veduta.
+
+Pausa.
+
+E per un momento
+vediamo anche noi
+quella distanza.
+
+Il bianco della pietra.
+Il cielo.
+Il mare sotto.
+
+Pausa lunga.
+
+Poi torniamo
+alla fila.
+
+Aronta è dietro Tiresia.
+
+Ma Dante deve dirlo
+con parole strane:
+al suo ventre
+mette la schiena.
+
+Pausa.
+
+Persino indicare
+chi segue chi
+richiede di ricomporre
+questi corpi.
+
+Non basta dire:
+il secondo uomo.
+
+Pausa lunga.
+
+Dal panorama aperto
+siamo tornati
+a una schiena
+e a un petto
+che non stanno
+come dovrebbero.
+
+Pausa.
+
+Ecco perché
+non sono soltanto
+nomi da ricordare.
+
+Ogni nome
+ci costringe
+a guardare di nuovo.
 
 Pausa.
 
@@ -572,8 +934,7 @@ il canto
 degli indovini
 
 si interrompe
-per una geografia
-precisione.
+per una geografia precisa.
 
 Pausa lunga.
 
@@ -741,7 +1102,209 @@ alla magia.
 Pausa.
 
 E affidata
-alla storia.
+alla storia
+che Virgilio racconta qui.
+
+Pausa lunga.
+
+Seguiamo il passaggio
+senza saltarlo.
+
+Manto cerca
+un posto separato.
+
+Non vuole vivere
+con gli altri.
+
+Pausa.
+
+Trova un terreno
+in mezzo alla palude.
+
+Ci rimane
+con i suoi servi.
+Esercita le sue arti.
+
+Poi muore.
+
+Pausa lunga.
+
+La città
+non è ancora nata.
+
+Questo intervallo
+conta.
+
+Pausa.
+
+Gli uomini arrivano dopo.
+
+Vedono quello stesso luogo
+e lo scelgono
+per un motivo diverso.
+
+È protetto dall'acqua.
+
+Pausa.
+
+Dove lei cercava
+isolamento,
+loro possono
+raccogliersi.
+
+Non ricevono da Manto
+un ordine dall'aldilà.
+
+Non fondano Mantova
+perché qualcuno
+ha letto un segno.
+
+Pausa lunga.
+
+Guardano il terreno.
+
+Qui possiamo stare.
+Qui possiamo difenderci.
+
+Pausa.
+
+Il nome di Manto
+resta.
+
+Il potere magico
+non diventa
+il fondamento della città.
+
+Pausa lunga.
+
+La precisione
+di Virgilio
+serve a questo.
+
+La palude
+non è un ornamento.
+
+Spiega una scelta.
+
+Pausa.
+
+E appena la città
+ha preso forma,
+la voce cambia ancora.
+
+Virgilio ricorda
+che un tempo
+c'era più gente.
+
+Pausa lunga.
+
+Una città può nascere
+in un luogo sicuro
+e poi perdere
+la propria forza.
+
+Non per un responso.
+
+Per un inganno politico.
+
+Pausa.
+
+Casalodi.
+Pinamonte.
+
+Virgilio li lascia entrare
+nella storia della sua terra
+senza fare
+un'altra profezia.
+
+Pausa lunga.
+
+Sente il danno
+che uomini concreti
+hanno fatto
+ad altri uomini.
+
+E chiede a Dante
+una cosa possibile.
+
+Quando racconterai
+questa origine,
+non confonderla.
+
+Pausa.
+
+Non ti chiedo
+di leggere il futuro.
+
+Ti chiedo
+di non falsificare
+ciò che ti sto dicendo.
+
+Pausa lunga.
+
+E quel rapporto
+si vede anche
+nel modo di ascoltare.
+
+Pausa.
+
+Virgilio chiede:
+ascoltami un poco.
+
+Non pretende
+che la sua terra
+interessi a Dante
+senza una ragione.
+
+La racconta.
+
+Pausa lunga.
+
+Per un tratto
+la fila degli indovini
+non è più
+il centro del discorso.
+
+C'è un morto
+che tiene
+alla verità
+su casa propria.
+
+Pausa.
+
+Anche una guida
+ha qualcosa
+che non vuole lasciare
+in mano alle voci
+sbagliate.
+
+Pausa lunga.
+
+Questo non dimostra
+che il racconto
+sia una cronaca verificabile.
+
+È la verità
+che il Virgilio del poema
+vuole affidare
+a chi tornerà.
+
+Pausa.
+
+Dante risponde
+con una fiducia enorme.
+
+Gli altri racconti,
+davanti a questo,
+sarebbero carboni spenti.
+
+Pausa.
+
+Ancora una volta
+la guida ha lavorato
+con la parola.
+
+Non con un sortilegio.
 
 Pausa lunga.
 
@@ -857,19 +1420,16 @@ Il problema
 
 Pausa lunga.
 
-Fare del cielo
-una macchina
-
-che decide
-l'uomo.
+Usare arti divinatorie
+per forzare
+ciò che non ci è dato sapere.
 
 Pausa.
 
-Fare
-della divinazione
-
-un possesso
-del futuro.
+E, quando tutto viene
+attribuito alle stelle,
+fare del cielo una macchina
+che decide l'uomo.
 
 Pausa lunga.
 
@@ -890,19 +1450,18 @@ la libertà.
 
 Pausa lunga.
 
-Quindi
-qui
-non opporrei
-
-prescienza
-e libero arbitrio.
+Ma non tutti questi indovini
+sostengono una teoria
+del destino.
 
 Pausa.
 
-Opporrei
-libertà
+Il canto non condanna
+la profezia in quanto tale.
 
-e determinismo.
+Condanna quelle arti
+con cui l'uomo pretende
+di appropriarsene.
 
 Pausa lunga.
 
@@ -930,10 +1489,80 @@ quel mistero
 
 a tecnica.
 
+Pausa.
+
+E fra questi nomi
+c'è Asdente.
+
+Un uomo
+che lavorava il cuoio.
+
+Pausa.
+
+Ora vorrebbe essere rimasto
+al suo spago.
+
+Dante non gli oppone
+un altro indovino,
+più bravo.
+
+Gli oppone
+il lavoro lasciato.
+
+Pausa lunga.
+
+Poi le donne.
+
+Ago.
+Spola.
+Fuso.
+
+Anche loro
+hanno abbandonato
+qualcosa che le mani
+sapevano fare.
+
+Pausa.
+
+Per erbe,
+immagini,
+malie.
+
+Non sono parole
+intercambiabili.
+
+Da una parte
+un'azione che produce
+qualcosa nel mondo.
+
+Dall'altra
+la pretesa di piegare
+forze nascoste
+al proprio volere.
+
+Pausa lunga.
+
+Io qui sento tornare
+la domanda della misura.
+
+Non quanto lontano
+puoi immaginare.
+
+Che cosa credi
+di poter ottenere
+con le tue mani.
+
+Pausa.
+
+E quelle mani,
+ora,
+non raddrizzano
+neppure il volto.
+
 ## vv. 124-130 - La luna
 
 > Ma vienne omai, ché già tiene ’l confine
-> d’amendue li emisperi e tocca l’onda
+> d’amendue gli emisperi e tocca l’onda
 > sotto Sibilia Caino e le spine;
 > e già iernotte fu la luna tonda;
 > ben ten dee ricordar, ché non ti nocque
@@ -981,10 +1610,8 @@ più semplice.
 
 Pausa lunga.
 
-Guarda
-il cielo
-
-per orientarsi.
+Si orienta
+con il cielo.
 
 Pausa.
 
@@ -1056,9 +1683,8 @@ il cielo.
 
 Pausa.
 
-Virgilio
-lo guarda
-fino all'ultimo.
+Virgilio se ne serve
+per leggere l'ora.
 
 Pausa lunga.
 

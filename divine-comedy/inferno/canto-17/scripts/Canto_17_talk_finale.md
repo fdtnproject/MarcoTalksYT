@@ -1531,11 +1531,8 @@ Pausa lunga.
 E poi
 il falcone.
 
-Non un animale
-addomesticato.
-
-Un falcone
-stanco.
+Non un animale docile.
+Un falcone stanco.
 
 Disdegnoso.
 Fello.

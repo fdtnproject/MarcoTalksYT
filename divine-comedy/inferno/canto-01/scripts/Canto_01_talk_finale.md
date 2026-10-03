@@ -188,12 +188,10 @@ Forte.
 
 Pausa.
 
-Per un uomo
-del Medioevo
-
-la selva
+Questa selva
 non è
-un parco.
+un paesaggio
+da contemplare.
 
 Pausa lunga.
 
@@ -546,7 +544,8 @@ Il piè fermo sempre era il più basso.
 
 Pausa.
 
-La tecnica medievale della salita.
+La meccanica
+della salita.
 Il piede che rimane fisso
 mentre l'altro avanza.
 
@@ -866,7 +865,7 @@ Dante parla a qualcuno.
 
 Pausa.
 
-E cominciano in latino.
+E comincia in latino.
 
 Miserere.
 Abbi pietà.
@@ -1033,8 +1032,8 @@ Pausa.
 Pausa lunga.
 
 Non è che Virgilio fosse cattivo.
-Era nel tempo sbagliato.
-Prima della rivelazione.
+Era vissuto
+prima di Cristo.
 
 Pausa.
 

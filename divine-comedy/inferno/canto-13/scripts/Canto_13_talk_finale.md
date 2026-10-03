@@ -246,9 +246,8 @@ che io credessi.
 
 Pausa lunga.
 
-Tre menti
-una dentro
-l'altra.
+Tre pensieri
+uno dentro l'altro.
 
 Prima ancora
 di sapere
@@ -1685,13 +1684,8 @@ con qualcuno.
 
 Pausa lunga.
 
-In descrizione
-trovi
-un riferimento
-di aiuto
-verificato
-per il momento
-della pubblicazione.
+Chiedi anche
+un aiuto professionale.
 
 Pausa lunga.
 

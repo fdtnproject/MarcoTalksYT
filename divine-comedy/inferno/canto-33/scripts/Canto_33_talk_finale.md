@@ -159,8 +159,28 @@ Pausa lunga.
 La politica
 finisce qui.
 
-Adesso
-resta una torre.
+Adesso resta una torre.
+
+Pausa.
+
+Con lui
+ci sono due figli
+e due nipoti.
+
+Il poema li raccoglie
+sotto una parola:
+figliuoli.
+
+Pausa lunga.
+
+Nel racconto
+li vedremo come li vede lui.
+
+Ma non dobbiamo scambiare
+quella parola
+per una genealogia.
+
+Adesso entriamo.
 
 ## vv. 22-54 - La torre e il sogno
 
@@ -349,14 +369,143 @@ guardano lui.
 Pausa.
 
 Da questo momento
-ogni gesto
-del padre
+ogni gesto del padre
+diventa una risposta.
 
-diventa
-una risposta.
+Anche quando non parla.
 
-Anche quando
-non parla.
+Pausa.
+
+Perché fino a quel momento
+c'era stato
+un ritmo.
+
+Passavano i giorni.
+Arrivava il cibo.
+
+Pausa lunga.
+
+Non era libertà.
+
+Ma qualcuno,
+da fuori,
+continuava a tenere
+in vita chi era dentro.
+
+Pausa.
+
+Quella mattina
+l'ora è la stessa.
+
+Si sono svegliati.
+Aspettano.
+
+Pausa lunga.
+
+Poi sentono
+chiudere sotto.
+
+Il rumore arriva
+dove avrebbe dovuto arrivare
+il pane.
+
+Pausa.
+
+Non c'è un uomo
+che sale a dire:
+è finita.
+
+Non c'è una condanna
+letta ad alta voce.
+
+Pausa lunga.
+
+C'è un gesto
+dall'altra parte del muro.
+
+E dentro,
+cinque persone
+che devono capirlo.
+
+Pausa.
+
+Ugolino guarda i ragazzi.
+
+Anselmuccio
+guarda lui.
+
+Non gli domanda
+che cosa abbia fatto Pisa.
+
+Gli domanda:
+che hai?
+
+Pausa lunga.
+
+Una domanda
+che potresti sentire
+in una casa.
+
+Ti vedo strano.
+Che cosa succede?
+
+Pausa.
+
+Ma qui la risposta,
+se arrivasse,
+dovrebbe spiegare
+perché il pane
+non arriverà.
+
+Pausa lunga.
+
+Ugolino non risponde.
+
+Tutto quel giorno.
+La notte dopo.
+
+Pausa.
+
+Il silenzio
+non dura il tempo
+fra due battute.
+
+Dura abbastanza
+perché fuori
+passi un altro sole.
+
+Pausa lunga.
+
+E il poema
+non esce dalla stanza
+per darci sollievo.
+
+Non ci porta
+nel palazzo di Ruggieri.
+
+Non fa discutere
+i responsabili.
+
+Pausa.
+
+Restiamo con la domanda
+di Anselmuccio.
+
+Il padre è lì.
+
+La risposta
+non viene.
+
+Pausa lunga.
+
+Questa per me
+è la prima fame
+che la scena ci fa sentire.
+
+Aspettare qualcosa
+da chi hai davanti.
+
+E non riceverlo.
 
 Pausa lunga.
 
@@ -531,9 +680,112 @@ Non nutrirli.
 
 Pausa.
 
-Solo
-non aggiungere
+Solo non aggiungere
 altro dolore.
+
+Pausa.
+
+Prima,
+quando guardava,
+gli avevano chiesto
+che cosa avesse.
+
+Adesso,
+quando si morde le mani,
+credono di aver capito.
+
+Pausa lunga.
+
+Il silenzio
+non ha impedito
+che si formasse
+una risposta.
+
+Ne ha lasciata nascere
+una sbagliata.
+
+Pausa.
+
+Pensano che voglia mangiare.
+
+Non sanno leggere
+quel dolore.
+
+E gli offrono
+l'unica cosa
+che nella stanza
+non sia pietra.
+
+Pausa lunga.
+
+Il proprio corpo.
+
+Pausa.
+
+Non serve attribuire loro
+un ragionamento
+che il testo non racconta.
+
+Bastano le parole.
+
+Tu ci hai dato
+questa carne.
+
+Tu riprendila.
+
+Pausa lunga.
+
+E il padre
+si ferma.
+
+Il gesto più violento
+che il dolore
+gli aveva strappato
+viene trattenuto
+per loro.
+
+Pausa.
+
+Non perché stia meglio.
+
+Perché ha visto
+che cosa possono capire
+di quel gesto.
+
+Pausa lunga.
+
+Dentro l'impotenza
+rimane questa attenzione.
+
+Non può aprire
+la porta.
+
+Può provare
+a non spaventarli ancora.
+
+Pausa.
+
+E allora
+stanno tutti muti.
+
+Non più soltanto lui.
+
+Pausa lunga.
+
+Il silenzio
+ha riempito la stanza.
+
+Quando una voce
+lo spezzerà,
+non chiederà
+una spiegazione politica.
+
+Chiederà aiuto.
+
+Pausa.
+
+E chiamerà
+ancora il padre.
 
 Pausa lunga.
 
@@ -559,11 +811,10 @@ Una riga.
 
 Pausa lunga.
 
-Dante
-non gli concede
-una scena.
+Dante non prolunga
+quel momento.
 
-Non una frase finale.
+Non una spiegazione.
 
 Pausa.
 
@@ -613,13 +864,91 @@ Per due giorni.
 
 Pausa lunga.
 
-Nessuno
-risponde.
+Nessuno risponde.
 
 Pausa lunga.
 
-Poi
-la frase.
+Ugolino dice:
+come tu mi vedi.
+
+Lo dice a Dante,
+mentre racconta
+che li vide cadere.
+
+Pausa.
+
+Io li vedevo
+con la stessa certezza
+con cui tu adesso
+hai davanti me.
+
+Pausa lunga.
+
+Chiede al vivo
+una testimonianza
+che nella torre
+non era possibile.
+
+Nessuno sarebbe uscito
+a raccontare.
+
+Ora c'è qualcuno
+che può ascoltare
+e tornare fuori.
+
+Pausa.
+
+Eppure la sua voce
+non riesce a rimettere
+insieme quelle persone.
+
+Uno a uno
+sono caduti.
+
+Uno a uno
+li cerca.
+
+Pausa lunga.
+
+Sopra ciascuno.
+
+Dante non scrive
+soltanto:
+sopra i corpi.
+
+Quella parola
+li separa ancora.
+
+Pausa.
+
+Non sono diventati
+una quantità.
+
+Per il padre
+sono ancora
+quelli che chiamava.
+
+Pausa lunga.
+
+Due giorni.
+
+Una voce
+che continua a rivolgersi
+a chi non può rispondere.
+
+Pausa.
+
+Il potere che Ugolino
+aveva avuto fuori
+non gli restituisce
+nemmeno una sillaba.
+
+La torre
+non gli risponde.
+
+Pausa lunga.
+
+Poi la frase.
 
 Pausa.
 
@@ -642,9 +971,12 @@ su questa riga.
 
 Pausa.
 
-Morte di fame.
+Il senso più immediato:
+la fame lo uccide
+prima del dolore.
 
-Oppure
+Oppure,
+per alcuni lettori,
 un'ultima possibilità
 più terribile.
 
@@ -668,17 +1000,15 @@ troppo in fretta.
 
 Pausa lunga.
 
-Il verso
-ci lascia
-nel buio
-della torre.
+Seguendo Borges,
+io resto
+nel buio della torre.
 
 Pausa.
 
-E lì
-la possibilità
-fa parte
-dell'orrore.
+In questa lettura,
+la possibilità stessa
+fa parte dell'orrore.
 
 Pausa lunga.
 
@@ -765,6 +1095,52 @@ l'invettiva
 non assolve Ugolino.
 
 Condanna Pisa.
+
+Pausa.
+
+E senti quel se.
+
+Se Ugolino
+aveva fama
+di aver tradito
+i tuoi castelli.
+
+Pausa lunga.
+
+Dante non riapre
+il processo al padre
+per decidere
+se i ragazzi
+meritassero il pane.
+
+Pausa.
+
+Non c'è bisogno
+di assolvere lui
+per riconoscere
+che cosa è stato fatto
+a loro.
+
+Pausa lunga.
+
+La torre
+non può diventare giusta
+perché fuori
+qualcuno pronuncia
+la parola traditore.
+
+Pausa.
+
+Ecco dove
+l'invettiva
+ritrova i volti.
+
+Non in una difesa
+della famiglia potente.
+
+In quei quattro
+che non dovevano
+pagare così.
 
 ## vv. 91-120 - Tolomea e frate Alberigo
 

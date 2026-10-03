@@ -408,8 +408,8 @@ Non sono nomi nuovi.
 Due erano già comparsi
 nel sesto canto.
 
-Ciacco
-li aveva messi
+Dante li aveva chiesti
+a Ciacco,
 fra gli uomini degni
 della vecchia Firenze.
 
@@ -479,9 +479,9 @@ quella storia politica
 non è più
 una cronaca.
 
-Sono tre uomini
-che continuano
-a correre
+Ci arriva nella voce
+di tre uomini
+che continuano a correre
 sotto il fuoco.
 
 ## vv. 46-63 - Dante risponde da sopra
@@ -997,7 +997,8 @@ con una frase
 bellissima.
 
 se torni a riveder
-le belle stelle,quando ti gioverà
+le belle stelle,
+quando ti gioverà
 dicere "I' fui"
 
 Pausa.

@@ -782,13 +782,13 @@ Con quale diritto?
 
 Pausa.
 
-Prima di lui,
-nell'aldilà,
-da vivi,
-ci sono andati in due.
+Per quel viaggio,
+Dante richiama
+due precedenti.
 
 Enea,
-che doveva fondare Roma.
+da cui sarebbe discesa
+la stirpe di Roma.
 
 E san Paolo,
 rapito fino al cielo.

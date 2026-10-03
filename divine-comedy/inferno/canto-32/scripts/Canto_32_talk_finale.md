@@ -405,8 +405,9 @@ I denti
 battono
 in nota di cicogna.
 
-Le lacrime
-si chiudono
+E quando i due fratelli
+alzano il volto,
+le lacrime si chiudono
 sugli occhi.
 
 Pausa lunga.
@@ -441,8 +442,8 @@ battono.
 
 Pausa lunga.
 
-Le lacrime
-si fermano.
+Sui loro occhi
+le lacrime si fermano.
 
 Pausa.
 
@@ -461,82 +462,127 @@ il rancore.
 
 Pausa lunga.
 
-Nemmeno
-piangere
-funziona.
+I due fratelli
+sono così vicini
+che i capelli
+si mescolano.
 
 Pausa.
 
-L'occhio
-produce
-una lacrima.
+Dante chiede
+chi siano.
+
+Loro piegano il collo
+per guardarlo.
 
 Pausa lunga.
 
-La lacrima
-arriva
-alla palpebra.
+Finché tenevano
+la faccia abbassata,
+il pianto poteva scendere.
+
+Ora sale il volto.
+
+Le lacrime
+incontrano il gelo
+fra le palpebre.
 
 Pausa.
 
-E si chiude.
+Gli occhi
+si serrano.
+
+Dante paragona
+quella chiusura
+al legno
+stretto da un ferro.
 
 Pausa lunga.
 
-Quello
-che dovrebbe
-uscire
+Un movimento
+per vedere il vivo
+si conclude
+nel non vedere più.
 
-resta
-sul volto.
-
-Pausa.
-
-E poi
-ne arriva
-un'altra.
-
-Pausa lunga.
-
-Gela
-sulla prima.
+E subito dopo
+i due cozzano
+l'uno contro l'altro.
 
 Pausa.
+
+Come due becchi.
+
+La vicinanza
+non diventa aiuto.
 
 Il dolore
-costruisce
-la propria
-prigione.
+non li riunisce.
 
 Pausa lunga.
 
-Più piangi,
-meno riesci
-a piangere.
+Erano fratelli.
+
+La stessa origine
+non ha impedito
+che si odiassero.
+
+Qui il ghiaccio
+li tiene vicini
+senza riconciliarli.
 
 Pausa.
 
-Più provi
-a liberare
-l'occhio,
+E a dire i nomi
+sarà un altro.
 
-più il ghiaccio
-lo chiude.
+Non loro.
 
 Pausa lunga.
 
-Qui perfino
-la pietà
-del corpo
-contro sé stesso.
+La prima domanda
+che Dante rivolge
+ai due corpi
+non produce
+una conversazione.
 
+Produce un gesto.
+
+Poi un urto.
 
 Pausa.
 
-Qui il dolore
-non si sfoga.
+Non abbiamo bisogno
+di immaginare
+che cosa si dicano
+nell'orecchio.
 
-Si blocca.
+Vediamo
+che cosa fanno
+con la poca libertà
+di movimento
+che rimane.
+
+Pausa lunga.
+
+Non possono
+allontanarsi.
+
+Possono ancora
+colpirsi.
+
+Pausa.
+
+Per questo
+il ghiaccio non significa
+che tutto sia finito.
+
+Ha immobilizzato
+la posizione.
+
+Non ha spento
+la volontà
+che li mette
+uno contro l'altro.
 
 Pausa lunga.
 
@@ -622,8 +668,9 @@ Stretti così.
 
 Pausa lunga.
 
-Là, due amanti
-abbracciati per sempre nel vento.
+Là,
+due amanti
+ancora uniti nel vento.
 
 Qui, due fratelli
 abbracciati per sempre nell'odio.
@@ -666,7 +713,7 @@ peggiore di me.
 > fatti per freddo; onde mi vien riprezzo,
 > e verrà sempre, de’ gelati guazzi.
 > E mentre ch’andavamo inver lo mezzo,
-> al quale ogni gravezza si rauna
+> al quale ogni gravezza si rauna,
 
 Pausa lunga.
 
@@ -731,7 +778,7 @@ cammina
 fra teste
 quasi come
 fra pietre.
-,
+
 > e io tremava ne l’eterno rezzo,
 > se voler fu o destino o fortuna
 > non so, ma, passeggiando tra le teste,
@@ -751,7 +798,7 @@ fra pietre.
 > «Vivo son io, e caro esser ti puote,»
 > fu mia risposta «se dimandi fama,
 > ch’io metta il nome tuo tra l’altre note.»
-> Ed egli a me: «Del contrario ho io brama
+> Ed egli a me: «Del contrario ho io brama;
 
 Pausa lunga.
 
@@ -814,12 +861,54 @@ memoria.
 
 Pausa.
 
-Promette
-vergogna.
-;
+Promette vergogna.
+
+Pausa.
+
+Dante credeva
+di offrirgli qualcosa.
+
+Posso scrivere di te.
+Posso riportare fuori
+il tuo nome.
+
+Pausa lunga.
+
+Bocca capisce benissimo
+l'offerta.
+
+La rifiuta
+proprio perché la capisce.
+
+Pausa.
+
+Non tutti
+vogliono la stessa cosa
+da chi torna.
+
+Per alcuni
+la memoria è l'ultima
+forma di presenza.
+
+Per Bocca
+è il pericolo
+che il nascondimento
+finisca.
+
+Pausa lunga.
+
+Dante dovrà scoprire
+che la stessa promessa
+non apre
+tutte le bocche.
+
+E la sua reazione
+non sarà soltanto
+un'altra domanda.
+
 > lèvati quinci e non mi dar più lagna,
 > ché mal sai lusingar per questa lama!»
-> Allor lo presi per la cuticagna
+> Allor lo presi per la cuticagna,
 
 Pausa lunga.
 
@@ -893,7 +982,7 @@ Pausa lunga.
 
 Ce lo fa
 vedere.
-,
+
 > e dissi: «El converrà che tu ti nomi,
 > o che capel qui su non ti rimagna.»
 > Ond’egli a me: «Perché tu mi dischiomi,
@@ -1027,8 +1116,8 @@ Bocca degli Abati.
 Pausa.
 
 Eccolo.
-Il guelfo del decimo canto.
-Quello che a Montaperti,
+
+A Montaperti,
 racconta Villani,
 tagliò la mano al portabandiera.
 La bandiera cadde.
@@ -1083,10 +1172,12 @@ Del contrario ho io brama;
 
 Pausa lunga.
 
-Qui in fondo
-i dannati non vogliono più
-essere ricordati.
-Vogliono sparire.
+Bocca non vuole
+che il suo nome torni fuori.
+
+Altri, fra poco,
+useranno invece il racconto
+per infamare il proprio nemico.
 
 A me sembra
 il segno più chiaro
@@ -1204,7 +1295,7 @@ insopportabile.
 ## vv. 124-139 - I due in una buca
 
 > Noi eravam partiti già da ello,
-> ch’io vidi due ghiacciati in una buca
+> ch’io vidi due ghiacciati in una buca,
 
 Pausa lunga.
 
@@ -1284,7 +1375,7 @@ Pausa lunga.
 Chiede.
 
 Perché?
-,
+
 > sì che l’un capo a l’altro era cappello.
 > E come ’l pan per fame si manduca,
 > così ’l sovran li denti a l’altro pose
@@ -1294,7 +1385,7 @@ Perché?
 > che quei faceva il teschio e l’altre cose.
 > «O tu che mostri per sì bestial segno
 > odio sovra colui che tu ti mangi,
-> dimmi ’l perché
+> dimmi ’l perché,» diss’io «per tal convegno,
 
 Pausa lunga.
 
@@ -1358,7 +1449,7 @@ La risposta
 avrà bisogno
 di un canto
 intero.
-,» diss’io «per tal convegno,
+
 > che se tu a ragion di lui ti piangi,
 > sappiendo chi voi siete e la sua pecca,
 > nel mondo suso ancora io te ne cangi,
@@ -1498,8 +1589,7 @@ Pausa lunga.
 che rende
 Cocito
 diverso
-da tutto
-yl resto.
+da tutto il resto.
 
 Pausa.
 

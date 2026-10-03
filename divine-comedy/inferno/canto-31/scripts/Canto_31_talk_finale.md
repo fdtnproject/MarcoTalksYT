@@ -13,11 +13,10 @@ Allora, il trentunesimo canto.
 
 Pausa.
 
-Il trentesimo
-si era chiuso
+Il trentesimo si era chiuso
 con la vergogna di Dante
-e la mano di Virgilio
-che lo raccoglie.
+e la voce di Virgilio
+che lo rimette in cammino.
 
 Pausa lunga.
 
@@ -404,7 +403,7 @@ a mostruosità.
 > le spalle e ’l petto e del ventre gran parte,
 > e per le coste giù ambo le braccia.
 > Natura certo, quando lasciò l’arte
-> di sì fatti animali, assai fe’ bene
+> di sì fatti animali, assai fe’ bene,
 
 Pausa lunga.
 
@@ -468,13 +467,13 @@ la misura
 fisica
 è anche
 misura morale.
-,
+
 > per tòrre tali esecutori a Marte.
 > E s’elli d’elefanti e di balene
 > non si pente, chi guarda sottilmente
 > più giusta e più discreta la ne tiene;
 > ché dove l’argomento de la mente
-> s’aggiugne al mal volere ed a la possa
+> s’aggiugne al mal volere ed a la possa,
 
 Pausa lunga.
 
@@ -553,7 +552,7 @@ I giganti
 sono il corpo
 visibile
 di quella formula.
-,
+
 > nessun riparo vi può far la gente.
 > La faccia sua mi parea lunga e grossa
 > come la pina di San Pietro a Roma,
@@ -564,7 +563,7 @@ di quella formula.
 > tre Frison s’averìen dato mal vanto;
 > però ch’io ne vedea trenta gran palmi
 > dal luogo in giù dov’uomo affibbia il manto.
-> «Raphel maì amech zabi almi
+> «Raphel maì amech zabi almi»
 
 Pausa lunga.
 
@@ -633,7 +632,7 @@ di lingua
 
 non serve
 quasi a niente.
-»
+
 > cominciò a gridar la fiera bocca,
 > cui non si convenian più dolci salmi.
 > E ’l duca mio ver lui: «Anima sciocca,
@@ -692,9 +691,11 @@ Raphel maì amech zabi almi
 
 Pausa lunga.
 
-Non vuol dire niente.
+Per noi
+non diventa una frase comprensibile.
+
 Suona come una lingua antica.
-Ma non è niente.
+Ma non possiamo rispondergli.
 
 Pausa.
 
@@ -737,8 +738,8 @@ La lingua di Adamo
 era già morta
 prima della torre.
 
-Dante cambia idea sulla lingua
-dentro il suo stesso poema.
+Dante cambia idea
+rispetto al suo trattato.
 
 Pausa lunga.
 
@@ -752,83 +753,112 @@ come ’l suo ad altrui, ch’ a nullo è noto.
 
 Pausa lunga.
 
-E Dante
-fa una cosa
-rara.
+Ma qui,
+davanti al gigante,
+la questione è immediata.
 
 Pausa.
 
-Lascia
-che il poema
-corregga
-il trattato.
+Dante e Virgilio
+sono vicini abbastanza
+da sentire
+ogni suono.
+
+Non è la distanza
+che impedisce
+di capirsi.
 
 Pausa lunga.
 
-Non nasconde
-che aveva pensato
-una cosa diversa.
+La voce arriva.
+
+Il senso
+non passa.
 
 Pausa.
 
-La lingua
-di Adamo,
-credeva,
-si era conservata.
+Virgilio prima
+lo rimprovera.
+
+Gli indica il corno
+che porta al collo.
+
+Sfogati con quello.
 
 Pausa lunga.
 
-Poi fa parlare
-Adamo.
+Poi si rivolge a Dante.
 
-E Adamo
-dice:
-no.
+Non parliamo a vuoto.
 
 Pausa.
 
-Era già
-cambiata.
+La guida distingue
+due azioni
+che sembrano la stessa.
+
+Rivolgere parole
+a qualcuno.
+
+Entrare in un colloquio
+con qualcuno.
 
 Pausa lunga.
 
-La lingua
-non è
-una pietra
-fuori dal tempo.
+La prima
+è ancora possibile.
+
+La seconda no.
+
+Non ci sarà
+una risposta
+che sviluppi la domanda.
 
 Pausa.
 
-Vive.
+Nembrotto non può
+raccontare la sua torre
+come Ulisse
+ha raccontato il mare.
 
-Cambia.
-
-Muore.
+Non può difendersi
+come Pier della Vigna.
 
 Pausa lunga.
 
-E questa idea
-sta qui,
+La sua storia
+la deve dire
+un altro.
 
-davanti
-a Nembrot,
-
-l'uomo
-associato
-alla frattura
-delle lingue.
+Lui rimane lì,
+con una voce enorme,
+fuori da quel racconto.
 
 Pausa.
 
-Non è
-un'aggiunta
-filologica.
+E il corno
+può portare il rumore
+ancora più lontano.
+
+Non può trasformarlo
+in una parola condivisa.
 
 Pausa lunga.
 
-È Dante
-che si corregge
-in pubblico.
+Non gli manca
+la potenza
+per farsi sentire.
+
+Gli manca
+qualcuno
+con cui capirsi.
+
+Pausa.
+
+Non c'è
+un'altra domanda
+che possa aprire
+il colloquio.
 
 ## vv. 82-111 - Fialte e Briareo
 
@@ -846,7 +876,7 @@ in pubblico.
 > disse ’l mio duca, «ond’egli ha cotal merto.
 > Fialte ha nome, e fece le gran prove
 > quando i giganti fer paura a’ Dei:
-> le braccia ch’ei menò già mai non move.
+> le braccia ch’ei menò già mai non move.»
 
 Pausa lunga.
 
@@ -928,7 +958,7 @@ lo colpisca.
 Pausa lunga.
 
 Perché potrebbe.
-»
+
 > Ed io a lui: «S’esser puote, io vorrei
 > che de lo smisurato Briareo
 > esperienza avesser gli occhi miei.»
@@ -1146,7 +1176,7 @@ dalla prospettiva.
 > di vederlo chinare, e fu tal ora
 > ch’io avrei voluto ir per altra strada.
 > Ma lievemente al fondo che divora
-> Lucifero con Giuda ci sposò
+> Lucifero con Giuda ci sposò;
 
 Pausa lunga.
 
@@ -1208,9 +1238,9 @@ Pausa.
 Dal bordo
 di Malebolge
 al ghiaccio.
-;
+
 > né, sì chinato, lì fece dimora,
-> e com’albero in nave si levò
+> e com’albero in nave si levò.
 
 Pausa lunga.
 
@@ -1261,7 +1291,6 @@ Pausa lunga.
 
 Davanti
 c'è Cocito.
-.
 
 [Schermo: Doré — Anteo depone i due poeti]
 
@@ -1282,7 +1311,7 @@ di Virgilio.
 Pausa.
 
 Con Nembrot
-non parla.
+non può discutere.
 
 Pausa lunga.
 
@@ -1520,8 +1549,8 @@ c'è Anteo.
 
 Pausa.
 
-L'unico
-senza catene.
+Fra quelli incontrati,
+è il solo senza catene.
 
 Pausa lunga.
 
@@ -1576,4 +1605,3 @@ porta
 nel punto
 più basso
 dell'universo.
-

@@ -19,12 +19,9 @@ dell'Inferno.
 
 Pausa lunga.
 
-Qui
-non c'è più
-niente da scendere.
+Siamo all'ultima discesa.
 
-Resta
-il fondo.
+Resta il fondo.
 
 ## vv. 1-21 - Vexilla, vento, Dite
 
@@ -134,8 +131,97 @@ con un movimento.
 
 Pausa lunga.
 
-Toglie
-il movimento.
+Toglie il movimento.
+
+Pausa.
+
+E gli occhi
+non distinguono subito
+un corpo da una cosa.
+
+Un filo di paglia
+chiuso nel vetro.
+
+Pausa lunga.
+
+È il paragone
+che sceglie Dante.
+
+Non una prigione
+con qualcuno dietro le sbarre.
+
+Qualcosa
+che vedi dentro
+la materia trasparente.
+
+Pausa.
+
+Il corpo c'è.
+
+Ma non può
+venirti incontro.
+
+Pausa lunga.
+
+Uno è steso.
+Uno è diritto.
+Uno piegato ad arco.
+
+Non sono posizioni
+che scelgono
+per stare meglio.
+
+Sono rimasti così.
+
+Pausa.
+
+Dante invece
+cerca ancora
+un riparo.
+
+Si stringe
+dietro Virgilio.
+
+Pausa lunga.
+
+La sua grotta,
+qui,
+è il corpo della guida.
+
+Non c'è una parete
+che lo protegga dal vento.
+
+C'è qualcuno
+davanti a lui.
+
+Pausa.
+
+E poi quel qualcuno
+si sposta.
+
+Pausa lunga.
+
+Per tutto questo tratto
+Virgilio lo ha riparato.
+
+Adesso deve lasciargli
+vedere.
+
+Non può concludere
+il viaggio al posto suo.
+
+Pausa.
+
+Gli dice
+di armarsi di fortezza.
+
+Non gli consegna
+un'arma.
+
+Gli chiede
+di restare lì
+senza fuggire
+da quello che vedrà.
 
 Pausa lunga.
 
@@ -456,12 +542,33 @@ immensa.
 
 Pausa.
 
-Ma anche Milton
-lo degrada.
+Ma nel decimo libro
+anche quella voce
+si spezza.
 
-Lo abbassa.
+Pausa.
 
-Lo trasforma.
+Satana torna
+per proclamare la vittoria.
+
+Aspetta applausi.
+Sente sibili.
+
+Pausa lunga.
+
+E diventa serpente.
+
+Vuole parlare.
+Sibila anche lui.
+
+Pausa.
+
+Non è la sua forma
+definitiva per sempre.
+
+Ma la punizione
+colpisce proprio
+la voce vittoriosa.
 
 Pausa lunga.
 
@@ -477,18 +584,71 @@ di rappresentazione.
 
 Pausa lunga.
 
-Milton
-gli concede
-la parola.
+Milton gli concede la parola
+e ne mette in scena
+anche l'umiliazione.
 
-Dante
-gliela toglie.
+Dante,
+qui,
+non gliela concede mai.
 
 Pausa.
 
-Qui,
-per me,
+Qui, per me,
 sta il confronto.
+
+Pausa.
+
+E tornando a Lucifero
+ascoltiamo proprio
+quello che manca.
+
+Nessuna promessa.
+
+Nessuna versione dei fatti
+che tenti di sedurci.
+
+Pausa lunga.
+
+Non possiamo fare
+quello che abbiamo fatto
+con Francesca,
+con Ulisse,
+con Ugolino.
+
+Avvicinarci a una voce.
+Sentire che ci prende.
+Poi domandarci
+come ci abbia presi.
+
+Pausa.
+
+Qui la distanza
+non viene colmata
+con un racconto.
+
+Resta una massa
+che il corpo di Dante
+fatica a sopportare.
+
+Pausa lunga.
+
+E alla fine
+non è Lucifero
+a congedare i visitatori.
+
+È Virgilio
+che decide
+che hanno visto tutto.
+
+Pausa.
+
+Il re del luogo
+non conclude l'incontro.
+
+Il viaggio
+prosegue senza
+chiederglielo.
 
 Pausa lunga.
 
@@ -680,8 +840,107 @@ Per l'ultima discesa
 dell'Inferno
 
 il terreno
-è il corpo
-del suo re.
+è il corpo del suo re.
+
+Pausa.
+
+E Virgilio
+non si precipita.
+
+Aspetta
+il tempo giusto.
+
+Le ali
+si aprono abbastanza.
+
+Allora si afferra.
+
+Pausa lunga.
+
+Quel battito,
+che congela il regno,
+diventa anche
+il movimento
+fra cui trovare
+un passaggio.
+
+Pausa.
+
+Non perché Lucifero
+voglia aiutarli.
+
+Non li accompagna.
+Non li autorizza.
+
+Pausa lunga.
+
+Non ha l'ultima parola
+sull'uscita.
+
+Non ha una parola.
+
+Pausa.
+
+Virgilio scende
+di pelo in pelo.
+
+Una presa.
+Poi un'altra.
+
+Con Dante
+attaccato al collo.
+
+Pausa lunga.
+
+Dopo tutte le voci
+che abbiamo ascoltato,
+il gesto decisivo
+è così concreto.
+
+Tenere.
+Aspettare.
+Non perdere la presa.
+
+Pausa.
+
+E la guida
+fa fatica.
+
+Il poema non la nasconde
+sotto una formula.
+
+Virgilio ansima.
+
+Pausa lunga.
+
+Quello che ha saputo
+rispondere ai dannati,
+ragionare con i custodi,
+spiegare le pene,
+ora deve usare
+le braccia.
+
+Pausa.
+
+La sua autorevolezza
+non gli risparmia
+la fatica del passaggio.
+
+La sostiene.
+
+Pausa lunga.
+
+Dante non gli chiede
+una spiegazione
+mentre sono appesi.
+
+Si tiene.
+
+Pausa.
+
+Prima bisogna passare.
+
+Capiremo subito dopo.
 
 Pausa lunga.
 
@@ -823,9 +1082,146 @@ in pochi minuti.
 
 Pausa.
 
-Perché
-hanno attraversato
-la Terra.
+Perché sono passati
+dalla parte opposta
+del centro terrestre.
+
+Pausa.
+
+Dante fa tre domande.
+
+Dov'è il ghiaccio?
+
+Perché quello
+è capovolto?
+
+Come siamo arrivati
+al mattino?
+
+Pausa lunga.
+
+Non sono tre curiosità
+messe in coda
+al grande incontro.
+
+Sono le coordinate
+che gli mancano
+per rimettersi in piedi.
+
+Pausa.
+
+Il luogo da cui viene.
+Il corpo che vede.
+Il tempo in cui si trova.
+
+Pausa lunga.
+
+Virgilio comincia così:
+tu immagini ancora
+di essere di là.
+
+Pausa.
+
+Non gli dice:
+hai visto male.
+
+Gli dice:
+stai interpretando
+quello che vedi
+come se non ti fossi mosso.
+
+Pausa lunga.
+
+Il corpo ha passato
+il punto.
+
+La mente
+è rimasta indietro.
+
+Pausa.
+
+Per rimetterle insieme
+serve una spiegazione.
+
+Breve.
+Precisa.
+Necessaria.
+
+Pausa lunga.
+
+I pesi
+tendono al centro.
+
+Finché ci vai incontro,
+scendi.
+
+Dopo che lo hai superato,
+se continui
+nella stessa direzione,
+te ne allontani.
+
+Sali.
+
+Pausa.
+
+Non è Lucifero
+che ha cambiato posizione.
+
+È cambiato
+il loro rapporto
+con il centro.
+
+Pausa lunga.
+
+Ecco perché
+Virgilio si è rovesciato.
+
+Non per tornare indietro.
+
+Per continuare.
+
+Pausa.
+
+A me sembra
+che questo gesto
+meriti di restare
+negli occhi.
+
+Il punto in cui
+Dante teme
+che il viaggio fallisca
+è il punto
+in cui hanno cominciato
+a uscirne.
+
+Pausa lunga.
+
+Ma non lo sapeva
+mentre accadeva.
+
+Lo capisce ora.
+Di nuovo in piedi,
+nella cavità di roccia.
+
+Con le gambe del mostro
+rivolte verso l'alto.
+
+Pausa.
+
+Niente sala del trionfo.
+
+Un terreno cattivo.
+Poca luce.
+
+E Virgilio
+che gli dice:
+alzati.
+
+Pausa lunga.
+
+Non siamo arrivati.
+
+La via è lunga.
 
 ## vv. 106-139 - Il centro della terra e le stelle
 
@@ -997,23 +1393,91 @@ con certezza.
 Pausa lunga.
 
 Alcuni
-lo colleganoal Lete.
+lo collegano al Lete.
 
 Pausa.
 
-Ma qui
-serve soprattutto
-a una cosa.
-
-Ha scavato
-un passaggio.
+Ma Dante qui
+lo riconosce
+prima col suono.
 
 Pausa lunga.
 
-L'acqua
-ha aperto
-la via
-verso l'alto.
+L'acqua corre
+nella pietra
+che ha eroso.
+
+Nel buio
+si sente una via.
+
+Pausa.
+
+Non la vedono
+aprirsi tutta davanti.
+
+Possono seguirla.
+
+Pausa lunga.
+
+E seguire
+non vuol dire sapere già
+quanto durerà.
+
+Il poema non ci dà
+un conto dei passi.
+
+Ci dice
+che non si fermano
+a riposare.
+
+Pausa.
+
+Dante e Virgilio
+non devono più
+convincere un custode.
+
+Non devono aspettare
+che un dannato
+finisca il racconto.
+
+Pausa lunga.
+
+L'attenzione
+può tornare
+alla strada.
+
+Un passo
+non aggiunge una colpa
+al catalogo.
+
+Li avvicina
+all'apertura.
+
+Pausa.
+
+E per una volta
+non occorre sapere
+il nome di qualcuno
+per andare avanti.
+
+Occorre camminare.
+
+Pausa lunga.
+
+Io sento anche questo
+nel ritmo dell'uscita.
+
+Il mondo non è ancora
+visibile.
+
+Ma ha smesso
+di essere soltanto
+il luogo da cui
+siamo precipitati.
+
+È il luogo
+verso cui
+torniamo.
 
 Pausa lunga.
 

@@ -165,9 +165,9 @@ Fu demolito nel 1576.
 
 Pausa.
 
-Ma ricordi il quarto canto?
-Il sogno di tornare a Firenze
-e di prendere la corona di poeta
+Nel Paradiso tornerà quel sogno:
+rientrare a Firenze
+e prendere la corona di poeta
 sul fonte del suo battesimo.
 
 Lo stesso fonte.
@@ -258,6 +258,154 @@ Come se lo portasse
 proprio dentro
 la visione del peccato.
 
+Pausa.
+
+E guarda
+come è cambiata
+la sua posizione.
+
+Dall'alto
+poteva vedere
+un campo di buche.
+
+Da qui
+c'è una voce
+sotto i suoi piedi.
+
+Pausa lunga.
+
+Dante chiede:
+se puoi,
+parla.
+
+Non sa ancora
+chi abbia davanti.
+Non ha un volto
+da riconoscere.
+
+Pausa.
+
+Nel resto del viaggio
+una faccia,
+un vestito,
+un gesto
+potevano aiutare.
+
+Qui il vestito
+del grande potere
+non c'è.
+
+Ci sono due piedi.
+
+Pausa.
+
+Eppure quell'uomo
+è stato guardato dal basso
+per tutta la durata
+del suo pontificato.
+
+Ora,
+per parlargli,
+bisogna abbassare la voce
+verso un buco.
+
+Pausa lunga.
+
+Non abbassarla
+di volume.
+
+Di direzione.
+
+Pausa.
+
+Dante si paragona
+a un frate
+che confessa
+un condannato a morte.
+
+L'uomo è già piantato
+nella fossa.
+Richiama il confessore.
+E così ritarda
+l'ultimo momento.
+
+Pausa.
+
+È una scena
+in cui una parola
+può ancora ottenere
+un poco di tempo.
+
+Qui no.
+
+Qui la confessione
+non cambia
+la destinazione.
+
+Pausa lunga.
+
+Il gesto somiglia.
+Il risultato
+è rovesciato.
+
+Come il corpo.
+
+Pausa.
+
+E non è Dante
+a imporre subito
+il nome di Bonifacio.
+
+Non arriva dicendo:
+adesso parliamo
+del mio nemico.
+
+È il dannato
+che lo chiama.
+
+Pausa lunga.
+
+Questo rende il malinteso
+molto più feroce.
+
+Dante deve soltanto
+stare lì.
+
+La buca
+ha già il suo prossimo nome.
+
+Pausa.
+
+Ma lui,
+per un istante,
+non sa che cosa rispondere.
+
+Quasi scornato.
+
+È arrivato
+per fare una domanda.
+Si trova accusato
+di essere un altro.
+
+Pausa.
+
+Non controlla ancora
+questa conversazione.
+
+La collera dell'autore
+ha costruito la scena.
+
+Il viaggiatore,
+dentro la scena,
+ha bisogno che Virgilio
+gli suggerisca
+come uscirne.
+
+Pausa lunga.
+
+E adesso ascoltiamo
+la voce dal fondo.
+
 ## vv. 46-63 - Bonifacio
 
 > «O qual che se’ che ’l di su tien di sotto,
@@ -337,8 +485,8 @@ Nel 1300
 Bonifacio VIII è vivo.
 È lui il papa.
 
-Dante non può metterlo all'Inferno.
-Allora lo fa aspettare.
+Qui Dante non lo mostra dannato.
+Lo fa aspettare.
 
 Un papa dannato,
 che vede il futuro,
@@ -520,6 +668,163 @@ Quel d'Alagna
 Le ultime parole di Beatrice
 sono per questa buca.
 
+Pausa lunga.
+
+Ma restiamo
+con Niccolò.
+
+Quando capisce
+che Dante non è Bonifacio,
+sospira.
+
+La delusione
+si sente dalla voce.
+
+Pausa.
+
+Aspetta un successore.
+Ma il successore
+non lo libererà.
+
+Lo spingerà
+più sotto.
+
+Pausa.
+
+È una successione
+che non finisce mai
+con un posto vuoto.
+
+Arriva il nuovo.
+Il vecchio precipita.
+Il foro resta occupato.
+
+Pausa lunga.
+
+Sulla terra
+avevano avuto
+un posto sopra gli altri.
+
+Qui anche il ricambio
+del potere
+è diventato
+una caduta.
+
+Pausa.
+
+E Niccolò fa i conti.
+
+Da quanti anni
+bruciano i suoi piedi.
+Quanto poco durerà
+la permanenza
+che prevede per Bonifacio.
+
+Pausa.
+
+Non sta descrivendo
+una speranza.
+
+Sta misurando
+il tempo della pena
+con l'arrivo
+degli altri colpevoli.
+
+Pausa lunga.
+
+Poi torna quella parola.
+
+Borsa.
+
+Pausa.
+
+Prima ci ha messo
+il denaro.
+
+Adesso ci ha messo
+sé stesso.
+
+Pausa.
+
+Non dice soltanto:
+sono stato avido.
+
+Dice:
+per far crescere
+la mia famiglia.
+
+Gli orsatti.
+
+Pausa lunga.
+
+In quella parola piccola
+c'è una casa
+da sistemare.
+
+Gente propria.
+Interessi propri.
+Un futuro da assicurare
+ai propri.
+
+Pausa.
+
+Il problema
+non è voler bene
+ai parenti.
+
+È usare per loro
+ciò che non ti appartiene.
+
+Il papato
+non è il patrimonio
+della tua famiglia.
+
+Pausa lunga.
+
+E l'uomo
+che parla dalla buca
+riesce ancora a dire:
+il gran manto.
+
+La dignità
+che ha rivestito.
+
+Pausa.
+
+Non gli è stata cancellata
+dalla memoria.
+
+La ricorda.
+La nomina.
+
+Pausa.
+
+Questo per me
+rende la scena
+più dura.
+
+Sa quale veste
+ha portato.
+
+Sa che cosa
+ha fatto entrare
+sotto quella veste.
+
+Pausa lunga.
+
+Dante lo lascia
+finire.
+
+Poi prende la parola.
+
+Non per discutere
+quanto denaro
+si possa accettare.
+
+Per chiedere
+chi abbia mai stabilito
+quel prezzo.
+
 ## vv. 88-105 - L'invettiva di Dante
 
 > Io non so s’io mi fui qui troppo folle,
@@ -588,6 +893,151 @@ sa ancora rispettare l'ufficio.
 
 Ma proprio in nome dell'ufficio
 distrugge chi lo ha tradito.
+
+Pausa.
+
+Quanto tesoro?
+
+La domanda
+non ha una cifra
+come risposta.
+
+Pausa lunga.
+
+Se rispondi poco,
+hai già sbagliato.
+
+Se rispondi molto,
+anche.
+
+Pausa.
+
+Cristo non dice a Pietro:
+paga,
+e ti darò le chiavi.
+
+Dice:
+seguimi.
+
+Pausa.
+
+Una relazione
+che comincia
+con un cammino.
+
+Non con un acquisto.
+
+Pausa lunga.
+
+E Dante non si ferma
+al primo esempio.
+
+Porta Mattia.
+
+C'era un posto
+rimasto libero.
+Qualcuno doveva occuparlo.
+
+Pausa.
+
+Nessuno lo mise all'asta.
+
+Non vinse
+chi aveva più oro.
+
+Pausa lunga.
+
+Adesso ripensa
+alla successione
+nella buca.
+
+Un posto.
+Un nome nuovo.
+Qualcuno che arriva
+e prende il posto di un altro.
+
+Pausa.
+
+Dante mette davanti
+a Niccolò
+un altro modo
+di trasmettere un compito.
+
+Quello che avrebbe dovuto
+servire da misura.
+
+Pausa lunga.
+
+Non gli sta dicendo:
+la tua carica
+non vale niente.
+
+Gli sta dicendo:
+vale troppo
+perché tu possa venderla.
+
+Pausa.
+
+E allora quel rispetto
+per le chiavi
+non è una scusa
+per fermarsi.
+
+È ciò che rende
+l'accusa
+possibile.
+
+Pausa lunga.
+
+Io qui sento
+una collera
+che si trattiene
+senza ritirarsi.
+
+Dante dice:
+potrei parlare
+più duramente.
+
+E intanto
+ha già parlato così.
+
+Pausa.
+
+Non possiamo sapere
+se Niccolò si agiti
+per la rabbia
+o per la coscienza
+che lo morde.
+
+Dante ci lascia
+entrambe le possibilità.
+
+Pausa lunga.
+
+Sotto,
+i piedi scattano.
+
+Sopra,
+la voce prosegue.
+
+E Virgilio
+non la interrompe.
+
+Pausa.
+
+Poco prima
+doveva suggerire a Dante
+che cosa dire.
+
+Ora ascolta.
+
+Pausa lunga.
+
+L'allievo non ha bisogno
+di un'altra battuta.
+
+Ha trovato
+da dove parlare.
 
 ## vv. 106-117 - La Chiesa d'oro
 
@@ -737,6 +1187,101 @@ l'allievo
 
 dire il vero
 contro il falso sacro.
+
+Pausa.
+
+E adesso guarda
+come lo depone.
+
+Soavemente.
+
+Pausa lunga.
+
+La pietra
+non è diventata dolce.
+
+È ripida.
+Sconnessa.
+Difficile perfino
+per una capra.
+
+Pausa.
+
+La delicatezza
+viene da chi lo porta.
+
+Non dal luogo
+in cui si trovano.
+
+Pausa lunga.
+
+Dante ha passato il canto
+in mezzo a uomini
+che hanno ricevuto
+un compito sacro
+per poi servirsene.
+
+Virgilio ha ricevuto
+il compito
+di accompagnarlo.
+
+E lo tiene
+stretto al petto.
+
+Pausa.
+
+Non sto dicendo
+che il gesto
+sia una lezione
+sul papato.
+
+Dico che,
+uscendo da questa bolgia,
+vediamo ancora
+che cosa significa
+aver cura di qualcuno.
+
+Pausa lunga.
+
+Il corpo che Niccolò
+non riesce a liberare
+è il proprio.
+
+Virgilio usa il suo
+per far passare Dante.
+
+Pausa.
+
+Non lo lascia
+sul bordo della buca
+perché ormai
+ha capito la lezione.
+
+Capire non basta
+a risalire
+quella pietra.
+
+Pausa lunga.
+
+Lo accompagna
+fino al ponte.
+
+Poi lo posa.
+
+E soltanto allora
+si apre alla vista
+un altro vallone.
+
+Pausa.
+
+Le parole dure
+non sono l'ultimo gesto
+del canto.
+
+L'ultimo gesto
+è qualcuno
+che ti porta fuori
+senza lasciarti cadere.
 
 ## Chiusura
 

@@ -89,7 +89,7 @@ Pausa.
 
 Dopo due canti
 pieni di urla,
-raffii,
+raffi,
 nomi,
 battute,
 
@@ -1274,9 +1274,9 @@ un vuoto.
 
 Pausa lunga.
 
-Quel vuoto
-oggi è
-piazza della Signoria.
+Di quella distruzione
+resta traccia
+nell'area di piazza della Signoria.
 
 Pausa.
 

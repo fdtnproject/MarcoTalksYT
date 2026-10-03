@@ -3,12 +3,6 @@
 Versione da palco
 Linea guida: "L'amore non basta"
 
-Nota di lavoro:
-- pattern e taglio allineati a `Canto_01_talk_finale.md`, `Canto_02_talk_finale.md`, `Canto_03_talk_finale.md`, `Canto_04_talk_finale.md`
-- i versi sono riallineati al testo standard del Canto V
-- una sola sintesi a metà canto, sul motto, dopo le tre anafore di "Amor"
-- chiusura che atterra una volta sola sul "caddi come corpo morto cade"
-
 ## Apertura
 
 [Schermo: nero pieno]
@@ -67,9 +61,8 @@ Si concentra.
 
 Pausa.
 
-E qui, per la prima volta,
-non senti sospiri.
-Senti urla.
+Qui i sospiri
+lasciano il posto alle urla.
 
 "Punge a guaio."
 Una pena che fa gridare.
@@ -272,9 +265,8 @@ Le tormenta.
 
 Pausa.
 
-Quando arrivano davanti alla rovina —
-davanti a un punto preciso
-in cui la bufera fa più male —
+Quando arrivano
+davanti alla ruina,
 si sente di tutto:
 strida,
 compianto,
@@ -1224,7 +1216,8 @@ Figlia del signore di Ravenna.
 
 Sposata, intorno al 1275,
 a Giovanni Malatesta,
-signore di Rimini.
+della famiglia
+dei signori di Rimini.
 Lo chiamavano Gianciotto:
 Gianni lo sciancato.
 
@@ -1240,7 +1233,8 @@ Nel 1282
 Paolo era a Firenze,
 capitano del popolo.
 Dante era un ragazzo.
-Quasi certamente l'aveva visto.
+Poteva averlo incontrato.
+Non possiamo saperlo.
 
 Pausa lunga.
 
@@ -1710,9 +1704,9 @@ Dante non dice
 Dice
 "come cade un corpo morto."
 
-Per dirti
-che, in quel momento,
-era senza vita.
+Per dirti che,
+in quel momento,
+il corpo non rispondeva più.
 
 ## Chiusura da palco
 

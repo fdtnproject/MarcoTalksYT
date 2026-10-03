@@ -233,12 +233,9 @@ una voce.
 
 Pausa lunga.
 
-Prima ancora
-di vedere
-il volto,
-Farinata
-ha riconosciuto
-Dante.
+Prima ancora di vedere il volto,
+Farinata ha riconosciuto
+la terra da cui Dante viene.
 
 Pausa.
 

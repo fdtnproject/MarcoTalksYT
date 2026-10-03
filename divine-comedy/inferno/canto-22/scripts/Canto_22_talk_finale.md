@@ -332,10 +332,12 @@ Dante in città non c'è.
 
 Pausa.
 
-Secondo Dino Compagni,
-che quei giorni li ha vissuti da dentro,
-è a Roma.
-Ambasciatore presso il papa.
+Torniamo a qualche mese prima.
+Alla presa del potere dei Neri.
+
+Dino Compagni racconta
+l'ambasceria a Roma,
+presso il papa.
 
 Pausa.
 
@@ -478,7 +480,7 @@ al minimo avvicinarsi del potere.
 > distruggitor di sé e di sue cose.
 > Poi fui famiglia del buon re Tebaldo:
 > quivi mi misi a far baratteria,
-> di ch’io rendo ragione in questo caldo.
+> di ch’io rendo ragione in questo caldo.»
 
 Pausa.
 
@@ -537,7 +539,6 @@ Pausa lunga.
 E mentre parla
 sta già guardando
 la pece.
-»
 
 [Schermo: Doré — il Navarrese tirato su dalla pece]
 
@@ -888,9 +889,9 @@ Pausa.
 È sardo.
 Vuol dire signore.
 
-Dante lo mette in bocca
-a due sardi
-che parlano di Sardegna.
+Dante lo fa dire al Navarrese
+mentre racconta
+i due sardi.
 
 Pausa.
 
@@ -958,7 +959,8 @@ Michel Zanche.
 
 Pausa.
 
-Lo ucciderà suo genero,
+Lo ha ucciso
+suo genero,
 Branca Doria.
 
 A tradimento.
@@ -1025,7 +1027,9 @@ siamo stati avvertiti.
 
 ## vv. 97-117 - La proposta
 
-> «Pausa lunga.
+> «Se voi volete vedere o udire,»
+
+Pausa lunga.
 
 Fino a qui
 sembra
@@ -1091,7 +1095,6 @@ Pausa.
 E il prodotto
 è la fiducia.
 
-Se voi volete vedere o udire,»
 > ricominciò lo spaurato appresso,
 > «Toschi o Lombardi, io ne farò venire;
 > ma stieno i Malebranche un poco in cesso,

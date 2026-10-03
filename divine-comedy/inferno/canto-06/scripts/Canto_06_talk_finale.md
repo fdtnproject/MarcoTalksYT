@@ -3,12 +3,6 @@
 Versione da palco
 Linea guida: "Si diventa ciò che si è ingoiato"
 
-Nota di lavoro:
-- pattern e taglio allineati a `Canto_01_talk_finale.md`, `Canto_02_talk_finale.md`, `Canto_03_talk_finale.md`, `Canto_04_talk_finale.md`, `Canto_05_talk_finale.md`
-- i versi sono riallineati al testo standard del Canto VI
-- una sola sintesi a metà canto, sul motto, dopo la profezia di Ciacco
-- chiusura asciutta che atterra una volta sola
-
 ## Apertura
 
 [Schermo: nero pieno]
@@ -74,8 +68,9 @@ Ovunque guardi.
 Pausa lunga.
 
 Stesso passaggio del quarto canto.
-Dante non ha camminato fin qui.
-Si trova qui.
+Non lo abbiamo visto
+arrivare fin qui.
+Si ritrova qui.
 
 Pausa.
 
@@ -195,7 +190,7 @@ Pausa.
 
 Tre verbi
 per dire che li sta dilaniando
-mentre già stanno annegando.
+sotto la pioggia.
 
 Pausa lunga.
 
@@ -303,9 +298,9 @@ e crolla a terra.
 
 Pausa lunga.
 
-Qui Dante
-fa rifare a Virgilio
-il suo stesso gesto.
+Qui Dante affida a Virgilio
+il gesto che nell'Eneide
+compiva la Sibilla.
 
 Ma al posto del miele
 c'è il fango.
@@ -380,8 +375,9 @@ Pausa lunga.
 
 Dante li chiama vanità.
 Vuoti.
-Cose che hanno l'aspetto di una persona
-ma che persone non sono più.
+Figure umane
+senza la consistenza
+della carne.
 
 Pausa.
 
@@ -416,7 +412,7 @@ Pausa.
 
 "O tu che se' per questo inferno tratto."
 
-O tu che vieni trascinato
+O tu che vieni condotto
 attraverso questo Inferno.
 
 Pausa.
@@ -775,10 +771,13 @@ a partire dal 1302.
 
 Pausa.
 
-Un dannato
-sciolto nel fango
-gli racconta in faccia
-il proprio esilio.
+Un dannato sciolto nel fango
+gli annuncia
+la sconfitta della sua parte.
+
+Chi scrive
+sa già
+che cosa gli è costata.
 
 Pausa lunga.
 
@@ -1203,9 +1202,10 @@ le anime sotto la pioggia.
 
 Pausa.
 
-Non perché non vedano.
-Perché non distinguono più
-fra il fango e sé stessi.
+Io ci sento anche questo:
+non distinguono più
+fra il fango
+e sé stessi.
 
 ## vv. 94-115 - La resurrezione dei corpi
 

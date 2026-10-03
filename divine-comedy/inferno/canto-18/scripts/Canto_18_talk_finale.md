@@ -620,9 +620,8 @@ del Marchese.
 
 Pausa.
 
-Non la desidera.
-
-La consegna.
+Non racconta un amore.
+Racconta una consegna.
 
 Pausa lunga.
 
@@ -905,12 +904,9 @@ L'Argo.
 
 Pausa lunga.
 
-Ma Virgilio
-non comincia
-dalla nave.
-
-Comincia
-dalle parole.
+Ma il vello d'oro
+non è la colpa
+che lo porta qui.
 
 Pausa.
 

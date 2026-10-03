@@ -3,11 +3,6 @@
 Versione da palco
 Linea guida: "Anche non scegliere è una condanna"
 
-Nota di lavoro:
-- pattern e taglio allineati a `Canto_01_talk_finale.md` e `Canto_02_talk_finale.md`
-- i versi sono riallineati al testo standard del Canto III
-- i cue immagine restano generici: le tavole le scegli tu
-
 ## Apertura
 
 [Schermo: Doré / la porta dell'Inferno]
@@ -132,15 +127,18 @@ E poi l'ultima riga.
 "Lasciate ogni speranza, voi ch'entrate."
 
 Non è una minaccia.
-È un'istruzione.
-Per poter entrare,
-devi lasciare fuori la speranza.
+È una sentenza
+per chi entra dannato.
+
+Dante la legge da vivo.
+Non è qui
+per restarci.
 
 Pausa.
 
-La speranza qui dentro
-non serve.
-Anzi: fa male.
+La speranza di uscire
+è tolta ai dannati.
+Non al viaggiatore.
 
 ## vv. 10-21 - Paura e spinta
 
@@ -533,9 +531,8 @@ Pausa lunga.
 Dante non fa il nome.
 Per secoli se ne è discusso.
 
-Ma quasi certamente
-è un papa.
-
+L'identificazione più diffusa
+è un papa:
 Celestino V.
 
 Pausa lunga.
@@ -602,8 +599,8 @@ Pausa lunga.
 Nel 1313
 la Chiesa proclamerà santo Celestino.
 
-Nel poema di Dante
-resta qui.
+Se l'identificazione è giusta,
+nel poema resta qui.
 Senza nome.
 Nel vestibolo.
 
@@ -1095,9 +1092,8 @@ non è dei loro.
 
 Pausa lunga.
 
-Dante
-non sale
-sulla barca.
+Non vediamo Dante
+salire sulla barca.
 
 Pausa.
 
@@ -1123,10 +1119,7 @@ gli occhi,
 sarà
 dall'altra parte.
 
----
 
-Aumento atteso: ~1,8–2,0 minuti.
-Durata attesa: ~30 minuti.
 
 ## vv. 130-136 - Svenimento
 
@@ -1163,7 +1156,8 @@ vinti.
 
 Pausa lunga.
 
-Dante non passa l'Acheronte sulle sue gambe.
+Il passaggio dell'Acheronte
+non ci viene raccontato.
 Sviene.
 Si risveglierà dall'altra parte.
 
@@ -1172,82 +1166,115 @@ qui,
 non si attraversa per forza.
 Si subisce.
 
-## Davanti alla legge
+## Una mano sulla soglia
 
 Pausa lunga.
 
-Seicento anni dopo,
-Kafka scrive una storia di una pagina.
+Ripensa alla mano
+che Virgilio gli ha dato
+prima di entrare.
 
 Pausa.
 
-Un uomo di campagna
-arriva davanti a una porta.
-La porta della Legge.
+Le parole sulla porta
+non sono cambiate.
 
-È aperta.
-Ma davanti c'è un guardiano
-che gli dice:
-adesso no.
+Il luogo
+non è diventato meno terribile.
 
-Pausa.
-
-L'uomo aspetta.
-
-Giorni.
-Anni.
-Tutta la vita.
+Ma lui
+non è rimasto solo
+a leggerle.
 
 Pausa lunga.
 
-Alla fine,
-vecchio e quasi cieco,
-fa l'ultima domanda:
-perché in tanti anni
-nessun altro
-è venuto a chiedere di entrare?
+Virgilio lo ha guardato
+con un volto lieto.
+
+Dentro un canto
+pieno di urla,
+c'è stato quel volto.
 
 Pausa.
 
-E il guardiano gli grida all'orecchio:
-nessun altro poteva entrare qui.
-Questa porta
-era solo per te.
-Adesso vado a chiuderla.
+Dante dice
+che ne è stato confortato.
+
+Non ha ricevuto
+una spiegazione
+capace di cancellare
+la paura.
+
+Ha ricevuto
+un gesto.
 
 Pausa lunga.
 
-Due porte aperte.
+E la mano
+non sceglie al posto suo.
+
+Lo accompagna
+mentre entra.
 
 Pausa.
 
-L'uomo di Kafka
-resta fuori
-perché spera.
-Aspetta il permesso.
+Per questo
+non possiamo mettere Dante
+nella stessa condizione
+di chi è inseguito
+per sempre dall'insegna.
 
-Pausa.
+Gli ignavi
+non hanno più
+un'altra vita da decidere.
 
-Sulla porta di Dante
-per entrare
-la speranza bisogna lasciarla.
+Lui sì.
 
 Pausa lunga.
 
-E quell'uomo
-passa la vita sulla soglia.
-Non entra.
-Non se ne va.
+Quello che vede
+può ancora
+cambiarlo.
+
+Persino la paura
+può portarlo
+più avanti.
 
 Pausa.
 
-Io lo vedo qui.
-Nel vestibolo.
-Dietro l'insegna vuota.
+Alla fine
+non regge.
+
+Il corpo cede.
+
+Ma il canto successivo
+non dovrà trovare
+un altro protagonista.
+
+Dovrà svegliare lui.
 
 Pausa lunga.
 
-Mai non fur vivi.
+E la guida
+sarà ancora lì.
+
+Pausa.
+
+Fra la mano
+che lo conduce dentro
+e gli occhi
+che si chiudono,
+Dante ha attraversato
+un mondo
+che non riusciva
+neppure a immaginare.
+
+Non lo ha ancora
+attraversato tutto.
+
+Pausa lunga.
+
+È entrato.
 
 ## Chiusura da palco
 

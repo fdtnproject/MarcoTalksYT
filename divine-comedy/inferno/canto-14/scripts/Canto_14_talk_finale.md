@@ -414,14 +414,9 @@ degli altri.
 
 Pausa.
 
-Qui,
-però,
-lo tengo breve.
-
-Il punto
-non è Catone.
-
-È questa landa
+E ora,
+sotto i piedi,
+c'è questa landa
 senza riparo.
 
 ## vv. 43-60 - Capaneo
@@ -571,9 +566,7 @@ lo colpirà.
 
 Pausa lunga.
 
-Un lampo esterno,
-qui,
-può servire.
+
 
 Melville.
 
@@ -615,10 +608,8 @@ piegarsi.
 
 Pausa lunga.
 
-Tre righe.
-
-Poi torniamo
-a Virgilio.
+E ora
+ascolta Virgilio.
 
 ## vv. 61-75 - Virgilio lo inchioda
 
@@ -1200,14 +1191,13 @@ delle stesse lacrime.
 
 Pausa.
 
-Quello
-che Dante
-ha attraversato
-come acqua,
-fango,
-sangue,
-ghiaccio,
-ha origine
+L'acqua,
+il fango,
+il sangue già incontrati.
+E il ghiaccio
+che troveremo più avanti.
+
+Tutto ha origine
 in un pianto.
 
 Pausa lunga.

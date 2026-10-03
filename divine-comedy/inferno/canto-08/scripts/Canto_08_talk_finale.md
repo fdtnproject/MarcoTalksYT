@@ -3,12 +3,6 @@
 Versione da palco
 Linea guida: "Da qui il male è scelto"
 
-Nota di lavoro:
-- pattern e taglio allineati a `Canto_01_talk_finale.md`, `Canto_02_talk_finale.md`, `Canto_03_talk_finale.md`, `Canto_04_talk_finale.md`, `Canto_05_talk_finale.md`, `Canto_06_talk_finale.md`, `Canto_07_talk_finale.md`
-- i versi sono riallineati al testo standard del Canto VIII
-- una sola sintesi a metà canto, fra l'episodio di Argenti e l'arrivo a Dite
-- chiusura asciutta che atterra una volta sola
-
 ## Apertura
 
 [Schermo: nero pieno]
@@ -685,6 +679,15 @@ Pausa lunga.
 La soglia è lì davanti:
 da qui il male è scelto.
 
+Pausa.
+
+Non che prima
+mancasse la responsabilità.
+
+Ma scendendo
+la volontà prepara sempre più
+il male che compie.
+
 Pausa lunga.
 
 Questa è la lettura morale.
@@ -799,8 +802,8 @@ Pausa.
 Ma all'orecchio
 gli arriva un suono di dolore.
 
-E davanti agli occhi
-Dante li sbarra.
+E Dante
+sbarra gli occhi davanti a sé.
 
 Pausa.
 
@@ -840,8 +843,8 @@ di una città infernale.
 
 Pausa.
 
-Le città dell'Inferno
-sono di ferro.
+Questa città
+sembra di ferro.
 
 ## vv. 70-87 - I diavoli alla porta
 
@@ -1361,10 +1364,10 @@ del Limbo.
 Pausa lunga.
 
 Nel quarto canto
-ce lo eravamo detti:
-ogni volta che troveremo
-qualcosa di rotto,
-sapremo perché.
+avevamo ascoltato Virgilio
+raccontare il passaggio di Cristo.
+
+Ora ne vediamo una traccia.
 
 Eccola, la prima.
 Una porta

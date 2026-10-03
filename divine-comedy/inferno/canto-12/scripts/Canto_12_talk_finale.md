@@ -207,58 +207,75 @@ ferma in sé.
 
 Pausa lunga.
 
-Nel Novecento,
-Borges
-prova a guardare
-questa creatura
-dall'altra parte.
+Guarda dove va
+il primo morso.
+
+Non verso Dante.
+
+Verso sé stesso.
 
 Pausa.
 
-Nel suo Asterione
-il Minotauro
-parla.
-
-Non sa
-di essere
-un mostro.
-
-È solo.
-
-Vede gli altri
-fuggire.
-
-Aspetta
-qualcuno
-che venga
-a liberarlo.
+Prima ancora
+che Virgilio lo provochi,
+il corpo ha già reagito
+alla loro presenza.
 
 Pausa lunga.
 
-È una lettura
-molto diversa.
+La forza non manca.
 
-Borges
-lo rende
-quasi una vittima.
-
-Dante,
-qui,
-fa il contrario.
-
-Lo vede
-come una violenza
-che si morde
-da sola.
+Manca un gesto
+che la governi.
 
 Pausa.
 
-Ma una cosa
-resta comune.
+Per me è qui
+che comincia la scena.
 
-La solitudine.
+Non nella domanda:
+che animale è?
+
+Ma in questa:
+che cosa fa
+di tutta quella forza?
 
 Pausa lunga.
+
+Virgilio capisce
+che la furia
+può aprire un varco.
+
+Non deve essere
+più forte del mostro.
+
+Deve riconoscere
+il momento
+in cui il mostro
+non sa più
+quale movimento compiere.
+
+Pausa.
+
+E Dante
+non dovrà fermarsi
+a guardare.
+
+Dovrà passare.
+
+Pausa lunga.
+
+Una voce
+provoca.
+
+Due corpi
+si mettono in movimento.
+
+Il guardiano
+rimane dentro
+la propria furia.
+
+Pausa.
 
 E quando vide noi
 se stesso morse.
@@ -292,8 +309,7 @@ un'arma.
 Non chiama
 qualcuno.
 
-Dice
-un nome.
+Evoca il suo nemico.
 
 Teseo.
 
@@ -997,7 +1013,7 @@ la bocca.
 
 Pausa.
 
-È quasiuna scena
+È quasi una scena
 di pensiero.
 
 Pausa lunga.
@@ -1124,7 +1140,7 @@ Ce la fa vedere.
 
 Pausa lunga.
 
-E spiega
+E Virgilio spiega
 la cosa essenziale.
 
 Non siamo qui

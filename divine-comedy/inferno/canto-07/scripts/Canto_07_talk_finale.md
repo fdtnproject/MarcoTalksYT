@@ -3,12 +3,6 @@
 Versione da palco
 Linea guida: "Niente si tiene"
 
-Nota di lavoro:
-- pattern e taglio allineati a `Canto_01_talk_finale.md`, `Canto_02_talk_finale.md`, `Canto_03_talk_finale.md`, `Canto_04_talk_finale.md`, `Canto_05_talk_finale.md`, `Canto_06_talk_finale.md`
-- i versi sono riallineati al testo standard del Canto VII
-- una sola sintesi a metà canto, sul motto, dopo il discorso sulla Fortuna
-- chiusura asciutta che atterra una volta sola
-
 ## Apertura
 
 [Schermo: nero pieno]
@@ -160,7 +154,7 @@ La lupa di Canto I
 era simbolo dell'avarizia.
 Pluto è il guardiano del cerchio degli avari.
 
-Cerchio diverso.
+Luogo diverso.
 Stesso animale.
 
 Pausa lunga.
@@ -867,10 +861,11 @@ Niccolò Machiavelli.
 
 Pausa.
 
-Nel 1513
-lo hanno cacciato dalla Cancelleria.
-Arrestato.
-Torturato.
+Nel 1512
+perde il posto in Cancelleria.
+L'anno dopo:
+arresto.
+Tortura.
 
 Si ritira in campagna,
 in una casa poco fuori Firenze.
@@ -916,7 +911,7 @@ Il Principe.
 Pausa lunga.
 
 E nel Principe
-risponde a Dante.
+torna sulla Fortuna.
 
 Pausa.
 
@@ -933,18 +928,26 @@ puoi costruire gli argini.
 
 Pausa lunga.
 
-Dante:
-il vostro sapere
-contro di lei
-non può niente.
+Non sono due risposte
+alla stessa domanda.
 
-Machiavelli:
-metà è nostra.
+Dante guarda i beni
+che cambiano padrone.
+Machiavelli cerca
+il margine per agire
+quando la sorte cambia.
 
 Pausa.
 
 Due fiorentini sconfitti.
-Due risposte opposte.
+Io li accosto qui.
+Non per togliere a Dante
+la libertà che difende.
+
+Gli avari non scelgono
+come giri la Fortuna.
+Rispondono di ciò che fanno
+con quello che hanno.
 
 Pausa lunga.
 
@@ -1056,7 +1059,7 @@ molto più che color porpora scuro.
 
 Pausa.
 
-E nera.
+È nera.
 
 Pausa lunga.
 

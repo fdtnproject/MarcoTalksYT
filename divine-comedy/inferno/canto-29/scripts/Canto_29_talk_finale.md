@@ -92,8 +92,7 @@ anche questo.
 
 Pausa lunga.
 
-Non vedere
-più meglio.
+Non vedere meglio.
 
 Vedere
 soltanto
@@ -133,7 +132,7 @@ per restare.
 > Tu non hai fatto sì a l’altre bolge;
 > pensa, se tu annoverar le credi,
 > che miglia ventidue la valle volge.
-> E già la luna è sotto i nostri piedi
+> E già la luna è sotto i nostri piedi:
 
 Pausa lunga.
 
@@ -203,7 +202,7 @@ L'eterno
 visto
 con l'orologio
 di un vivo.
-:
+
 > lo tempo è poco omai che n’è concesso,
 > e altro è da veder che tu non vedi.»
 
@@ -396,7 +395,7 @@ fu suo fratello.
 > «per alcun che de l’onta sia consorte,
 > fece lui disdegnoso; ond’el sen gìo
 > sanza parlarmi, sì com’io estimo:
-> ed in ciò m’ha el fatto a sé più pio.
+> ed in ciò m’ha el fatto a sé più pio.»
 
 Pausa lunga.
 
@@ -459,7 +458,6 @@ Pausa lunga.
 A volte
 si porta dietro
 il nodo.
-»
 
 Pausa lunga.
 
@@ -672,7 +670,9 @@ Dante non poteva saperlo.
 > Passo passo andavam sanza sermone,
 > guardando e ascoltando gli ammalati,
 > che non potean levar le lor persone.
-> Pausa lunga.
+> Io vidi due sedere a sé poggiati,
+
+Pausa lunga.
 
 Egina.
 
@@ -812,7 +812,6 @@ di chi
 ha falsificato
 la materia.
 
-Io vidi due sedere a sé poggiati,
 > com’a scaldar si poggia tegghia a tegghia,
 > dal capo al piè di schianze macolati;
 > e non vidi già mai menare stregghia
@@ -855,7 +854,7 @@ sul suo corpo.
 
 ## vv. 85-120 - Griffolino d’Arezzo
 
-> «O tu che con le dita ti dismaglie
+> «O tu che con le dita ti dismaglie»
 
 Pausa lunga.
 
@@ -915,7 +914,7 @@ Pausa.
 Adesso
 il lavoro
 è sul proprio corpo.
-»
+
 > cominciò il duca mio a l’un di loro
 > «e che fai d’esse talvolta tanaglie,
 > dinne s’alcun latino è tra costoro
@@ -1114,7 +1113,9 @@ Pausa.
 in cui il falso
 si fa corpo.
 
-## vv. 121-139 - Pausa lunga.
+## vv. 121-139 - Capocchio e i Senesi
+
+Pausa lunga.
 
 Il tono
 cambia ancora.
@@ -1196,8 +1197,6 @@ La malattia
 non ha tolto
 il carattere.
 
-Capocchio e i Senesi
-
 > E io dissi al poeta: «Or fu già mai
 > gente sì vana come la sanese?
 > Certo non la francesca sì d’assai!»
@@ -1216,7 +1215,7 @@ Capocchio e i Senesi
 > sì vedrai ch’io son l’ombra di Capocchio,
 > che falsai li metalli con alchimia;
 > e te dee ricordar, se ben t’adocchio,
-> com’io fui di natura buona scimia.
+> com’io fui di natura buona scimia.»
 
 Pausa lunga.
 
@@ -1372,7 +1371,6 @@ E ora
 chiede
 che la sua
 non venga perduta.
-»
 
 Pausa lunga.
 

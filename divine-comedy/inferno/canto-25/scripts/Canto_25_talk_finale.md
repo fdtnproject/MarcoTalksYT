@@ -226,7 +226,7 @@ Non un ladro umano.
 
 Un mostro.
 
-Biscia sulla groppa.
+Serpenti sulla groppa.
 Draco sulle spalle.
 Fuoco.
 
@@ -341,7 +341,7 @@ a ogni figura.
 > ad alber sì, come l’orribil fiera
 > per l’altrui membra avviticchiò le sue.
 > Poi s’appiccar, come di calda cera
-> fossero stati
+> fossero stati, e mischiar lor colore,
 
 Pausa lunga.
 
@@ -429,7 +429,7 @@ in quale momento
 ha smesso
 di essere
 soltanto suo.
-, e mischiar lor colore,
+
 > né l’un né l’altro già parea quel ch’era,
 > come procede innanzi da l’ardore
 > per lo papiro suso un color bruno,
@@ -918,7 +918,7 @@ qualcosa di peggio.
 > ché se quello in serpente e quella in fonte
 > converte poetando, io non lo invidio;
 > ché due nature mai a fronte a fronte
-> non trasmutò
+> non trasmutò sì ch’amendue le forme
 
 Pausa lunga.
 
@@ -1014,7 +1014,7 @@ Pausa.
 Lascia
 uno scambio
 forzato.
- sì ch’amendue le forme
+
 > a cambiar lor materia fosser pronte.
 > Insieme si rispuosero a tai norme,
 > che ’l serpente la coda in forca fesse,
@@ -1238,7 +1238,9 @@ Pausa lunga.
 
 Pausa lunga.
 
-Ricordi Kafka?
+Kafka,
+nella Metamorfosi,
+parte da un risveglio.
 
 Pausa.
 

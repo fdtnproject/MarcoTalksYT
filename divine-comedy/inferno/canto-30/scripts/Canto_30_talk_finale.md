@@ -787,7 +787,8 @@ Il fiorino dell'undicesimo canto.
 Oro a ventiquattro carati.
 Da una parte il Battista,
 dall'altra il giglio.
-La moneta più affidabile d'Europa.
+Una moneta
+ricercata in tutta Europa.
 
 Maestro Adamo
 ci mette dentro tre carati di metallo vile.
@@ -853,7 +854,7 @@ e ora, lasso!, un gocciol d’acqua bramo.
 > Ond’ei rispuose: «Quando tu andavi
 > al foco, non l’avei tu così presto,
 > ma sì e più l’avei quando coniavi.»
-> E l’idropico: «Tu di’ ver di questo
+> E l’idropico: «Tu di’ ver di questo;
 
 Pausa lunga.
 
@@ -933,7 +934,7 @@ Virgilio
 interrompe
 proprio il piacere
 di quel meccanismo.
-;
+
 > ma tu non fosti sì ver testimonio
 > là ’ve del ver fosti a Troia richiesto.»
 > «S’io dissi falso, e tu falsasti il conio»
@@ -1083,7 +1084,7 @@ incollato.
 
 ## vv. 130-148 - La vergogna di Dante
 
-> Ad ascoltarli er’io del tutto fisso
+> Ad ascoltarli er’io del tutto fisso,
 
 Pausa lunga.
 
@@ -1146,7 +1147,7 @@ serve.
 
 Fissarsi
 no.
-,
+
 > quando il maestro mi disse: «Or pur mira
 > che per poco è che teco non mi risso!»
 > Quand’io ’l senti’ a me parlar con ira,
@@ -1248,8 +1249,53 @@ non è piccola.
 
 Pausa.
 
-Vorrebbe
-scusarsi.
+Vorrebbe scusarsi.
+
+Pausa.
+
+E per spiegare
+come si sente
+Dante cerca un sogno.
+
+Quello in cui
+sta accadendo qualcosa
+di terribile.
+
+E dentro il sogno
+pensi:
+spero di sognare.
+
+Pausa lunga.
+
+Vorrebbe che quel momento
+non fosse reale.
+
+Ma non riesce
+neppure a dire
+che vorrebbe cancellarlo.
+
+Pausa.
+
+Virgilio lo capisce
+senza aspettare
+una scusa ben costruita.
+
+La vergogna
+ha già parlato.
+
+Pausa lunga.
+
+È il contrario
+della gara appena ascoltata.
+
+Lì nessuno taceva
+per lasciare spazio all'altro.
+
+Qui uno tace
+perché non trova le parole.
+
+E l'altro
+lo comprende.
 
 Pausa lunga.
 
@@ -1505,10 +1551,11 @@ la propria forma.
 
 Pausa lunga.
 
-Chi si è fatto un altro
-alla fine
-non sa più
-chi è.
+La persona non sparisce.
+
+Ma qui non riesce più
+a separarsi dal falso
+che ha compiuto.
 
 Pausa.
 

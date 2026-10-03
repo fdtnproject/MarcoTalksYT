@@ -33,7 +33,7 @@ Carne aperta.
 > Chi poria mai pur con parole sciolte
 > dicer del sangue e de le piaghe a pieno
 > ch’i’ ora vidi, per narrar più volte?
-> Ogni lingua per certo verria meno
+> Ogni lingua per certo verria meno,
 
 Pausa lunga.
 
@@ -105,7 +105,7 @@ Pausa lunga.
 La coscienza
 che qualcosa
 resterà fuori.
-,
+
 > per lo nostro sermone e per la mente
 > c’hanno a tanto comprender poco seno.
 > S’el s’aunasse ancor tutta la gente
@@ -411,13 +411,7 @@ C'è il giro.
 
 Pausa lunga.
 
-`Su questi versi / serve una parola in più.`
 
-e termina con:
-
-`forse gli aveva prestato / un pezzo del viaggio.`
-
-con:
 
 Pausa lunga.
 
@@ -506,12 +500,16 @@ non è dimostrata.
 
 Pausa.
 
-E Brunetto,
-che era stato
-alla corte castigliana,
-può essere
-un possibile
-punto di contatto.
+È stato proposto anche Brunetto
+come possibile tramite.
+
+Ma la sua ambasceria
+in Castiglia
+precede le traduzioni note.
+
+Da sola
+non dimostra
+che conoscesse quel testo.
 
 Pausa lunga.
 
@@ -521,10 +519,8 @@ Non provato.
 
 Pausa.
 
-Io qui
-terrei soltanto
-questa domanda
-aperta.
+Io lascio
+questa domanda aperta.
 
 Pausa lunga.
 
@@ -562,7 +558,7 @@ interpretativa.
 > per lo Inferno qua giù di giro in giro;
 > e quest’è ver così com’io ti parlo.»
 > Più fuor di cento che, quando l’udiro,
-> s’arrestaron nel fosso a riguardarmi
+> s’arrestaron nel fosso a riguardarmi,
 
 Pausa lunga.
 
@@ -628,7 +624,7 @@ fa sentire
 quanto sia
 impossibile
 la sua presenza.
-,
+
 > per maraviglia obliando il martiro.
 > «Or di’ a fra Dolcin dunque che s’armi,
 > tu che forse vedrai il sole in breve,
@@ -672,7 +668,88 @@ Neve.
 Assedio.
 
 Un consiglio pratico
-dall’interno dell’Inferno.
+dall'interno dell'Inferno.
+
+Pausa.
+
+Quel vivo,
+fino a un momento prima,
+sembrava soltanto
+un uomo fermo
+sopra lo scoglio.
+
+Forse uno
+che ritarda
+l'arrivo alla pena.
+
+Pausa lunga.
+
+Virgilio dice:
+non è morto.
+
+E più di cento
+si fermano
+a guardarlo.
+
+Pausa.
+
+Per un istante
+il dolore
+non occupa tutto.
+
+Lo stupore
+riesce a interromperlo.
+
+Pausa lunga.
+
+Dante può tornare
+al sole.
+
+Quindi può portare
+un avvertimento.
+
+Pausa.
+
+È la stessa condizione
+che in tanti incontri
+rende preziosa
+la sua presenza.
+
+Qui però
+non gli chiedono
+un nome più onorato.
+
+Gli chiedono
+di dire a un uomo vivo
+che gli servono viveri.
+
+Pausa lunga.
+
+La ferita non chiude
+ogni rapporto
+con il mondo.
+
+Rimane qualcuno
+a cui mandare
+una parola.
+
+Pausa.
+
+E Dante
+non cancella quel gesto
+perché ha collocato
+chi parla
+in questa bolgia.
+
+Lo lascia accadere.
+
+Pausa lunga.
+
+Non assolve.
+
+Mostra ancora
+una volontà
+rivolta a qualcuno.
 
 Pausa lunga.
 
@@ -953,17 +1030,17 @@ che manca.
 > gridò: «Ricordera’ ti anche del Mosca,
 > che dissi, lasso!, ‘Capo ha cosa fatta’,
 > che fu ’l mal seme per la gente tosca.»
-> Pausa lunga.
+> E io gli aggiunsi: «E morte di tua schiatta.»
+
+Pausa lunga.
 
 Capo ha
 cosa fatta.
 
 Pausa.
 
-Una volta
-che hai deciso,
-
-falla.
+Una cosa fatta
+chiude la questione.
 
 Pausa lunga.
 
@@ -1030,7 +1107,6 @@ Pausa.
 Restituisce
 una sentenza.
 
-E io gli aggiunsi: «E morte di tua schiatta.»
 > Per ch’egli, accumulando duol con duolo,
 > sen gìo come persona trista e matta.
 
@@ -1121,7 +1197,7 @@ Non lo troveremo mai.
 > e ’l capo tronco tenea per le chiome,
 > pésol con mano a guisa di lanterna,
 > e quel mirava noi e dicea ‘Oh me!’
-> Di sé faceva a se stesso lucerna
+> Di sé faceva a se stesso lucerna,
 
 Pausa lunga.
 
@@ -1143,9 +1219,9 @@ Il corpo
 porta
 la propria testa
 
-e la testa
-illumina
-il corpo.
+e tiene la testa
+come una lanterna
+che mostra il suo volto.
 
 Pausa lunga.
 
@@ -1197,7 +1273,7 @@ Bertran.
 
 E il corpo
 diventa leggibile.
-,
+
 > ed eran due in uno e uno in due:
 > com’esser può, quei sa che sì governa.
 > Quando diritto al piè del ponte fue,
@@ -1215,7 +1291,7 @@ diventa leggibile.
 > Perch’io parti’ così giunte persone,
 > partito porto il mio cerebro, lasso!,
 > dal suo principio ch’è in questo troncone:
-> così s’osserva in me lo contrapasso.
+> così s’osserva in me lo contrapasso.»
 
 Pausa lunga.
 
@@ -1294,7 +1370,6 @@ Pausa lunga.
 Mostra
 quella che
 c'era già.
-»
 
 [Schermo: Doré — Bertran de Born]
 

@@ -3,11 +3,6 @@
 Versione da palco
 Linea guida: "Non si scende da soli"
 
-Nota di lavoro:
-- pattern e taglio allineati a `Canto_01_talk_finale.md`
-- i versi sono riallineati al testo standard del Canto II
-- i cue immagine restano generici: le tavole le scegli tu
-
 ## Apertura
 
 [Schermo: Doré / notte che scende sul paesaggio]
@@ -391,9 +386,10 @@ la domanda resta aperta.
 E poi la chiave:
 "me degno a ciò né io né altri crede."
 
-Non c'è nessuna autorizzazione.
-Non gli è stato detto niente.
-Non ha ricevuto una chiamata.
+Non sa ancora
+chi abbia mandato Virgilio.
+Non conosce
+l'origine della chiamata.
 
 E senza chiamata,
 l'impresa diventa folle.
@@ -415,17 +411,7 @@ Sulla bocca di un uomo
 che la chiamata
 non l'ha aspettata.
 
-La versione attuale è buona.
 
-Dopo:
-
-`Tornerà,
-molto più avanti.
-Sulla bocca di un uomo
-che la chiamata
-non l'ha aspettata.`
-
-AGGIUNGERE soltanto:
 
 Pausa lunga.
 
@@ -555,7 +541,9 @@ La paura è la reazione a un pericolo.
 La viltà è la rinuncia prima del pericolo.
 
 E Virgilio la descrive con un'immagine crudele:
-come la bestia che si spaventa per la sua stessa ombra.
+come una bestia
+che scambia un'ombra
+per un pericolo.
 
 Il pericolo non esiste.
 L'ombra sì.
@@ -563,7 +551,7 @@ L'ombra sì.
 E l'ombra basta a fermarti
 se dentro non hai ancora il motivo del cammino.
 
-Dopo il commento attuale:
+
 
 Pausa lunga.
 
@@ -601,7 +589,7 @@ non vedi.
 > dirotti perch’io venni e quel che intesi  
 > nel primo punto che di te mi dolve.  
 > Io era tra color che son sospesi,  
-> e donna mi chiamò beata e bella
+> e donna mi chiamò beata e bella,
 
 Pausa lunga.
 
@@ -637,10 +625,10 @@ perché prima
 
 è stata
 chiamata.
-,  
+
 > tal che di comandare io la richiesi.  
-> Lucevan gli occhi suoi più che la stella;  
-> e cominciommi a dir soave e piana,  
+> Lucevan gli occhi suoi più che la stella;
+> e cominciommi a dir soave e piana,
 > con angelica voce in sua favella:
 
 Adesso Virgilio fa una cosa decisiva:
@@ -1025,7 +1013,7 @@ Questa è la cosa vera del canto:
 il viaggio comincia molto prima
 che Dante se ne accorga.
 
-Dopo la lettura integrale dei versi:
+
 
 Pausa lunga.
 
@@ -1085,7 +1073,7 @@ in cammino.
 > Al mondo non fur mai persone ratte  
 > a far lor pro o a fuggir lor danno  
 > com’io, dopo cotai parole fatte,  
-> venni quaggiù dal mio beato scanno
+> venni quaggiù dal mio beato scanno,
 
 Pausa lunga.
 
@@ -1123,7 +1111,7 @@ L'amore
 di Beatrice
 ha bisogno
 di arrivare.
-,  
+
 > fidandomi nel tuo parlare onesto,  
 > ch’onora te e quei ch’udito l’hanno.’
 
@@ -1204,10 +1192,12 @@ Virgilio chiude il racconto.
 Adesso Dante sa:
 non si è salvato da solo.
 
-La lupa non è stata fermata
-dalla sua forza.
-È stata fermata
-perché qualcuno, più in alto, lo ha voluto.
+Dante non ha vinto la lupa.
+Ha trovato chi gli indica
+un altro viaggio.
+Perché qualcuno,
+più in alto,
+ha voluto aiutarlo.
 
 Pausa.
 

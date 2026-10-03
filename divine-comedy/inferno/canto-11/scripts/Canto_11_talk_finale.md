@@ -119,16 +119,11 @@ c'è un nome.
 Anastasio.
 
 Un papa
-collocato
-sul limite
-dell'eresia.
+che Dante ritiene eretico.
 
-Il canto
-si apre
-appoggiato
-alla tomba
-di uno
-che ha deviato.
+Il canto si apre
+appoggiato a una tomba
+che porta questa accusa.
 
 Pausa.
 
@@ -461,11 +456,10 @@ Proporzioni.
 
 Pausa.
 
-È un dettaglio
-che terrei breve.
+Non rifacciamo
+quei conti.
 
-Ma dice
-una cosa importante.
+Guardiamo il gesto.
 
 Dante
 ha costruito
@@ -670,7 +664,7 @@ Non in astratto.
 Corpi
 nel fiume.
 
-Centaure
+Centauri
 che sorvegliano.
 
 Pausa lunga.
