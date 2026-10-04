@@ -87,4 +87,4 @@ Asset utili:
 - `La tasca / al posto del volto.`
 - `Or sie forte / e ardito.`
 - `Gerion, / moviti omai.`
-- `La frode ha sempre / il volto / di chi ti fidi.`
+- `La frode ha sempre / un volto / di cui ti fidi.`
