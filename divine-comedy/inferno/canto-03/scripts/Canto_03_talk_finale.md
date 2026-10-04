@@ -145,9 +145,44 @@ Non al viaggiatore.
 > Queste parole di colore oscuro  
 > vid’io scritte al sommo d’una porta;  
 > per ch’io: «Maestro, il senso lor m’è duro.»  
+
+Il senso mi è duro.
+Pesante. Da digerire.
+
+Pausa lunga.
+
+Come può l'amore
+costruire un luogo
+di dolore senza fine?
+
+Pausa.
+
+La risposta del Medioevo
+passa per la libertà.
+
+Un Dio che ama davvero
+prende sul serio
+le scelte di chi ama.
+Anche quella
+di voltargli le spalle.
+
+Pausa lunga.
+
 > Ed egli a me, come persona accorta:  
 > «Qui si convien lasciare ogni sospetto;  
 > ogni viltà convien che qui sia morta.  
+
+Viltà.
+La stessa parola del Canto II.
+
+Nel Canto II Virgilio aveva diagnosticato la viltà in Dante.
+Qui, sulla soglia, la dichiara morta.
+
+Se vuoi entrare,
+la viltà la lasci qui.
+
+Pausa.
+
 > Noi siam venuti al loco ov’io t’ho detto  
 > che tu vedrai le genti dolorose  
 > c’hanno perduto il ben de l’intelletto.»  

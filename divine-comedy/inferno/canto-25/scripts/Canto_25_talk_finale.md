@@ -459,8 +459,7 @@ fa una cosa bellissima.
 Si mette il dito
 dal mento al naso.
 
-Fa lo stesso gesto.
-Silenzio, dieci secondi.
+[Regia: fa lo stesso gesto. Silenzio, dieci secondi.]
 
 Taci.
 Guarda.
@@ -540,7 +539,7 @@ anche lui.
 
 Pausa lunga.
 
-Poi, piano:
+[Regia: piano.]
 
 Se tu se’ or, lettore, a creder lento
 ciò ch’io dirò, non sarà meraviglia,

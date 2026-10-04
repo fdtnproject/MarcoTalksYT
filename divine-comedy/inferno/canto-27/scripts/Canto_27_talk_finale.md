@@ -754,8 +754,9 @@ Pausa.
 
 L'antecessore
 è Celestino.
-Il papa del gran rifiuto,
-nel terzo canto.
+Il papa che molti riconoscono
+nel gran rifiuto
+del terzo canto.
 
 Pausa lunga.
 
@@ -1008,7 +1009,7 @@ Guido aveva un figlio.
 Buonconte.
 Capitano degli aretini a Campaldino,
 l'11 giugno 1289.
-Quella in cui Dante combatteva
+La battaglia in cui Dante combatteva
 dall'altra parte.
 
 Buonconte muore lì.

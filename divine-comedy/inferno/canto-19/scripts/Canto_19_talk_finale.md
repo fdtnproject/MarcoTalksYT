@@ -496,8 +496,10 @@ Pausa lunga.
 
 Lo abbiamo seguito da lontano.
 Il gran rifiuto del terzo canto,
-che gli apre la strada.
-Il tal che testé piaggia del sesto.
+che molti attribuiscono a Celestino,
+il papa che gli apre la strada.
+Il tal che testé piaggia del sesto,
+in cui molti riconoscono Bonifacio.
 Il giubileo del canto scorso.
 
 Pausa.

@@ -643,6 +643,37 @@ Chi è amato in alto
 
 Pausa lunga.
 
+È la prima volta
+che il suo nome
+compare nel poema.
+
+Pausa lunga.
+
+Chi era Beatrice?
+
+Pausa.
+
+Una ragazza fiorentina.
+Secondo una tradizione
+che comincia con Boccaccio,
+Bice Portinari.
+
+Muore nel 1290,
+giovanissima.
+
+Pausa lunga.
+
+Dopo la sua morte
+Dante scrive un libro,
+la Vita Nova.
+
+E lo chiude con una promessa.
+Se la vita mi basterà,
+spero di dicer di lei
+quello che mai non fue detto d'alcuna.
+
+Pausa lunga.
+
 Che ti faccio
 andare.
 

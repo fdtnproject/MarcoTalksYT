@@ -701,9 +701,9 @@ E va detta.
 Pausa lunga.
 
 Filippo Argenti
-era un Adimari.
-Una famiglia potente di Firenze,
-di parte nera.
+era un Adimari
+del ramo dei Cavicciuli,
+schierato con i Neri.
 
 Lo chiamavano Argenti,
 racconta Boccaccio,

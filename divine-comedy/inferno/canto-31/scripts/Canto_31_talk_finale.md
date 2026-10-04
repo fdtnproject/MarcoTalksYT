@@ -132,7 +132,6 @@ Pausa.
 Ha bisogno
 di strada.
 
-
 Pausa lunga.
 
 Poi non parlano più.
@@ -225,44 +224,6 @@ Un corno
 che rende
 piccolo
 perfino il tuono.
-
-Pausa lunga.
-
-E per misurarlo
-chiama Orlando.
-
-Pausa.
-
-Roncisvalle.
-
-L'ultimo segnale.
-
-Pausa lunga.
-
-Un suono
-che arriva
-quando la battaglia
-è già perduta.
-
-Pausa.
-
-Qui invece
-il corno
-non chiama
-nessuno.
-
-Pausa lunga.
-
-Nembrot
-lo usa
-per sfogarsi.
-
-Pausa.
-
-Rumore enorme.
-
-Comunicazione
-zero.
 
 Pausa lunga.
 
@@ -374,16 +335,7 @@ Capire
 la rende
 più precisa.
 
-
 Pausa lunga.
-
-E il canto
-fa una cosa precisissima:
-
-più si chiarisce la vista,
-più cresce la paura.
-
-Pausa.
 
 Montereggioni
 serve a questo.
@@ -423,48 +375,6 @@ avesse imparato
 qualcosa.
 
 Pausa.
-
-Elefanti.
-
-Balene.
-
-Pausa lunga.
-
-Grandi sì.
-
-Ma senza
-quell'unione
-di mente,
-volere
-e potenza.
-
-Pausa.
-
-I giganti
-non fanno paura
-perché sono alti.
-
-Pausa lunga.
-
-Fanno paura
-perché alla grandezza
-si aggiunge
-l'intenzione.
-
-Pausa.
-
-Il corpo
-amplifica
-quello che la mente
-ha deciso.
-
-Pausa lunga.
-
-E allora
-la misura
-fisica
-è anche
-misura morale.
 
 > per tòrre tali esecutori a Marte.
 > E s’elli d’elefanti e di balene
@@ -648,6 +558,21 @@ quasi a niente.
 
 [Schermo: Doré — Nembrotto]
 
+Aveva voluto
+una torre fino al cielo.
+
+Pausa.
+
+Ricordi Pluto, nel settimo canto?
+Pape Satàn.
+Ti avevo detto
+che in fondo all'Inferno
+avremmo sentito un'altra lingua
+che nessuno capisce.
+
+Eccola.
+
+Pausa lunga.
 
 E per Dante
 questa è una ferita personale.
@@ -827,6 +752,106 @@ Pausa lunga.
 > Ancor ti può nel mondo render fama,
 > ch’el vive, e lunga vita ancor aspetta,
 > se innanzi tempo grazia a sé nol chiama.»
+
+Anteo
+è diverso.
+
+Non è incatenato.
+
+Pausa lunga.
+
+E allora
+cambia anche
+la strategia
+di Virgilio.
+
+Pausa.
+
+Con Nembrot
+non può discutere.
+
+Pausa lunga.
+
+Con Fialte
+non tratta.
+
+Pausa.
+
+Con Anteo
+sì.
+
+Pausa lunga.
+
+Perché Anteo
+può ancora
+fare qualcosa.
+
+Pausa.
+
+E Virgilio
+gli offre
+la moneta
+che l'Inferno
+continua
+a desiderare.
+
+Pausa lunga.
+
+Fama.
+
+Pausa.
+
+Questo vivo
+può parlare
+di te
+nel mondo.
+
+Pausa lunga.
+
+È quasi
+una trattativa.
+
+Pausa.
+
+Ma molto diversa
+da Malebolge.
+
+Pausa lunga.
+
+Qui Virgilio
+non mente.
+
+Pausa.
+
+Sceglie
+la parte
+della verità
+che può
+muovere Anteo.
+
+Pausa lunga.
+
+La sua gloria.
+
+Pausa.
+
+E Virgilio
+non lo sfida.
+
+Lo lusinga.
+
+Pausa lunga.
+
+Leoni.
+
+Libia.
+
+Scipione.
+
+Fama.
+
+Pausa.
+
 > Così disse ’l maestro, e quegli in fretta
 > le man distese, e prese il duca mio,
 > ond’Ercule sentì già grande stretta.
@@ -1010,62 +1035,11 @@ Li posa.
 
 Pausa lunga.
 
-Poi
-si rialza.
-
-Pausa.
-
-Come un albero
-in una nave.
-
-Pausa lunga.
-
-E il mondo
-dei giganti
-finisce
-così.
-
-Pausa.
-
-Non con
-un combattimento.
-
-Pausa lunga.
-
-Con un passaggio
-di mano.
-
-Pausa.
-
-Dal bordo
-di Malebolge
-al ghiaccio.
-
 > né, sì chinato, lì fece dimora,
 > e com’albero in nave si levò.
 
 Pausa lunga.
 
-Guardalo
-rialzarsi.
-
-Pausa.
-
-Prima
-la mano
-scende.
-
-Pausa.
-
-Poi
-Dante
-e Virgilio
-toccano
-il fondo.
-
-Pausa lunga.
-
-Poi
 Anteo
 torna su.
 
@@ -1098,134 +1072,11 @@ c'è Cocito.
 
 Pausa lunga.
 
-Anteo
-è diverso.
-
-Non è incatenato.
-
-Pausa lunga.
-
-E allora
-cambia anche
-la strategia
-di Virgilio.
-
-Pausa.
-
-Con Nembrot
-non può discutere.
-
-Pausa lunga.
-
-Con Fialte
-non tratta.
-
-Pausa.
-
-Con Anteo
-sì.
-
-Pausa lunga.
-
-Perché Anteo
-può ancora
-fare qualcosa.
-
-Pausa.
-
-E Virgilio
-gli offre
-la moneta
-che l'Inferno
-continua
-a desiderare.
-
-Pausa lunga.
-
-Fama.
-
-Pausa.
-
-Questo vivo
-può parlare
-di te
-nel mondo.
-
-Pausa lunga.
-
-È quasi
-una trattativa.
-
-Pausa.
-
-Ma molto diversa
-da Malebolge.
-
-Pausa lunga.
-
-Qui Virgilio
-non mente.
-
-Pausa.
-
-Sceglie
-la parte
-della verità
-che può
-muovere Anteo.
-
-Pausa lunga.
-
-La sua gloria.
-
-
-Pausa.
-
-E Virgilio
-non lo sfida.
-
-Lo lusinga.
-
-Pausa lunga.
-
-Leoni.
-
-Libia.
-
-Scipione.
-
-Fama.
-
-Pausa.
-
-Funziona.
-
-Anteo li prende.
-Poi si china.
-
-La Garisenda
-diventa la misura
-di quel piegarsi.
-
-Pausa lunga.
-
-Li depone.
-
-Non li scaglia.
-
-Li posa.
-
-E si rialza
-come albero in nave.
-
-Pausa lunga.
-
 Torri.
 
 Giganti.
 
 Catene.
-
 
 Quanto capiamo
 di ciò che vediamo
@@ -1285,31 +1136,6 @@ Sono forza
 senza misura.
 
 Pausa.
-
-Ma Dante, guardandoli,
-dice una cosa che va oltre i giganti.
-
-Gli elefanti e le balene
-la natura continua a farli.
-Sono enormi.
-Ma non ragionano.
-
-Il pericolo vero è un altro.
-
-ché dove l’argomento de la mente
-s’aggiugne al mal volere ed a la possa,
-nessun riparo vi può far la gente.
-
-Pausa.
-
-L'intelligenza.
-La cattiva volontà.
-La forza.
-
-Quando stanno insieme,
-non c'è difesa.
-
-Pausa lunga.
 
 E il loro corpo
 dice già tutto:

@@ -757,10 +757,11 @@ a papa Bonifacio VIII.
 
 Pausa lunga.
 
-Ciacco gli sta dicendo:
-tu vincerai.
-Poi perderai.
-Poi sarai esiliato.
+Ciacco parla delle parti:
+prima vinceranno i Bianchi.
+Poi perderanno.
+E per Dante
+vorrà dire l'esilio.
 
 Pausa.
 

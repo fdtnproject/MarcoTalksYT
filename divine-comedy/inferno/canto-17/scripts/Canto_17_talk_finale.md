@@ -1,7 +1,7 @@
 # INFERNO - CANTO XVII
 
 Versione da palco
-Linea guida: "La frode ha sempre il volto di chi ti fidi"
+Linea guida: "La frode ha sempre un volto di cui ti fidi"
 
 ## Apertura
 

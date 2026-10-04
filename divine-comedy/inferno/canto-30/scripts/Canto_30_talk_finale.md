@@ -520,6 +520,25 @@ più lontano.
 > Ivi è Romena, là dov’io falsai
 > la lega suggellata del Battista,
 > per ch’io il corpo su arso lasciai.
+
+Pausa lunga.
+
+Il fiorino dell'undicesimo canto.
+Oro a ventiquattro carati.
+Da una parte il Battista,
+dall'altra il giglio.
+Una moneta
+ricercata in tutta Europa.
+
+Maestro Adamo
+ci mette dentro tre carati di metallo vile.
+Per conto dei conti di Romena,
+nel Casentino.
+Lo scoprono.
+Nel 1281 lo bruciano vivo.
+
+Pausa lunga.
+
 > Ma s’io vedessi qui l’anima trista
 
 Pausa lunga.
@@ -947,28 +966,6 @@ no.
 
 Pausa lunga.
 
-Ed eccolo,
-il vero colpo del canto.
-
-Pausa.
-
-Non Schicchi.
-
-Non Maestro Adamo.
-
-Non Sinone.
-
-Dante.
-
-Pausa lunga.
-
-Dante
-che si scopre
-preso
-da una bassezza.
-
-Pausa.
-
 Virgilio
 non lo rimprovera
 per pietà.
@@ -1074,12 +1071,6 @@ E l'altro
 lo comprende.
 
 Pausa lunga.
-
-Ma non riesce
-nemmeno
-a parlare.
-
-Pausa.
 
 E Virgilio
 fa una cosa

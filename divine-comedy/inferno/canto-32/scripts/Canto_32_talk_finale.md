@@ -150,7 +150,6 @@ al luogo
 più contrario
 alla fiducia.
 
-
 Pausa.
 
 Perché il fondo dell’Inferno
@@ -237,7 +236,6 @@ Pausa lunga.
 La condanna
 arriva
 prima della storia.
-
 
 Pausa lunga.
 
@@ -370,7 +368,6 @@ Il terreno
 è già
 la pena.
 
-
 Pausa lunga.
 
 Dante cerca i paragoni
@@ -405,13 +402,6 @@ I denti
 battono
 in nota di cicogna.
 
-E quando i due fratelli
-alzano il volto,
-le lacrime si chiudono
-sugli occhi.
-
-Pausa lunga.
-
 E il silenzio
 cambia.
 
@@ -436,29 +426,12 @@ Racconti.
 
 Pausa.
 
-Qui
-i denti
-battono.
-
-Pausa lunga.
-
-Sui loro occhi
-le lacrime si fermano.
-
-Pausa.
-
-Le facce
-sono abbassate.
-
-Pausa lunga.
-
 Il ghiaccio
 ferma
 i corpi.
 
 Non
 il rancore.
-
 
 Pausa lunga.
 
@@ -536,31 +509,6 @@ E a dire i nomi
 sarà un altro.
 
 Non loro.
-
-Pausa lunga.
-
-La prima domanda
-che Dante rivolge
-ai due corpi
-non produce
-una conversazione.
-
-Produce un gesto.
-
-Poi un urto.
-
-Pausa.
-
-Non abbiamo bisogno
-di immaginare
-che cosa si dicano
-nell'orecchio.
-
-Vediamo
-che cosa fanno
-con la poca libertà
-di movimento
-che rimane.
 
 Pausa lunga.
 
@@ -708,6 +656,16 @@ ce n’è uno
 peggiore di me.
 
 ## vv. 70-123 - L’Antenora e Bocca degli Abati
+
+Adesso
+si entra in Antenora.
+
+Pausa.
+
+Traditori della patria
+o della parte.
+
+Pausa lunga.
 
 > Poscia vid’io mille visi cagnazzi
 > fatti per freddo; onde mi vien riprezzo,
@@ -963,6 +921,15 @@ di Firenze.
 
 Pausa.
 
+A Montaperti,
+racconta Villani,
+Bocca degli Abati
+tagliò la mano al portabandiera.
+La bandiera cadde.
+E l'esercito di Firenze si sfasciò.
+
+Pausa lunga.
+
 Bocca
 ha toccato
 quella ferita.
@@ -1074,6 +1041,12 @@ anche nella conversazione.
 > Gianni del Soldanier credo che sia
 > più là con Ganellone e Tribaldello,
 > ch’aprì Faenza quando si dormia.»
+
+Pausa.
+
+Ganellone è Gano.
+Il traditore di Orlando,
+nel canto di prima.
 
 [Schermo: nero pieno]
 
@@ -1351,7 +1324,6 @@ Il movimento
 
 La volontà
 no.
-
 
 Pausa lunga.
 

@@ -113,6 +113,55 @@ che conosce.
 
 Pausa lunga.
 
+La favola
+di Esopo
+non è un giochino
+erudito.
+
+Pausa.
+
+Rana e topo
+si legano
+insieme.
+
+Uno prova
+a danneggiare
+l'altro.
+
+Pausa lunga.
+
+Arriva
+un predatore.
+
+E alla fine
+pagano
+tutti e due.
+
+Pausa.
+
+Dante
+ha appena visto
+Alichino
+e Calcabrina
+finire
+nella stessa pece
+che dovevano
+sorvegliare.
+
+Pausa lunga.
+
+Principio
+e fine.
+
+La favola
+e la scena.
+
+Pausa.
+
+Quasi uguali.
+
+Pausa lunga.
+
 Ma un pensiero
 ne genera
 un altro.
@@ -198,82 +247,6 @@ e la trasforma
 in un piano.
 
 Pausa lunga.
-
-La favola
-di Esopo
-non è un giochino
-erudito.
-
-Pausa.
-
-Rana e topo
-si legano
-insieme.
-
-Uno prova
-a danneggiare
-l'altro.
-
-Pausa lunga.
-
-Arriva
-un predatore.
-
-E alla fine
-pagano
-tutti e due.
-
-Pausa.
-
-Dante
-ha appena visto
-Alichino
-e Calcabrina
-finire
-nella stessa pece
-che dovevano
-sorvegliare.
-
-Pausa lunga.
-
-Principio
-e fine.
-
-La favola
-e la scena.
-
-Pausa.
-
-Quasi uguali.
-
-Pausa lunga.
-
-Ma la mente
-di Dante
-non si ferma
-a riconoscere
-il paragone.
-
-Pausa.
-
-Fa quello
-che fa la paura.
-
-Va avanti.
-
-Pausa lunga.
-
-Se li abbiamo
-beffati,
-
-se hanno perso
-due compagni
-per colpa nostra,
-
-allora
-ci inseguiranno.
-
-Pausa.
 
 ## vv. 31-57 - La fuga
 
@@ -422,47 +395,6 @@ agisce.
 
 Pausa lunga.
 
-Arrivano
-sul fondo
-un istante
-prima dei diavoli.
-
-Pausa.
-
-E i Malebranche
-si fermano.
-
-Non possono
-uscire
-dalla bolgia
-che gli è stata assegnata.
-
-Pausa lunga.
-
-La fuga
-riesce.
-
-Pausa lunga.
-
-Prova
-a vedere
-la discesa.
-
-Pausa.
-
-Virgilio
-si mette
-sulla schiena.
-
-La roccia
-va giù.
-
-Dante
-sta sopra
-il suo petto.
-
-Pausa lunga.
-
 Non c'è
 un appiglio
 da scegliere.
@@ -502,19 +434,6 @@ più accelera.
 Pausa.
 
 Così Virgilio.
-
-Pausa lunga.
-
-E mentre
-scivola,
-
-non lascia
-Dante.
-
-Pausa.
-
-Lo porta
-al petto.
 
 Pausa lunga.
 
@@ -564,34 +483,18 @@ su un istante.
 
 Pausa lunga.
 
-E guarda
-il movimento.
+E i Malebranche
+si fermano.
+
+Non possono
+uscire
+dalla bolgia
+che gli è stata assegnata.
 
 Pausa lunga.
 
-Virgilio
-non prende Dante
-per mano.
-
-Pausa.
-
-Non gli dice:
-corri.
-
-Pausa lunga.
-
-Lo solleva.
-
-Lo porta.
-
-Pausa.
-
-Il corpo
-di Dante
-
-diventa
-il carico
-di Virgilio.
+La fuga
+riesce.
 
 Pausa lunga.
 
@@ -653,6 +556,16 @@ Pausa lunga.
 
 Gente dipinta.
 
+Pausa lunga.
+
+Non dice
+subito
+ipocriti.
+
+Prima
+ci fa vedere
+la superficie.
+
 Pausa.
 
 Fuori:
@@ -703,83 +616,6 @@ La processione
 degli ipocriti
 è tutta
 rivolta verso il basso.
-
-Pausa lunga.
-
-Dante e Virgilio
-camminano accanto.
-
-Ma sono troppo veloci.
-
-Pausa.
-
-Devono rallentare
-per parlare
-con loro.
-
-Pausa lunga.
-
-Ed è quasi
-una pena aggiuntiva.
-
-La conversazione
-ha il passo
-del piombo.
-
-Pausa.
-
-Uno di loro
-sente il toscano.
-
-E chiede:
-
-aspettate.
-
-Pausa lunga.
-
-Anche qui
-prima del nome
-arriva la lingua.
-
-Pausa lunga.
-
-E guarda
-come Dante
-le chiama.
-
-Pausa.
-
-Gente dipinta.
-
-Pausa lunga.
-
-Non dice
-subito
-ipocriti.
-
-Prima
-ci fa vedere
-la superficie.
-
-Pausa.
-
-Dipinta.
-
-Dorata.
-
-Abbagliante.
-Pausa lunga.
-
-Poi arriva
-il peso.
-
-Pausa.
-
-E il peso
-non si vede.
-
-Si sente
-nel passo.
 
 Pausa lunga.
 
@@ -863,40 +699,8 @@ incancellabile.
 
 Pausa lunga.
 
-E adesso
-il tempo
-cambia ancora.
-
-Pausa lunga.
-
-Prima
-Virgilio
-precipitava
-giù dalla ripa.
-
-Pausa.
-
-Adesso
-ogni passo
-è lento.
-
-Pausa lunga.
-
-La cappa
-non è soltanto
-pesante.
-
-Pausa.
-
-Rallenta
-la scena.
-
-Pausa lunga.
-
 Dante e Virgilio
-camminano
-accanto
-agli ipocriti.
+camminano accanto.
 
 Ma li superano
 quasi senza volerlo.
@@ -929,41 +733,33 @@ si spostano.
 
 Pausa.
 
-Un passo.
-
-Un altro.
-
-Pausa lunga.
-
-E intanto
-l'oro
-continua
-a brillare.
-
-Pausa.
-
-Fuori
-sembra
-una veste
-importante.
-
-Dentro
-ogni passo
-costa.
+Devono rallentare
+per parlare
+con loro.
 
 Pausa lunga.
 
-L'ipocrisia
-qui
-non corre.
+Ed è quasi
+una pena aggiuntiva.
+
+La conversazione
+ha il passo
+del piombo.
 
 Pausa.
 
-Deve portarsi
-addosso
+Uno di loro
+sente il toscano.
 
-la forma
-che ha costruito.
+E chiede:
+
+aspettate.
+
+Pausa lunga.
+
+Anche qui
+prima del nome
+arriva la lingua.
 
 Pausa lunga.
 
@@ -1084,36 +880,6 @@ un'altra.
 
 Pausa.
 
-Due uomini.
-
-Pausa.
-
-Due nomi.
-
-Pausa lunga.
-
-E una funzione.
-
-Conservare
-la pace.
-
-Pausa.
-
-È questo
-che rende
-il loro caso
-più duro.
-
-Pausa lunga.
-
-Perché l'abito
-non è falso
-soltanto
-quando mente
-con le parole.
-
-Pausa.
-
 Può essere
 falso
 
@@ -1128,63 +894,6 @@ pubblica.
 Un titolo.
 
 Una garanzia.
-
-Pausa.
-
-Se fuori
-promette
-una cosa
-
-e dentro
-ne produce
-un'altra.
-
-Pausa lunga.
-
-Il Gardingo
-serve a questo.
-
-Pausa.
-
-Non come
-lezione
-di storia
-fiorentina.
-
-Pausa lunga.
-
-Come resto
-materiale.
-
-Pausa.
-
-La pace
-che dovevano
-custodire
-
-ha lasciato
-una ferita
-nella città.
-
-Pausa lunga.
-
-E adesso
-loro
-camminano
-
-dentro
-una veste
-che fa
-la stessa cosa.
-
-Pausa.
-
-Mostra
-una superficie.
-
-Fa pesare
-ciò che
-c'è sotto.
 
 Pausa lunga.
 
@@ -1247,6 +956,16 @@ che muoia
 un uomo
 per il popolo.
 
+Pausa lunga.
+
+Una frase
+che sembra
+ragionevole.
+
+Politica.
+
+Responsabile.
+
 Pausa.
 
 Una frase
@@ -1270,6 +989,11 @@ dell'utile
 copre
 la violenza.
 
+Pausa lunga.
+
+La sua cappa
+è una frase.
+
 Pausa.
 
 Qui invece
@@ -1288,9 +1012,16 @@ gli passano sopra.
 
 Pausa lunga.
 
-Deve sentire
-quanto pesa
-ciascuno.
+Quello che
+aveva trasformato
+un uomo
+in un costo
+necessario
+
+adesso sente
+il peso
+di ogni uomo
+che passa.
 
 Pausa.
 
@@ -1344,104 +1075,6 @@ Pausa lunga.
 Non una roccia.
 
 Un corpo.
-
-Pausa lunga.
-
-E il caso
-di Caifasso
-è ancora
-più preciso.
-
-Pausa.
-
-Non ha
-un mantello
-dorato.
-
-Pausa lunga.
-
-La sua cappa
-è una frase.
-
-Pausa.
-
-Conviene
-che uno muoia
-per il popolo.
-
-Pausa lunga.
-
-Una frase
-che sembra
-ragionevole.
-
-Politica.
-
-Responsabile.
-
-Pausa.
-
-Uno solo
-al posto
-di molti.
-
-Pausa lunga.
-
-Ma il canto
-la spoglia.
-
-Pausa.
-
-Niente formula.
-
-Niente consiglio.
-
-Un uomo
-nudo
-per terra.
-
-Pausa lunga.
-
-E tutti
-gli camminano
-sopra.
-
-Pausa.
-
-Quello che
-aveva trasformato
-un uomo
-in un costo
-necessario
-
-adesso sente
-il peso
-di ogni uomo
-che passa.
-
-Pausa lunga.
-
-Non serve
-dire
-che Dante
-sta facendo
-un'equazione
-politica perfetta.
-
-Pausa.
-
-La scena
-basta.
-
-Pausa lunga.
-
-Una decisione
-rivestita
-di utilità
-
-riportata
-al corpo
-che deve subirla.
 
 Pausa lunga.
 

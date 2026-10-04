@@ -292,8 +292,7 @@ un ramicello.
 
 Spezza.
 
-Spezza un ramo secco
-vicino al microfono.
+[Regia: spezza un ramo secco vicino al microfono.]
 
 Lungo silenzio.
 

@@ -103,13 +103,13 @@
         continue;
       }
 
-      if (trimmed.startsWith("[Schermo:") || trimmed.startsWith("[Regia:")) {
+      if (trimmed.startsWith("[Schermo:") || trimmed.startsWith("[Regia:") || trimmed === "Lungo silenzio.") {
         flushParagraph(paragraphBuffer, currentSection.items);
         flushQuote(quoteBuffer, currentSection.items);
         flushList(listBuffer, currentSection.items);
         currentSection.items.push({
           type: "cue",
-          text: trimmed.slice(1, -1)
+          text: trimmed === "Lungo silenzio." ? "Regia: " + trimmed : trimmed.slice(1, -1)
         });
         continue;
       }

@@ -1500,7 +1500,7 @@ Pausa lunga.
 E allora
 giura.
 
-Alza la mano destra.
+[Regia: alza la mano destra.]
 
 Ma qui tacer
 nol posso;

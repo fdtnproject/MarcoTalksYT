@@ -154,10 +154,14 @@ Nessun cielo.
 
 Pausa.
 
-Eppure
-il sabato
-continua
-sopra di loro.
+La luna del ventesimo canto.
+All'alba tramontava.
+Adesso è dall'altra parte del mondo.
+Sotto di noi.
+
+Sulla terra, sopra le nostre teste,
+è passata l'una del pomeriggio.
+Sabato.
 
 Pausa lunga.
 
@@ -205,41 +209,6 @@ di un vivo.
 
 > lo tempo è poco omai che n’è concesso,
 > e altro è da veder che tu non vedi.»
-
-Pausa lunga.
-
-Virgilio
-lo richiama
-alla misura.
-
-Pausa.
-
-Il tempo è poco.
-
-La bolgia è enorme.
-
-E Dante
-sta ancora guardando indietro.
-
-Pausa.
-
-E Virgilio aggiunge una cosa.
-
-E già la luna è sotto i nostri piedi:
-
-Pausa.
-
-La luna del ventesimo canto.
-All'alba tramontava.
-Adesso è dall'altra parte del mondo.
-Sotto di noi.
-
-Sulla terra, sopra le nostre teste,
-è passata l'una del pomeriggio.
-Sabato.
-
-lo tempo è poco omai che n’è concesso,
-
 > «Se tu avessi» rispuos’io appresso
 > «atteso a la cagion per ch’io guardava,
 > forse m’avresti ancor lo star dimesso.»
@@ -931,7 +900,8 @@ per l'alchimia.
 
 Pausa.
 
-Per la falsificazione.
+Per aver falsato
+i metalli.
 
 Pausa lunga.
 
@@ -1029,35 +999,6 @@ più bene
 la propria forma.
 
 > dannò Minòs, a cui fallar non lece.»
-
-Pausa lunga.
-
-Griffolino
-è un caso perfetto.
-
-Pausa.
-
-Bruciato nel mondo
-per una beffa.
-
-Dannato qui
-per un’altra cosa.
-
-Pausa lunga.
-
-Non per aver detto
-che sapeva volare.
-
-Per l’alchimia.
-
-Per aver falsato
-i metalli.
-
-Pausa.
-
-È il canto
-in cui il falso
-si fa corpo.
 
 ## vv. 121-139 - Capocchio e i Senesi
 

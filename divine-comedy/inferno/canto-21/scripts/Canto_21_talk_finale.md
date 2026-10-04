@@ -1190,10 +1190,11 @@ Pausa lunga.
 Quasi tutti,
 probabilmente,
 Dante li ha presi dalla strada.
-Nei documenti di quegli anni
-ci sono un Malebranca,
-un Raffacani,
-perfino un Malacoda.
+Nelle carte lucchesi
+compaiono i nomi
+Malebranche,
+Cagnasso,
+Scarmiglione.
 
 Pausa.
 

@@ -333,6 +333,64 @@ più fiato.
 > sanza la qual chi sua vita consuma
 > cotal vestigio in terra di sé lascia
 > qual fummo in aere ed in acqua la schiuma.
+
+Pausa lunga.
+
+Fama.
+
+Pausa.
+
+Non salvezza.
+
+Pausa lunga.
+
+Se vuoi
+lasciare
+una traccia,
+
+non puoi
+restare
+sotto la coperta.
+
+Pausa.
+
+Fumo nell'aria.
+
+Schiuma
+sull'acqua.
+
+Pausa lunga.
+
+Due cose
+che esistono
+un momento
+
+e poi
+spariscono.
+
+Pausa.
+
+È duro.
+
+Pausa lunga.
+
+Perché Dante
+sta scrivendo
+un poema
+che vuole
+restare.
+
+Pausa.
+
+E mette
+questa frase
+proprio mentre
+il suo personaggio
+non riesce
+più a muoversi.
+
+Pausa lunga.
+
 > E però leva su: vinci l’ambascia
 > con l’animo che vince ogni battaglia,
 > se col suo grave corpo non s’accascia.

@@ -24,7 +24,7 @@ dove la pena ha finalmente un suono.
 
 Pausa lunga.
 
-Il quinto è il canto più letto della Commedia.
+Il quinto è uno dei canti più letti della Commedia.
 Quello che viene quasi sempre ricordato male.
 
 Lo si ricorda come una storia d'amore.

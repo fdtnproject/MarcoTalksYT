@@ -449,6 +449,23 @@ interpretativa.
 
 Pausa lunga.
 
+Quel vivo,
+fino a un momento prima,
+sembrava soltanto
+un uomo fermo
+sopra lo scoglio.
+
+Forse uno
+che ritarda
+l'arrivo alla pena.
+
+Pausa lunga.
+
+Virgilio dice:
+non è morto.
+
+Pausa.
+
 Più di cento.
 
 Pausa.
@@ -522,28 +539,6 @@ la sua presenza.
 
 Pausa lunga.
 
-Qui succede
-una cosa bellissima.
-
-Pausa.
-
-I dannati
-si fermano
-a guardare Dante.
-
-Per maraviglia
-obliando il martiro.
-
-Pausa lunga.
-
-È vivo.
-
-E la sua vita
-interrompe perfino
-il ritmo della pena.
-
-Pausa.
-
 Poi Maometto
 manda un messaggio
 a Fra Dolcino.
@@ -557,37 +552,20 @@ Assedio.
 Un consiglio pratico
 dall'interno dell'Inferno.
 
-Pausa.
-
-Quel vivo,
-fino a un momento prima,
-sembrava soltanto
-un uomo fermo
-sopra lo scoglio.
-
-Forse uno
-che ritarda
-l'arrivo alla pena.
-
 Pausa lunga.
 
-Virgilio dice:
-non è morto.
+Da un morto
+che cammina
+con il corpo
+spaccato
 
-E più di cento
-si fermano
-a guardarlo.
+a un vivo
+che rischia
+di morire
+di fame
+fra la neve.
 
 Pausa.
-
-Per un istante
-il dolore
-non occupa tutto.
-
-Lo stupore
-riesce a interromperlo.
-
-Pausa lunga.
 
 Dante può tornare
 al sole.
@@ -640,44 +618,6 @@ rivolta a qualcuno.
 
 Pausa lunga.
 
-E il messaggio
-è concreto.
-
-Pausa.
-
-Vivanda.
-
-Neve.
-
-Assedio.
-
-Pausa lunga.
-
-Maometto
-non gli manda
-una dottrina.
-
-Pausa.
-
-Gli manda
-un consiglio
-di sopravvivenza.
-
-Pausa lunga.
-
-Da un morto
-che cammina
-con il corpo
-spaccato
-
-a un vivo
-che rischia
-di morire
-di fame
-fra la neve.
-
-Pausa.
-
 Il canto
 continua
 a legare
@@ -699,64 +639,6 @@ a parlarci dentro.
 
 
 ## vv. 61-90 - Pier da Medicina
-
-Pausa lunga.
-
-Guarda
-la faccia.
-
-Pausa.
-
-Gola
-forata.
-
-Naso
-tagliato.
-
-Un orecchio
-solo.
-
-Pausa lunga.
-
-Eppure
-parla.
-
-Pausa.
-
-Il corpo
-porta
-la divisione
-che ha seminato.
-
-Pausa lunga.
-
-Ma la voce
-continua
-il lavoro.
-
-Pausa.
-
-Fa nomi.
-
-Avverte.
-
-Mette
-in circolo
-un tradimento
-che deve ancora
-accadere.
-
-Pausa lunga.
-
-La ferita
-non lo rende
-muto.
-
-Pausa.
-
-Lo rende
-più simile
-alla sua parola.
 
 > Poi che l’un piè per girsene sospese,
 > Maometto mi disse esta parola;
@@ -794,6 +676,8 @@ Pausa lunga.
 Adesso Pier da Medicina.
 
 Forata la gola.
+Naso
+tagliato.
 Un’orecchia sola.
 La canna
 tutta vermiglia.
@@ -827,6 +711,18 @@ L’Inferno
 continua a denunciare
 quello che deve ancora accadere
 nel mondo.
+
+Pausa lunga.
+
+La ferita
+non lo rende
+muto.
+
+Pausa.
+
+Lo rende
+più simile
+alla sua parola.
 
 ## vv. 91-111 - Curio e Mosca
 
@@ -1193,39 +1089,7 @@ Pausa lunga.
 Qui basta
 questa scena.
 
-Pausa.
-
-Il peccato
-ha prodotto
-una forma
-di divisione.
-
-Pausa lunga.
-
-La pena
-la rende
-visibile.
-
-Pausa.
-
-Il corpo
-non aggiunge
-un'altra storia.
-
-Pausa lunga.
-
-Mostra
-quella che
-c'era già.
-
 [Schermo: Doré — Bertran de Born]
-
-
-Qui il canto
-pronuncia
-la sua parola tecnica.
-
-Contrapasso.
 
 È l'unica volta
 che questa parola
@@ -1235,8 +1099,6 @@ Pausa.
 
 La usiamo tutti,
 per tutte le pene dell'Inferno.
-Dante la dice una volta sola.
-E la mette in bocca a un dannato.
 
 Pausa lunga.
 

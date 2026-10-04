@@ -948,10 +948,10 @@ gli spiriti magni.
 
 Pausa.
 
-E ora Dante fa una cosa
-che al palco devi affrontare diritta.
+[Regia: affrontare l'elenco senza esitazioni.]
 
-Elenca.
+E ora Dante
+elenca.
 
 Pausa.
 
