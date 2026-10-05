@@ -36,11 +36,11 @@ Sull'ingresso, invece, ammette un vuoto:
 > tant’era pien di sonno in su quel punto
 > che la verace via abbandonai.
 
-La via l'ha abbandonata lui: il verbo resta alla prima persona, anche se il sonno attenuava la coscienza. Riconosce la propria deviazione e ne ricorda male l'origine. Fra la responsabilità e la conoscenza di ciò che ha fatto rimane questo vuoto.
+La via l'ha abbandonata lui: il verbo resta alla prima persona, anche se il sonno attenuava la coscienza. Riconosce la propria deviazione e ne ricorda male l'origine.
 
 Quando raggiunge il piede del colle, qualcosa cambia nella disposizione dello spazio. La valle termina. Esiste un margine, e oltre quel margine il terreno si alza. Dopo un luogo che stringeva da ogni parte, compare una forma che permette almeno di distinguere il basso dall'alto. Dante guarda verso le spalle del colle e le vede illuminate. Il sole è già arrivato dove lui non riesce ancora a salire.
 
-Il sole è il pianeta «che mena dritto altrui per ogni calle». La luce precede il viandante, illumina le spalle del colle quando lui è ancora in basso e gli offre una direzione verso cui guardare, fuori dalla propria paura.
+Il sole è il pianeta «che mena dritto altrui per ogni calle». La luce gli offre una direzione verso cui guardare, fuori dalla propria paura.
 
 La paura, infatti, si quieta soltanto un poco. Il paesaggio è mutato più in fretta del corpo che lo guarda. Dante ha passato una notte di angoscia e ne porta ancora il peso nel cuore; vedere il sole gli dà una tregua incompleta, col respiro ancora affannato. Per raccontarla chiama il mare.
 
@@ -114,13 +114,13 @@ Poi Dante indica la bestia. La richiesta diventa concreta, si stringe al tremore
 
 > «A te convien tenere altro viaggio,»
 
-Finora Dante vedeva l'alto e provava a salire. La risposta di Virgilio gli chiede di abbandonare quel tragitto per raggiungere una meta che resta desiderabile. Fra la volontà e il bene si apre il problema della strada.
+Finora Dante vedeva l'alto e provava a salire. La risposta di Virgilio gli chiede di abbandonare quel tragitto per raggiungere una meta che resta desiderabile.
 
-Per questo la soluzione non consiste nel provare più forte. Dante ha già tentato, si è volto, ha ripreso il passo, ha cercato un motivo per sperare. Chiedergli soltanto maggiore intensità significherebbe lasciarlo davanti allo stesso impedimento. Il viaggio diverso richiede fatica, ma una fatica orientata altrimenti. Nella costruzione della *Commedia*, la discesa attraverso l'Inferno diventa necessaria al cammino verso l'alto. L'allontanamento dalla salita immediata smette di coincidere con il ritorno alla selva: può essere l'inizio di una via.
+Dante ha già tentato, si è volto, ha ripreso il passo, ha cercato un motivo per sperare. Il viaggio diverso richiede di orientare altrimenti quella fatica. Nella costruzione della *Commedia*, la discesa attraverso l'Inferno diventa necessaria al cammino verso l'alto. L'allontanamento dalla salita immediata smette di coincidere con il ritorno alla selva: può essere l'inizio di una via.
 
 Virgilio spiega la natura della lupa. Non lascia passare nessuno e il suo impedimento può uccidere. Non arriva mai a saziare la propria voglia; «e dopo il pasto ha più fame che pria». Il pasto accresce la fame anziché quietarla. Qualunque cosa ottenga diventa alimento per una nuova brama.
 
-La lupa ha già fatto vivere miseramente molte genti, si unisce a molti animali e ad altri ancora si unirà. Mentre parla, Virgilio estende la minaccia oltre l'uomo che gli chiede soccorso: quella voracità si associa ad altre forze, entra nei rapporti e nel potere. Il suo cammino ha già lasciato molte vite nella miseria.
+La lupa ha già fatto vivere miseramente molte genti, si unisce a molti animali e ad altri ancora si unirà. Mentre parla, Virgilio estende la minaccia oltre l'uomo che gli chiede soccorso: quella voracità si associa ad altre forze, entra nei rapporti e nel potere.
 
 L'annuncio del Veltro interrompe questa espansione. Verrà qualcuno che farà morire la lupa con dolore e la ricaccerà nell'Inferno. Alla bestia che sembrava poter dilagare senza ostacoli viene assegnata una fine. Su chi gliela darà gli interpreti non si sono accordati: fra le ipotesi ci sono un sovrano, un riformatore o una figura messianica.
 
@@ -132,13 +132,13 @@ Il «tra feltro e feltro» resta un enigma. Il nutrimento offre un appiglio più
 
 La promessa riguarda l'Italia, nominata attraverso Camilla, Eurialo, Turno e Niso, le vite e le morti del mondo cantato da Virgilio. La voce appena riconosciuta come quella dell'autore dell'*Eneide* annuncia una salvezza che coinvolge anche la vita collettiva. Sul pendio, nel pericolo di Dante, è affiorata una fame che percorre l'Italia.
 
-Per Dante, intanto, resta un'urgenza più vicina della profezia. Deve uscire da lì. Non gli viene chiesto di attendere il Veltro, né gli viene affidato il compito di uccidere la bestia. Virgilio torna a ciò che pensa e discerne per il suo bene: invita Dante a seguirlo e si impegna a fargli da guida. Il futuro collettivo annunciato non cancella la necessità presente di un passo concreto. Fra una promessa il cui compimento rimane lontano e il pericolo che incombe si apre lo spazio di un'azione possibile.
+Per Dante, intanto, resta un'urgenza più vicina della profezia. Deve uscire da lì. Non gli viene chiesto di attendere il Veltro, né gli viene affidato il compito di uccidere la bestia. Virgilio torna a ciò che pensa e discerne per il suo bene: invita Dante a seguirlo e si impegna a fargli da guida. Il futuro collettivo annunciato non cancella la necessità presente di un passo concreto.
 
-Il percorso non viene abbellito. Dante udrà grida disperate e vedrà gli spiriti dolenti del luogo eterno. All'uomo che cerca di fuggire il dolore Virgilio annuncia l'incontro con altro dolore. È una proposta severa, che acquista senso soltanto se il viaggio è anche conoscenza: vedere ciò che finora è stato indistinto, ascoltare, imparare a discernere. La guida non può promettere che quanto incontreranno sarà sopportabile senza fatica. Può impedire che l'attraversamento avvenga ancora senza orientamento.
+Il percorso non viene abbellito. Dante udrà grida disperate e vedrà gli spiriti dolenti del luogo eterno. All'uomo che cerca di fuggire il dolore Virgilio annuncia l'incontro con altro dolore. È una proposta severa, che acquista senso soltanto se il viaggio è anche conoscenza: vedere ciò che finora è stato indistinto, ascoltare, imparare a discernere. La guida gli offre un orientamento per attraversare quella fatica.
 
 Poi Virgilio parla di coloro che sono contenti nel fuoco perché sperano di arrivare, un giorno, fra i beati. La sofferenza del Purgatorio ha un termine. Il fuoco fa male, eppure chi lo attraversa attende un approdo: Dante, che ha appena perduto la speranza dell'altezza, sente annunciare una pena attraverso la quale potrà continuare a salire.
 
-La guida sa dunque indicare una direzione anche dove l'esperienza immediata sembra contraddirla. Ma mentre descrive l'itinerario ne dichiara il proprio limite. Per salire fra le anime beate occorrerà qualcuno più degno di lui. Virgilio accompagnerà Dante e poi lo lascerà. Non aspetta che il discepolo si sia affidato senza riserve per dirgli fin dove può arrivare: il confine appartiene alla promessa iniziale.
+La guida sa dunque indicare una direzione anche dove l'esperienza immediata sembra contraddirla. Ma mentre descrive l'itinerario ne dichiara il proprio limite. Per salire fra le anime beate occorrerà qualcuno più degno di lui. Virgilio accompagnerà Dante e poi lo lascerà. Il confine appartiene alla promessa iniziale.
 
 La ragione umana, nella lettura di Virgilio come guida, è necessaria e non sufficiente. Questa insufficienza ha la voce del poeta che Dante ha appena chiamato maestro e autore. Lo ha riconosciuto e gli ha chiesto soccorso; ora lo ascolta dichiarare che dovrà lasciarlo. Neppure la grandezza che gli ha fatto amare quel libro gli consente di accompagnarlo fino alla fine.
 
@@ -152,14 +152,14 @@ Dante gli chiede allora di essere condotto proprio in nome di quel Dio che Virgi
 
 Nella richiesta entrano la porta di san Pietro e «color cui tu fai cotanto mesti». Dante chiede di vedere le anime che Virgilio gli ha descritto come tanto tormentate. Il racconto della guida gli ha dato notizia di quel dolore; il cammino glielo farà incontrare. Per ora si affida a una promessa, con l'urgenza di sottrarsi al male che ha davanti.
 
-All'inizio voleva salire e si ritrovava respinto. Ora accetta un viaggio che gli chiederà di scendere. Il mutamento non dipende da un'improvvisa scomparsa della paura, né da una forza finalmente recuperata. Dipende dall'aver riconosciuto che il proprio progetto non coincideva con la via percorribile. L'altezza resta desiderabile; è il rapporto fra lui e quell'altezza a dover essere ricostruito. L'incontro con Virgilio gli consente di cominciare questo lavoro senza pretendere di averlo già compiuto.
+All'inizio voleva salire e si ritrovava respinto. Ora accetta un viaggio che gli chiederà di scendere. Ancora impaurito, riconosce che il proprio progetto non coincideva con la via percorribile. L'altezza resta desiderabile; è il rapporto fra lui e quell'altezza a dover essere ricostruito. L'incontro con Virgilio gli consente di cominciare questo lavoro senza pretendere di averlo già compiuto.
 
 > Allor si mosse, e io li tenni retro.
 
-Virgilio prende il passo, Dante lo segue. L'uomo che non sapeva ricostruire il proprio ingresso nella selva sa almeno a chi sta andando dietro. Può cominciare da questa relazione, prima di comprendere il viaggio che ha accettato.
+L'uomo che non sapeva ricostruire il proprio ingresso nella selva sa almeno a chi sta andando dietro. Può cominciare da questa relazione, prima di comprendere il viaggio che ha accettato.
 
 La brama della lupa cresceva a ogni pasto, chiudendo il passaggio. Dante ha cominciato a cercare un rapporto diverso fra ciò che desidera e la via per raggiungerlo: accetta il limite della salita diretta, poi quello della guida. Deve ancora affrontare tutto il percorso.
 
-Senza misura non c'è via. Dante ha accettato di seguire, ma dovrà sostenere la propria decisione quando il viaggio cesserà di essere soltanto annunciato. Intanto Virgilio si è mosso.
+Senza misura non c'è via. Dante ha accettato di seguire, ma dovrà sostenere la propria decisione quando il viaggio cesserà di essere soltanto annunciato.
 
 Gli cammina davanti.

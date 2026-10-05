@@ -52,13 +52,15 @@ Francesca presenta il colloquio come uno scambio. Dice che ascolteranno ciò che
 
 Il primo riferimento alla loro vita è il sangue di cui hanno tinto il mondo. La conclusione violenta precede l'origine dell'amore. Francesca parla «mentre che ’l vento, come fa, ci tace»: una tregua locale, dentro la bufera alla quale i due appartengono ancora.
 
-Prima di raccontare il desiderio, nomina indirettamente il luogo in cui è nata. La città è Ravenna, evocata attraverso il mare e il Po che vi discende con i suoi affluenti per trovare pace. La parola, appena desiderata per Dante, ritorna nella terra d'origine: laggiù un movimento può concludersi, il fiume raggiunge il mare. Francesca ne è separata.
+Prima di raccontare il desiderio, nomina indirettamente il luogo in cui è nata. La città è Ravenna, evocata attraverso il mare e il Po che vi discende con i suoi affluenti per trovare pace. La pace che Francesca avrebbe voluto chiedere per Dante ritorna nella terra d'origine: laggiù un movimento può concludersi, il fiume raggiunge il mare. Francesca ne è separata.
 
 > Amor, ch’al cor gentil ratto s’apprende,
 > prese costui de la bella persona
 > che mi fu tolta; e il modo ancor m’offende.
 
 Francesca parla una lingua familiare al suo ascoltatore. Il cuore gentile, la nobiltà che rende capaci di amare: sono parole della lirica di Guinizelli e della poesia del giovane Dante. Lui ha cercato e scritto qualcosa che ora gli torna nella voce di questa donna, insieme alla bellezza di un corpo perduto.
+
+Il modo che ancora l'offende viene riferito da molti commentatori alla violenza della sua uccisione, con un'interpretazione che resta discussa.
 
 > Amor, ch’a nullo amato amar perdona,
 > mi prese del costui piacer sì forte
@@ -70,11 +72,11 @@ Francesca chiede a Dante di guardare. L'uomo è accanto a lei, come quando li ab
 
 Solo ora la frase li raccoglie in un *noi*. Nei tre verbi principali il soggetto è sempre Amor: prende prima lui per la bellezza di lei, poi lei per l'attrattiva di lui, infine conduce entrambi alla morte. Le persone amate ricevono l'azione. Il passaggio dal principio generale alla loro storia fa apparire l'incontro necessario, come se a ciascuno fosse toccato ciò che doveva accadere.
 
-Anche *perdona* contribuisce a questa necessità: significa risparmia, esenta. Nella legge enunciata da Francesca, chi è amato deve riamare. L'affermazione sulla reciprocità appartiene a lei, che continua a riconoscersi nella passione e la racconta con la lingua che ha per darle forma.
+Anche *perdona* contribuisce a questa necessità: significa risparmia, esenta. Nella legge enunciata da Francesca, chi è amato deve riamare. Lei continua a riconoscersi nella passione e la racconta con la lingua che ha per darle forma.
 
 Prendo sul serio questo riconoscersi. Il dolore di Francesca rimane credibile anche quando la spiegazione che offre lascia aperta la questione delle sue scelte. Nelle parole può esserci una difesa; quanto ci sia di calcolato rimane fuori dal dialogo. L'uomo di cui parla le è ancora accanto nella pena.
 
-La lirica cortese, lo Stilnovo e il romanzo cavalleresco hanno forme diverse, senza costituire un codice unico dell'amore medievale. Francesca li avvicina nell'esperienza che sta raccontando: dal cuore nobile che spiega il desiderio arriverà alla scena di un romanzo. Nel frattempo l'offesa rimane. Il modo ricordato nella prima terzina viene riferito da molti commentatori alla violenza della sua uccisione, con un'interpretazione che resta discussa.
+La lirica cortese, lo Stilnovo e il romanzo cavalleresco hanno forme diverse, senza costituire un codice unico dell'amore medievale. Francesca li avvicina nell'esperienza che sta raccontando: dal cuore nobile che spiega il desiderio arriverà alla scena di un romanzo.
 
 Della morte comune Francesca lascia in ombra le circostanze. I particolari su come furono scoperti e uccisi appartengono ai racconti successivi al poema. Di chi li uccise dice soltanto: «Caina attende chi a vita ci spense».
 
@@ -104,7 +106,7 @@ I desideri erano dubbiosi perché ciascuno non aveva ancora piena certezza dell'
 > che ricordarsi del tempo felice
 > ne la miseria; e ciò sa il tuo dottore.
 
-Francesca coinvolge anche Virgilio, il maestro che lo sa. In quel richiamo possono risuonare l'esperienza dell'anima esclusa dalla felicità celeste e la memoria del poeta che ha raccontato sofferenze simili. Tornare al passato le farà male. Accetta di farlo perché Dante desidera conoscere la radice dell'amore.
+In quel richiamo possono risuonare l'esperienza dell'anima esclusa dalla felicità celeste e la memoria del poeta che ha raccontato sofferenze simili. Francesca accetta di raccontare perché Dante desidera conoscere la radice dell'amore.
 
 > Noi leggevamo un giorno per diletto
 > di Lancialotto, come amor lo strinse:
@@ -114,9 +116,7 @@ Dopo le leggi di Amor compare un'attività condivisa: *leggevamo*. Francesca ric
 
 Il libro racconta Lancillotto e il suo amore per Ginevra, moglie di re Artù. È la materia del romanzo cavalleresco francese, qui riconducibile alla tradizione del *Lancelot* in prosa. In quella storia un cavaliere il cui valore è altissimo ama la moglie del proprio re. L'eccellenza del protagonista e la trasgressione non sono separate. Per chi legge, il desiderio può trovare una figura prestigiosa senza che il conflitto dei legami venga per questo risolto.
 
-Mentre leggono, gli occhi cominciano a cercarsi e il viso perde colore. Il movimento degli sguardi interrompe la concentrazione sulle parole. Di quel libro ignoriamo l'esemplare; del momento ricordato vediamo soprattutto ciò che cambia fra i lettori.
-
-Il giorno rimane senza data. A dargli precisione sono le interruzioni della lettura, il ripetersi degli sguardi prima del passo decisivo. Nella memoria di Francesca quella scena del romanzo distingue due momenti della propria vita.
+L'esemplare del libro e la data di quel giorno restano sconosciuti. Nella memoria di Francesca quella scena del romanzo distingue due momenti della propria vita.
 
 > Per più fiate gli occhi ci sospinse
 > quella lettura, e scolorocci il viso;
@@ -159,7 +159,7 @@ Ignoriamo che cosa pensi delle parole della compagna, quale ricordo gli sia più
 
 Nel cedimento di Dante riconosco anche l'urto con una lingua amorosa che gli appartiene. La pietà era cominciata davanti ai nomi delle donne e dei cavalieri; ora il ricordo del libro e il pianto di Paolo gli tolgono le forze. La sentenza di Minosse resta valida, mentre la vita di quelle persone si è fatta vicina attraverso le parole di Francesca. Dante ha ascoltato fino a questo punto.
 
-Il vento trascina ancora le anime. Il vivente, che poteva fermarsi ad ascoltarle, cade.
+Il vento trascina ancora le anime.
 
 > Mentre che l’uno spirto questo disse,
 > l’altro piangeva sì, che di pietade
