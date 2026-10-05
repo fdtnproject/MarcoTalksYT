@@ -38,6 +38,26 @@
 12. **Citazioni.**
     Usare il testo UTET adottato dal progetto e verificarlo sulla fonte, mai ricostruirlo a memoria. Nei blocchi citare versi consecutivi, senza saldare passi distanti. Non mettere parafrasi fra virgolette. L'edizione dovrà essere dichiarata nel libro.
 
+## Chiavi di sguardo
+
+Il libro ha due sguardi. Il primo è la norma e non si segna; il secondo si segna.
+
+**Occhi di Dante (D, nessun segno).** È la modalità normale. Comprende la scena, i versi, l'interpretazione di ciò che è presente e ciò che il pellegrino ha già vissuto. Comprende anche gli interventi di Dante-autore contenuti nel poema: appelli al lettore, ricordi del poeta, anticipazioni nei versi.
+
+**◊ I miei occhi.** Compare soltanto quando, per guardare più a fondo, si introduce un sapere che in quel momento non appartiene alla scena: storia esterna, tradizione, fonti, varianti, ricezione o anticipazioni nostre.
+
+Criteri:
+
+- **Frontiera.** D: si può ricavare dalla scena, dai versi o da ciò che il pellegrino ha già attraversato. ◊: per dirlo bisogna portare dentro un sapere che la scena, in quel momento, non contiene.
+- **Gli occhi di Dante non sono la sua testa.** D non significa scrivere soltanto ciò che il pellegrino pensa. La lettura ravvicinata resta D: «Il riparo offerto al dannato ha braccia da diavolo» (XXII); i tre verbi che hanno per soggetto *Amor* (V).
+- **Prima e dopo.** Ciò che il pellegrino ha già vissuto si richiama restando in D («Ricordi Pluto, nel settimo canto?», copione del XXXI). Ciò che la narrazione non ha ancora rivelato è ◊, se siamo noi ad anticiparlo («E Gano lo troveremo nel prossimo canto», stesso copione). Una profezia pronunciata da un personaggio, o una prolessi di Dante-autore nei versi, resta D: Dante la sta ascoltando, o il poema la contiene.
+- **Le reazioni non sono uscite.** Una reazione personale a ciò che sta accadendo non è automaticamente ◊: «Mi fa ridere questa autorità…», «Per un momento ho desiderato che quell'uomo arrivasse sotto» (XXII). Lì il terzo cammina con loro.
+- **Nessuna terza chiave.** Pellegrino e poeta stanno entrambi in D. Quando la distinzione conta per l'interpretazione, la fa la prosa.
+- **Test.** Se il testo non funziona senza vedere il simbolo, la scrittura va corretta. Ogni uscita si annuncia nella prosa e il rientro nella scena si sente. Il segno orienta: non annuncia «adesso spiegazione», dice soltanto che per un momento la messa a fuoco è dell'autore.
+- **Misura.** Il segno resta raro e non segue un'alternanza regolare. Nel XXII le uscite sono quattro: Ciampolo e la baratteria; Nino Visconti, Gomita e la Gallura; Michel Zanche; l'incertezza sul fischio. Un canto può restare quasi tutto negli occhi di Dante; in un canto dottrinale le uscite possono essere di più.
+
+Stato: il segno ◊ è provvisorio e sarà definito con l'editore. Non è ancora applicato ai capitoli validati.
+
 ## Riferimenti interni
 
 - [01_senza_misura.md](inferno/01_senza_misura.md): registro meditativo.
