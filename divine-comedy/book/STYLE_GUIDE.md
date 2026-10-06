@@ -56,12 +56,27 @@ Criteri:
 - **Test.** Se il testo non funziona senza vedere il simbolo, la scrittura va corretta. Ogni uscita si annuncia nella prosa e il rientro nella scena si sente. Il segno orienta: non annuncia «adesso spiegazione», dice soltanto che per un momento la messa a fuoco è dell'autore.
 - **Misura.** Il segno resta raro e non segue un'alternanza regolare. Nel XXII le uscite sono tre: Ciampolo e la baratteria; Nino Visconti, Gomita e la Gallura; Michel Zanche. Il dubbio sul fischio resta D: nasce dalla scena appena vissuta e non introduce sapere esterno. Un canto può restare quasi tutto negli occhi di Dante; in un canto dottrinale le uscite possono essere di più.
 
-Stato: il segno ◊ è provvisorio e sarà definito con l'editore. È applicato ai tre capitoli validati come test editoriale.
+Stato: il segno ◊ è provvisorio e sarà definito con l'editore. È applicato ai quattro capitoli attualmente scritti come test editoriale.
+
+## Apostrofe a Dante
+
+**Apostrofe a Dante, conversazione con il poema; mai dialogo immaginario.**
+
+Marco può rivolgersi a Dante quando la scena gli provoca una domanda o una reazione che non riesce più a tenere impersonale. Dante non mostra mai di averlo sentito: non si volta verso Marco, non gli risponde, non modifica un gesto o una parola per lui. Continua il viaggio così come il poema lo racconta.
+
+Versi, gesti, silenzi o parole autentiche del poema possono risuonare come risposta nella lettura di Marco, ma non vengono mai presentati come una risposta rivolta a lui. Una citazione autentica non va piegata per simulare un dialogo che nel poema non esiste, né attribuita al personaggio sbagliato.
+
+Marco non dirige la scena: evitare formule come «Dante, fermati un attimo». Se l'apostrofe nasce, deve avvenire mentre il viaggio continua.
+
+**Uso raro.** Non cercare dove inserire un'apostrofe. Se bisogna costruirla, non serve.
+
+**Revisione retroattiva.** Se questa possibilità dimostra di appartenere naturalmente alla voce del libro nei prossimi capitoli, si possono riaprire e, se necessario, riscrivere i quattro canti già scritti — I, V, VI e XXII — soltanto nei punti in cui un'apostrofe nasca davvero dalla scena. Nessun inserimento per uniformità o per creare una quota ricorrente.
 
 ## Riferimenti interni
 
 - [01_senza_misura.md](inferno/01_senza_misura.md): registro meditativo.
 - [05_il_vento_e_il_libro.md](inferno/05_il_vento_e_il_libro.md): registro lirico/retorico.
+- [06_la_citta_nel_fango.md](inferno/06_la_citta_nel_fango.md): registro grave, materico e politico.
 - [22_la_pece_e_il_gioco.md](inferno/22_la_pece_e_il_gioco.md): registro comico/grottesco.
 
 **NON IMITARE LA STRUTTURA.**
@@ -69,8 +84,8 @@ Stato: il segno ◊ è provvisorio e sarà definito con l'editore. È applicato 
 
 ## Anti-template
 
-I, V e XXII sono **MODELLI DI VOCE**, non modelli strutturali. Non copiare come formule l'apertura del I, la cornice del V o l'in medias res del XXII. Anche questa guida orienta le scelte: non prescrive una sequenza di scrittura.
+I, V, VI e XXII sono **MODELLI DI VOCE**, non modelli strutturali. Non copiare come formule l'apertura del I, la cornice del V o l'in medias res del XXII. Anche questa guida orienta le scelte: non prescrive una sequenza di scrittura.
 
 Prima di ogni nuovo capitolo chiedersi: **Che tipo di canto è questo?**
 
-Soltanto dopo scegliere temperatura, ritmo, quantità di versi, quantità di storia, presenza dell'io, struttura narrativa e tipo di chiusura. La risposta può richiedere soluzioni diverse da tutte e tre quelle già validate.
+Soltanto dopo scegliere temperatura, ritmo, quantità di versi, quantità di storia, presenza dell'io, struttura narrativa e tipo di chiusura. La risposta può richiedere soluzioni diverse da tutte e quattro quelle già validate.
