@@ -18,6 +18,8 @@ Quel singolare viene subito dopo «nostra vita». Apparteniamo alla stessa durat
 
 C'è una sproporzione fra la precisione del poeta, capace di farci entrare nel buio, e l'incertezza del personaggio che deve uscirne. Per un poco restiamo dalla parte di chi non possiede le risposte. La strada esiste, ma Dante ha davanti il bosco.
 
+◊
+
 Anche il tempo è sdoppiato. Il viaggio è collocato nel 1300; Dante scrive la *Commedia* più tardi, da esule. Fra queste due esperienze c'è Firenze, contesa fra Bianchi e Neri, nel conflitto che coinvolge Bonifacio VIII. Nel 1302 la condanna lo separa dalla città e il ritorno lo esporrebbe al rogo. Non tornerà.
 
 L'esule torna con la scrittura a un tempo in cui aveva ancora Firenze, prima della catastrofe politica, e lo trova già abitato dal disordine. La selva precede l'esilio. L'uomo che vi entra deve ancora perdere molto di ciò che il poeta ha perduto; intanto la sua vita continua, senza che sappia più dove andare.
@@ -62,17 +64,25 @@ Il peso rimane sul piede più basso mentre l'altro avanza. Dante affronta il col
 
 È quasi all'inizio della salita che arriva la lonza. Leggera, rapida, coperta di pelo maculato, si mantiene davanti al volto di Dante e gli impedisce il cammino. La descrizione insiste meno sulla sua ferocia che sulla sua capacità di occupare il passaggio. Non c'è un urto risolutivo: il viandante tenta, trova ancora l'animale davanti a sé, è più volte sul punto di tornare indietro. La via comincia a diventare una successione di tentativi interrotti.
 
+◊
+
 Che cosa rappresenti la lonza è discusso. Molti commentatori vi hanno riconosciuto la lussuria, altri la frode. Intanto qualcosa di agile e visivamente attraente continua a mettersi davanti a Dante, costringendolo a deviare. L'impedimento si fa sentire prima che riusciamo a dargli un nome.
 
 Il tentativo non è ancora sconfitto. È mattino, la stagione è dolce, il sole sale con le stelle che lo accompagnavano quando l'amore divino mosse per la prima volta il mondo. Il tempo della creazione entra per un momento nella fatica di un uomo. Dante trova nell'ora e nella stagione un motivo per sperare di superare la bestia. Non è soltanto il paesaggio a essere favorevole: la sua speranza cerca un sostegno nell'ordine delle cose, in una bellezza che precede il suo disordine.
 
-Ma quella speranza non impedisce la paura del leone. La seconda bestia appare con la testa alta e una fame rabbiosa; sembra che perfino l'aria ne abbia timore. Dopo l'impedimento mobile della lonza, questa forza lo fronteggia occupando lo spazio. La tradizione vi legge la superbia. La postura rende percepibile quella lettura prima di ogni definizione: una testa che si leva, una potenza che avanza e sembra pretendere che tutto il resto le ceda il posto.
+Ma quella speranza non impedisce la paura del leone. La seconda bestia appare con la testa alta e una fame rabbiosa; sembra che perfino l'aria ne abbia timore. Dopo l'impedimento mobile della lonza, questa forza lo fronteggia occupando lo spazio.
+
+◊
+
+La tradizione vi legge la superbia. La postura rende percepibile quella lettura prima di ogni definizione: una testa che si leva, una potenza che avanza e sembra pretendere che tutto il resto le ceda il posto.
 
 La terza bestia non ha la leggerezza della prima né l'imponenza della seconda. È magra, eppure porta un carico smisurato:
 
 > Ed una lupa, che di tutte brame
 > sembiava carca ne la sua magrezza,
 > e molte genti fe’ già viver grame,
+
+◊
 
 La tradizione riconduce la lupa all'avarizia. Quel corpo magro, carico di brame, estende però la sua voracità oltre il possesso del denaro: qualunque cosa riceva continua a non bastarle. Per me è questa fame senza termine il centro della perdita di misura nel canto. Il desiderio cresce senza incontrare nulla che possa quietarlo, fino a togliere a Dante anche la speranza di salire.
 
@@ -90,13 +100,25 @@ La lupa lo respinge «a poco a poco», verso il luogo «là dove il sol tace». 
 > dinanzi a gli occhi mi si fu offerto
 > chi per lungo silenzio parea fioco.
 
-La figura gli si offre alla vista prima che lui gridi. È una presenza incerta, attenuata dal silenzio, qualcosa che affiora da una lontananza. Sapremo che è Virgilio, morto nel 19 prima di Cristo. In quel «lungo silenzio» si può sentire anche la distanza dei secoli. Per l'uomo che sta cadendo c'è anzitutto qualcuno, e non sa ancora chi sia.
+La figura gli si offre alla vista prima che lui gridi. È una presenza incerta, attenuata dal silenzio, qualcosa che affiora da una lontananza.
 
-«Miserere di me» è il suo grido. La parola latina della preghiera, quella che apre il salmo del pentimento, incontra il volgare della richiesta personale. Nella prima invocazione rivolta a un altro, Dante non esibisce ciò che sa: chiede pietà. È pronto a rivolgersi a chi ha davanti senza poter stabilire se sia un'ombra o un uomo vivo. Il bisogno precede il riconoscimento. Solo dopo potrà dare un nome alla presenza da cui spera aiuto.
+◊
+
+Sapremo che è Virgilio, morto nel 19 prima di Cristo. In quel «lungo silenzio» si può sentire anche la distanza dei secoli. Per l'uomo che sta cadendo c'è anzitutto qualcuno, e non sa ancora chi sia.
+
+«Miserere di me» è il suo grido.
+
+◊
+
+La parola latina della preghiera, quella che apre il salmo del pentimento, incontra il volgare della richiesta personale. Nella prima invocazione rivolta a un altro, Dante non esibisce ciò che sa: chiede pietà. È pronto a rivolgersi a chi ha davanti senza poter stabilire se sia un'ombra o un uomo vivo. Il bisogno precede il riconoscimento. Solo dopo potrà dare un nome alla presenza da cui spera aiuto.
 
 La risposta comincia stabilendo un confine: «Non omo, omo già fui». Chi parla è stato uomo; non lo è più nella condizione in cui lo è Dante. Poi colloca la propria esistenza attraverso i genitori mantovani, il tempo di Giulio Cesare e di Augusto, Roma, il poema in cui ha cantato il figlio di Anchise fuggito da Troia in fiamme. Virgilio non pronuncia ancora il proprio nome. Alla memoria confusa dell'ingresso nella selva risponde una vita che sa situarsi.
 
-Dante ritrova in quella presentazione una storia che ha studiato e amato. Virgilio ha cantato Enea, ha già dato forma poetica a una discesa nell'aldilà; la sua parola può orientarlo come una mappa. Il morto che ha davanti ha scritto un libro sul quale si è formato, e proprio adesso che il pendio gli manca sotto i piedi può rivolgergli la parola.
+Dante ritrova in quella presentazione una storia che ha studiato e amato.
+
+◊
+
+Virgilio ha cantato Enea, ha già dato forma poetica a una discesa nell'aldilà; la sua parola può orientarlo come una mappa. Il morto che ha davanti ha scritto un libro sul quale si è formato, e proprio adesso che il pendio gli manca sotto i piedi può rivolgergli la parola.
 
 Virgilio domanda perché Dante ritorni verso tanta angoscia, perché non salga il monte che è principio di gioia. L'interrogazione è asciutta: il bene è davanti a lui, ma il suo movimento va nella direzione opposta. Occorre capire che cosa gli impedisca di raggiungerlo.
 
@@ -116,13 +138,21 @@ Poi Dante indica la bestia. La richiesta diventa concreta, si stringe al tremore
 
 Finora Dante vedeva l'alto e provava a salire. La risposta di Virgilio gli chiede di abbandonare quel tragitto per raggiungere una meta che resta desiderabile.
 
-Dante ha già tentato, si è volto, ha ripreso il passo, ha cercato un motivo per sperare. Il viaggio diverso richiede di orientare altrimenti quella fatica. Nella costruzione della *Commedia*, la discesa attraverso l'Inferno diventa necessaria al cammino verso l'alto. L'allontanamento dalla salita immediata smette di coincidere con il ritorno alla selva: può essere l'inizio di una via.
+Dante ha già tentato, si è volto, ha ripreso il passo, ha cercato un motivo per sperare. Il viaggio diverso richiede di orientare altrimenti quella fatica.
+
+◊
+
+Nella costruzione della *Commedia*, la discesa attraverso l'Inferno diventa necessaria al cammino verso l'alto. L'allontanamento dalla salita immediata smette di coincidere con il ritorno alla selva: può essere l'inizio di una via.
 
 Virgilio spiega la natura della lupa. Non lascia passare nessuno e il suo impedimento può uccidere. Non arriva mai a saziare la propria voglia; «e dopo il pasto ha più fame che pria». Il pasto accresce la fame anziché quietarla. Qualunque cosa ottenga diventa alimento per una nuova brama.
 
 La lupa ha già fatto vivere miseramente molte genti, si unisce a molti animali e ad altri ancora si unirà. Mentre parla, Virgilio estende la minaccia oltre l'uomo che gli chiede soccorso: quella voracità si associa ad altre forze, entra nei rapporti e nel potere.
 
-L'annuncio del Veltro interrompe questa espansione. Verrà qualcuno che farà morire la lupa con dolore e la ricaccerà nell'Inferno. Alla bestia che sembrava poter dilagare senza ostacoli viene assegnata una fine. Su chi gliela darà gli interpreti non si sono accordati: fra le ipotesi ci sono un sovrano, un riformatore o una figura messianica.
+L'annuncio del Veltro interrompe questa espansione. Verrà qualcuno che farà morire la lupa con dolore e la ricaccerà nell'Inferno. Alla bestia che sembrava poter dilagare senza ostacoli viene assegnata una fine.
+
+◊
+
+Su chi gliela darà gli interpreti non si sono accordati: fra le ipotesi ci sono un sovrano, un riformatore o una figura messianica.
 
 > Questi non ciberà terra né peltro,
 > ma sapienza, amore e virtute,
@@ -130,7 +160,11 @@ L'annuncio del Veltro interrompe questa espansione. Verrà qualcuno che farà mo
 
 Il «tra feltro e feltro» resta un enigma. Il nutrimento offre un appiglio più saldo: a terra e denaro, secondo la lettura accolta qui, si contrappongono i beni che sosterranno il Veltro. Dovrà vivere di altro rispetto a ciò verso cui si slancia la lupa. Virgilio lo descrive attraverso questa differenza, lasciandolo ancora senza nome.
 
-La promessa riguarda l'Italia, nominata attraverso Camilla, Eurialo, Turno e Niso, le vite e le morti del mondo cantato da Virgilio. La voce appena riconosciuta come quella dell'autore dell'*Eneide* annuncia una salvezza che coinvolge anche la vita collettiva. Sul pendio, nel pericolo di Dante, è affiorata una fame che percorre l'Italia.
+La promessa riguarda l'Italia, nominata attraverso Camilla, Eurialo, Turno e Niso:
+
+◊
+
+le vite e le morti del mondo cantato da Virgilio. La voce appena riconosciuta come quella dell'autore dell'*Eneide* annuncia una salvezza che coinvolge anche la vita collettiva. Sul pendio, nel pericolo di Dante, è affiorata una fame che percorre l'Italia.
 
 Per Dante, intanto, resta un'urgenza più vicina della profezia. Deve uscire da lì. Non gli viene chiesto di attendere il Veltro, né gli viene affidato il compito di uccidere la bestia. Virgilio torna a ciò che pensa e discerne per il suo bene: invita Dante a seguirlo e si impegna a fargli da guida. Il futuro collettivo annunciato non cancella la necessità presente di un passo concreto.
 

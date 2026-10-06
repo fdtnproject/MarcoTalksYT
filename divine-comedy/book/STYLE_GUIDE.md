@@ -54,9 +54,9 @@ Criteri:
 - **Le reazioni non sono uscite.** Una reazione personale a ciò che sta accadendo non è automaticamente ◊: «Mi fa ridere questa autorità…», «Per un momento ho desiderato che quell'uomo arrivasse sotto» (XXII). Lì il terzo cammina con loro.
 - **Nessuna terza chiave.** Pellegrino e poeta stanno entrambi in D. Quando la distinzione conta per l'interpretazione, la fa la prosa.
 - **Test.** Se il testo non funziona senza vedere il simbolo, la scrittura va corretta. Ogni uscita si annuncia nella prosa e il rientro nella scena si sente. Il segno orienta: non annuncia «adesso spiegazione», dice soltanto che per un momento la messa a fuoco è dell'autore.
-- **Misura.** Il segno resta raro e non segue un'alternanza regolare. Nel XXII le uscite sono quattro: Ciampolo e la baratteria; Nino Visconti, Gomita e la Gallura; Michel Zanche; l'incertezza sul fischio. Un canto può restare quasi tutto negli occhi di Dante; in un canto dottrinale le uscite possono essere di più.
+- **Misura.** Il segno resta raro e non segue un'alternanza regolare. Nel XXII le uscite sono tre: Ciampolo e la baratteria; Nino Visconti, Gomita e la Gallura; Michel Zanche. Il dubbio sul fischio resta D: nasce dalla scena appena vissuta e non introduce sapere esterno. Un canto può restare quasi tutto negli occhi di Dante; in un canto dottrinale le uscite possono essere di più.
 
-Stato: il segno ◊ è provvisorio e sarà definito con l'editore. Non è ancora applicato ai capitoli validati.
+Stato: il segno ◊ è provvisorio e sarà definito con l'editore. È applicato ai tre capitoli validati come test editoriale.
 
 ## Riferimenti interni
 

@@ -46,6 +46,8 @@ Barbariccia lo chiude fra le braccia e ordina agli altri di stare indietro. Si t
 
 Il riparo offerto al dannato ha braccia da diavolo e rimane circondato dagli altri nove. Può ancora parlare, col volto verso chi lo interroga; dietro ha Barbariccia, di fronte Virgilio, tutt'intorno quelli che reclamano la sua pelle. Il capo non ha congedato nessuno e il permesso di fare domande non mette al sicuro il corpo che risponde. I diavoli hanno soltanto smesso, per adesso, di toccarlo.
 
+◊
+
 Questo morto lo chiamiamo spesso Ciampolo. Il nome viene dagli antichi commentatori; nel poema è lui a dichiararsi nato in Navarra, e Dante lo indica poi come il Navarrese. Manca una biografia indipendente che consenta di riconoscerlo con sicurezza. Anche Tebaldo, generalmente identificato con il secondo re di Navarra di quel nome, rimane nel suo discorso soltanto il buon re presso il quale fu servitore. L'essere della sua *famiglia* significa appartenere al personale della corte, non alla parentela del sovrano.
 
 Quanto alla baratteria, qui ha un oggetto preciso: si trae un guadagno illecito dall'esercizio di un ufficio, si fanno pagare atti e favori che dipendono dalla funzione affidata, si trafficano decisioni o incarichi. La fiducia del re, del signore o del comune permette di disporre di qualcosa che finisce venduto per interesse proprio. Il Navarrese ammette di averlo fatto alla corte di Tebaldo. Il dettaglio delle sue operazioni resta sotto la pece.
@@ -62,6 +64,8 @@ Frate Gomita, quello di Gallura.
 
 Il Navarrese lo definisce «vasel d’ogni froda»: un recipiente capace di contenerle tutte. Aveva in mano i nemici del proprio signore e li trattò in modo che ciascuno ne rimase contento. Si fece dare denaro e li lasciò andare. L'affare viene raccontato dalla parte dei beneficiari, come un servizio riuscito; al signore che aveva affidato i prigionieri a Gomita possiamo pensare da soli.
 
+◊
+
 Il signore tradito rimane senza nome nei versi. Gli antichi commentatori lo identificano con Nino Visconti, giudice di Gallura, fanno del frate un suo ufficiale e raccontano che Nino lo fece impiccare dopo aver scoperto la liberazione dei nemici. Della vita di Gomita abbiamo una documentazione troppo esile per trattare l'intero racconto come una cronaca accertata.
 
 Gomita avrebbe dunque venduto, nel racconto dei commentatori, la fiducia di un sovrano: questo era un giudice in Sardegna. La Gallura era uno dei quattro regni giudicali nei quali si era articolata l'isola, territori con un governo e una propria organizzazione, entrati nel Duecento sempre più strettamente nelle contese che coinvolgevano Pisa e Genova.
@@ -71,6 +75,8 @@ Il Navarrese chiama quel signore *donno*, con la parola sarda per signore. Rifer
 E assicura che anche negli altri incarichi era un barattiere di prim'ordine. Dopo la carne strappata e la paura degli uncini, sa ancora dare una valutazione delle capacità di un collega. La sua competenza è perfettamente a proprio agio nell'argomento.
 
 Intanto chi riferisce ha ancora il braccio ferito.
+
+◊
 
 Accanto a Gomita compare Michel Zanche, un notabile sassarese legato a Genova e al Logudoro, o Torres, un altro dei regni giudicali. Su questa figura gli antichi commenti hanno costruito vicende di corte e di potere, attribuendogli un vicariato per re Enzo o nozze che gli avrebbero dato il dominio del giudicato: incarichi e matrimoni sui quali mancano conferme documentarie. Dante gli assegna il posto fra i barattieri e il titolo di *donno*, senza raccontarne qui la carriera. Il Navarrese sa invece con chi passa il tempo.
 
