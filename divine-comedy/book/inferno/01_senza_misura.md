@@ -90,8 +90,6 @@ Il colle resta visibile. Dante ne vede ancora la cima, ormai lontana dalla possi
 
 Dante racconta questa perdita di speranza attraverso la figura di chi acquista volentieri e poi incontra il tempo della perdita. Tutti i suoi pensieri si volgono al bene perduto. La similitudine porta nel dolore del viandante il vocabolario del possesso e della sottrazione. Si era fidato del mattino e della possibilità di salire; ora la lupa lo allontana da una meta che ha già intravisto.
 
-Gli impedimenti si sono aggravati a ogni incontro, fino a svuotare Dante della fiducia che aveva trovato nel mattino. Ora perde anche il terreno conquistato.
-
 La lupa lo respinge «a poco a poco», verso il luogo «là dove il sol tace». Ogni tentativo di avanzare gli costa un arretramento. Nel sole che tace anche ciò che lo orientava sembra perdere voce, mentre lui rovina verso il basso.
 
 È durante questa perdita di terreno che appare qualcuno.
@@ -137,8 +135,6 @@ Poi Dante indica la bestia. La richiesta diventa concreta, si stringe al tremore
 > «A te convien tenere altro viaggio,»
 
 Finora Dante vedeva l'alto e provava a salire. La risposta di Virgilio gli chiede di abbandonare quel tragitto per raggiungere una meta che resta desiderabile.
-
-Dante ha già tentato, si è volto, ha ripreso il passo, ha cercato un motivo per sperare. Il viaggio diverso richiede di orientare altrimenti quella fatica.
 
 ◊
 
