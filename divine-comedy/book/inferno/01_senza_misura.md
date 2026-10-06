@@ -160,11 +160,11 @@ Su chi gliela darà gli interpreti non si sono accordati: fra le ipotesi ci sono
 
 Il «tra feltro e feltro» resta un enigma. Il nutrimento offre un appiglio più saldo: a terra e denaro, secondo la lettura accolta qui, si contrappongono i beni che sosterranno il Veltro. Dovrà vivere di altro rispetto a ciò verso cui si slancia la lupa. Virgilio lo descrive attraverso questa differenza, lasciandolo ancora senza nome.
 
-La promessa riguarda l'Italia, nominata attraverso Camilla, Eurialo, Turno e Niso:
+La promessa riguarda l'Italia, nominata attraverso Camilla, Eurialo, Turno e Niso.
 
 ◊
 
-le vite e le morti del mondo cantato da Virgilio. La voce appena riconosciuta come quella dell'autore dell'*Eneide* annuncia una salvezza che coinvolge anche la vita collettiva. Sul pendio, nel pericolo di Dante, è affiorata una fame che percorre l'Italia.
+Sono le vite e le morti del mondo cantato da Virgilio. La voce appena riconosciuta come quella dell'autore dell'*Eneide* annuncia una salvezza che coinvolge anche la vita collettiva. Sul pendio, nel pericolo di Dante, è affiorata una fame che percorre l'Italia.
 
 Per Dante, intanto, resta un'urgenza più vicina della profezia. Deve uscire da lì. Non gli viene chiesto di attendere il Veltro, né gli viene affidato il compito di uccidere la bestia. Virgilio torna a ciò che pensa e discerne per il suo bene: invita Dante a seguirlo e si impegna a fargli da guida. Il futuro collettivo annunciato non cancella la necessità presente di un passo concreto.
 
