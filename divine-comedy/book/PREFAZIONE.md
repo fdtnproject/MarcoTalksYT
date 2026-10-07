@@ -20,9 +20,9 @@ Al primo anno di Ingegneria elettronica, una ex compagna di liceo, che studiava 
 
 Dopo più di vent’anni non saprei ricostruire ogni passaggio di quella lezione. Mi è rimasta l’impressione di ascoltare qualcuno per il quale la *Commedia* era ancora viva. E ricordo il suo amore per Dante.
 
-Dopo la lezione lo vedemmo seduto al bar e ci avvicinammo per presentarci.
+Dopo la lezione lo vedemmo al bar con altri professori e ci avvicinammo per presentarci.
 
-Mi riconobbe: ero quello seduto in prima fila, quello dallo «sguardo magnetico» che aveva seguito con grande attenzione. Così ricordo, più o meno, le sue parole. Riportarle mi imbarazza: sembra che stia custodendo un complimento ricevuto da ragazzo. E in parte è così.
+Mi riconobbe: ero quello seduto in prima fila, quello dallo «sguardo magnetico» che aveva seguito con grande attenzione. Così ricordo, più o meno, le sue parole. Riportarle mi fa sorridere: sembra che stia custodendo un complimento ricevuto da ragazzo. E in parte è così.
 
 Mi complimentai con lui. Mi chiese che cosa facessi e gli dissi che studiavo Ingegneria elettronica.
 
