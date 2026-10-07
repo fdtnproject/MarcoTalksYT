@@ -16,7 +16,7 @@ Durante il canto XXVI accostò Ulisse a Faust. È forse la sua lezione che ricor
 
 Credo che una parte del mio modo di leggere la *Commedia* venga da lì.
 
-Nel 2003 ero al primo anno di Ingegneria elettronica. Una mia ex compagna di liceo, che studiava Lettere, mi disse che quel giorno Carlo Ricci avrebbe tenuto una lezione sul primo canto del *Purgatorio*. Volevo conoscerlo. Andai a seguirla e mi sedetti in prima fila.
+Al primo anno di Ingegneria elettronica, una ex compagna di liceo, che studiava Lettere, mi disse che quel giorno Carlo Ricci avrebbe tenuto una lezione sul primo canto del *Purgatorio*. Volevo conoscerlo. Andai a seguirla e mi sedetti in prima fila.
 
 Dopo più di vent’anni non saprei ricostruire ogni passaggio di quella lezione. Mi è rimasta l’impressione di ascoltare qualcuno per il quale la *Commedia* era ancora viva. E ricordo il suo amore per Dante.
 
