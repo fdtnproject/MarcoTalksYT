@@ -11,11 +11,33 @@ La macchina da presa mentale può avvicinarsi, arretrare, inclinarsi, cambiare f
 
 Un cambio di registro non è automaticamente un taglio.  
 Un cambio di fuoco non è automaticamente un taglio.  
-Un ingresso ◊ non è automaticamente un taglio.
+Il passaggio dal cammino dei poeti allo sguardo di Marco non è automaticamente un taglio.
 
 La domanda da fare è sempre:
 
 > **Sto ancora seguendo ciò che accade, oppure ho sostituito la scena con una spiegazione?**
+
+## Due posizioni narrative
+
+**Tondo: il loro cammino. Corsivo: io, di retro.** La distinzione segue le due chiavi definite nella Style Guide, non la provenienza interna o esterna di un'informazione.
+
+Marco può immaginarsi dietro i due poeti e raccontare da quella posizione: cosa cerca, cosa gli sfugge, quale volto trattiene il suo sguardo, quale domanda gli nasce. Non è un'altra macchina da presa che comincia ogni volta una scena indipendente. Il passaggio cambia chi sta vivendo il momento, mentre resta riconoscibile ciò che ha provocato quel movimento dell'attenzione.
+
+Doré può essere la soglia di questo attraversamento, non soltanto un repertorio da citare. Le incisioni prestano uno spazio all'immaginazione di Marco; non aggiungono prove al testo dantesco. I dettagli propri dell'immagine restano riconoscibili come tali. Nessun personaggio reagisce alla presenza immaginata di Marco e nessun gesto nuovo viene attribuito a Dante per rendere più visiva la prosa.
+
+La grammatica visiva serve entrambi i fili: scala, distanza o movimento non determinano da soli tondo e corsivo. Non occorre riattivare tutti gli assi a ogni ingresso di Marco.
+
+## Doré nella pagina
+
+Le incisioni possono entrare materialmente nei capitoli, ma **non come decorazione e non per quota**. Una tavola va riprodotta quando partecipa davvero alla posizione narrativa: quando offre al lettore lo spazio che Marco sta cercando di abitare, oppure rende visibile una distanza, una massa, un gesto o una composizione che il suo filo sta attraversando.
+
+L'immagine non sostituisce il poema e non certifica ciò che Dante non dice. Se un dettaglio appartiene soltanto a Doré, la prosa deve lasciarne riconoscibile l'origine. La tavola è una soglia visiva, non una prova testuale.
+
+**Collocazione.** Preferire la prossimità alla scena che l'ha resa necessaria: prima o accanto al passaggio in cui lo sguardo di Marco entra davvero in quello spazio. Evitare raccolte decorative sganciate dal punto del viaggio in cui vengono chiamate.
+
+**Misura.** Nessun obbligo di una tavola per canto e nessun numero fisso. Un canto può richiederne più di una; un altro nessuna. La presenza dell'immagine deve essere guadagnata come qualsiasi altro cambio di fuoco.
+
+**Edizione.** Usare riproduzioni delle tavole originali di Doré in bianco e nero, con provenienza verificata e qualità sufficiente per la stampa. Non usare nel libro le versioni colorate, ritagliate o adattate in 16:9 per il palco video. Ogni dettaglio di Doré citato nella prosa va verificato sulla tavola originale. La didascalia identifica l'incisione e la fonte dell'immagine senza trasformarla in un commento parallelo.
 
 ## Gli assi di regia
 
@@ -85,6 +107,8 @@ Asse dominante: **geometria + durata + prossimità**.
 Il movimento va dal campo ampio della bufera alla progressiva riduzione focale: Francesca, Paolo, gli occhi, il libro, il pallore, la bocca, il tremore.
 
 La sensualità nasce soprattutto dalla sospensione e dalla distanza minima, non dall’esibizione del corpo.
+
+Nel nuovo V questo movimento incontra il filo personale di Marco: cerca un volto nella massa, si lascia condurre dalla voce di Francesca e si accorge di avere trascurato Paolo. È il percorso di questo capitolo, non uno schema da replicare negli altri.
 
 ### Inferno XXII — LA PECE E IL GIOCO
 

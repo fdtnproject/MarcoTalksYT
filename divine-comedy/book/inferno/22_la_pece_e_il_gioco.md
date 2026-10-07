@@ -1,6 +1,6 @@
 # LA SUA COMEDÌA
 
-*Dante, canto per canto*
+*Dante: l’Inferno in piano sequenza*
 
 *Inferno*
 
@@ -22,13 +22,13 @@ L'elenco cresce abbastanza da far sentire il mestiere degli uomini in armi, poi 
 
 Il suo sguardo si sposta sulla pece, nera e spessa, che si gonfia di bolle e nasconde chi ci sta sotto; quando affiora un dorso, il tempo di vederlo è quasi già finito e l'occhio deve cercare di nuovo. Per alleviare il bruciore i dannati si espongono al rischio degli uncini. Restare immersi fa male. Uscire può costare peggio.
 
-La pattuglia controlla la superficie, ma sotto quella coperta opaca i corpi sfuggono alla vista: ogni emersione consegna per un attimo un bersaglio ai diavoli, che devono riconoscerlo e afferrarlo prima che scompaia. Il bollore mescola il movimento delle bolle a quello delle schiene. Dante tenta di capire come si comporta la gente immersa; quelli con cui cammina stanno cercando dove agganciare.
+Il bollore confonde le bolle con le schiene. Dante tenta di capire come si comporta la gente immersa; quelli con cui cammina stanno cercando dove agganciare.
 
 Somigliano ai delfini quando mostrano l'arco della schiena, un movimento nel quale la credenza marinara ricordata da Dante riconosceva l'avvertimento di una tempesta. Poi l'immagine si abbassa fino a un fosso: rane col muso fuori, le zampe e il grosso del corpo nascosti. Basta che si avvicini Barbariccia e tutti tornano giù, sotto i bollori.
 
-Tutti tranne uno. Una rana resta mentre l'altra salta; il prigioniero finisce appeso al ferro di Graffiacane. Il poeta, anche ripensandoci, sente ancora raccapriccio. Il paragone animale ha reso rapidissimo il gesto, senza togliere niente al fatto che l'uncino ha preso un uomo per i capelli.
+Tutti tranne uno. Come una rana resta mentre l'altra salta, un dannato indugia e finisce appeso al ferro di Graffiacane. Il poeta, anche ripensandoci, sente ancora raccapriccio.
 
-Dante riconosce chi lo ha pescato. Quando Malacoda ha scelto la scorta, Dante ha fatto attenzione ai nomi e alle figure che rispondevano all'appello; adesso sa attribuire l'uncino a Graffiacane, distinguere quello che tiene il dannato da quello che viene chiamato a scuoiarlo. Nel coro che urla attorno al prigioniero, Rubicante riceve una parte ancora da eseguire. Gli altri gli fanno da suggeritori e pubblico.
+Dante riconosce chi lo ha pescato. Quando Malacoda ha scelto la scorta, ha fatto attenzione ai nomi e alle figure che rispondevano all'appello; adesso sa distinguere quello che tiene il dannato da quello che viene chiamato a scuoiarlo. Attorno al prigioniero, gli altri fanno da suggeritori e pubblico.
 
 Virgilio gli arriva accanto e gli domanda da dove venga. Dal regno di Navarra. La madre lo mise a servizio presso un signore; del padre resta il ritratto sbrigativo di un ribaldo che distrusse se stesso e i propri beni.
 
@@ -44,19 +44,21 @@ Spunta dalla bocca del diavolo come a un cinghiale, e scuce. La presentazione è
 
 Barbariccia lo chiude fra le braccia e ordina agli altri di stare indietro. Si tiene il prigioniero. A Virgilio concede di fare ancora qualche domanda prima che qualcuno lo disfaccia, una cortesia che pone un limite di tempo piuttosto elastico: dipende da quanto resistono gli altri alla voglia di strappargli qualcosa.
 
-Il riparo offerto al dannato ha braccia da diavolo e rimane circondato dagli altri nove. Può ancora parlare, col volto verso chi lo interroga; dietro ha Barbariccia, di fronte Virgilio, tutt'intorno quelli che reclamano la sua pelle. Il capo non ha congedato nessuno e il permesso di fare domande non mette al sicuro il corpo che risponde. I diavoli hanno soltanto smesso, per adesso, di toccarlo.
+Il riparo offerto al dannato ha braccia da diavolo. Gli altri nove sono ancora lì.
 
-◊
+Questo morto lo chiamiamo spesso Ciampolo. Il nome viene dagli antichi commentatori; nel poema si dichiara nato in Navarra, e Dante lo indica poi come il Navarrese. Manca una biografia indipendente che consenta di riconoscerlo con sicurezza. Tebaldo, generalmente identificato con il secondo re di Navarra di quel nome, rimane nel suo discorso il buon re presso il quale fu servitore. Appartenere alla sua «famiglia» significa far parte del personale di corte, non della parentela del sovrano.
 
-Questo morto lo chiamiamo spesso Ciampolo. Il nome viene dagli antichi commentatori; nel poema è lui a dichiararsi nato in Navarra, e Dante lo indica poi come il Navarrese. Manca una biografia indipendente che consenta di riconoscerlo con sicurezza. Anche Tebaldo, generalmente identificato con il secondo re di Navarra di quel nome, rimane nel suo discorso soltanto il buon re presso il quale fu servitore. L'essere della sua *famiglia* significa appartenere al personale della corte, non alla parentela del sovrano.
-
-Quanto alla baratteria, qui ha un oggetto preciso: si trae un guadagno illecito dall'esercizio di un ufficio, si fanno pagare atti e favori che dipendono dalla funzione affidata, si trafficano decisioni o incarichi. La fiducia del re, del signore o del comune permette di disporre di qualcosa che finisce venduto per interesse proprio. Il Navarrese ammette di averlo fatto alla corte di Tebaldo. Il dettaglio delle sue operazioni resta sotto la pece.
+La baratteria è il guadagno illecito tratto dall'esercizio di un ufficio: vendere atti, favori, decisioni che la fiducia del re o del comune ha affidato alla propria autorità. Il Navarrese ammette di averlo fatto alla corte di Tebaldo. Il dettaglio delle sue operazioni resta sotto la pece.
 
 Per Virgilio conta sapere se là sotto ci siano italiani e la risposta comincia bene: il dannato si è appena separato da uno che viene dalle vicinanze dell'Italia, ma starebbe molto meglio ancora coperto insieme a lui, al riparo da unghie e uncini.
 
 Libicocco ha aspettato abbastanza. Lo dice, gli prende il braccio col ronciglio e ne stacca un pezzo di carne. Draghignazzo vuol mettergli le mani alle gambe; Barbariccia si gira con un cipiglio capace, finalmente, di calmarli un poco, mentre l'uomo che dovrebbe continuare a rispondere guarda la ferita.
 
-Chi interroga deve ottenere una voce utilizzabile, chi custodisce vuole affondare il ferro, e il capo deve impedire che i propri uomini consumino troppo presto il prigioniero che ha appena riservato a sé. Mi fa ridere questa autorità continuamente costretta a rifarsi spazio fra i suoi; la carne strappata rimane nel mezzo della scena.
+::: marco
+Mi sorprendo a seguire Barbariccia quasi quanto il Navarrese. Ogni volta che prova a ristabilire un ordine, uno dei suoi trova un altro pezzo di corpo da minacciare o strappare.
+
+Mi fa ridere questa autorità che deve rifarsi spazio fra i suoi. Poi guardo di nuovo il braccio ferito del prigioniero e il riso mi si ferma a metà.
+:::
 
 Virgilio ripete la domanda. Chi era quello dal quale ti sei separato così malvolentieri?
 
@@ -64,21 +66,17 @@ Frate Gomita, quello di Gallura.
 
 Il Navarrese lo definisce «vasel d’ogni froda»: un recipiente capace di contenerle tutte. Aveva in mano i nemici del proprio signore e li trattò in modo che ciascuno ne rimase contento. Si fece dare denaro e li lasciò andare. L'affare viene raccontato dalla parte dei beneficiari, come un servizio riuscito; al signore che aveva affidato i prigionieri a Gomita possiamo pensare da soli.
 
-◊
-
 Il signore tradito rimane senza nome nei versi. Gli antichi commentatori lo identificano con Nino Visconti, giudice di Gallura, fanno del frate un suo ufficiale e raccontano che Nino lo fece impiccare dopo aver scoperto la liberazione dei nemici. Della vita di Gomita abbiamo una documentazione troppo esile per trattare l'intero racconto come una cronaca accertata.
 
-Gomita avrebbe dunque venduto, nel racconto dei commentatori, la fiducia di un sovrano: questo era un giudice in Sardegna. La Gallura era uno dei quattro regni giudicali nei quali si era articolata l'isola, territori con un governo e una propria organizzazione, entrati nel Duecento sempre più strettamente nelle contese che coinvolgevano Pisa e Genova.
+Quel «giudice» era un sovrano: la Gallura era uno dei quattro regni giudicali sardi, coinvolti nel Duecento nelle contese fra Pisa e Genova.
 
-Il Navarrese chiama quel signore *donno*, con la parola sarda per signore. Riferendo le parole di Gomita, dice anche che liberò i prigionieri *di piano*: nell'interpretazione giuridica della formula, con procedimento sommario, *de plano*. La formula dà alla scarcerazione un suono d'ufficio, mentre il denaro è già passato di mano. Resta quell'inciso, *sì com’e’ dice*: il Navarrese ci fa sentire come la racconta Gomita.
+Il Navarrese lo chiama «donno», con la parola sarda per signore. Riferendo le parole di Gomita, dice anche che liberò i prigionieri «di piano»: nell'interpretazione giuridica della formula, con procedimento sommario, *de plano*. La scarcerazione prende un suono d'ufficio, mentre il denaro è già passato di mano. Resta quell'inciso, «sì com’e’ dice»: il Navarrese ci fa sentire come la racconta Gomita.
 
-E assicura che anche negli altri incarichi era un barattiere di prim'ordine. Dopo la carne strappata e la paura degli uncini, sa ancora dare una valutazione delle capacità di un collega. La sua competenza è perfettamente a proprio agio nell'argomento.
+E assicura che anche negli altri incarichi era un barattiere di prim'ordine. Sa ancora apprezzare le capacità di un collega.
 
 Intanto chi riferisce ha ancora il braccio ferito.
 
-◊
-
-Accanto a Gomita compare Michel Zanche, un notabile sassarese legato a Genova e al Logudoro, o Torres, un altro dei regni giudicali. Su questa figura gli antichi commenti hanno costruito vicende di corte e di potere, attribuendogli un vicariato per re Enzo o nozze che gli avrebbero dato il dominio del giudicato: incarichi e matrimoni sui quali mancano conferme documentarie. Dante gli assegna il posto fra i barattieri e il titolo di *donno*, senza raccontarne qui la carriera. Il Navarrese sa invece con chi passa il tempo.
+Accanto a Gomita compare Michel Zanche, un notabile sassarese legato a Genova e al Logudoro, o Torres, un altro dei regni giudicali. Gli antichi commenti gli attribuiscono un vicariato per re Enzo o nozze che gli avrebbero dato il dominio del giudicato: incarichi e matrimoni sui quali mancano conferme documentarie. Dante gli assegna il posto fra i barattieri e il titolo di «donno», senza raccontarne qui la carriera. Il Navarrese sa invece con chi passa il tempo.
 
 > Usa con esso donno Michel Zanche
 > di Logodoro; e a dir di Sardigna
@@ -100,15 +98,9 @@ Barbariccia si volta verso Farfarello, che straluna gli occhi per colpire, e lo 
 > quand’io suffolerò, com’è nostr’uso
 > di fare allor ch’alcun fuori si mette.»
 
-Virgilio voleva incontrare italiani. L'offerta risponde a quella domanda, con un'abbondanza che può interessare anche chi ha tutt'altro modo di accogliere i nuovi arrivati. Perché rinunciare a sentirli?
-
-Virgilio ha fatto una domanda al prigioniero; adesso sono i custodi a dover decidere se accettare una richiesta sua, e per farlo devono parlarsi fra loro senza perdere di vista chi li ascolta. Quel servizio aggiuntivo li interessa? Lungo il cammino hanno già visto quanto basti la loro presenza a far sparire ogni muso: su questo il Navarrese può contare sulla loro esperienza.
+Virgilio voleva incontrare italiani. Il Navarrese ne offre sette al posto di uno; i diavoli hanno tutt'altro modo di accoglierli, ma anche a loro il cambio può convenire. Per farli uscire devono però togliersi dalla vista. Lo hanno visto lungo tutto il cammino: basta che si avvicinino e ogni muso scompare.
 
 Cagnazzo alza il muso e scuote il capo: ha visto il problema, quell'uomo vuole buttarsi di sotto, e lo dice davanti agli altri senza perdere tempo in cautele. Il Navarrese gli risponde sul significato della malizia: certamente ne ha molta, visto che sta procurando maggior tormento ai compagni.
-
-Il Navarrese risponde per le rime anche con una ferita da guardare e nove avversari intorno a quello che lo tiene.
-
-I diavoli hanno davanti un barattiere che chiede di cambiare la loro disposizione, e uno di loro ha spiegato a voce alta come potrebbe approfittarne. Basta questo a fermarli?
 
 Alichino interviene contro gli altri. Se il dannato si cala, gli volerà dietro sopra la pece. Ha le ali. Che cosa gli costa lasciargli tentare? Invita i compagni ad abbandonare il ciglio e a usare la ripa come riparo; si vedrà se un uomo solo vale più di tutti loro.
 
@@ -116,25 +108,29 @@ Alichino si espone davanti alla squadra. La sua sicurezza è rivolta al prigioni
 
 > O tu che leggi, udirai novo ludo.
 
-Cagnazzo, proprio quello che era stato più contrario, è il primo a voltarsi. Gli altri rivolgono gli occhi dall'altra parte dell'argine. C'è un istante nel quale la manovra che hanno accettato deve essere eseguita, i corpi si spostano e l'attenzione si allontana dalla pece.
+Cagnazzo, proprio quello che era stato più contrario, è il primo a voltarsi. Gli altri rivolgono gli occhi dall'altra parte dell'argine.
 
 > Lo Navarrese ben suo tempo colse:
 > fermò le piante a terra, ed in un punto
 > saltò e dal proposto lor si sciolse.
 
-Il rimorso prende tutti i diavoli e più di tutti Alichino, che li ha spinti ad accettare. Parte gridando che l'ha preso. Ancora deve prenderlo, ma lo grida già. Il dannato va sotto mentre il diavolo alza il petto e torna verso l'alto: le ali hanno perso contro la rapidità della paura.
+::: marco
+Quando il Navarrese salta, per un momento faccio il tifo per lui. So dove sta tornando e non posso chiamarla salvezza: sotto c’è la pece bollente. Eppure desidero che Alichino trovi soltanto la superficie nera.
+
+Mi basta che non lo prendano. Finisco per dimenticare perfino il bollore.
+:::
+
+Tutti si sentono in colpa, più di tutti Alichino, che li ha spinti ad accettare. Parte gridando che l'ha preso. Ancora deve prenderlo, ma lo grida già. Il dannato va sotto mentre il diavolo alza il petto e torna verso l'alto: le ali hanno perso contro la rapidità della paura.
 
 È il movimento dell'anatra che si tuffa quando arriva il falcone. Per raggiungerla, il rapace ha a disposizione l'aria; lei gli sottrae il bersaglio immergendosi. Poco prima Graffiacane aveva trovato una chioma da agganciare, ora sotto il volo di Alichino rimane soltanto la superficie nera.
 
-Per un momento ho desiderato che quell'uomo arrivasse sotto. È tornato nella pece bollente: la sua riuscita ha questa consistenza, un bagno nel quale continuare a scontare la pena invece di farsi strappare altri pezzi sull'argine.
-
-Il fischio promesso non si è sentito. Che i dannati usino davvero quel segnale per avvertirsi, o che fosse un'invenzione del Navarrese, rimane incerto. Le altre notizie che ha dato restano distinte da questo inganno riuscito.
+Il fischio promesso non si è sentito. Che i dannati usino davvero quel segnale per avvertirsi, o che fosse un'invenzione del Navarrese, rimane incerto.
 
 Dietro Alichino c'è Calcabrina.
 
 Si è levato in volo irritato dalla beffa, ma desidera che il dannato riesca a cavarsela, così da avere un motivo per azzuffarsi con Alichino. Segue l'inseguimento e fa il tifo per quello che fugge; nell'aria sopra il fosso si porta dietro una lite che aspetta soltanto il suo momento.
 
-Appena il Navarrese scompare, Calcabrina volta gli artigli contro Alichino: gli arriva addosso e trova uno sparviero adulto, pronto a ricambiare, ancora abbastanza armato da agganciare l'aggressore e tenerselo attaccato mentre entrambi affondano gli artigli. L'aria si riempie dei due corpi avvinghiati. Per azzuffarsi devono tenersi a portata di artigli, proprio sopra il luogo dal quale, fino a poco prima, sorvegliavano che nessuno uscisse.
+Appena il Navarrese scompare, Calcabrina volta gli artigli contro Alichino e trova uno sparviero adulto, pronto a ricambiare. Si agganciano, ciascuno affonda gli artigli nell'altro.
 
 Sono ancora sopra la pece. Si tengono.
 
@@ -144,6 +140,10 @@ Cadono insieme.
 > ma però del levarsi era neente,
 > sì avìeno inviscate l’ali sue.
 
-Barbariccia deve organizzare il soccorso. Quattro diavoli volano sull'altra sponda con i raffi; lui e quelli rimasti prendono posizione da questa parte, per tendere gli uncini ai due che stanno cuocendo. Sotto la crosta sono già cotti.
+Barbariccia deve organizzare il soccorso. Quattro diavoli volano sull'altra sponda con i raffi; lui e quelli rimasti prendono posizione da questa parte e tendono gli uncini. I due sono già cotti sotto la crosta.
+
+::: marco
+Ho seguito la fuga, poi il volo, poi la rissa. Per qualche istante ho perso di vista proprio Dante e Virgilio.
+:::
 
 Dante e Virgilio, invece, hanno ancora i piedi sull'argine. Mentre gli uncini si allungano verso la pece, i due poeti si allontanano.

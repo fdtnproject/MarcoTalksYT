@@ -22,8 +22,6 @@ Le Arpie fanno il nido lì dentro.
 > piè con artigli, e pennuto il gran ventre;
 > fanno lamenti in su gli alberi strani.
 
-Il bosco ha già una voce, ma Dante non sa ancora da dove venga.
-
 Virgilio gli dice di guardare bene. Vedrà cose che, se gli fossero soltanto raccontate, potrebbero sembrare incredibili.
 
 Dante ascolta.
@@ -35,9 +33,9 @@ Dante ascolta.
 > che tante voci uscisser tra quei bronchi
 > da gente che per noi si nascondesse.
 
-I lamenti arrivano da ogni parte e nessun corpo li sostiene. Dante si ferma. Immagina persone nascoste tra i rami perché non possiede ancora un’altra forma con cui spiegare quelle voci.
+Immagina persone nascoste tra i rami: a quelle voci non sa ancora attribuire un’altra forma.
 
-Anche la frase si annoda: *Cred’io ch’ei credette ch’io credesse*. Io credo che lui credesse che io credessi. Prima di sapere che cosa sono gli alberi, Dante ha già costruito una sintassi fatta di incastri.
+Anche la frase si annoda: «Cred’io ch’ei credette ch’io credesse». Prima di sapere che cosa sono gli alberi, Dante ha già costruito una sintassi fatta di incastri.
 
 Virgilio non gli spiega.
 
@@ -53,7 +51,9 @@ Gli dice di spezzare un ramo.
 > ben dovrebb’esser la tua man più pia,
 > se state fossimo anime di serpi.»
 
+::: marco
 Dante, che cosa credevi di avere fra le dita?
+:::
 
 > Come d’un stizzo verde ch’arso sia
 > da l’un de’ capi, che da l’altro geme
@@ -62,9 +62,7 @@ Dante, che cosa credevi di avere fra le dita?
 > parole e sangue; ond’io lasciai la cima
 > cadere, e stetti come l’uom che teme.
 
-◊
-
-Quando Virgilio si scusa, dice che Dante non avrebbe spezzato il ramo se avesse creduto prima a ciò che aveva conosciuto «con la mia rima». Il riferimento è all’episodio di Polidoro nel terzo libro dell’*Eneide*: Enea strappa rami da un arbusto e dalla pianta esce sangue; poi arriva la voce del morto. Qui Dante riprende quella scena e la porta più lontano. Non c’è un cadavere sotto la pianta: la pianta è diventata il corpo dell’anima.
+Quando Virgilio si scusa, dice che Dante non avrebbe spezzato il ramo se avesse creduto a ciò che aveva conosciuto «con la mia rima». Nell’episodio di Polidoro, nel terzo libro dell’*Eneide*, Enea strappa rami da un arbusto: ne esce sangue, poi arriva la voce del morto. Qui la pianta stessa è diventata il corpo dell’anima.
 
 Virgilio ammette che l’esperimento gli pesa e offre una forma di risarcimento: se lo spirito dirà chi era, Dante potrà rinfrescarne la fama nel mondo dei vivi.
 
@@ -77,7 +75,7 @@ Il tronco accetta.
 > fede portai al glorioso offizio
 > tanto ch’io ne perdei li sonni e’ polsi.
 
-Non pronuncia il proprio nome. Si definisce attraverso una funzione: l’uomo che apriva e chiudeva il cuore di Federico.
+Non pronuncia il proprio nome. Si riconosce nell’ufficio che ha perduto: apriva e chiudeva il cuore di Federico.
 
 Poi entra l’invidia.
 
@@ -88,9 +86,7 @@ Poi entra l’invidia.
 > e gl’infiammati infiammar sì Augusto
 > che i lieti onor tornaro in tristi lutti.
 
-*Infiammò, infiammati, infiammar.* La lingua si avvolge come i rami della selva. Il dannato parla da uomo che ha vissuto fra lettere, formule, accessi al potere; anche trasformato in legno conserva una voce costruita con cura.
-
-◊
+«Infiammò», «infiammati», «infiammar»: il fuoco passa dai cortigiani all’imperatore attraverso le variazioni di una stessa parola. Il dannato parla da uomo che ha vissuto fra lettere, formule, accessi al potere; anche trasformato in legno conserva una voce costruita con cura.
 
 Pier della Vigna fu uno dei maggiori funzionari di Federico II, uomo di cancelleria, diplomatico e autore di lettere latine celebri per la loro elaborazione retorica. Cadde improvvisamente in disgrazia nel 1249, fu imprigionato e accecato. Le ragioni precise della caduta non sono documentate con sicurezza. Anche le circostanze della sua morte ci arrivano attraverso tradizioni non concordi.
 
@@ -107,7 +103,7 @@ Pier racconta il gesto con cui ha posto fine alla propria vita.
 > conforti la memoria mia, che giace
 > ancor del colpo che invidia le diede.»
 
-Per la seconda volta, dopo Ciacco, un dannato affida a chi tornerà nel mondo qualcosa che non può più fare da solo. Là era il proprio ricordo; qui è una reputazione da rialzare.
+Come già Ciacco, affida a chi tornerà nel mondo la propria memoria. Chiede di essere creduto fedele.
 
 Dante vorrebbe sapere altro, ma non riesce a parlare.
 
@@ -129,13 +125,11 @@ Prima della risposta, il tronco soffia.
 > ma là dove fortuna la balestra,
 > quivi germoglia come gran di spelta.
 
-Le Arpie si nutrono delle foglie.
-
 > Surge in vermena ed in pianta silvestra;
 > l’Arpìe, pascendo poi de le sue foglie,
 > fanno dolore ed al dolor fenestra.
 
-La ferita è anche un’apertura. Da ciò che viene strappato passa il dolore, e attraverso quel dolore passa la voce.
+La voce trova un varco dove le foglie vengono strappate.
 
 Poi Pier arriva al corpo che ha lasciato.
 
@@ -152,14 +146,12 @@ Poi Pier arriva al corpo che ha lasciato.
 > sente il porco e la caccia a la sua posta,
 > ch’ode le bestie e le frasche stormire.
 
-Poi due uomini corrono fra gli alberi, nudi e graffiati. Spezzano tutto ciò che incontrano. Dietro di loro arrivano cagne nere, affamate, liberate come veltri dalla catena.
+Due uomini irrompono fra gli alberi, nudi e graffiati, spezzando ciò che incontrano. Dietro arrivano cagne nere, affamate, liberate come veltri dalla catena.
 
 > Quel dinanzi: «Or accorri, accorri, morte!»
 > E l’altro, cui pareva tardar troppo,
 > gridava: «Lano, sì non furo accorte
 > le gambe tue a le giostre del Toppo!»
-
-◊
 
 I commentatori identificano il primo con Lano da Siena, morto alla Pieve del Toppo nel 1288, e il secondo con Giacomo da Sant’Andrea, padovano ricordato dalle fonti antiche per lo sperpero rovinoso delle proprie sostanze. Sono gli scialacquatori: la violenza contro ciò che possedevano prende qui la forma di una corsa in cui i loro stessi corpi vengono fatti a pezzi.
 
@@ -172,9 +164,11 @@ Giacomo cerca riparo dentro un cespuglio.
 > e menommi al cespuglio che piangea
 > per le rotture sanguinenti invano.
 
-All’inizio era stata la mano di Dante a spezzare un ramo. Ora Virgilio prende quella stessa mano e lo conduce verso un cespuglio ferito da qualcun altro.
+::: marco
+È quella mano che cerco subito. L’avevo vista tendersi verso il ramo e lasciarlo cadere; adesso la ritrovo nella mano di Virgilio.
 
-La voce esce ancora dalle rotture.
+Seguo quel contatto fino al cespuglio. Dante non lo ha ferito, ma io non riesco a dimenticare il primo grido mentre si avvicina ad ascoltare.
+:::
 
 > «O Giacomo» dicea «da Sant’Andrea,
 > che t’è giovato di me fare schermo?
@@ -195,9 +189,7 @@ Dà una città.
 > sovra ’l cener che d’Attila rimase,
 > avrebber fatto lavorare indarno.
 
-Firenze ha sostituito Marte con san Giovanni Battista e continua, nella leggenda raccontata dal dannato, a portarsi dietro l’ira dell’antico patrono. Sul ponte resta ancora un segno di Marte; abbastanza, secondo quella storia, perché la ricostruzione della città non fosse vana.
-
-◊
+Nella leggenda raccontata dal dannato, Firenze ha sostituito Marte con san Giovanni Battista e continua a subire l’ira dell’antico patrono. Sul ponte resta ancora un segno di Marte: senza quel residuo, dice, ricostruire la città sarebbe stato vano.
 
 L’identità del suicida resta incerta: gli antichi commentatori propongono nomi diversi, nessuno decisivo.
 

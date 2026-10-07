@@ -1,5 +1,3 @@
-[Reading 184 lines from start (total: 184 lines, 0 remaining)]
-
 # LA SUA COMEDÌA
 
 *Dante: l’Inferno in piano sequenza*
@@ -10,7 +8,7 @@
 
 Dante riapre gli occhi sotto la pioggia.
 
-L’ultima cosa che ricordiamo è il suo corpo caduto davanti a Francesca e Paolo. Ora la mente torna, ma il paesaggio è già cambiato. Il racconto non ricostruisce il passaggio dal secondo al terzo cerchio: Dante riprende conoscenza dentro una pena nuova.
+Il suo corpo era caduto davanti a Francesca e Paolo. Ora la mente torna, ma il paesaggio è già cambiato. Del passaggio dal secondo al terzo cerchio il racconto tace: Dante riprende conoscenza dentro una pena nuova.
 
 > Al tornar de la mente, che si chiuse
 > dinanzi a la pietà de’ due cognati,
@@ -37,7 +35,7 @@ Prima ancora di incontrare qualcuno, Dante è già dentro una materia che gli ca
 > de l’un dei lati fanno a l’altro schermo:
 > volgonsi spesso i miseri profani.
 
-Dante mette insieme tratti umani e canini senza stabilizzarli in una figura pulita. Anche il suono pesa: Cerbero non smette di latrare sopra di loro.
+Occhi, barba, ventre, mani: i tratti umani si addensano attorno alle tre gole canine. Il latrato sovrasta le urla.
 
 Quando vede Dante e Virgilio apre le bocche, mostra le zanne, si agita con tutto il corpo. Virgilio allarga le mani, raccoglie due pugni di terra e glieli getta nelle gole.
 
@@ -48,13 +46,9 @@ Quando vede Dante e Virgilio apre le bocche, mostra le zanne, si agita con tutto
 > de lo dimonio Cerbero, che introna
 > l’anime sì, ch’esser vorrebber sorde.
 
-La fame assorbe ogni altra cosa. Il mostro che un momento prima mostrava le zanne ai due viandanti si concentra sul boccone.
-
-◊
-
 Il gesto di Virgilio ha un precedente nel sesto libro dell’*Eneide*. Lì la Sibilla, guidando Enea nel regno dei morti, getta a Cerbero una focaccia al miele resa soporifera; il mostro la inghiotte e si abbandona al sonno. Dante conserva il gesto e cambia il pasto: al posto della focaccia c’è la terra sporca del cerchio.
 
-Nel poema antico Cerbero era già lì. Qui Virgilio entra nella scena di un altro poeta e compie con le proprie mani il gesto che nell’*Eneide* apparteneva alla Sibilla.
+Virgilio compie con le proprie mani il gesto che nel suo poema aveva affidato alla Sibilla.
 
 > Noi passavam su per l’ombre che adona
 > la greve pioggia, e ponevam le piante
@@ -63,13 +57,17 @@ Nel poema antico Cerbero era già lì. Qui Virgilio entra nella scena di un altr
 > fuor ch’una, ch’a seder si levò, ratto
 > ch’ella ci vide passarsi davante.
 
-Ogni passo cade sopra qualcosa che ha la parvenza di una persona senza la consistenza di un corpo vivo. Dante e Virgilio avanzano sulle ombre stese a terra; una sola rompe l’orizzontalità del cerchio e si solleva a sedere appena li vede.
+::: marco
+Da dietro faccio fatica a decidere dove guardare. Sotto i piedi dei due poeti affiorano parvenze umane; provo a distinguerne una, ma la pioggia la confonde con le altre nella superficie del fango.
+
+Una figura si mette a sedere e finalmente riesco a fermare lo sguardo. Aspetto che parli. La pioggia continua a batterle addosso, ma almeno adesso so chi sto guardando.
+:::
 
 > «O tu che se’ per questo inferno tratto,»
 > mi disse, «riconoscimi, se sai:
 > tu fosti, prima ch’io disfatto, fatto.»
 
-È il dannato a chiedere il riconoscimento. Dante era già nato quando quest’uomo morì: in teoria dovrebbe poterlo ricordare. Accade invece il contrario. Il morto riconosce il vivente; il vivente guarda ciò che la pena ha fatto del morto e non riesce a restituirgli un volto.
+Il morto riconosce il vivente e gli chiede di fare altrettanto. Le loro vite si sono sovrapposte: Dante era già nato quando quest’uomo morì. Ma il vivente guarda ciò che la pena ha fatto del morto e non riesce a restituirgli un volto.
 
 > E io a lei: «L’angoscia che tu hai
 > forse ti tira fuor de la mia mente,
@@ -78,7 +76,6 @@ Ogni passo cade sopra qualcosa che ha la parvenza di una persona senza la consis
 > loco se’ messa, ed a sì fatta pena,
 > che s’altra è maggio, nulla è sì spiacente.»
 
-Dante attribuisce il mancato riconoscimento all’angoscia che vede davanti a sé. Quell’uomo gli parla come qualcuno che dovrebbe appartenergli già, ma il fango, il dolore e la morte hanno spezzato il legame fra memoria e volto.
 
 > Ed egli a me: «La tua città, ch’è piena
 > d’invidia sì che già trabocca il sacco,
@@ -90,11 +87,9 @@ Dante attribuisce il mancato riconoscimento all’angoscia che vede davanti a s�
 > ché tutte queste a simil pena stanno
 > per simil colpa.» E più non fe’ parola.
 
-Prima della colpa viene la città. *La tua città*, *voi cittadini*: Ciacco stabilisce una provenienza comune prima di dire perché è qui. Poi basta un *come tu vedi*. La pena non ha bisogno di essere descritta a chi gli sta davanti: Ciacco è seduto nel fango, sotto la stessa pioggia che fiacca tutte le anime del cerchio. Dice che non è solo e tace.
+Prima della colpa viene la città. «La tua città», «voi cittadini»: Ciacco riannoda una provenienza comune. Per la pena basta «come tu vedi». È seduto sotto la pioggia che fiacca tutte le anime del cerchio; dice che non è solo e tace.
 
-◊
-
-Fuori da questi versi la sua identità rimane incerta. Gli antichi commentatori aggiungono particolari sul carattere e sulle frequentazioni di Ciacco, ma non abbiamo elementi indipendenti che permettano di costruirne una biografia sicura. Anche il nome ha prodotto spiegazioni diverse: l’edizione Chimenz rifiuta l’idea che qui *Ciacco* debba valere semplicemente «porco» e lo considera un nome personale. Per il racconto basta ciò che l’uomo ha appena detto: così lo chiamavano i suoi concittadini.
+Fuori da questi versi la sua identità rimane incerta. Gli antichi commentatori aggiungono particolari sul carattere e sulle frequentazioni di Ciacco, ma mancano riscontri indipendenti per una biografia sicura. Anche il nome ha prodotto spiegazioni diverse: Chimenz rifiuta che qui «Ciacco» valga semplicemente «porco» e lo considera un nome personale. Così lo chiamavano i concittadini.
 
 Dante lo chiama subito nello stesso modo.
 
@@ -122,11 +117,9 @@ Ciacco risponde restando seduto nella mota.
 > Superbia, invidia e avarizia sono
 > le tre faville c’hanno i cori accesi.»
 
-Chi siano i due giusti non viene detto. Il verso chiama *faville* le cause della discordia. Nel cerchio della pioggia, Firenze compare come una città con i cuori accesi.
+I due giusti rimangono senza nome. Nel cerchio della pioggia, Firenze ha i cuori accesi.
 
-◊
-
-Nel 1300 Firenze è divisa soprattutto fra Bianchi, legati ai Cerchi, e Neri, guidati dai Donati. La *parte selvaggia* viene normalmente identificata con i Bianchi: i Cerchi erano una famiglia venuta dal contado. La loro vittoria iniziale sarà rovesciata tra il 1301 e il 1302, quando i Neri torneranno al potere con l’intervento di Carlo di Valois, arrivato a Firenze come paciere e sostenuto da Bonifacio VIII.
+Nel 1300 Firenze è divisa soprattutto fra Bianchi, legati ai Cerchi, e Neri, guidati dai Donati. La «parte selvaggia» viene normalmente identificata con i Bianchi: i Cerchi erano una famiglia venuta dal contado. La loro vittoria iniziale sarà rovesciata tra il 1301 e il 1302, quando i Neri torneranno al potere con l’intervento di Carlo di Valois, arrivato a Firenze come paciere e sostenuto da Bonifacio VIII.
 
 Nel «tal che testé piaggia» la lettura tradizionale riconosce Bonifacio VIII, rappresentato mentre ancora si barcamena fra le parti. La cronologia di «infra tre soli» è discussa e non consente una ricostruzione univoca. Le condanne che colpiranno Dante arriveranno dentro questa stessa crisi, ma Ciacco non gli annuncia ancora il suo esilio: parla della città e delle parti, e lascia che il futuro personale resti dentro quello collettivo.
 
@@ -139,7 +132,7 @@ Nel «tal che testé piaggia» la lettura tradizionale riconosce Bonifacio VIII,
 > ché gran disio mi stringe di sapere
 > se ’l ciel li addolcia o l’inferno li attosca.»
 
-Il colloquio torna ancora una volta sul riconoscere. Poco prima Ciacco aveva chiesto a Dante di riconoscerlo; adesso è Dante a voler incontrare quei fiorentini e sapere dove cercarli.
+Adesso è Dante a chiedere dove cercare i volti che ricorda.
 
 > E quegli: «Ei son tra l’anime più nere;
 > diverse colpe giù li grava al fondo:
@@ -148,13 +141,17 @@ Il colloquio torna ancora una volta sul riconoscere. Poco prima Ciacco aveva chi
 > priegoti che a la mente altrui mi rechi:
 > più non ti dico e più non ti rispondo.»
 
-Il mondo dei vivi, guardato da qui sotto, è *dolce*. Ciacco non domanda di cambiare pena: chiede di essere riportato nella mente degli altri.
+Il mondo dei vivi, guardato da qui sotto, è «dolce». Ciacco chiede che lassù qualcuno si ricordi di lui.
 
 > Li diritti occhi torse allora in biechi,
 > guardommi un poco, poi chinò la testa,
 > cadde con essa a par de gli altri ciechi.
 
-Per pochi minuti Ciacco aveva avuto una postura e una voce separate dalla massa. Ora ricade fra gli altri e la conversazione finisce nello stesso fango da cui era emersa.
+::: marco
+Provo a seguirlo mentre ricade. Poco fa Ciacco parlava del futuro della sua città; adesso il fango gli riprende la figura.
+
+Fisso il punto dove è caduto per poterlo ritrovare. Ma basta guardare un poco più in là perché le ombre si confondano, piegate dalla stessa pioggia. Devo ripartire dietro Dante e Virgilio; mi porto il nome, senza riuscire a trattenerne il volto.
+:::
 
 > E ’l duca disse a me: «Più non si desta
 > di qua dal suon de l’angelica tromba,
@@ -163,7 +160,7 @@ Per pochi minuti Ciacco aveva avuto una postura e una voce separate dalla massa.
 > ripiglierà sua carne e sua figura,
 > udirà quel ch’in eterno rimbomba.»
 
-Dante e Virgilio riprendono il cammino «per sozza mistura / de l’ombre e de la pioggia, a passi lenti». La questione che nasce mentre avanzano riguarda proprio quei corpi che sembrano corpi e non lo sono ancora del tutto: dopo il giudizio, quando le anime riprenderanno carne e figura, sentiranno di più o di meno?
+Dante e Virgilio riprendono il cammino «per sozza mistura / de l’ombre e de la pioggia, a passi lenti». Dopo il giudizio, quando le anime riprenderanno carne e figura, sentiranno di più o di meno? La domanda nasce camminando sopra quelle parvenze umane.
 
 > Ed egli a me: «Ritorna a tua scienza,
 > che vuol, quanto la cosa è più perfetta,
@@ -172,9 +169,7 @@ Dante e Virgilio riprendono il cammino «per sozza mistura / de l’ombre e de l
 > in vera perfezion già mai non vada,
 > di là più che di qua essere aspetta.»
 
-◊
-
-La *scienza* richiamata qui è la filosofia aristotelica. Il principio viene applicato alla condizione futura dell’uomo: anima e corpo riuniti costituiscono una natura umana relativamente più completa dell’anima separata, e una maggiore completezza comporta una maggiore capacità di sentire. I dannati non raggiungeranno mai la vera perfezione; dopo il giudizio, però, saranno più vicini alla completezza della loro natura di quanto lo siano adesso. La stessa pioggia, la stessa pena, una sensibilità maggiore.
+La «scienza» richiamata è la filosofia aristotelica: riuniti, anima e corpo costituiscono una natura umana più completa dell’anima separata, dunque più capace di sentire. I dannati non raggiungeranno la vera perfezione, ma quella ricomposizione accrescerà il dolore. La stessa pioggia, una sensibilità maggiore.
 
 > Noi aggirammo a tondo quella strada,
 > parlando più assai ch’io non ridico;

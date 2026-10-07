@@ -4,10 +4,14 @@ I versi della *Commedia* citati in questo libro seguono Dante Alighieri, *La Div
 
 La grafia *Comedìa* nel titolo riprende la parola con cui il poema nomina se stesso nell’*Inferno*: «di questa comedìa» (XVI, 128) e «la mia comedìa» (XXI, 2).
 
-Nel testo compare, in alcuni punti, il segno **◊**. La sua assenza è la condizione normale: significa che lo sguardo resta dentro la scena, nei versi, in ciò che Dante ha già incontrato nel viaggio e nei punti in cui è il poeta stesso a intervenire.
+## Due chiavi narrative
 
-**◊** indica invece un temporaneo cambio di messa a fuoco. Compare quando introduco un sapere che, in quel momento del viaggio, non appartiene alla scena: un dato storico, una fonte, una tradizione esegetica, una variante testuale, la ricezione successiva o un’anticipazione che il poema non ha ancora rivelato.
+**In tondo, il loro cammino.** Seguo Dante e Virgilio attraverso ciò che il poema racconta: incontri, parole, azioni. L'interpretazione e il contesto entrano quando aiutano a leggere quello che accade.
 
-Il segno non rimanda a una nota: rende visibile il momento in cui lo sguardo non è più soltanto quello consentito dalla scena. Una reazione personale a ciò che sta accadendo non richiede **◊**: se rido, dubito o provo disagio davanti a quello che Dante sta vedendo, sono ancora lì con lui.
+**In corsivo, io, di retro.** Racconto il mio attraversamento immaginato di quello stesso spazio: dove guardo, cosa mi trattiene, le domande che rivolgo ai personaggi e ciò su cui devo tornare a posare lo sguardo. Le incisioni di Gustave Doré mi prestano distanze, volti e luoghi nei quali provare a entrare.
 
-Il ritorno alla scena non ha un secondo segno: si riconosce dalla prosa.
+Non sono due tempi né una separazione fra racconto e spiegazione. Anche una fonte può entrare nel mio cammino, se cambia ciò che vedo; il corsivo non è riservato alle informazioni esterne. Le due scritture seguono la stessa scena da posizioni diverse.
+
+Il mio posto dietro i poeti appartiene all'immaginazione della lettura. Non aggiunge un compagno al viaggio: i personaggi continuano ad agire soltanto come il poema li racconta; nessuno mi risponde o cambia un gesto per me. Posso cercare un volto anonimo nell'ombra, senza attribuirgli un nome o una storia che Dante non racconta. I particolari di Doré restano dell'incisione, quelli che immagino restano miei.
+
+I versi citati restano in tondo e distinti dalla prosa. I titoli delle opere mantengono la loro convenzione tipografica, invertita in tondo quando si trovano dentro un passaggio corsivo: non costituiscono una terza chiave narrativa.
