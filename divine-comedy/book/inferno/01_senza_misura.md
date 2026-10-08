@@ -66,7 +66,13 @@ Il peso rimane sul piede più basso mentre l'altro avanza. Dante affronta il col
 
 Quasi all'inizio della salita arriva la lonza. Leggera, rapida, coperta di pelo maculato, si mantiene davanti al volto di Dante e gli impedisce il cammino. Conta meno la sua ferocia che la capacità di occupare il varco. Il viandante tenta, trova ancora l'animale davanti a sé, è più volte sul punto di tornare indietro. La salita procede per tentativi interrotti.
 
-Che cosa rappresenti la lonza è discusso. Molti commentatori vi hanno riconosciuto la lussuria, altri la frode. Intanto qualcosa di agile e visivamente attraente continua a mettersi davanti a Dante, costringendolo a deviare. L'impedimento si fa sentire prima che riusciamo a dargli un nome.
+::: marco
+Il colle lo vedo anch’io. Mi è bastata la luce sul pendio per cominciare a scegliere da dove salire. Dietro Dante mi sentivo già impaziente, come se fosse rimasta soltanto la fatica di arrivare lassù.
+
+Ora cerco un varco alla destra della lonza, poi torno a guardare a sinistra. Mi irrita poter vedere ancora la meta senza trovare dove passare. Avevo già scelto una via senza aver fatto neppure un passo.
+:::
+
+Che cosa rappresenti la lonza è discusso. Molti commentatori vi hanno riconosciuto la lussuria, altri la frode.
 
 Il tentativo non è ancora sconfitto. È mattino, la stagione è dolce, il sole sale con le stelle che lo accompagnavano quando l'amore divino mosse per la prima volta il mondo. Il tempo della creazione entra per un momento nella fatica di un uomo. Dante trova nell'ora e nella stagione un motivo per sperare di superare la bestia. Non è soltanto il paesaggio a essere favorevole: la sua speranza cerca un sostegno nell'ordine delle cose, in una bellezza che precede il suo disordine.
 
@@ -82,9 +88,13 @@ La terza bestia non ha la leggerezza della prima né l'imponenza della seconda. 
 
 La tradizione riconduce la lupa all'avarizia. Quel corpo magro, carico di brame, estende però la sua voracità oltre il possesso del denaro: qualunque cosa riceva continua a non bastarle. È una fame senza misura, che toglie a Dante anche la speranza di salire.
 
-Dante racconta questa perdita di speranza attraverso la figura di chi acquista volentieri e poi incontra il tempo della perdita. Tutti i suoi pensieri si volgono al bene perduto. La similitudine porta nel dolore del viandante il vocabolario del possesso e della sottrazione. Si era fidato del mattino e della possibilità di salire; ora la lupa lo allontana da una meta che ha già intravisto.
+Dante racconta questa perdita di speranza attraverso la figura di chi acquista volentieri e poi incontra il tempo della perdita. Tutti i suoi pensieri si volgono al bene perduto. La similitudine porta nel dolore del viandante il vocabolario del possesso e della sottrazione.
 
 La lupa lo respinge «a poco a poco», verso il luogo «là dove il sol tace». Ogni tentativo di avanzare gli costa un arretramento. Nel sole che tace anche ciò che lo orientava sembra perdere voce, mentre lui rovina verso il basso.
+
+::: marco
+Guardo alle spalle di Dante. Non cerco più di passare accanto alla bestia: cerco un punto in cui l’arretramento possa fermarsi. Dietro di lui ritrovo la selva. Era da lì che volevo uscire e, guardando la luce, avevo quasi smesso di vederla.
+:::
 
 È durante questa perdita di terreno che appare qualcuno.
 
@@ -129,6 +139,12 @@ Poi Dante indica la bestia. La richiesta diventa concreta, si stringe al tremore
 > «A te convien tenere altro viaggio,»
 
 Finora Dante vedeva l'alto e provava a salire. Virgilio gli chiede di rinunciare a quel tragitto: dovrà scendere nell'Inferno per poter salire. Allontanarsi dal colle può dunque aprire una via, anziché ricondurlo alla selva.
+
+::: marco
+Appena ho riconosciuto Virgilio, ho ricominciato a sperare in un varco. Avrebbe saputo trovarlo lui. Ora parla di un altro viaggio e io guardo ancora il colle.
+
+Le parole le conosco; so dove li porteranno. Eppure continuo ad aspettare un’indicazione verso la cima. Mi costa lasciare quella salita, anche solo con gli occhi. Li abbasso e torno a guardare chi sta parlando.
+:::
 
 Virgilio spiega la natura della lupa. Non lascia passare nessuno e il suo impedimento può uccidere. Non sazia mai la propria voglia: «e dopo il pasto ha più fame che pria».
 
