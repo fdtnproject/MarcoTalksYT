@@ -66,6 +66,10 @@ Quando Virgilio si scusa, dice che Dante non avrebbe spezzato il ramo se avesse 
 
 Virgilio ammette che l’esperimento gli pesa e offre una forma di risarcimento: se lo spirito dirà chi era, Dante potrà rinfrescarne la fama nel mondo dei vivi.
 
+::: marco
+Guardo Virgilio. È stato lui a indicare il ramo e adesso vorrebbe offrire qualcosa all’uomo che vi è rinchiuso. Le sue scuse mi trattengono accanto a quella rottura. Aspetto che il tronco riprenda a parlare, anche se poco fa il suono mi aveva fatto desiderare che Dante lasciasse subito la presa.
+:::
+
 Il tronco accetta.
 
 > Io son colui che tenni ambo le chiavi
@@ -76,6 +80,10 @@ Il tronco accetta.
 > tanto ch’io ne perdei li sonni e’ polsi.
 
 Non pronuncia il proprio nome. Si riconosce nell’ufficio che ha perduto: apriva e chiudeva il cuore di Federico.
+
+::: marco
+All’inizio fissavo il punto spezzato, da cui era uscito il grido. Ora ascolto un uomo che ricorda quanto potere aveva, chi poteva ammettere o escludere dalla confidenza del suo signore. Mi sorprendo ad aspettare un gesto che accompagni quelle parole. Guardo più in alto lungo il pruno, poi torno alla rottura. La voce continua senza offrirmi una bocca da guardare.
+:::
 
 Poi entra l’invidia.
 
@@ -104,6 +112,10 @@ Pier racconta il gesto con cui ha posto fine alla propria vita.
 > ancor del colpo che invidia le diede.»
 
 Come già Ciacco, affida a chi tornerà nel mondo la propria memoria. Chiede di essere creduto fedele.
+
+::: marco
+Mi verrebbe da fermarlo su quell’onore che riconosce ancora a Federico. Lo ascolto accusare l’invidia dei cortigiani e aspetto che tocchi anche all’imperatore. Invece gli rimane fedele persino da qui. Vorrei che se ne liberasse almeno mentre parla; ma non so che cosa resterebbe di lui, se gli togliessi anche quella fedeltà.
+:::
 
 Dante vorrebbe sapere altro, ma non riesce a parlare.
 
@@ -139,6 +151,11 @@ Poi Pier arriva al corpo che ha lasciato.
 > Qui le strascineremo, e per la mesta
 > selva saranno i nostri corpi appesi,
 > ciascuno al prun de l’ombra sua molesta.»
+
+::: marco
+Mi fermo a immaginare quel ritorno. Per un istante restituisco a Pier le mani con cui avrei voluto vederlo accompagnare le parole; poi devo vederle pendere dall’albero, insieme a un corpo che non potrà abitare. Alzo gli occhi verso i rami. So che quei corpi non ci sono ancora, eppure adesso faccio fatica a vedere il bosco senza di loro.
+:::
+
 > Noi eravamo ancora al tronco attesi,
 > credendo ch’altro ne volesse dire,
 > quando noi fummo d’un romor sorpresi,

@@ -23,7 +23,11 @@ Il suo corpo era caduto davanti a Francesca e Paolo. Ora la mente torna, ma il p
 > per l’aere tenebroso si riversa:
 > pute la terra che questo riceve.
 
-Prima ancora di incontrare qualcuno, Dante è già dentro una materia che gli cade addosso, gli cede sotto i piedi e puzza.
+La terra che riceve quella pioggia puzza. Non si distingue ancora una persona.
+
+::: marco
+Mi viene da cercare un riparo. Guardo oltre Dante, verso il tratto che dobbiamo ancora attraversare: immagino di fermarmi più in là, dove la pioggia sembri meno fitta. Ma ovunque provo a mettermi continua a cadere. Resto vicino ai due poeti, senza aver trovato un posto migliore.
+:::
 
 > Cerbero, fiera crudele e diversa,
 > con tre gole caninamente latra
@@ -60,7 +64,7 @@ Virgilio compie con le proprie mani il gesto che nel suo poema aveva affidato al
 ::: marco
 Da dietro faccio fatica a decidere dove guardare. Sotto i piedi dei due poeti affiorano parvenze umane; provo a distinguerne una, ma la pioggia la confonde con le altre nella superficie del fango.
 
-Una figura si mette a sedere e finalmente riesco a fermare lo sguardo. Aspetto che parli. La pioggia continua a batterle addosso, ma almeno adesso so chi sto guardando.
+Una figura si mette a sedere e finalmente riesco a fermare lo sguardo. Aspetto che parli. La pioggia continua a batterle addosso.
 :::
 
 > «O tu che se’ per questo inferno tratto,»
@@ -76,6 +80,9 @@ Il morto riconosce il vivente e gli chiede di fare altrettanto. Le loro vite si 
 > loco se’ messa, ed a sì fatta pena,
 > che s’altra è maggio, nulla è sì spiacente.»
 
+::: marco
+Aspetto che Dante riconosca il viso che ha davanti. A me viene subito il nome di Ciacco, ma non saprei indicare un tratto che lo distingua. Vorrei vederlo prima di questa pioggia, per un istante soltanto, così da ritrovarlo nell’ombra seduta. Non ho quell’immagine. Continuo a guardare mentre Ciacco cerca di farsi riconoscere.
+:::
 
 > Ed egli a me: «La tua città, ch’è piena
 > d’invidia sì che già trabocca il sacco,
@@ -100,9 +107,7 @@ Dante lo chiama subito nello stesso modo.
 > s’alcun v’è giusto, e dimmi la cagione
 > per che l’ha tanta discordia assalita.»
 
-Dopo Francesca, un altro dannato lo porta vicino al pianto. Questa volta, però, la domanda si allarga dalla persona alla città. La pioggia continua a cadere.
-
-Ciacco risponde restando seduto nella mota.
+Dopo Francesca, un altro dannato lo porta vicino al pianto. Questa volta la domanda si allarga dalla persona alla città. Ciacco risponde restando seduto nella mota.
 
 > Ed egli a me: «Dopo lunga tencione
 > verranno al sangue, e la parte selvaggia
@@ -132,7 +137,11 @@ Nel «tal che testé piaggia» la lettura tradizionale riconosce Bonifacio VIII,
 > ché gran disio mi stringe di sapere
 > se ’l ciel li addolcia o l’inferno li attosca.»
 
-Adesso è Dante a chiedere dove cercare i volti che ricorda.
+::: marco
+Guardo Dante mentre pronuncia quei nomi. Aspettavo una domanda su di sé: so che cosa lo attende a Firenze e vorrei capire se nelle parole di Ciacco sente già una minaccia per il suo ritorno. Lui chiede dove siano altri uomini, se siano salvi o dannati. Seguo la domanda fino all’ombra seduta, aspettando anch’io la risposta.
+
+Finché Ciacco parla, voglio restare qui; non ho più fretta di trovare un riparo.
+:::
 
 > E quegli: «Ei son tra l’anime più nere;
 > diverse colpe giù li grava al fondo:
@@ -141,16 +150,16 @@ Adesso è Dante a chiedere dove cercare i volti che ricorda.
 > priegoti che a la mente altrui mi rechi:
 > più non ti dico e più non ti rispondo.»
 
-Il mondo dei vivi, guardato da qui sotto, è «dolce». Ciacco chiede che lassù qualcuno si ricordi di lui.
+Il mondo dei vivi, guardato da qui sotto, è «dolce». Ciacco chiede a Dante che lassù qualcuno si ricordi di lui, poi chiude il colloquio.
 
 > Li diritti occhi torse allora in biechi,
 > guardommi un poco, poi chinò la testa,
 > cadde con essa a par de gli altri ciechi.
 
 ::: marco
-Provo a seguirlo mentre ricade. Poco fa Ciacco parlava del futuro della sua città; adesso il fango gli riprende la figura.
+Vorrei che restasse seduto ancora un momento. Cerco di tenere insieme il nome che ha pronunciato e quel poco che riesco a vederne, ma lui ha finito di parlare. Seguo la testa che si china, poi ricade all’altezza delle altre ombre.
 
-Fisso il punto dove è caduto per poterlo ritrovare. Ma basta guardare un poco più in là perché le ombre si confondano, piegate dalla stessa pioggia. Devo ripartire dietro Dante e Virgilio; mi porto il nome, senza riuscire a trattenerne il volto.
+Fisso il punto dove è caduto per poterlo ritrovare. La pioggia continua a battere e la sua figura si confonde con le altre mentre ancora la guardo. Devo ripartire dietro Dante e Virgilio; mi porto il nome, senza riuscire a trattenerne il volto.
 :::
 
 > E ’l duca disse a me: «Più non si desta
@@ -170,6 +179,10 @@ Dante e Virgilio riprendono il cammino «per sozza mistura / de l’ombre e de l
 > di là più che di qua essere aspetta.»
 
 La «scienza» richiamata è la filosofia aristotelica: riuniti, anima e corpo costituiscono una natura umana più completa dell’anima separata, dunque più capace di sentire. I dannati non raggiungeranno la vera perfezione, ma quella ricomposizione accrescerà il dolore. La stessa pioggia, una sensibilità maggiore.
+
+::: marco
+Quando Virgilio ha nominato la carne e la figura, per un momento ho rivisto Ciacco sollevarsi. Gli restituivo nell’immaginazione il corpo che non ero riuscito a riconoscere. Adesso devo lasciargli addosso anche la pioggia, più dolorosa di prima. Il pensiero del suo ritorno non mi dà il sollievo che cercavo. Riprendo a seguire i passi lenti dei due poeti.
+:::
 
 > Noi aggirammo a tondo quella strada,
 > parlando più assai ch’io non ridico;

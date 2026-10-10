@@ -123,7 +123,7 @@ I primi commentatori identificano i due con Francesca da Polenta e Paolo Malates
 La vicenda di adulterio e morte ci è nota anzitutto attraverso Dante e la prima esegesi. L'*Ottimo Commento* aggiunge il matrimonio come rafforzamento della pace fra le famiglie e la notizia dell'adulterio riferita a Gianciotto. Boccaccio, nelle *Esposizioni*, sviluppa il racconto dell'inganno: Paolo sarebbe stato mandato a sposare Francesca per procura del fratello, lasciandole credere che il marito fosse lui. Aggiunge la scoperta dei due, il tentativo di fuga di Paolo e Francesca che si interpone al colpo del marito. Sono dettagli della sua narrazione, non circostanze documentate dell'omicidio, del quale restano incerti il luogo e la dinamica.
 
 ::: marco
-È facile che mi compaia davanti anche il marito, adesso che conosco il suo nome. Il racconto di Boccaccio gli dà un'azione e dà a Francesca un ultimo movimento con cui provare a salvare Paolo. Ma qui non l'ho visto. Francesca ha lasciato la morte in una frase; sono io che vorrei aprirla, entrarci, vedere chi ha fatto che cosa. Davanti a me lei sta ancora parlando d'amore.
+È facile che mi compaia davanti anche il marito. Il racconto di Boccaccio gli dà un'azione e dà a Francesca un ultimo movimento con cui provare a salvare Paolo. Ma qui non l'ho visto. Francesca ha lasciato la morte in una frase; sono io che vorrei aprirla, entrarci, vedere chi ha fatto che cosa. Davanti a me lei sta ancora parlando d'amore.
 :::
 
 Dante le dice che i suoi tormenti lo fanno piangere. Delle scene del delitto non ha avuto bisogno: gli è bastata quella voce, con la violenza subita e l'amore che continua a dire.
@@ -190,8 +190,7 @@ Nell'indicare Paolo, Francesca inserisce una certezza sul futuro: non sarà mai 
 Galeotto è Galehaut, che nel romanzo favorisce l'incontro di Lancillotto con Ginevra e sollecita il bacio. Fra i due lettori ne ha preso il posto un libro. Francesca aggiunge chi lo scrisse, risalendo dalla pagina a chi ne ha composto le parole.
 
 ::: marco
-Guardo Dante che la ascolta e penso al Dante che le ha dato queste parole. Sono dietro di lui perché ho seguito quelle stesse parole fin qui. Mi hanno fatto scegliere dove fermarmi, chi guardare, a chi concedere il tempo di raccontarsi. Francesca, ormai, occupa quasi tutto ciò che riesco a vedere.
-
+Guardo Dante che la ascolta e penso al Dante che le ha dato queste parole. Sono dietro di lui perché ho seguito quelle stesse parole fin qui. Mi hanno fatto scegliere dove fermarmi, chi guardare, a chi concedere il tempo di raccontarsi.
 :::
 
 Francesca chiude dicendo che quel giorno non continuarono la lettura. Allude a un seguito che lascia fuori dalle parole. Dell'omicidio non precisa il momento: ha risposto alla domanda sull'amore.
