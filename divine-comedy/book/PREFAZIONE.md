@@ -36,7 +36,7 @@ Vorrei essere il terzo, senza rivendicare un posto in quel consesso. Mi interess
 > di retro, ed ascoltava i lor sermoni,  
 > ch’a poetar mi davano intelletto.
 
-Davanti a me ci sono invece Dante e Virgilio. Li seguo conoscendo già il viaggio, con il vantaggio e l’impaccio di chi ricorda ciò che sta per accadere. So quali parole pronunceranno Francesca e Ulisse; so dove Virgilio dovrà fermarsi. Eppure, quando provo a stargli dietro, la conoscenza della strada non mi impedisce di desiderarne un’altra. Posso cercare ancora un varco dove so che Dante non passerà, oppure ascoltare tanto intensamente una voce da trascurare chi le sta accanto.
+Davanti a me ci sono invece Dante e Virgilio. Li seguo conoscendo già il viaggio, con il vantaggio e l’impaccio di chi ricorda ciò che sta per accadere. So quali parole pronunceranno Francesca e Ulisse; so dove Virgilio dovrà fermarsi. Eppure, quando provo a stargli dietro, la conoscenza della strada non mi impedisce di desiderarne un’altra.
 
 Questo secondo cammino appartiene all’immaginazione della lettura. Vi porto il mio modo di guardare, anche quando mi inganna; le domande che mi nascono possono rimanere senza risposta. Non vorrei raccontare soltanto ciò che ho capito della *Commedia*, ma ciò che mi accade continuando a leggerla. Chi apre questo libro dovrebbe potersi mettere accanto a me, abbastanza vicino da vedere anche quello che io non vedo.
 

@@ -181,7 +181,7 @@ Dante e Virgilio riprendono il cammino «per sozza mistura / de l’ombre e de l
 La «scienza» richiamata è la filosofia aristotelica: riuniti, anima e corpo costituiscono una natura umana più completa dell’anima separata, dunque più capace di sentire. I dannati non raggiungeranno la vera perfezione, ma quella ricomposizione accrescerà il dolore. La stessa pioggia, una sensibilità maggiore.
 
 ::: marco
-Quando Virgilio ha nominato la carne e la figura, per un momento ho rivisto Ciacco sollevarsi. Gli restituivo nell’immaginazione il corpo che non ero riuscito a riconoscere. Adesso devo lasciargli addosso anche la pioggia, più dolorosa di prima. Il pensiero del suo ritorno non mi dà il sollievo che cercavo. Riprendo a seguire i passi lenti dei due poeti.
+Quando Virgilio ha nominato la carne e la figura, per un momento ho rivisto Ciacco sollevarsi. Gli restituivo nell’immaginazione il corpo che non ero riuscito a riconoscere. Adesso devo lasciargli addosso anche la pioggia, più dolorosa di prima. Riprendo a seguire i passi lenti dei due poeti.
 :::
 
 > Noi aggirammo a tondo quella strada,

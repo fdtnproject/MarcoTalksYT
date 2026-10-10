@@ -114,7 +114,7 @@ Pier racconta il gesto con cui ha posto fine alla propria vita.
 Come già Ciacco, affida a chi tornerà nel mondo la propria memoria. Chiede di essere creduto fedele.
 
 ::: marco
-Mi verrebbe da fermarlo su quell’onore che riconosce ancora a Federico. Lo ascolto accusare l’invidia dei cortigiani e aspetto che tocchi anche all’imperatore. Invece gli rimane fedele persino da qui. Vorrei che se ne liberasse almeno mentre parla; ma non so che cosa resterebbe di lui, se gli togliessi anche quella fedeltà.
+Mi verrebbe da fermarlo su quell’onore che riconosce ancora a Federico. Lo ascolto accusare l’invidia dei cortigiani e aspetto che tocchi anche all’imperatore. Invece gli rimane fedele persino da qui. Vorrei che se ne liberasse almeno mentre parla.
 :::
 
 Dante vorrebbe sapere altro, ma non riesce a parlare.

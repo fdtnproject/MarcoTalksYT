@@ -178,7 +178,7 @@ Virgilio motiva la propria esclusione con una parola durissima: «perch’io fui
 
 Era già accaduto nella presentazione, quando aveva collocato la propria vita «al tempo de li dei falsi e bugiardi». La formula giudica il mondo religioso cui era appartenuto, senza fingere che avesse vissuto in un altro tempo. La sua conoscenza presente non riscrive la sua storia. Può riconoscere la città di Dio e indicare che là si trova la felicità, ma non condurvi Dante con la propria autorità. La lontananza che all'inizio si sentiva nella sua voce diventa un confine che il viaggio non cancellerà per lui.
 
-Virgilio sa dove deve fermarsi e soffre di quel sapere. È felice chi viene eletto a quella città, esclama. A Dante dichiara il proprio confine fin dall'inizio, pur sapendo che l'altro potrà proseguire oltre la sua compagnia.
+Virgilio sa dove deve fermarsi. Nell'esclamazione sulla felicità di chi viene eletto a quella città si può sentire anche il dolore di esserne escluso. A Dante dichiara il proprio confine fin dall'inizio, pur sapendo che l'altro potrà proseguire oltre la sua compagnia.
 
 Dante gli chiede allora di essere condotto proprio in nome di quel Dio che Virgilio non ha conosciuto. Si affida a lui dopo averne ascoltato il limite, perché può ancora sottrarlo al luogo in cui rischia di perdersi.
 

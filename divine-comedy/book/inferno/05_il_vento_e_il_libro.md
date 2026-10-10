@@ -109,7 +109,7 @@ L'uccisore, ancora senza nome, è destinato al luogo dei traditori dei parenti; 
 Dante china il viso e rimane così a lungo, finché Virgilio gli domanda che cosa pensi. La donna ha finito il primo racconto, ma l'ascolto continua nel silenzio del suo interlocutore.
 
 ::: marco
-Da dietro, adesso, vedo soprattutto quel capo abbassato. Dante, stai pensando anche a quello che hai scritto tu? Mi viene da cercare sul tuo viso una risposta, ma il viso rimane basso. Virgilio ti ha chiesto che cosa pensi; aspetto quello che dirai a lui.
+Da dietro, adesso, vedo soprattutto quel capo abbassato. Dante, stai pensando anche ai tuoi versi d’amore? Mi viene da cercare sul tuo viso una risposta, ma il viso rimane basso. Virgilio ti ha chiesto che cosa pensi; aspetto quello che dirai a lui.
 :::
 
 Quando risponde, Dante parla dei pensieri dolci e del desiderio che hanno condotto quelle anime al passo doloroso. Il lessico di Francesca è entrato nella sua risposta.
